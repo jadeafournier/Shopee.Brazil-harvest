@@ -1,0 +1,4 @@
+Allow Shopee to access this deviceΓÇÖs location? | [147,914][933,1066] | TextView
+WHILE USING THE APP | [147,1144][933,1312] | Button
+ONLY THIS TIME | [147,1324][933,1492] | Button
+DONΓÇÖT ALLOW | [147,1504][933,1672] | Button

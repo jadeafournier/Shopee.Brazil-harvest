@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "D:\Luxury\Great Scraper2\Great Scraper\runtime\vmos_cloud\_run_br_three.py", line 319, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "D:\Luxury\Great Scraper2\Great Scraper\runtime\vmos_cloud\_run_br_three.py", line 285, in main
+    fut.result()
+    ~~~~~~~~~~^^
+  File "concurrent\futures\_base.py", line 447, in result
+  File "concurrent\futures\_base.py", line 396, in __get_result
+  File "concurrent\futures\thread.py", line 86, in run
+  File "concurrent\futures\thread.py", line 73, in run
+  File "D:\Luxury\Great Scraper2\Great Scraper\runtime\vmos_cloud\_run_br_three.py", line 230, in install_shopee
+    raise RuntimeError(f"{phone['name']} 설치 실패: {text[:300]}")
+RuntimeError: Phone3 설치 실패: adb: failed to write "D:\Luxury\Shopee.BR.Android\Shopee.BR.Android\runtime\vmos_cloud\apk_cache\xapk_unpack\com.shopee.br.apk"
+adb: failed to run abb_exec. Error: device offline
+adb: connect error for finalize: device offline

@@ -1,0 +1,230 @@
+{
+  "started_at": "2026-07-20T03:07:07.195017+00:00",
+  "total": 10,
+  "ok": 0,
+  "fail": 10,
+  "skipped": 0,
+  "captcha_hits": 0,
+  "traffic_errors": 10,
+  "blocked_90309999": 10,
+  "subscriber_rotations": 20,
+  "items": {
+    "471920491_48463589065": {
+      "shop_id": 471920491,
+      "item_id": 48463589065,
+      "subscriber": "gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-ujeUeqLb-t-120",
+      "status": "traffic_error",
+      "has_data": false,
+      "final_url": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_",
+      "getpc_attempts": [
+        {
+          "err": 90309999,
+          "signed": true
+        }
+      ],
+      "ac_cert": true,
+      "elapsed_s": 16.4
+    },
+    "1006215031_50213247897": {
+      "shop_id": 1006215031,
+      "item_id": 50213247897,
+      "subscriber": "gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-e2znzxMp-t-120",
+      "status": "traffic_error",
+      "has_data": false,
+      "final_url": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_",
+      "getpc_attempts": [
+        {
+          "err": 90309999,
+          "signed": true
+        }
+      ],
+      "ac_cert": true,
+      "elapsed_s": 11.2
+    },
+    "1006215031_57507256805": {
+      "shop_id": 1006215031,
+      "item_id": 57507256805,
+      "subscriber": "gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-PBLdRt5B-t-120",
+      "status": "traffic_error",
+      "has_data": false,
+      "final_url": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_",
+      "getpc_attempts": [
+        {
+          "err": 90309999,
+          "signed": true
+        }
+      ],
+      "ac_cert": true,
+      "elapsed_s": 18.8
+    },
+    "1083800536_58206303060": {
+      "shop_id": 1083800536,
+      "item_id": 58206303060,
+      "subscriber": "gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-wAHTD8Pj-t-120",
+      "status": "traffic_error",
+      "has_data": false,
+      "final_url": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_",
+      "getpc_attempts": [
+        {
+          "err": 90309999,
+          "signed": true
+        }
+      ],
+      "ac_cert": true,
+      "elapsed_s": 19.0
+    },
+    "1142052307_18899877225": {
+      "shop_id": 1142052307,
+      "item_id": 18899877225,
+      "subscriber": "gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-RCdvGEY4-t-120",
+      "status": "traffic_error",
+      "has_data": false,
+      "final_url": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_",
+      "getpc_attempts": [
+        {
+          "err": 90309999,
+          "signed": true
+        }
+      ],
+      "ac_cert": true,
+      "elapsed_s": 24.5
+    },
+    "1315888290_22093594451": {
+      "shop_id": 1315888290,
+      "item_id": 22093594451,
+      "subscriber": "gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-QPYDJw3R-t-120",
+      "status": "traffic_error",
+      "has_data": false,
+      "final_url": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_",
+      "getpc_attempts": [
+        {
+          "err": 90309999,
+          "signed": true
+        }
+      ],
+      "ac_cert": true,
+      "elapsed_s": 17.4
+    },
+    "1378634979_41132217953": {
+      "shop_id": 1378634979,
+      "item_id": 41132217953,
+      "subscriber": "gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-vFknM84j-t-120",
+      "status": "traffic_error",
+      "has_data": false,
+      "final_url": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_",
+      "getpc_attempts": [
+        {
+          "err": 90309999,
+          "signed": true
+        }
+      ],
+      "ac_cert": true,
+      "elapsed_s": 17.1
+    },
+    "1441117578_58258160637": {
+      "shop_id": 1441117578,
+      "item_id": 58258160637,
+      "subscriber": "gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-Tzv5zb59-t-120",
+      "status": "traffic_error",
+      "has_data": false,
+      "final_url": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_",
+      "getpc_attempts": [
+        {
+          "err": 90309999,
+          "signed": true
+        }
+      ],
+      "ac_cert": true,
+      "elapsed_s": 11.9
+    },
+    "1602280238_22594459800": {
+      "shop_id": 1602280238,
+      "item_id": 22594459800,
+      "subscriber": "gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-gMxXqfs2-t-120",
+      "status": "traffic_error",
+      "has_data": false,
+      "final_url": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_",
+      "getpc_attempts": [
+        {
+          "err": 90309999,
+          "signed": true
+        }
+      ],
+      "ac_cert": true,
+      "elapsed_s": 11.1
+    },
+    "1604777073_40372987971": {
+      "shop_id": 1604777073,
+      "item_id": 40372987971,
+      "subscriber": "gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-aQW8NUEE-t-120",
+      "status": "traffic_error",
+      "has_data": false,
+      "final_url": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_",
+      "getpc_attempts": [
+        {
+          "err": 90309999,
+          "signed": true
+        }
+      ],
+      "ac_cert": true,
+      "elapsed_s": 24.1
+    }
+  },
+  "updated_at": "2026-07-20T03:15:59.134352+00:00",
+  "progress": "10/10",
+  "proxy_pool": {
+    "region": "BR",
+    "pool_size": 50,
+    "blacklisted": 0,
+    "tracked": 50,
+    "top": [
+      {
+        "subscriber": "gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-YquRx8n1-t-120",
+        "ok": 1,
+        "fail": 0,
+        "rate": 1.0,
+        "streak_fail": 0,
+        "last": "ok",
+        "quarantined": false
+      },
+      {
+        "subscriber": "gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-8Pb39nDD-t-120",
+        "ok": 1,
+        "fail": 0,
+        "rate": 1.0,
+        "streak_fail": 0,
+        "last": "ok",
+        "quarantined": false
+      },
+      {
+        "subscriber": "gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-DU4tMGgM-t-120",
+        "ok": 1,
+        "fail": 0,
+        "rate": 1.0,
+        "streak_fail": 0,
+        "last": "ok",
+        "quarantined": false
+      },
+      {
+        "subscriber": "gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-JsYS3VxJ-t-120",
+        "ok": 1,
+        "fail": 0,
+        "rate": 1.0,
+        "streak_fail": 0,
+        "last": "ok",
+        "quarantined": false
+      },
+      {
+        "subscriber": "gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-dqTpiqNx-t-120",
+        "ok": 1,
+        "fail": 0,
+        "rate": 1.0,
+        "streak_fail": 0,
+        "last": "ok",
+        "quarantined": false
+      }
+    ]
+  },
+  "finished_at": "2026-07-20T03:15:59.327694+00:00",
+  "success_rate": 0.0
+}

@@ -1,0 +1,1 @@
+HEALTH: BLOCKED (get_pc.error=90309999 item_keys=0 status=no_getpc url=https://shopee.com.br/verify/traffic?ant)

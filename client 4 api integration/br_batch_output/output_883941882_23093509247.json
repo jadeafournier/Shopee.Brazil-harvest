@@ -1,0 +1,1845 @@
+{
+  "task_link": "https://shopee.com.br/product/883941882/23093509247",
+  "token": "br_batch_crawl",
+  "api_key": "br_batch_crawl",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 23093509247,
+      "shop_id": 883941882,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "Fone de ouvido com fio com microfone cobre driver fone de ouvido esportivo baixo estéreo QKZ",
+      "image": "br-11134207-7r98o-m22tzz0333dwae",
+      "label_ids": [
+        1000022,
+        298513406,
+        844931064601283,
+        700065053,
+        700065054,
+        822062091122182,
+        835343123222554,
+        648011521,
+        595473041,
+        2203725,
+        700810080,
+        298788369,
+        1718387984,
+        1718397968,
+        298818315,
+        1823810,
+        998291046,
+        1823833,
+        700960097,
+        1978602,
+        298803386,
+        1718388139
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100535,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": "Utramax",
+      "brand_id": 5373457,
+      "show_discount": 87,
+      "ctime": 1730488409,
+      "item_rating": {
+        "rating_star": 4.885052388080011
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": false,
+      "shop_location": "São Paulo",
+      "attributes": [
+        {
+          "name": "Connection Type",
+          "value": "Wired / Others",
+          "id": 100408,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2498,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Name",
+          "value": "QKZ",
+          "id": 101040,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": null,
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "Fone de altafidelidade de som\nDescrição:\nMarca: Qkz\nModelo Número: Ak6\nFunção: Para o telefone móvel,Para Video Game,Fone de ouvido\nEstilo: Intra auricular\nÀ prova d'água: Não (somente a respingos, não mergulhar)\nSensibilidade: 105±3dB\nEntrada para cartão de Memória: Não\nUnidade de movimentação:Driver dinâmico 10mm\nResistência:16 ohm +15%\nConector:3.5mm\nCom microfone: sim\nTipo de Conector:P2 - 3.5mm\nComunicação: com fios\nFaixa de freqüência: 20-20.000hz\nComprimento da fio: 1.2cm+3cm\nCancelamento de Ruído:SIM\nControle de Volume: sim\nNo pacote inclui: \n\n1. 1 par de fone\n1. kit de Borrachinhas extras\n1. Suporte para orelhas\n1. 1 case",
+      "categories": [
+        {
+          "catid": 100535,
+          "display_name": "Áudio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100578,
+          "display_name": "Fones de Ouvido, Headphones e Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 23093509247,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "preto",
+          "promotion_id": 863437140180992,
+          "price": 2388000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 15000000,
+          "model_id": 219168171268,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Black",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23093509247,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "azul",
+          "promotion_id": 863437140180992,
+          "price": 2388000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 15000000,
+          "model_id": 219168171269,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Blue",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23093509247,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "vermelho",
+          "promotion_id": 863437140180992,
+          "price": 2388000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 15000000,
+          "model_id": 219168171270,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Red",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23093509247,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "branco",
+          "promotion_id": 863437140180992,
+          "price": 2388000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 15000000,
+          "model_id": 219168171271,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "White",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23093509247,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "roxo",
+          "promotion_id": 863437140180992,
+          "price": 2388000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 15000000,
+          "model_id": 219172700592,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Roxo",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23093509247,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "aleatório",
+          "promotion_id": 863437140180992,
+          "price": 1988000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 15000000,
+          "model_id": 239411956150,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "RANDOM",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "cor",
+          "options": [
+            "preto",
+            "azul",
+            "vermelho",
+            "branco",
+            "aleatório",
+            "roxo"
+          ],
+          "images": [
+            "br-11134207-7r98o-m22tzz02p1pg96",
+            "br-11134207-7r98o-m22tzz02qg9wa9",
+            "br-11134207-7r98o-m22tzz02ruuce3",
+            "br-11134207-7r98o-m22tzz02t9esf8",
+            "br-11134207-7r98o-m22tzz02unz8b8",
+            "br-11134207-7r98o-m7cmudv36yq41d"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "name_tr": "Color",
+          "options_tr": [
+            "Black",
+            "Blue",
+            "Red",
+            "White",
+            "RANDOM",
+            "Roxo"
+          ],
+          "selling_points": null,
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 2,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 1988000,
+      "raw_discount": 87,
+      "hidden_price_display": null,
+      "price_min": 1988000,
+      "price_max": 2388000,
+      "price_before_discount": 15000000,
+      "price_min_before_discount": 15000000,
+      "price_max_before_discount": 15000000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": false,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "Wired Headphone with Mic Copper driver Sports Earphone Bass Stereo QKZ",
+      "description_tr": "High fidelity sound headphones\nDescription:\nBrand: Qkz\nModel Number: Ak6\nFunction: For mobile phone,For Video Game,Headphone\nStyle: In-ear\nWaterproof: No (splash only, do not dive)\nSensitivity: 105±3dB\nMemory card slot: No\nDrive unit: 10mm dynamic driver\nResistance:16 ohm +15%\nConnector: 3.5mm\nWith microphone: Yes\nConnector Type:P2 - 3.5mm\nCommunication: wired\nFrequency range: 20-20,000hz\nWire length: 1.2cm+3cm\nNoise Cancellation: YES\nVolume Control: Yes\nIn the package includes: \n\n1. 1 pair of headphones\n1. Extra Eraser kit\n1. Ear support\n1. 1 case",
+      "rich_text_description_tr": null,
+      "stock_display": "IN STOCK",
+      "max_quantity_display": "IN STOCK",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": 1707139756,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": {
+        "video_id": "api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.16000081752514252.mp4",
+        "thumb_url": "br-11110105-6kfks-mc6owkaapdwnba_cover",
+        "duration": 28,
+        "version": 2,
+        "vid": "br-11110105-6kfks-mc6owkaapdwnba",
+        "formats": [
+          {
+            "format": 1600008,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.16000081752514252.mp4",
+            "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.16000081752514252.mp4",
+            "width": 720,
+            "height": 1280
+          }
+        ],
+        "default_format": {
+          "format": 1600323,
+          "defn": "V540P",
+          "profile": "MP4",
+          "path": "",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.default.mp4",
+          "width": 540,
+          "height": 960
+        },
+        "mms_data": "{\"vid\":\"br-11110105-6kfks-mc6owkaapdwnba\",\"biz\":107,\"duration\":28189,\"create_time\":1752514247,\"update_time\":1752514254,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6kfks-mc6owkaapdwnba_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.16000081752514252.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.16000081752514252.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1128267,\"abitrate\":128364,\"size\":4428861,\"fps\":25,\"duration\":28040,\"update_time\":1752514271,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":502498,\"abitrate\":32346,\"size\":1899432,\"fps\":25,\"duration\":28040,\"update_time\":1752514443,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.16003091752514436.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.16003091752514436.mp4\",\"width\":720,\"height\":1280,\"bitrate\":694064,\"abitrate\":128364,\"size\":2909939,\"fps\":25,\"duration\":28040,\"update_time\":1752514473,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "item_cover": null
+      },
+      "images": [
+        "br-11134207-7r98o-m22tzz0333dwae",
+        "br-11134207-7r98o-m22tzz02nn50aa",
+        "br-11134207-7r98o-m22tzz031osxd3",
+        "br-11134207-7r98o-m22tzz0286e7f1",
+        "br-11134207-7r98o-m22tzz02nn4h6d",
+        "br-11134207-7r98o-m22tzz0332vzc4",
+        "br-11134207-7r98o-m22tzz02nmn344",
+        "br-11134207-7r98o-m22tzz03ijms94",
+        "br-11134207-7r98o-m22tzz0286vl9b"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "preto",
+          "image": "br-11134207-7r98o-m22tzz02p1pg96",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Black",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-m22tzz02p1pg96"
+        },
+        {
+          "name": "azul",
+          "image": "br-11134207-7r98o-m22tzz02qg9wa9",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Blue",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-m22tzz02qg9wa9"
+        },
+        {
+          "name": "vermelho",
+          "image": "br-11134207-7r98o-m22tzz02ruuce3",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Red",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-m22tzz02ruuce3"
+        },
+        {
+          "name": "branco",
+          "image": "br-11134207-7r98o-m22tzz02t9esf8",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "White",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-m22tzz02t9esf8"
+        },
+        {
+          "name": "aleatório",
+          "image": "br-11134207-7r98o-m22tzz02unz8b8",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "RANDOM",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-m22tzz02unz8b8"
+        },
+        {
+          "name": "roxo",
+          "image": "br-11134207-7r98o-m7cmudv36yq41d",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Roxo",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-m7cmudv36yq41d"
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "overlay": null,
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "br-11134207-7r98o-m22tzz02p1pg96"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "br-11134207-7r98o-m22tzz02qg9wa9"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "br-11134207-7r98o-m22tzz02ruuce3"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "br-11134207-7r98o-m22tzz02t9esf8"
+        },
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "br-11134207-7r98o-m7cmudv36yq41d"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "br-11134207-7r98o-m22tzz02unz8b8"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": null,
+          "video": {
+            "video_id": "api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.16000081752514252.mp4",
+            "thumb_url": "br-11110105-6kfks-mc6owkaapdwnba_cover",
+            "duration": 28,
+            "version": 2,
+            "vid": "br-11110105-6kfks-mc6owkaapdwnba",
+            "formats": [
+              {
+                "format": 1600008,
+                "defn": "V720P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.16000081752514252.mp4",
+                "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.16000081752514252.mp4",
+                "width": 720,
+                "height": 1280
+              }
+            ],
+            "default_format": {
+              "format": 1600323,
+              "defn": "V540P",
+              "profile": "MP4",
+              "path": "",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.default.mp4",
+              "width": 540,
+              "height": 960
+            },
+            "mms_data": "{\"vid\":\"br-11110105-6kfks-mc6owkaapdwnba\",\"biz\":107,\"duration\":28189,\"create_time\":1752514247,\"update_time\":1752514254,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6kfks-mc6owkaapdwnba_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.16000081752514252.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.16000081752514252.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1128267,\"abitrate\":128364,\"size\":4428861,\"fps\":25,\"duration\":28040,\"update_time\":1752514271,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":502498,\"abitrate\":32346,\"size\":1899432,\"fps\":25,\"duration\":28040,\"update_time\":1752514443,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.16003091752514436.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfks-mc6owkaapdwnba.16003091752514436.mp4\",\"width\":720,\"height\":1280,\"bitrate\":694064,\"abitrate\":128364,\"size\":2909939,\"fps\":25,\"duration\":28040,\"update_time\":1752514473,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "item_cover": null
+          }
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m22tzz0333dwae",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m22tzz02nn50aa",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m22tzz031osxd3",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m22tzz0286e7f1",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m22tzz02nn4h6d",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m22tzz0332vzc4",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m22tzz02nmn344",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m22tzz03ijms94",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m22tzz0286vl9b",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 87,
+      "installment_info": null,
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": -1,
+        "range_min": 1988000,
+        "range_max": 2388000,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 15000000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": false,
+      "discount_text": null,
+      "show_final_price_indicator": null,
+      "final_price_vouchers": null,
+      "has_final_price": true,
+      "final_price_info": null,
+      "price_subtext": null,
+      "price_model": {
+        "price_single_model_id": null,
+        "price_min_model_id": 239411956150,
+        "price_max_model_id": 219168171269
+      },
+      "price_promotion": {
+        "price_single_promotion_id": null,
+        "price_single_promotion_type": null,
+        "price_min_promotion_id": 863437140180992,
+        "price_min_promotion_type": 301,
+        "price_max_promotion_id": 863437140180992,
+        "price_max_promotion_type": 301
+      },
+      "instalment_cta_action": null
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": true,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.885052388080011,
+      "rating_count": [
+        29397,
+        239,
+        114,
+        424,
+        1233,
+        27387
+      ],
+      "total_rating_count": 29397,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 29060,
+      "cmt_count": 29397,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": null,
+      "historical_sold_display": "60mil+",
+      "global_sold_display": "60mil+",
+      "sold_count_display": "60mil+"
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": null,
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": false,
+        "is_non_cc_installment_payment_eligible": false
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "São Paulo",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 0,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 91003,
+          "name": "Entrega Padrão",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 718000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784945769,
+            "estimated_delivery_date_to": 1784945769,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_exact}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_exact",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 718000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        },
+        {
+          "channel_id": 90024,
+          "name": "Retire Perto de Você",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 574000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784945769,
+            "estimated_delivery_date_to": 1784945769,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{opc_label_receive_by_date_exact_self_collect}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "opc_label_receive_by_date_exact_self_collect",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 574000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": "",
+      "pre_selected_shipping_channel": {
+        "channel_id": 91003,
+        "name": "Entrega Padrão",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 718000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1784945769,
+          "estimated_delivery_date_to": 1784945769,
+          "estimated_delivery_time_min": 5,
+          "estimated_delivery_time_max": 5,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Get by 24/jul",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_exact}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_exact",
+                  "value": {
+                    "value_str": "Get by 24/jul",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 0,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 0,
+          "discount_value": 718000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": true,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 239411956150,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 7,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Brand",
+          "value": "Utramax",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": "/search?brands=5373457",
+          "brand_id": 5373457,
+          "full_url": "https://shopee.com.br/search?brands=5373457",
+          "type": 1,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Connection Type",
+          "value": "Wired / Others",
+          "id": 100408,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Connection Type",
+          "value_tr": "Wired / Others"
+        },
+        {
+          "name": "Model Name",
+          "value": "QKZ",
+          "id": 101040,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Model Name",
+          "value_tr": "Qkz"
+        },
+        {
+          "name": "Ships From",
+          "value": "São Paulo",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 883941882,
+      "userid": 883981093,
+      "last_active_time": 1784513488,
+      "vacation": false,
+      "place": "São Paulo, São Paulo",
+      "account": {
+        "portrait": "br-11134004-7r98o-ma2rl7l5yqrm31",
+        "username": "yiyiyi2015",
+        "status": 1
+      },
+      "is_shopee_verified": true,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": false,
+      "shop_location": "",
+      "item_count": 456,
+      "rating_star": 4.737506,
+      "response_rate": 100,
+      "session_info": null,
+      "name": "yiyiyi",
+      "ctime": 1665840963,
+      "response_time": 429,
+      "follower_count": 64848,
+      "show_official_shop_label": false,
+      "rating_bad": 21651,
+      "rating_good": 756782,
+      "rating_normal": 36106,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": true,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": null,
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": null,
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": null,
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": null,
+      "bank": {
+        "channels": null
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": null,
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "Fone de altafidelidade de som",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Descrição:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Marca: Qkz",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Modelo Número: Ak6",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Função: Para o telefone móvel,Para Video Game,Fone de ouvido",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Estilo: Intra auricular",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "À prova d'água: Não (somente a respingos, não mergulhar)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Sensibilidade: 105±3dB",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Entrada para cartão de Memória: Não",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Unidade de movimentação:Driver dinâmico 10mm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Resistência:16 ohm +15%",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Conector:3.5mm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Com microfone: sim",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tipo de Conector:P2 - 3.5mm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Comunicação: com fios",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Faixa de freqüência: 20-20.000hz",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Comprimento da fio: 1.2cm+3cm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Cancelamento de Ruído:SIM",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Controle de Volume: sim",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "No pacote inclui: ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "1. 1 par de fone",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1. kit de Borrachinhas extras",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1. Suporte para orelhas",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1. 1 case",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "High fidelity sound headphones",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Description:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Brand: Qkz",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Model Number: Ak6",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Function: For mobile phone,For Video Game,Headphone",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Style: In-ear",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Waterproof: No (splash only, do not dive)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Sensitivity: 105±3dB",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Memory card slot: No",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Drive unit: 10mm dynamic driver",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Resistance:16 ohm +15%",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Connector: 3.5mm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "With microphone: Yes",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Connector Type:P2 - 3.5mm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Communication: wired",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Frequency range: 20-20,000hz",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Wire length: 1.2cm+3cm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Noise Cancellation: YES",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Volume Control: Yes",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "In the package includes: ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "1. 1 pair of headphones",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1. Extra Eraser kit",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1. Ear support",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1. 1 case",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": null
+  }
+}

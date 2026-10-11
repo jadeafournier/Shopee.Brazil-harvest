@@ -1,0 +1,3255 @@
+{
+  "task_link": "https://shopee.com.br/product/1475933346/23693711021",
+  "token": "br_batch_crawl",
+  "api_key": "br_batch_crawl",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 23693711021,
+      "shop_id": 1475933346,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "Smartphone Celular Xiaomi Redmi 14c 256gb  8gb RAM 128gb 4gb Dual Sim 50MP Global 14 c Lançamento",
+      "image": "br-11134207-820ld-mq96nh9j943k7b",
+      "label_ids": [
+        844931064601283,
+        1000022,
+        1823810,
+        1718387984,
+        1718388139,
+        700065053,
+        700065054,
+        822062091122182,
+        595473041,
+        648011521,
+        835343123222554
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100013,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": "Redmi",
+      "brand_id": 1802344,
+      "show_discount": 29,
+      "ctime": 1739644923,
+      "item_rating": {
+        "rating_star": 4.829487179487179
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": false,
+      "shop_location": "São Paulo",
+      "attributes": [
+        {
+          "name": "Warranty Type",
+          "value": "No Warranty",
+          "id": 100370,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 5576,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Duration",
+          "value": "No Warranty",
+          "id": 100121,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 5577,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Phone Model",
+          "value": "23100rn82l",
+          "id": 100490,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Name",
+          "value": "23100RN82L",
+          "id": 101040,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Registration ID",
+          "value": "17534-23-14550",
+          "id": 101197,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Xiaomi Communications Co.",
+          "id": 101237,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": null,
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "ATENÇÃO: Por questões logísticas, NÃO estamos enviando para os seguintes estados:\n\n Acre (AC)\n Bahia (BA)\n Amapá (AP)\n Rio Grande do Sul (RS)\n Pará (PA)\n Pernambuco (PE)\n Ceará (CE)\n Rio Grande do Norte (RN)\n Paraíba (PB)\n Maranhão (MA)\n Piauí (PI) \n Alagoas (AL)\n Sergipe (SE) \n Rondônia (RO)\n Roraima (RR)\n Amazonas (AM)\nXiaomi 14c e o grande sucessor de 13c celular mais vendido da Xiaomi no mundo.\n\nTrabalhamos com 95% dos nossos produtos com pino (carregador)  padrão brasil,  porem as vezes pode variar para pino chato , dependendo do lote da importação.\n\nNão tem  NFC\nTecnologia 4G \n\n\nO Redmi 14 C é um smartphone Android, ideal para quem não tem muitas exigências mas não abre mão de um bom display touchscreen. As funções oferecidas pelo Redmi 14C são mais ou menos as mesmas oferecidas em outros dispositivos avançados, começando com a conectividade Wi-fi e GPS. Tem leitor multimídia, rádio, videoconferência e bluetooth. Enfatizamos a boa memória interna de 256 GB com a possibilidade de expansão. A transferência de dados e navegação web sao fornecidas pela rede UMTS, mas não suporta tecnologias mais recentes, tais como HSDPA.\nSurpreendente é sua tela Touchscreen de 6.88 polegadas, que coloca esse Redmi no topo de sua categoria. A resolução também é alta: 1640x720 pixel. O Redmi 14C é um produto com poucos concorrentes em termos de multimídia graças à câmera de 50 megapixels que permite ao Redmi 14C tirar fotos fantásticas com uma resolução de 8165x6124 pixels e gravar vídeos em alta definição (Full HD) com uma resolução de 1920x1080 pixels. Muito fino, 8.2 milímetros, o que torna o Redmi 14C realmente bom para o transporte.\n\nFicha técnica\n\nTELA\nTipo: LCD IPS\nTamanho: 6,88 polegadas\nResolução: 720 x 1640 pixels\nDensidade de Pixels: 260 ppi\nTaxa de Atualização: 120hz\n\nPLATAFORMA\nAndroid HyperOS\nChipset: MediaTek Helio G81 Ultra\nCPU: Octa-core (4x 2.0 GHz Cortex-A75 + 4x 2.0 GHz Cortex-A55)\nGPU: Mali-G52 MC2\n\nMEMÓRIA\nInterna: 256GB / 128GB\nRAM: 8GB / 6GB / 4GB\n\nCÂMERA PRINCIPAL\n50 MP F1.8 (wide)\n2  MP F2.4 (macro)\nRecursos: HDR e Flash LED\nVídeo: 1080p@30fps\n\nCÂMERA SELFIE\n13 MP F2.0\nVídeo: 1080p@30fps\n\nCOMUNICAÇÕES\n\n4G\nWLAN: Wi-Fi 802.11 a/b/g/n/ac\nBluetooth: 5.4, A2DP, LE\nGPS: A-GPS, GLONASS, Beidou, Galileo\nUSB: Type-C 2.0, USB On-The-Go\n\nRECURSOS\nSensores: Leitor de digitais (lateral), acelerômetro, bússola\n\nBATERIA\nTipo: Li-Po 5160 mAh\n\nCONTEÚDO DA EMBALAGEM\n- Celular Xiaomi Redmi 14C\n- Carregador Rápido\n- Capa protetora\n- Cabo de carregamento\n- Ferramenta ejetora de chip\n- Manual\n\n14 c Grande sucessor do Xiaomi 13 c",
+      "categories": [
+        {
+          "catid": 100013,
+          "display_name": "Celulares e Dispositivos",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100073,
+          "display_name": "Celulares",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059988,
+          "display_name": "Mobile & Gadgets",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060166,
+          "display_name": "Mobile Phones",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 23693711021,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "14C prata,4+128GB",
+          "promotion_id": 0,
+          "price": 120000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              4,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 0,
+          "model_id": 229433005172,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "14c silver,4 + 128GB",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        },
+        {
+          "item_id": 23693711021,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "14C VERDE,4+128GB",
+          "promotion_id": 0,
+          "price": 120000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              2,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 0,
+          "model_id": 209603941335,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "14c GREEN,4 + 128GB",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        },
+        {
+          "item_id": 23693711021,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "14C Roxo,4+128GB",
+          "promotion_id": 0,
+          "price": 120000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              3,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 0,
+          "model_id": 238788093855,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "14c PURPLE,4 + 128GB",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        },
+        {
+          "item_id": 23693711021,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "14C PRETO,4+128GB",
+          "promotion_id": 0,
+          "price": 120000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 0,
+          "model_id": 209603941337,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "14c BLACK,4 + 128GB",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        },
+        {
+          "item_id": 23693711021,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "14C Roxo,8+256GB",
+          "promotion_id": 0,
+          "price": 130000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              3,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 0,
+          "model_id": 238788093856,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "14c PURPLE,8 + 256GB",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        },
+        {
+          "item_id": 23693711021,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "14C PRETO,8+256GB",
+          "promotion_id": 477593551978639,
+          "price": 91900000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 130000000,
+          "model_id": 209603941338,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "14c BLACK,8 + 256GB",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23693711021,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "14C VERDE,8+256GB",
+          "promotion_id": 477593551978639,
+          "price": 91900000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              2,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 130000000,
+          "model_id": 209603941336,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "14c GREEN,8 + 256GB",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23693711021,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "14C prata,8+256GB",
+          "promotion_id": 477593551978639,
+          "price": 91900000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              4,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 130000000,
+          "model_id": 229433005173,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "14c silver,8 + 256GB",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23693711021,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "14C AZUL,4+128GB",
+          "promotion_id": 0,
+          "price": 120000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 0,
+          "model_id": 209603941339,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "14c BLUE,4 + 128GB",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        },
+        {
+          "item_id": 23693711021,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "14C AZUL,8+256GB",
+          "promotion_id": 0,
+          "price": 130000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 0,
+          "model_id": 209603941340,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "14c BLUE,8 + 256GB",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "COR",
+          "options": [
+            "14C PRETO",
+            "14C AZUL",
+            "14C VERDE",
+            "14C Roxo",
+            "14C prata"
+          ],
+          "images": [
+            "sg-11134201-7rcda-m6a3hbnkxeq2a3",
+            "sg-11134201-7rce7-m6a3hdhw8d6y3d",
+            "sg-11134201-7rce6-m6a3hec502gka2",
+            "br-11134207-7r98o-mbsybco2p4fbd8",
+            "br-11134207-81z1k-mhhzd6vk45c222"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            2,
+            0,
+            2,
+            0
+          ],
+          "name_tr": "Color",
+          "options_tr": [
+            "14c BLACK",
+            "14c BLUE",
+            "14c GREEN",
+            "14c PURPLE",
+            "14c silver"
+          ],
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        },
+        {
+          "name": "GB",
+          "options": [
+            "4+128GB",
+            "8+256GB"
+          ],
+          "images": null,
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            2,
+            0
+          ],
+          "name_tr": "Gb",
+          "options_tr": [
+            "4 + 128GB",
+            "8 + 256GB"
+          ],
+          "selling_points": [
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 2,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 91900000,
+      "raw_discount": 29,
+      "hidden_price_display": null,
+      "price_min": 91900000,
+      "price_max": 91900000,
+      "price_before_discount": 130000000,
+      "price_min_before_discount": 130000000,
+      "price_max_before_discount": 130000000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": false,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "Smartphone Cell Phone Xiaomi Redmi 14c 256gb 8gb RAM 128gb 4gb Dual Sim 50MP Global 14 c Launch",
+      "description_tr": "ATTENTION: For logistical reasons, we are NOT shipping to the following states:\n\n Acre (AC)\n Bahia (BA)\n Amapá (AP)\n Rio Grande do Sul (RS)\n Para (PA)\n Pernambuco (PE)\n Ceará (CE)\n Rio Grande do Norte (RN)\n Paraíba (PB)\n Maranhão (MA)\n Piauí (PI) \n Alagoas (AL)\n Sergipe (SE) \n Rondônia (RO)\n Roraima (RR)\n Amazon (AM)\nXiaomi 14c and Xiaomi's best-selling 13c cell phone successor in the world.\n\nWe work with 95% of our products with a Brazilian standard pin (charger), but sometimes it can vary to a flat pin, depending on the import lot.\n\nNo NFC\n4G technology \n\n\nThe Redmi 14 C is an Android smartphone, ideal for those who don't have many requirements but don't give up a good touchscreen display. The functions offered by the Redmi 14C are more or less the same as offered in other advanced devices, starting with Wi-fi and GPS connectivity. It has multimedia player, radio, video conferencing and bluetooth. We emphasize the good internal memory of 256 GB with the possibility of expansion. Data transfer and web browsing are provided by the UMTS network, but it does not support the latest technologies such as HSDPA.\nSurprising is its 6.88-inch Touchscreen, which puts this Redmi at the top of its category. The resolution is also high: 1640x720 pixels. The Redmi 14C is a product with few competitors in terms of multimedia thanks to the 50 megapixel camera that allows the Redmi 14C to take fantastic photos with a resolution of 8165x6124 pixels and record videos in high definition (Full HD) with a resolution of 1920x1080 pixels. Very thin, 8.2 millimeters, which makes Redmi 14C really good for shipping.\n\nTechnical data\n\nSCREEN\nTipo: LCD IPS\nSize: 6.88 inches\nResolution: 720 x 1640 pixels\nPixel Density: 260 ppi\nUPDATE RATE: 120hz\n\nPLATFORM\nAndroid HyperOS\nChipset: MediaTek Helio G81 Ultra\nCPU: Octa-core (4x 2.0 GHz Cortex-A75 + 4x 2.0 GHz Cortex-A55)\nGPU: Mali-G52 MC2\n\nMemory\nInternal: 256GB / 128GB\nRAM: 8GB / 6GB / 4GB\n\nMain camera\n50 MP F1.8 (wide)\n2 MP F2.4 (macro)\nFeatures: HDR and LED Flash\nVideo: 1080p@30fps\n\nSELFIE CAMERA\n13 MP F2.0\nVideo: 1080p@30fps\n\nCOMMUNICATIONS\n\n4G\nWLAN: Wi-Fi 802.11 a/b/g/n/ac\nBluetooth: 5.4, A2DP, LE\nGPS: A-GPS, GLONASS, Beidou, Galileo\nUSB: Type-C 2.0, USB On-The-Go\n\nResources\nSensors: Digital reader (side), accelerometer, compass\n\nBattery\nType: Li-Po 5160 mAh\n\nPackage Contents\n- Xiaomi Redmi 14C cell phone\n- Fast Charger\n- Protective cover\n- Charging cable\n- chip ejector tool\n- Manual\n\n14 c Great successor of Xiaomi 13 c",
+      "rich_text_description_tr": null,
+      "stock_display": "IN STOCK",
+      "max_quantity_display": "IN STOCK",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": 1707139756,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": {
+        "video_id": "api/v4/11110106/mms/sg-11110106-6kiom-m6a3fquy1hegc0.16000041739644849.mp4",
+        "thumb_url": "sg-11110106-6kiom-m6a3fquy1hegc0_cover",
+        "duration": 23,
+        "version": 2,
+        "vid": "sg-11110106-6kiom-m6a3fquy1hegc0",
+        "formats": [
+          {
+            "format": 1600323,
+            "defn": "V540P",
+            "profile": "MP4",
+            "path": "api/v4/11110106/mms/sg-11110106-6kiom-m6a3fquy1hegc0.default.mp4",
+            "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6kiom-m6a3fquy1hegc0.default.mp4",
+            "width": 360,
+            "height": 640
+          }
+        ],
+        "default_format": {
+          "format": 1600323,
+          "defn": "V540P",
+          "profile": "MP4",
+          "path": "",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6kiom-m6a3fquy1hegc0.default.mp4",
+          "width": 360,
+          "height": 640
+        },
+        "mms_data": "{\"vid\":\"sg-11110106-6kiom-m6a3fquy1hegc0\",\"biz\":107,\"duration\":23040,\"create_time\":1739644847,\"update_time\":1739644850,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/sg-11110106-6kiom-m6a3fquy1hegc0_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110106/mms/sg-11110106-6kiom-m6a3fquy1hegc0.default.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6kiom-m6a3fquy1hegc0.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":320892,\"abitrate\":64432,\"size\":1129997,\"fps\":25,\"duration\":23040,\"update_time\":1739644970,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6kiom-m6a3fquy1hegc0.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":320892,\"abitrate\":64432,\"size\":1129997,\"fps\":25,\"duration\":23040,\"update_time\":1739644970,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+        "item_cover": null
+      },
+      "images": [
+        "br-11134207-820ld-mq96nh9j943k7b",
+        "sg-11134201-7rccz-m6a3h84s2xds0b",
+        "sg-11134201-7rcd2-m6a3h93go6ej48",
+        "sg-11134201-7rce7-m6a3h9y9gi9g7d",
+        "sg-11134201-7rceg-m6a3hass6fswa4"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "14C PRETO",
+          "image": "sg-11134201-7rcda-m6a3hbnkxeq2a3",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "14c BLACK",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134201-7rcda-m6a3hbnkxeq2a3"
+        },
+        {
+          "name": "14C AZUL",
+          "image": "sg-11134201-7rce7-m6a3hdhw8d6y3d",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "14c BLUE",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134201-7rce7-m6a3hdhw8d6y3d"
+        },
+        {
+          "name": "14C VERDE",
+          "image": "sg-11134201-7rce6-m6a3hec502gka2",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "14c GREEN",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134201-7rce6-m6a3hec502gka2"
+        },
+        {
+          "name": "14C Roxo",
+          "image": "br-11134207-7r98o-mbsybco2p4fbd8",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "14c PURPLE",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-mbsybco2p4fbd8"
+        },
+        {
+          "name": "14C prata",
+          "image": "br-11134207-81z1k-mhhzd6vk45c222",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "14c silver",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-81z1k-mhhzd6vk45c222"
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        2,
+        4,
+        1,
+        3
+      ],
+      "overlay": null,
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            4,
+            0
+          ],
+          "gallery_image": "br-11134207-81z1k-mhhzd6vk45c222"
+        },
+        {
+          "tier_index": [
+            2,
+            0
+          ],
+          "gallery_image": "sg-11134201-7rce6-m6a3hec502gka2"
+        },
+        {
+          "tier_index": [
+            3,
+            0
+          ],
+          "gallery_image": "br-11134207-7r98o-mbsybco2p4fbd8"
+        },
+        {
+          "tier_index": [
+            0,
+            0
+          ],
+          "gallery_image": "sg-11134201-7rcda-m6a3hbnkxeq2a3"
+        },
+        {
+          "tier_index": [
+            3,
+            1
+          ],
+          "gallery_image": "br-11134207-7r98o-mbsybco2p4fbd8"
+        },
+        {
+          "tier_index": [
+            0,
+            1
+          ],
+          "gallery_image": "sg-11134201-7rcda-m6a3hbnkxeq2a3"
+        },
+        {
+          "tier_index": [
+            2,
+            1
+          ],
+          "gallery_image": "sg-11134201-7rce6-m6a3hec502gka2"
+        },
+        {
+          "tier_index": [
+            4,
+            1
+          ],
+          "gallery_image": "br-11134207-81z1k-mhhzd6vk45c222"
+        },
+        {
+          "tier_index": [
+            1,
+            0
+          ],
+          "gallery_image": "sg-11134201-7rce7-m6a3hdhw8d6y3d"
+        },
+        {
+          "tier_index": [
+            1,
+            1
+          ],
+          "gallery_image": "sg-11134201-7rce7-m6a3hdhw8d6y3d"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": null,
+          "video": {
+            "video_id": "api/v4/11110106/mms/sg-11110106-6kiom-m6a3fquy1hegc0.16000041739644849.mp4",
+            "thumb_url": "sg-11110106-6kiom-m6a3fquy1hegc0_cover",
+            "duration": 23,
+            "version": 2,
+            "vid": "sg-11110106-6kiom-m6a3fquy1hegc0",
+            "formats": [
+              {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": "api/v4/11110106/mms/sg-11110106-6kiom-m6a3fquy1hegc0.default.mp4",
+                "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6kiom-m6a3fquy1hegc0.default.mp4",
+                "width": 360,
+                "height": 640
+              }
+            ],
+            "default_format": {
+              "format": 1600323,
+              "defn": "V540P",
+              "profile": "MP4",
+              "path": "",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6kiom-m6a3fquy1hegc0.default.mp4",
+              "width": 360,
+              "height": 640
+            },
+            "mms_data": "{\"vid\":\"sg-11110106-6kiom-m6a3fquy1hegc0\",\"biz\":107,\"duration\":23040,\"create_time\":1739644847,\"update_time\":1739644850,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/sg-11110106-6kiom-m6a3fquy1hegc0_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110106/mms/sg-11110106-6kiom-m6a3fquy1hegc0.default.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6kiom-m6a3fquy1hegc0.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":320892,\"abitrate\":64432,\"size\":1129997,\"fps\":25,\"duration\":23040,\"update_time\":1739644970,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6kiom-m6a3fquy1hegc0.default.mp4\",\"width\":360,\"height\":640,\"bitrate\":320892,\"abitrate\":64432,\"size\":1129997,\"fps\":25,\"duration\":23040,\"update_time\":1739644970,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+            "item_cover": null
+          }
+        },
+        {
+          "image": {
+            "url": "br-11134207-820ld-mq96nh9j943k7b",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rccz-m6a3h84s2xds0b",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rcd2-m6a3h93go6ej48",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rce7-m6a3h9y9gi9g7d",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rceg-m6a3hass6fswa4",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 37,
+      "installment_info": {
+        "recommended_plan": {
+          "months": 12,
+          "pay_per_month": 7450000,
+          "has_buyer_transaction_fee": true
+        }
+      },
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": 82048000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 130000000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": true,
+      "discount_text": null,
+      "show_final_price_indicator": false,
+      "final_price_vouchers": [
+        {
+          "promotion_id": 1454429786222596,
+          "voucher_code": "1383027839",
+          "is_auto_claimed_just_now": null,
+          "groups": [
+            "BR_FINAL_PRICE_WHITELIST",
+            "__SYSTEM_AUTO_DISPATCH__"
+          ],
+          "voucher_type": 2
+        }
+      ],
+      "has_final_price": true,
+      "final_price_info": {
+        "model_id": 209603941338,
+        "hint_text": "with Pix after voucher",
+        "show_final_price_indicator": false,
+        "final_price_vouchers": {
+          "platform_voucher": {
+            "promotion_id": 1454429786222596,
+            "voucher_code": "1383027839",
+            "is_auto_claimed_just_now": null,
+            "groups": [
+              "BR_FINAL_PRICE_WHITELIST",
+              "__SYSTEM_AUTO_DISPATCH__"
+            ],
+            "voucher_discount_type": 1,
+            "voucher_discount": 2500000
+          },
+          "shop_voucher": null,
+          "ads_voucher": null
+        },
+        "payment_channel_discount": {
+          "pix_discount": {
+            "discount_id": 470693858988179,
+            "snapshot_id": 325103934198074,
+            "discount_amount": 7352000
+          }
+        },
+        "final_price_icon_type": 0
+      },
+      "price_subtext": {
+        "template": "or {price} without a voucher with other payment methods",
+        "format": null,
+        "attributes": [
+          {
+            "type": 2,
+            "key": "price",
+            "value": {
+              "value_str": null,
+              "value_int": 91900000
+            },
+            "format": null,
+            "text_color": null,
+            "text_hex_color": null,
+            "url": null
+          }
+        ],
+        "text_color": null,
+        "text_hex_color": null
+      },
+      "price_model": {
+        "price_single_model_id": 209603941338,
+        "price_min_model_id": null,
+        "price_max_model_id": null
+      },
+      "price_promotion": {
+        "price_single_promotion_id": 477593551978639,
+        "price_single_promotion_type": 301,
+        "price_min_promotion_id": null,
+        "price_min_promotion_type": null,
+        "price_max_promotion_id": null,
+        "price_max_promotion_type": null
+      },
+      "instalment_cta_action": null
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": false,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.829487179487179,
+      "rating_count": [
+        780,
+        19,
+        1,
+        11,
+        32,
+        717
+      ],
+      "total_rating_count": 780,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 4593,
+      "cmt_count": 780,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": null,
+      "historical_sold_display": "1mil+",
+      "global_sold_display": "1mil+",
+      "sold_count_display": "1mil+"
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": {
+        "month": 12,
+        "price_raw": 7450000,
+        "interest": 0,
+        "has_buyer_transaction_fee": true,
+        "display_text": "12x {{price}}"
+      },
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": true,
+        "is_non_cc_installment_payment_eligible": true
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "São Paulo",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 0,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 91003,
+          "name": "Entrega Padrão",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 962000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784947091,
+            "estimated_delivery_date_to": 1784947091,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_exact}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_exact",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 962000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        },
+        {
+          "channel_id": 90024,
+          "name": "Retire Perto de Você",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 770000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784947091,
+            "estimated_delivery_date_to": 1784947091,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{opc_label_receive_by_date_exact_self_collect}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "opc_label_receive_by_date_exact_self_collect",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 770000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": "",
+      "pre_selected_shipping_channel": {
+        "channel_id": 91003,
+        "name": "Entrega Padrão",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 962000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1784947091,
+          "estimated_delivery_date_to": 1784947091,
+          "estimated_delivery_time_min": 5,
+          "estimated_delivery_time_max": 5,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Get by 24/jul",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_exact}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_exact",
+                  "value": {
+                    "value_str": "Get by 24/jul",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 0,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 0,
+          "discount_value": 962000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": false,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 209603941338,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 7,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Brand",
+          "value": "Redmi",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": "/search?brands=1802344",
+          "brand_id": 1802344,
+          "full_url": "https://shopee.com.br/search?brands=1802344",
+          "type": 1,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Type",
+          "value": "No Warranty",
+          "id": 100370,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Warranty Type",
+          "value_tr": "No Warranty"
+        },
+        {
+          "name": "Warranty Duration",
+          "value": "No Warranty",
+          "id": 100121,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Warranty Duration",
+          "value_tr": "No Warranty"
+        },
+        {
+          "name": "Phone Model",
+          "value": "23100rn82l",
+          "id": 100490,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Phone Model",
+          "value_tr": "23100RN82L"
+        },
+        {
+          "name": "Model Name",
+          "value": "23100RN82L",
+          "id": 101040,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Model Name",
+          "value_tr": "23100RN82L"
+        },
+        {
+          "name": "Registration ID",
+          "value": "17534-23-14550",
+          "id": 101197,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Registration ID",
+          "value_tr": "17534-23-14550"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Xiaomi Communications Co.",
+          "id": 101237,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Manufacturer",
+          "value_tr": "Xiaomi Communications Co."
+        },
+        {
+          "name": "Ships From",
+          "value": "São Paulo",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059988,
+          "display_name": "Mobile & Gadgets",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060166,
+          "display_name": "Mobile Phones",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 1475933346,
+      "userid": 1476719394,
+      "last_active_time": 1784514462,
+      "vacation": false,
+      "place": "São Paulo, São Paulo",
+      "account": {
+        "portrait": "br-11134216-820l5-mnd271xd41z49a",
+        "username": "teknox111",
+        "status": 1
+      },
+      "is_shopee_verified": false,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": false,
+      "shop_location": "",
+      "item_count": 48,
+      "rating_star": 4.825283,
+      "response_rate": 100,
+      "session_info": null,
+      "name": "TeknoX",
+      "ctime": 1739633706,
+      "response_time": 141,
+      "follower_count": 8258,
+      "show_official_shop_label": false,
+      "rating_bad": 126,
+      "rating_good": 5524,
+      "rating_normal": 116,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": true,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": null,
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": null,
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": {
+        "price": 82048000
+      },
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": null,
+      "bank": {
+        "channels": [
+          {
+            "channel_ic": "",
+            "channel_name": "label_cc_installment",
+            "is_cc": true,
+            "plans": [
+              {
+                "plan_name": "1x",
+                "duration": 1,
+                "interest_rate": 0,
+                "monthly_payment": 89400000,
+                "total_amount": 89400000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "2x",
+                "duration": 2,
+                "interest_rate": 0,
+                "monthly_payment": 44700000,
+                "total_amount": 89400000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "3x",
+                "duration": 3,
+                "interest_rate": 0,
+                "monthly_payment": 29800000,
+                "total_amount": 89400000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "4x",
+                "duration": 4,
+                "interest_rate": 0,
+                "monthly_payment": 22350000,
+                "total_amount": 89400000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "5x",
+                "duration": 5,
+                "interest_rate": 0,
+                "monthly_payment": 17880000,
+                "total_amount": 89400000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "6x",
+                "duration": 6,
+                "interest_rate": 0,
+                "monthly_payment": 14900000,
+                "total_amount": 89400000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "7x",
+                "duration": 7,
+                "interest_rate": 0,
+                "monthly_payment": 12771428,
+                "total_amount": 89400000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "8x",
+                "duration": 8,
+                "interest_rate": 0,
+                "monthly_payment": 11175000,
+                "total_amount": 89400000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "9x",
+                "duration": 9,
+                "interest_rate": 0,
+                "monthly_payment": 9933333,
+                "total_amount": 89400000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "10x",
+                "duration": 10,
+                "interest_rate": 0,
+                "monthly_payment": 8940000,
+                "total_amount": 89400000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "11x",
+                "duration": 11,
+                "interest_rate": 0,
+                "monthly_payment": 8127272,
+                "total_amount": 89400000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "12x",
+                "duration": 12,
+                "interest_rate": 0,
+                "monthly_payment": 7450000,
+                "total_amount": 89400000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              }
+            ],
+            "banks": null,
+            "plan_groups": null
+          }
+        ]
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": {
+      "price": {
+        "single_value": 82048000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 130000000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "discount_breakdown": [
+        {
+          "type": 0,
+          "price_source": "Product Discount",
+          "discount_amount": 38100000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": null,
+          "icon_type": null
+        },
+        {
+          "type": 3,
+          "price_source": "Voucher Discount",
+          "discount_amount": 2500000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": {
+            "min_spend": 20000000,
+            "discount_type": 1,
+            "discount_value": null,
+            "discount_percentage": "5"
+          },
+          "ads_voucher": null,
+          "breakdown_text": {
+            "template": "Buy {min_spend} get {discount_percentage} off",
+            "format": null,
+            "attributes": [
+              {
+                "type": 2,
+                "key": "min_spend",
+                "value": {
+                  "value_str": null,
+                  "value_int": 20000000
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              },
+              {
+                "type": 1,
+                "key": "discount_percentage",
+                "value": {
+                  "value_str": "5%",
+                  "value_int": null
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              }
+            ],
+            "text_color": null,
+            "text_hex_color": null
+          },
+          "icon_type": 0
+        },
+        {
+          "type": 4,
+          "price_source": "Pix Discount",
+          "discount_amount": 7352000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": null,
+          "icon_type": null
+        }
+      ]
+    },
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "ATENÇÃO: Por questões logísticas, NÃO estamos enviando para os seguintes estados:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": " Acre (AC)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Bahia (BA)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Amapá (AP)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Rio Grande do Sul (RS)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Pará (PA)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Pernambuco (PE)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Ceará (CE)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Rio Grande do Norte (RN)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Paraíba (PB)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Maranhão (MA)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Piauí (PI) ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Alagoas (AL)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Sergipe (SE) ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Rondônia (RO)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Roraima (RR)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Amazonas (AM)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Xiaomi 14c e o grande sucessor de 13c celular mais vendido da Xiaomi no mundo.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Trabalhamos com 95% dos nossos produtos com pino (carregador)  padrão brasil,  porem as vezes pode variar para pino chato , dependendo do lote da importação.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Não tem  NFC",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tecnologia 4G ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 2
+        },
+        {
+          "type": 0,
+          "text": "O Redmi 14 C é um smartphone Android, ideal para quem não tem muitas exigências mas não abre mão de um bom display touchscreen. As funções oferecidas pelo Redmi 14C são mais ou menos as mesmas oferecidas em outros dispositivos avançados, começando com a conectividade Wi-fi e GPS. Tem leitor multimídia, rádio, videoconferência e bluetooth. Enfatizamos a boa memória interna de 256 GB com a possibilidade de expansão. A transferência de dados e navegação web sao fornecidas pela rede UMTS, mas não suporta tecnologias mais recentes, tais como HSDPA.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Surpreendente é sua tela Touchscreen de 6.88 polegadas, que coloca esse Redmi no topo de sua categoria. A resolução também é alta: 1640x720 pixel. O Redmi 14C é um produto com poucos concorrentes em termos de multimídia graças à câmera de 50 megapixels que permite ao Redmi 14C tirar fotos fantásticas com uma resolução de 8165x6124 pixels e gravar vídeos em alta definição (Full HD) com uma resolução de 1920x1080 pixels. Muito fino, 8.2 milímetros, o que torna o Redmi 14C realmente bom para o transporte.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Ficha técnica",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "TELA",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tipo: LCD IPS",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tamanho: 6,88 polegadas",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Resolução: 720 x 1640 pixels",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Densidade de Pixels: 260 ppi",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Taxa de Atualização: 120hz",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "PLATAFORMA",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Android HyperOS",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Chipset: MediaTek Helio G81 Ultra",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "CPU: Octa-core (4x 2.0 GHz Cortex-A75 + 4x 2.0 GHz Cortex-A55)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "GPU: Mali-G52 MC2",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "MEMÓRIA",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Interna: 256GB / 128GB",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "RAM: 8GB / 6GB / 4GB",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "CÂMERA PRINCIPAL",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "50 MP F1.8 (wide)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "2  MP F2.4 (macro)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Recursos: HDR e Flash LED",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Vídeo: 1080p@30fps",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "CÂMERA SELFIE",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "13 MP F2.0",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Vídeo: 1080p@30fps",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "COMUNICAÇÕES",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "4G",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "WLAN: Wi-Fi 802.11 a/b/g/n/ac",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth: 5.4, A2DP, LE",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "GPS: A-GPS, GLONASS, Beidou, Galileo",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "USB: Type-C 2.0, USB On-The-Go",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "RECURSOS",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Sensores: Leitor de digitais (lateral), acelerômetro, bússola",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "BATERIA",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tipo: Li-Po 5160 mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "CONTEÚDO DA EMBALAGEM",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "- Celular Xiaomi Redmi 14C",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "- Carregador Rápido",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "- Capa protetora",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "- Cabo de carregamento",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "- Ferramenta ejetora de chip",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "- Manual",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "14 c Grande sucessor do Xiaomi 13 c",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "ATTENTION: For logistical reasons, we are NOT shipping to the following states:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": " Acre (AC)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Bahia (BA)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Amapá (AP)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Rio Grande do Sul (RS)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Para (PA)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Pernambuco (PE)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Ceará (CE)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Rio Grande do Norte (RN)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Paraíba (PB)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Maranhão (MA)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Piauí (PI) ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Alagoas (AL)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Sergipe (SE) ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Rondônia (RO)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Roraima (RR)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Amazon (AM)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Xiaomi 14c and Xiaomi's best-selling 13c cell phone successor in the world.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "We work with 95% of our products with a Brazilian standard pin (charger), but sometimes it can vary to a flat pin, depending on the import lot.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "No NFC",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "4G technology ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 2
+        },
+        {
+          "type": 0,
+          "text": "The Redmi 14 C is an Android smartphone, ideal for those who don't have many requirements but don't give up a good touchscreen display. The functions offered by the Redmi 14C are more or less the same as offered in other advanced devices, starting with Wi-fi and GPS connectivity. It has multimedia player, radio, video conferencing and bluetooth. We emphasize the good internal memory of 256 GB with the possibility of expansion. Data transfer and web browsing are provided by the UMTS network, but it does not support the latest technologies such as HSDPA.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Surprising is its 6.88-inch Touchscreen, which puts this Redmi at the top of its category. The resolution is also high: 1640x720 pixels. The Redmi 14C is a product with few competitors in terms of multimedia thanks to the 50 megapixel camera that allows the Redmi 14C to take fantastic photos with a resolution of 8165x6124 pixels and record videos in high definition (Full HD) with a resolution of 1920x1080 pixels. Very thin, 8.2 millimeters, which makes Redmi 14C really good for shipping.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Technical data",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "SCREEN",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tipo: LCD IPS",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Size: 6.88 inches",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Resolution: 720 x 1640 pixels",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Pixel Density: 260 ppi",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "UPDATE RATE: 120hz",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "PLATFORM",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Android HyperOS",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Chipset: MediaTek Helio G81 Ultra",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "CPU: Octa-core (4x 2.0 GHz Cortex-A75 + 4x 2.0 GHz Cortex-A55)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "GPU: Mali-G52 MC2",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Memory",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Internal: 256GB / 128GB",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "RAM: 8GB / 6GB / 4GB",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Main camera",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "50 MP F1.8 (wide)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "2 MP F2.4 (macro)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Features: HDR and LED Flash",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Video: 1080p@30fps",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "SELFIE CAMERA",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "13 MP F2.0",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Video: 1080p@30fps",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "COMMUNICATIONS",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "4G",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "WLAN: Wi-Fi 802.11 a/b/g/n/ac",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth: 5.4, A2DP, LE",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "GPS: A-GPS, GLONASS, Beidou, Galileo",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "USB: Type-C 2.0, USB On-The-Go",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Resources",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Sensors: Digital reader (side), accelerometer, compass",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Battery",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Type: Li-Po 5160 mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Package Contents",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "- Xiaomi Redmi 14C cell phone",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "- Fast Charger",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "- Protective cover",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "- Charging cable",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "- chip ejector tool",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "- Manual",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "14 c Great successor of Xiaomi 13 c",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": null
+  }
+}

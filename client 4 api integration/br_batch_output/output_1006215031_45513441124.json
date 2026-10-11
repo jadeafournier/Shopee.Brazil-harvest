@@ -1,0 +1,3101 @@
+{
+  "task_link": "https://shopee.com.br/product/1006215031/45513441124",
+  "token": "br_batch_crawl",
+  "api_key": "br_batch_crawl",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 45513441124,
+      "shop_id": 1006215031,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "Senbenbao Q70 Mini Fones De Ouvido Com Clipe Aberto Bt 6.0 ENC Cancelamento De Ruído Microfone HiFi Som Estéreo Esportiv",
+      "image": "sg-11134201-825am-mqk6n3u20v7x4f",
+      "label_ids": [
+        1943678,
+        1823810,
+        298643352,
+        997961055,
+        1400620050,
+        700605236,
+        298408357,
+        1938661,
+        1823833,
+        844931064601283,
+        1428713,
+        1718087960,
+        822062091123206,
+        5325720222303768
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100535,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": "senbenbao",
+      "brand_id": 3398616,
+      "show_discount": 32,
+      "ctime": 1783231887,
+      "item_rating": {
+        "rating_star": 0
+      },
+      "cb_option": 1,
+      "has_model_with_available_shopee_stock": true,
+      "shop_location": "Internacional",
+      "attributes": [
+        {
+          "name": "Connection Type",
+          "value": "Wireless (Bluetooth or Wifi)",
+          "id": 100408,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2530,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "In Ear",
+          "id": 100519,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2909,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2538,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Mobile, Motor, PC & Laptop",
+          "id": 100516,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2867,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Maximum Frequency Response",
+          "value": "20000Hz",
+          "id": 100996,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 5299,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Minimum Frequency Response",
+          "value": "90Hz",
+          "id": 100997,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 5302,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Sensitivity Rating",
+          "value": "90dB",
+          "id": 100540,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 5290,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Sports Focused",
+          "value": "Yes",
+          "id": 100528,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2932,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Earphones, Headphones & Headsets Features",
+          "value": "Built-in Microphone, Noise Cancellation, Noise Isolating, Remote Control, Volume Control",
+          "id": 100523,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2944,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Headphone Connection Type",
+          "value": "Bluetooth",
+          "id": 100522,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2923,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Material",
+          "value": "Plastic",
+          "id": 100134,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 1207,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Build-in Battery",
+          "value": "Yes",
+          "id": 100526,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2950,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Condition",
+          "value": "New",
+          "id": 100413,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2497,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Battery Capacity",
+          "value": "300mAh",
+          "id": 100272,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Input Voltage",
+          "value": "5V",
+          "id": 100323,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Name",
+          "value": "BTE-61",
+          "id": 101040,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Registration ID",
+          "value": "048072415621",
+          "id": 101197,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Dongguan Zhuopai Electronic Technology.,Ltd",
+          "id": 101237,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824gf-mpt1q7a7eg3ydb",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824i0-mpt1q7obhzb58e",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824gv-mpt1q83iozked5",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824i8-mpt1q8lncr9e96",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824i7-mpt1q8ygwiypa7",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824he-mpt1q9ce0mj245",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824hx-mpt1q9s3o1e439",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824h0-mpt1qa69n1fw40",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824hi-mpt1qaney87h36",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824j4-mpt1qb9v7soyc7",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824ib-mpt1qc7d4c9852",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824ho-mpt1qdkecqo237",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": " Fones de ouvido Bluetooth Q70 Fone Bluetooth Fone Q70",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Características principais da rede",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Mergulhe no som estéreo com cancelamento de ruído eficaz, luzes LED pulsantes elegantes e bateria de longa duração. Desfrute de áudio HD cristalino para chamadas e música, controles de gestos intuitivos e latência ultrabaixa que torna o jogo mais suave do que nunca. Perfeito para treinamento, corrida, trabalho de escritório, viagens, e uso diário.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Classificação à prova d'água",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "IPX4 nominal, esses fones de ouvido são à prova de suor e resistentes a respingos, tornando-os ideais para exercícios intensos e atividades ao ar livre.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Material do Material",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Confeccionado em plástico leve porém durável, garantindo tanto conforto para uso diário e confiabilidade de longa duração.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Vida útil da bateria da bateria",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Desfrute de 4 a 8 horas de reprodução contínua em uma carga completa, perfeita para treinos longos, deslocamentos, viagens de estrada ou dias completos em movimento.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Estilo de uso de estilo de uso",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Design de fone de ouvido com clipe que é ergonômico e seguro - permanece firmemente no lugar mesmo durante o movimento vigoroso, para que você nunca precise se preocupar com eles caindo.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Faixa de Transmissão",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Alcance sem fio de até 10 metros, entregando uma conexão estável e ininterrupta se você está em casa, ao ar livre ou na academia.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Versão Bluetooth da versão Bluetooth",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "A tecnologia Bluetooth 5.4 garante emparelhamento rápido e estável com ambos os smartphones Android.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Qualidade de áudio",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "O áudio estéreo Dual-canal Dual-channel oferece um som claro e equilibrado que aumenta música, jogos e chamadas telefônicas.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Cores Disponíveis",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Roxo, Preto, rosa, cáqui e branco - escolha a que se adapta ao seu estilo.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Operação do produto",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Toque duplo: Alternar faixas",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Toque triplo: Ajuste o volume",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Prensa longa: Assistente de voz",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Por favor, opere de acordo com as instruções do sistema.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "\n Fones de ouvido Bluetooth Q70 Fone Bluetooth Fone Q70\nCaracterísticas principais da rede\nMergulhe no som estéreo com cancelamento de ruído eficaz, luzes LED pulsantes elegantes e bateria de longa duração. Desfrute de áudio HD cristalino para chamadas e música, controles de gestos intuitivos e latência ultrabaixa que torna o jogo mais suave do que nunca. Perfeito para treinamento, corrida, trabalho de escritório, viagens, e uso diário.\nClassificação à prova d'água\nIPX4 nominal, esses fones de ouvido são à prova de suor e resistentes a respingos, tornando-os ideais para exercícios intensos e atividades ao ar livre.\nMaterial do Material\nConfeccionado em plástico leve porém durável, garantindo tanto conforto para uso diário e confiabilidade de longa duração.\nVida útil da bateria da bateria\nDesfrute de 4 a 8 horas de reprodução contínua em uma carga completa, perfeita para treinos longos, deslocamentos, viagens de estrada ou dias completos em movimento.\nEstilo de uso de estilo de uso\nDesign de fone de ouvido com clipe que é ergonômico e seguro - permanece firmemente no lugar mesmo durante o movimento vigoroso, para que você nunca precise se preocupar com eles caindo.\nFaixa de Transmissão\nAlcance sem fio de até 10 metros, entregando uma conexão estável e ininterrupta se você está em casa, ao ar livre ou na academia.\nVersão Bluetooth da versão Bluetooth\nA tecnologia Bluetooth 5.4 garante emparelhamento rápido e estável com ambos os smartphones Android.\nQualidade de áudio\nO áudio estéreo Dual-canal Dual-channel oferece um som claro e equilibrado que aumenta música, jogos e chamadas telefônicas.\nCores Disponíveis\nRoxo, Preto, rosa, cáqui e branco - escolha a que se adapta ao seu estilo.\n\nOperação do produto\nToque duplo: Alternar faixas\nToque triplo: Ajuste o volume\nPrensa longa: Assistente de voz\nPor favor, opere de acordo com as instruções do sistema.",
+      "categories": [
+        {
+          "catid": 100535,
+          "display_name": "Áudio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100578,
+          "display_name": "Fones de Ouvido, Headphones e Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 45513441124,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Bege",
+          "promotion_id": 480802605580583,
+          "price": 2663000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 3900000,
+          "model_id": 416161866053,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Bege",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 45513441124,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Roxo",
+          "promotion_id": 480802605580583,
+          "price": 2850000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 3900000,
+          "model_id": 416161866054,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Roxo",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 45513441124,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Branco",
+          "promotion_id": 480802605580583,
+          "price": 2663000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 3900000,
+          "model_id": 416161866050,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "White",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 45513441124,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Preto",
+          "promotion_id": 480802605580583,
+          "price": 2663000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 3900000,
+          "model_id": 416161866051,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Black",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 45513441124,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Rosa",
+          "promotion_id": 480802605580583,
+          "price": 2663000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 3900000,
+          "model_id": 416161866052,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Pink",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "COR",
+          "options": [
+            "Branco",
+            "Preto",
+            "Rosa",
+            "Bege",
+            "Roxo"
+          ],
+          "images": [
+            "sg-11134201-824i1-mpt1q5gnre9se0",
+            "sg-11134201-824hg-mpt1q5rlroxt05",
+            "sg-11134301-824g2-mpucghrnec5pab",
+            "sg-11134301-824jj-mpucgl9iaoen21",
+            "sg-11134201-824h3-mpt1q6ufn6kh92"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "name_tr": "Color",
+          "options_tr": [
+            "White",
+            "Black",
+            "Pink",
+            "Bege",
+            "Roxo"
+          ],
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 1,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 2663000,
+      "raw_discount": 32,
+      "hidden_price_display": null,
+      "price_min": 2663000,
+      "price_max": 2850000,
+      "price_before_discount": 3900000,
+      "price_min_before_discount": 3900000,
+      "price_max_before_discount": 3900000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": false,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "Senbenbao Q70 Mini Open Clip Earphones Bt 6.0 ENC Noise Cancelling Microphone HiFi Stereo Sound Sports Earbuds",
+      "description_tr": "\n Q70 Bluetooth Headphones Q70 Bluetooth Headphones\nMain network features\nImmerse yourself in stereo sound with effective noise cancellation, stylish pulsating LED lights, and a long-lasting battery. Enjoy crystal-clear HD audio for calls and music, intuitive gesture controls, and ultra-low latency that makes gaming smoother than ever. Perfect for training, running, office work, travel, and everyday use.\nWaterproof rating\nIPX4 rated, these earphones are sweatproof and splash-resistant, making them ideal for intense workouts and outdoor activities.\nMaterial\nMade from lightweight yet durable plastic, ensuring both comfort for everyday use and long-lasting reliability.\nBattery life\nEnjoy 4 to 8 hours of continuous playback on a full charge, perfect for long workouts, commutes, road trips, or full days on the go.\nUsage style\nErgonomic and secure clip-on headphone Design - stays firmly in place even during vigorous movement, so you never have to worry about them falling out.\nTransmission Range\nWireless range of up to 10 meters, delivering a stable and uninterrupted connection whether you're at home, outdoors, or at the gym.\nBluetooth version of the Bluetooth version\nBluetooth 5.4 technology ensures fast and stable pairing with both Android smartphones.\nAudio quality\nDual-channel stereo audio delivers clear, balanced sound that enhances music, games, and phone calls.\nAvailable Colors\nPurple, black, pink, khaki, and white - choose the one that suits your style.\n\nProduct operation\nDouble tap: Switch tracks\nTriple touch: Adjust the volume\nLong press: Voice assistant\nPlease operate according to the system instructions.",
+      "rich_text_description_tr": {
+        "paragraph_list": [
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824gf-mpt1q7a7eg3ydb",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824i0-mpt1q7obhzb58e",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824gv-mpt1q83iozked5",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824i8-mpt1q8lncr9e96",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824i7-mpt1q8ygwiypa7",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824he-mpt1q9ce0mj245",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824hx-mpt1q9s3o1e439",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824h0-mpt1qa69n1fw40",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824hi-mpt1qaney87h36",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824j4-mpt1qb9v7soyc7",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824ib-mpt1qc7d4c9852",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134202-824ho-mpt1qdkecqo237",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": " Q70 Bluetooth Headphones Q70 Bluetooth Headphones",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Main network features",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Immerse yourself in stereo sound with effective noise cancellation, stylish pulsating LED lights, and a long-lasting battery. Enjoy crystal-clear HD audio for calls and music, intuitive gesture controls, and ultra-low latency that makes gaming smoother than ever. Perfect for training, running, office work, travel, and everyday use.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Waterproof rating",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "IPX4 rated, these earphones are sweatproof and splash-resistant, making them ideal for intense workouts and outdoor activities.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Material",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Made from lightweight yet durable plastic, ensuring both comfort for everyday use and long-lasting reliability.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Battery life",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Enjoy 4 to 8 hours of continuous playback on a full charge, perfect for long workouts, commutes, road trips, or full days on the go.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Usage style",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Ergonomic and secure clip-on headphone Design - stays firmly in place even during vigorous movement, so you never have to worry about them falling out.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Transmission Range",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Wireless range of up to 10 meters, delivering a stable and uninterrupted connection whether you're at home, outdoors, or at the gym.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Bluetooth version of the Bluetooth version",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Bluetooth 5.4 technology ensures fast and stable pairing with both Android smartphones.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Audio quality",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Dual-channel stereo audio delivers clear, balanced sound that enhances music, games, and phone calls.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Available Colors",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Purple, black, pink, khaki, and white - choose the one that suits your style.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Product operation",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Double tap: Switch tracks",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Triple touch: Adjust the volume",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Long press: Voice assistant",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Please operate according to the system instructions.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "stock_display": "15",
+      "max_quantity_display": "15 pieces available",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": 1707139756,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": {
+        "video_id": "api/v4/11110166/mms/sg-11110166-6vat0-mpuch9m075kyca.default.mp4",
+        "thumb_url": "https://down-ws-sg.img.susercontent.com/sg-11110166-6vat0-mpuch9m075kyca_cover",
+        "duration": 44759,
+        "version": 1,
+        "vid": "sg-11110166-6vat0-mpuch9m075kyca",
+        "formats": null,
+        "default_format": null,
+        "mms_data": null,
+        "item_cover": null
+      },
+      "images": [
+        "sg-11134201-825am-mqk6n3u20v7x4f",
+        "sg-11134201-824g2-mpt1pzz42a6m5d",
+        "sg-11134201-824gn-mpt1q0gyjh8ha5",
+        "sg-11134201-824ho-mpt1q0ytn6z09e",
+        "sg-11134201-824i0-mpt1q18d1lhoe5",
+        "sg-11134201-824hx-mpt1q1tjjkzw96",
+        "sg-11134201-824ga-mpt1q2h8u4u8f7",
+        "sg-11134201-824ge-mpt1q3njncw26f",
+        "sg-11134201-824j4-mpt1q4s67toscf"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "Branco",
+          "image": "sg-11134201-824i1-mpt1q5gnre9se0",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "White",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134201-824i1-mpt1q5gnre9se0"
+        },
+        {
+          "name": "Preto",
+          "image": "sg-11134201-824hg-mpt1q5rlroxt05",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Black",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134201-824hg-mpt1q5rlroxt05"
+        },
+        {
+          "name": "Rosa",
+          "image": "sg-11134301-824g2-mpucghrnec5pab",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Pink",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134301-824g2-mpucghrnec5pab"
+        },
+        {
+          "name": "Bege",
+          "image": "sg-11134301-824jj-mpucgl9iaoen21",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Bege",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134301-824jj-mpucgl9iaoen21"
+        },
+        {
+          "name": "Roxo",
+          "image": "sg-11134201-824h3-mpt1q6ufn6kh92",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Roxo",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134201-824h3-mpt1q6ufn6kh92"
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "overlay": {
+        "type": 0,
+        "image": "br-11134258-820m5-ml8a34rlu7t287",
+        "preview_end_time": null,
+        "is_pre_order": null,
+        "description": "Vendedor Internacional"
+      },
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "sg-11134301-824jj-mpucgl9iaoen21"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "sg-11134201-824h3-mpt1q6ufn6kh92"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "sg-11134201-824i1-mpt1q5gnre9se0"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "sg-11134201-824hg-mpt1q5rlroxt05"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "sg-11134301-824g2-mpucghrnec5pab"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": null,
+          "video": {
+            "video_id": "api/v4/11110166/mms/sg-11110166-6vat0-mpuch9m075kyca.default.mp4",
+            "thumb_url": "https://down-ws-sg.img.susercontent.com/sg-11110166-6vat0-mpuch9m075kyca_cover",
+            "duration": 44759,
+            "version": 1,
+            "vid": "sg-11110166-6vat0-mpuch9m075kyca",
+            "formats": null,
+            "default_format": null,
+            "mms_data": null,
+            "item_cover": null
+          }
+        },
+        {
+          "image": {
+            "url": "sg-11134201-825am-mqk6n3u20v7x4f",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-824g2-mpt1pzz42a6m5d",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-824gn-mpt1q0gyjh8ha5",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-824ho-mpt1q0ytn6z09e",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-824i0-mpt1q18d1lhoe5",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-824hx-mpt1q1tjjkzw96",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-824ga-mpt1q2h8u4u8f7",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-824ge-mpt1q3njncw26f",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-824j4-mpt1q4s67toscf",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 32,
+      "installment_info": {
+        "recommended_plan": {
+          "months": 5,
+          "pay_per_month": 591452,
+          "has_buyer_transaction_fee": true
+        }
+      },
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": -1,
+        "range_min": 2663000,
+        "range_max": 2850000,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 3900000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": false,
+      "discount_text": null,
+      "show_final_price_indicator": null,
+      "final_price_vouchers": null,
+      "has_final_price": true,
+      "final_price_info": null,
+      "price_subtext": null,
+      "price_model": {
+        "price_single_model_id": null,
+        "price_min_model_id": 416161866050,
+        "price_max_model_id": 416161866054
+      },
+      "price_promotion": {
+        "price_single_promotion_id": null,
+        "price_single_promotion_type": null,
+        "price_min_promotion_id": 480802605580583,
+        "price_min_promotion_type": 301,
+        "price_max_promotion_id": 480802605580583,
+        "price_max_promotion_type": 301
+      },
+      "instalment_cta_action": {
+        "type": 0,
+        "redirection_url": null
+      }
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": true,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 0,
+      "rating_count": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "total_rating_count": 0,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 2,
+      "cmt_count": 0,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": true,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": null,
+      "historical_sold_display": "0",
+      "global_sold_display": "0",
+      "sold_count_display": "0"
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": {
+        "month": 5,
+        "price_raw": 591452,
+        "interest": 0,
+        "has_buyer_transaction_fee": true,
+        "display_text": "5x {{price}}"
+      },
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": true,
+        "is_non_cc_installment_payment_eligible": true
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "Internacional",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 1,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 90001,
+          "name": "Expresso padrão",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 1300000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1785316503,
+            "estimated_delivery_date_to": 1786507380,
+            "estimated_delivery_time_min": 10,
+            "estimated_delivery_time_max": 24,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 29/jul to 12/ago",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_range}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_range",
+                    "value": {
+                      "value_str": "Get by 29/jul to 12/ago",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 1,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 1300000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":10,\"edt_max\":24,\"edt_min_hours\":223,\"edt_max_hours\":554,\"edt_min_minutes\":13377,\"edt_max_minutes\":33225,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": null,
+      "pre_selected_shipping_channel": {
+        "channel_id": 90001,
+        "name": "Expresso padrão",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 1300000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1785316503,
+          "estimated_delivery_date_to": 1786507380,
+          "estimated_delivery_time_min": 10,
+          "estimated_delivery_time_max": 24,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Get by 29/jul to 12/ago",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_range}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_range",
+                  "value": {
+                    "value_str": "Get by 29/jul to 12/ago",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 1,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 0,
+          "discount_value": 1300000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":10,\"edt_max\":24,\"edt_min_hours\":223,\"edt_max_hours\":554,\"edt_min_minutes\":13377,\"edt_max_minutes\":33225,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": true,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 416161866050,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Stock",
+          "value": "15",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 7,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Brand",
+          "value": "senbenbao",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": "/search?brands=3398616",
+          "brand_id": 3398616,
+          "full_url": "https://shopee.com.br/search?brands=3398616",
+          "type": 1,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Connection Type",
+          "value": "Wireless (Bluetooth or Wifi)",
+          "id": 100408,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Connection Type",
+          "value_tr": "Wireless (Bluetooth or Wifi)"
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "In Ear",
+          "id": 100519,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Earphone, Headphone, & Headset Type",
+          "value_tr": "In Ear"
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Gaming Focused",
+          "value_tr": "Yes"
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Mobile, Motor, PC & Laptop",
+          "id": 100516,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Audio Compatibility",
+          "value_tr": "Mobile, Motor, PC & Laptop"
+        },
+        {
+          "name": "Maximum Frequency Response",
+          "value": "20000Hz",
+          "id": 100996,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Maximum Frequency Response",
+          "value_tr": "20000Hz"
+        },
+        {
+          "name": "Minimum Frequency Response",
+          "value": "90Hz",
+          "id": 100997,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Minimum Frequency Response",
+          "value_tr": "90Hz"
+        },
+        {
+          "name": "Sensitivity Rating",
+          "value": "90dB",
+          "id": 100540,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Sensitivity Rating",
+          "value_tr": "90dB"
+        },
+        {
+          "name": "Sports Focused",
+          "value": "Yes",
+          "id": 100528,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Sports Focused",
+          "value_tr": "Yes"
+        },
+        {
+          "name": "Earphones, Headphones & Headsets Features",
+          "value": "Built-in Microphone, Noise Cancellation, Noise Isolating, Remote Control, Volume Control",
+          "id": 100523,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Earphones, Headphones & Headsets Features",
+          "value_tr": "Built-in Microphone, Noise Cancellation, Noise Isolating, Remote Control, Volume Control"
+        },
+        {
+          "name": "Headphone Connection Type",
+          "value": "Bluetooth",
+          "id": 100522,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Headphone Connection Type",
+          "value_tr": "Bluetooth"
+        },
+        {
+          "name": "Material",
+          "value": "Plastic",
+          "id": 100134,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": 1,
+          "name_tr": "Material",
+          "value_tr": "Plastic"
+        },
+        {
+          "name": "Build-in Battery",
+          "value": "Yes",
+          "id": 100526,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Build-in Battery",
+          "value_tr": "Yes"
+        },
+        {
+          "name": "Condition",
+          "value": "New",
+          "id": 100413,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Condition",
+          "value_tr": "New"
+        },
+        {
+          "name": "Battery Capacity",
+          "value": "300mAh",
+          "id": 100272,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Battery Capacity",
+          "value_tr": "300mAh"
+        },
+        {
+          "name": "Input Voltage",
+          "value": "5V",
+          "id": 100323,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Input Voltage",
+          "value_tr": "5V"
+        },
+        {
+          "name": "Model Name",
+          "value": "BTE-61",
+          "id": 101040,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Model Name",
+          "value_tr": "BTE-61"
+        },
+        {
+          "name": "Registration ID",
+          "value": "048072415621",
+          "id": 101197,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Registration ID",
+          "value_tr": "048072415621"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Dongguan Zhuopai Electronic Technology.,Ltd",
+          "id": 101237,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Manufacturer",
+          "value_tr": "Dongguan Zhuopai Electronic Technology.,Ltd"
+        },
+        {
+          "name": "Ships From",
+          "value": "Internacional",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 1006215031,
+      "userid": 1006395303,
+      "last_active_time": 1784513669,
+      "vacation": false,
+      "place": null,
+      "account": {
+        "portrait": "cn-11134216-7r98o-lvkbjp9g6tuudb",
+        "username": "choice_oficial.br",
+        "status": 1
+      },
+      "is_shopee_verified": true,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": false,
+      "shop_location": null,
+      "item_count": 366071,
+      "rating_star": 4.804303,
+      "response_rate": 100,
+      "session_info": null,
+      "name": "Choice Oficial",
+      "ctime": 1684926410,
+      "response_time": 4,
+      "follower_count": 8110225,
+      "show_official_shop_label": false,
+      "rating_bad": 721291,
+      "rating_good": 42761252,
+      "rating_normal": 1636466,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": true,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": null,
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": {},
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": null,
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": null,
+      "bank": {
+        "channels": [
+          {
+            "channel_ic": "",
+            "channel_name": "label_cc_installment",
+            "is_cc": true,
+            "plans": [
+              {
+                "plan_name": "1x",
+                "duration": 1,
+                "interest_rate": 0,
+                "monthly_payment": 2663000,
+                "total_amount": 2663000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "2x",
+                "duration": 2,
+                "interest_rate": 0,
+                "monthly_payment": 1440683,
+                "total_amount": 2881366,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "3x",
+                "duration": 3,
+                "interest_rate": 0,
+                "monthly_payment": 974658,
+                "total_amount": 2923974,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "4x",
+                "duration": 4,
+                "interest_rate": 0,
+                "monthly_payment": 733589,
+                "total_amount": 2934359,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "5x",
+                "duration": 5,
+                "interest_rate": 0,
+                "monthly_payment": 591452,
+                "total_amount": 2957261,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "6x",
+                "duration": 6,
+                "interest_rate": 0,
+                "monthly_payment": 496649,
+                "total_amount": 2979897,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$30,00",
+                  "min_item_price": 3000000
+                }
+              },
+              {
+                "plan_name": "7x",
+                "duration": 7,
+                "interest_rate": 0,
+                "monthly_payment": 426764,
+                "total_amount": 2987353,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$35,00",
+                  "min_item_price": 3500000
+                }
+              },
+              {
+                "plan_name": "8x",
+                "duration": 8,
+                "interest_rate": 0,
+                "monthly_payment": 376248,
+                "total_amount": 3009988,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$40,00",
+                  "min_item_price": 4000000
+                }
+              },
+              {
+                "plan_name": "9x",
+                "duration": 9,
+                "interest_rate": 0,
+                "monthly_payment": 336958,
+                "total_amount": 3032624,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$45,00",
+                  "min_item_price": 4500000
+                }
+              },
+              {
+                "plan_name": "10x",
+                "duration": 10,
+                "interest_rate": 0,
+                "monthly_payment": 305552,
+                "total_amount": 3055526,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$50,00",
+                  "min_item_price": 5000000
+                }
+              },
+              {
+                "plan_name": "11x",
+                "duration": 11,
+                "interest_rate": 0,
+                "monthly_payment": 279832,
+                "total_amount": 3078161,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$55,00",
+                  "min_item_price": 5500000
+                }
+              },
+              {
+                "plan_name": "12x",
+                "duration": 12,
+                "interest_rate": 0,
+                "monthly_payment": 258399,
+                "total_amount": 3100797,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$60,00",
+                  "min_item_price": 6000000
+                }
+              }
+            ],
+            "banks": null,
+            "plan_groups": null
+          }
+        ]
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": null,
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824gf-mpt1q7a7eg3ydb",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824i0-mpt1q7obhzb58e",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824gv-mpt1q83iozked5",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824i8-mpt1q8lncr9e96",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824i7-mpt1q8ygwiypa7",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824he-mpt1q9ce0mj245",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824hx-mpt1q9s3o1e439",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824h0-mpt1qa69n1fw40",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824hi-mpt1qaney87h36",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824j4-mpt1qb9v7soyc7",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824ib-mpt1qc7d4c9852",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824ho-mpt1qdkecqo237",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Fones de ouvido Bluetooth Q70 Fone Bluetooth Fone Q70",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Características principais da rede",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Mergulhe no som estéreo com cancelamento de ruído eficaz, luzes LED pulsantes elegantes e bateria de longa duração. Desfrute de áudio HD cristalino para chamadas e música, controles de gestos intuitivos e latência ultrabaixa que torna o jogo mais suave do que nunca. Perfeito para treinamento, corrida, trabalho de escritório, viagens, e uso diário.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Classificação à prova d'água",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "IPX4 nominal, esses fones de ouvido são à prova de suor e resistentes a respingos, tornando-os ideais para exercícios intensos e atividades ao ar livre.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Material do Material",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Confeccionado em plástico leve porém durável, garantindo tanto conforto para uso diário e confiabilidade de longa duração.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Vida útil da bateria da bateria",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Desfrute de 4 a 8 horas de reprodução contínua em uma carga completa, perfeita para treinos longos, deslocamentos, viagens de estrada ou dias completos em movimento.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Estilo de uso de estilo de uso",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Design de fone de ouvido com clipe que é ergonômico e seguro - permanece firmemente no lugar mesmo durante o movimento vigoroso, para que você nunca precise se preocupar com eles caindo.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Faixa de Transmissão",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Alcance sem fio de até 10 metros, entregando uma conexão estável e ininterrupta se você está em casa, ao ar livre ou na academia.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Versão Bluetooth da versão Bluetooth",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "A tecnologia Bluetooth 5.4 garante emparelhamento rápido e estável com ambos os smartphones Android.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Qualidade de áudio",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "O áudio estéreo Dual-canal Dual-channel oferece um som claro e equilibrado que aumenta música, jogos e chamadas telefônicas.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Cores Disponíveis",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Roxo, Preto, rosa, cáqui e branco - escolha a que se adapta ao seu estilo.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Operação do produto",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Toque duplo: Alternar faixas",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Toque triplo: Ajuste o volume",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Prensa longa: Assistente de voz",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Por favor, opere de acordo com as instruções do sistema.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824gf-mpt1q7a7eg3ydb",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824i0-mpt1q7obhzb58e",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824gv-mpt1q83iozked5",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824i8-mpt1q8lncr9e96",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824i7-mpt1q8ygwiypa7",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824he-mpt1q9ce0mj245",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824hx-mpt1q9s3o1e439",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824h0-mpt1qa69n1fw40",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824hi-mpt1qaney87h36",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824j4-mpt1qb9v7soyc7",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824ib-mpt1qc7d4c9852",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "sg-11134202-824ho-mpt1qdkecqo237",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Q70 Bluetooth Headphones Q70 Bluetooth Headphones",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Main network features",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Immerse yourself in stereo sound with effective noise cancellation, stylish pulsating LED lights, and a long-lasting battery. Enjoy crystal-clear HD audio for calls and music, intuitive gesture controls, and ultra-low latency that makes gaming smoother than ever. Perfect for training, running, office work, travel, and everyday use.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Waterproof rating",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "IPX4 rated, these earphones are sweatproof and splash-resistant, making them ideal for intense workouts and outdoor activities.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Material",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Made from lightweight yet durable plastic, ensuring both comfort for everyday use and long-lasting reliability.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Battery life",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Enjoy 4 to 8 hours of continuous playback on a full charge, perfect for long workouts, commutes, road trips, or full days on the go.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Usage style",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Ergonomic and secure clip-on headphone Design - stays firmly in place even during vigorous movement, so you never have to worry about them falling out.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Transmission Range",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Wireless range of up to 10 meters, delivering a stable and uninterrupted connection whether you're at home, outdoors, or at the gym.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth version of the Bluetooth version",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth 5.4 technology ensures fast and stable pairing with both Android smartphones.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Audio quality",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Dual-channel stereo audio delivers clear, balanced sound that enhances music, games, and phone calls.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Available Colors",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Purple, black, pink, khaki, and white - choose the one that suits your style.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Product operation",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Double tap: Switch tracks",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Triple touch: Adjust the volume",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Long press: Voice assistant",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Please operate according to the system instructions.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": null
+  }
+}

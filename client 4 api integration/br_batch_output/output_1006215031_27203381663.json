@@ -1,0 +1,2613 @@
+{
+  "task_link": "https://shopee.com.br/product/1006215031/27203381663",
+  "token": "br_batch_crawl",
+  "api_key": "br_batch_crawl",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 27203381663,
+      "shop_id": 1006215031,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "SPRISE Premium Sem Fio Bluetooth Fone De Ouvido Colorido Dobrável Para Jogos Com Microfone",
+      "image": "sg-11134201-7rdy2-mcalf0x0l84ba9",
+      "label_ids": [
+        298408357,
+        844931064601283,
+        1428713,
+        1718087960,
+        1938661,
+        1400620050,
+        299038340,
+        997961055,
+        298643352,
+        1823833,
+        1943678,
+        1823810,
+        1718387941,
+        299138480,
+        1718398086,
+        299153470,
+        700605236,
+        700960282,
+        822062091123206,
+        5325720222303768,
+        700810080,
+        2348659,
+        299108400,
+        1400835211
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100535,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": "SPRISE",
+      "brand_id": 3619860,
+      "show_discount": 37,
+      "ctime": 1718941148,
+      "item_rating": {
+        "rating_star": 4.841634738186462
+      },
+      "cb_option": 1,
+      "has_model_with_available_shopee_stock": true,
+      "shop_location": "Internacional",
+      "attributes": [
+        {
+          "name": "Connection Type",
+          "value": "Wireless (Bluetooth or Wifi)",
+          "id": 100408,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2530,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "Over Ear",
+          "id": 100519,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2973,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2538,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Mobile, Others, PC & Laptop",
+          "id": 100516,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2867,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Sports Focused",
+          "value": "Yes",
+          "id": 100528,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2932,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Headphone Accessory Type",
+          "value": "Stereo Cable",
+          "id": 100521,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2946,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Earphones, Headphones & Headsets Features",
+          "value": "Built-in Microphone, Noise Cancellation, Noise Isolating, Sweat Resistant, Volume Control",
+          "id": 100523,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2944,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Headphone Connection Type",
+          "value": "Bluetooth",
+          "id": 100522,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2923,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Material",
+          "value": "Plastic, Metal",
+          "id": 100134,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 1207,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Build-in Battery",
+          "value": "Yes",
+          "id": 100526,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2950,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Name",
+          "value": "DR-58",
+          "id": 101040,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Registration ID",
+          "value": "008772517466",
+          "id": 101197,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Manufacturer",
+          "value": "SHENZHEN BOYANG E-COMMERCE CO., LTD. ",
+          "id": 101237,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "my-11134202-23020-23uhrpbbwvnv04",
+            "ratio": 0.635,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "my-11134202-23020-xb4al8cbwvnv33",
+            "ratio": 0.638,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "my-11134202-23020-xymzktebwvnv76",
+            "ratio": 0.635,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "my-11134202-23020-2hoskagbwvnv6a",
+            "ratio": 0.5,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "my-11134202-23020-pwv7n3hbwvnvb3",
+            "ratio": 0.558,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "my-11134202-23020-lmn1ivibwvnvef",
+            "ratio": 0.51,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Ei~ Bem-vindo à loja oficial SPRISE! Por favor, leia a descrição do produto claramente, escolha u necessidade. Todos os itens estão em estoques! Por favor, aproveite~ ",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "❥Especificações do:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1. Nome da marca: SPRISE DR58",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "2. Cor da Dolomita: Branco Dolomita/Atenas PretoRosa tenda",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "3. Pesos do produto: 275g",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "4. Versão Bluetooth: 5.0",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "5. Distância de comunicação: 10m",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "6. Tempo de conversação: 12 horas",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "7. Tempo de carregamento: 3-4 horas",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "8. Sistema de janelas e macOS adequado para: Android, iOS, macOS",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "❥Características do:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1. A qualidade avançada de som avançada HIFI traz uma experiência de música ao vivo como pessoalmente; com protetores auriculares respiráveis amigáveis à pele, confortáveis de usar sem pressão nas orelhas.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "2. Design dobrável, fácil de transportar; material de metal preferido, resistente à pressão e à violência.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "3. O fone de ouvido Bluetooth joga jogos com latência ultrabaixa, impermeável e à prova de suor, com um cabo de áudio para trazer a melhor experiência de boa vida.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "❥Lista de produtos:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Fone de ouvido Bluetooth ",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Cabo de carregamento tipo C ",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Cabo de áudio",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1* Manual do Usuário",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Nota: Não use mais de 1,5 A carga da cabeça de carregamento",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 2
+          },
+          {
+            "type": 0,
+            "text": "#earphone #headphone #earphone Jogos #headset #headphone Bluetooth bluetooth #gaming Fone de ouvido com fone de ouvido #headphones #headphone Jogos sem fio para jogos sem fio #bluetooth Fone de ouvido com fone de ouvido #wireless Fones de ouvido com fones de ouvido #cute Fone de ouvido de fone de ouvido #headsets #bluetooth Fone de ouvido com microfone de ouvido #over Fones de ouvido de ouvido de ouvido #wired Fone de ouvido de fone de ouvido #studio Fone de ouvido de fone de ouvido #headphone Baixo de graves",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "Ei~ Bem-vindo à loja oficial SPRISE! Por favor, leia a descrição do produto claramente, escolha u necessidade. Todos os itens estão em estoques! Por favor, aproveite~ \n\n❥Especificações do:\n1. Nome da marca: SPRISE DR58\n2. Cor da Dolomita: Branco Dolomita/Atenas PretoRosa tenda\n3. Pesos do produto: 275g\n4. Versão Bluetooth: 5.0\n5. Distância de comunicação: 10m\n6. Tempo de conversação: 12 horas\n7. Tempo de carregamento: 3-4 horas\n8. Sistema de janelas e macOS adequado para: Android, iOS, macOS\n\n❥Características do:\n1. A qualidade avançada de som avançada HIFI traz uma experiência de música ao vivo como pessoalmente; com protetores auriculares respiráveis amigáveis à pele, confortáveis de usar sem pressão nas orelhas.\n2. Design dobrável, fácil de transportar; material de metal preferido, resistente à pressão e à violência.\n3. O fone de ouvido Bluetooth joga jogos com latência ultrabaixa, impermeável e à prova de suor, com um cabo de áudio para trazer a melhor experiência de boa vida.\n\n❥Lista de produtos:\nFone de ouvido Bluetooth \nCabo de carregamento tipo C \nCabo de áudio\n1* Manual do Usuário\n\nNota: Não use mais de 1,5 A carga da cabeça de carregamento\n\n\n#earphone #headphone #earphone Jogos #headset #headphone Bluetooth bluetooth #gaming Fone de ouvido com fone de ouvido #headphones #headphone Jogos sem fio para jogos sem fio #bluetooth Fone de ouvido com fone de ouvido #wireless Fones de ouvido com fones de ouvido #cute Fone de ouvido de fone de ouvido #headsets #bluetooth Fone de ouvido com microfone de ouvido #over Fones de ouvido de ouvido de ouvido #wired Fone de ouvido de fone de ouvido #studio Fone de ouvido de fone de ouvido #headphone Baixo de graves",
+      "categories": [
+        {
+          "catid": 100535,
+          "display_name": "Áudio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100578,
+          "display_name": "Fones de Ouvido, Headphones e Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 27203381663,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Atenas Preto",
+          "promotion_id": 476041521086754,
+          "price": 5534000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 8850000,
+          "model_id": 49785220092,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Black Athina",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 27203381663,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Rosa macio",
+          "promotion_id": 476041521086754,
+          "price": 5783000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 8990000,
+          "model_id": 49785220093,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Soft pink",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        },
+        {
+          "item_id": 27203381663,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Dolomita Branca",
+          "promotion_id": 476041521086754,
+          "price": 5521000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 8750000,
+          "model_id": 49785220091,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "Cor",
+          "options": [
+            "Dolomita Branca",
+            "Atenas Preto",
+            "Rosa macio"
+          ],
+          "images": [
+            "sg-11134301-7rep5-mdu52x6c5qwa96",
+            "sg-11134301-824j7-mfmbyy62a9e31d",
+            "sg-11134301-7rent-mdu53as26ack66"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0,
+            2
+          ],
+          "name_tr": "Color",
+          "options_tr": null,
+          "selling_points": [
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 1,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 5521000,
+      "raw_discount": 37,
+      "hidden_price_display": null,
+      "price_min": 5521000,
+      "price_max": 5534000,
+      "price_before_discount": 8750000,
+      "price_min_before_discount": 8750000,
+      "price_max_before_discount": 8850000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": false,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": true,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "SPRISE Premium Wireless Bluetooth Headphone Colorful Foldable Gaming Headset with Mic",
+      "description_tr": "Hey~ Welcome to SPRISE official store! Please read the product description clearly, choose u need. All items are in stock! Please enjoy~ \n\n❥Specifications of:\n1. Brand name: SPRISE DR58\n2. Dolomite Color: White Dolomite/Athens BlackPink Tent\n3. Product weights: 275g\n4. Bluetooth Version: 5.0\n5. Communication distance: 10m\n6. Talk time: 12 hours\n7. Charging time: 3-4 hours\n8. Windows and macOS system suitable for: Android, iOS, macOS\n\n❥Features of:\n1. Advanced HIFI sound quality brings you A live music experience like personally; with skin-friendly breathable earmuffs, comfortable to wear, no pressure on the ears.\n2. Foldable Design, easy to carry; preferred metal material, resistant to pressure and violence.\n3. The Bluetooth headset plays games with ultra-low latency, waterproof and sweat-proof, with an audio cable to bring you the best good life experience.\n\n❥Product list:\nBluetooth headset \nType C charging cable \nAudio cable\n1* User Manual\n\nNote: Do not use more than 1.5 A charging head\n\n\n#earphone #headphone #earphone Games #headset #headphone Bluetooth bluetooth #gaming Headphone with headphone #headphones #headphone Wireless games for wireless games #bluetooth Headphone with headphone #wireless Headphones with headphones #cute Headphone headset #headsets #bluetooth Headset with ear microphone #over In-ear headphones #wired Headphone headset #studio Headphone headset #headphone Bass bass bass",
+      "rich_text_description_tr": {
+        "paragraph_list": [
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "my-11134202-23020-23uhrpbbwvnv04",
+            "ratio": 0.635,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "my-11134202-23020-xb4al8cbwvnv33",
+            "ratio": 0.638,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "my-11134202-23020-xymzktebwvnv76",
+            "ratio": 0.635,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "my-11134202-23020-2hoskagbwvnv6a",
+            "ratio": 0.5,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "my-11134202-23020-pwv7n3hbwvnvb3",
+            "ratio": 0.558,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "my-11134202-23020-lmn1ivibwvnvef",
+            "ratio": 0.51,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Hey~ Welcome to SPRISE official store! Please read the product description clearly, choose u need. All items are in stock! Please enjoy~ ",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "❥Specifications of:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1. Brand name: SPRISE DR58",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "2. Dolomite Color: White Dolomite/Athens BlackPink Tent",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "3. Product weights: 275g",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "4. Bluetooth Version: 5.0",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "5. Communication distance: 10m",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "6. Talk time: 12 hours",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "7. Charging time: 3-4 hours",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "8. Windows and macOS system suitable for: Android, iOS, macOS",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "❥Features of:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1. Advanced HIFI sound quality brings you A live music experience like personally; with skin-friendly breathable earmuffs, comfortable to wear, no pressure on the ears.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "2. Foldable Design, easy to carry; preferred metal material, resistant to pressure and violence.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "3. The Bluetooth headset plays games with ultra-low latency, waterproof and sweat-proof, with an audio cable to bring you the best good life experience.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "❥Product list:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Bluetooth headset ",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Type C charging cable ",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Audio cable",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1* User Manual",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Note: Do not use more than 1.5 A charging head",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 2
+          },
+          {
+            "type": 0,
+            "text": "#earphone #headphone #earphone Games #headset #headphone Bluetooth bluetooth #gaming Headphone with headphone #headphones #headphone Wireless games for wireless games #bluetooth Headphone with headphone #wireless Headphones with headphones #cute Headphone headset #headsets #bluetooth Headset with ear microphone #over In-ear headphones #wired Headphone headset #studio Headphone headset #headphone Bass bass bass",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "stock_display": "IN STOCK",
+      "max_quantity_display": "IN STOCK",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": 1707139756,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": null,
+      "images": [
+        "sg-11134201-7rdy2-mcalf0x0l84ba9",
+        "my-11134201-23020-2pmgch33vvnv94",
+        "my-11134201-23020-6ocbyk33vvnv2e",
+        "my-11134201-23020-0sokke33vvnv02",
+        "my-11134201-23020-2lb0bm33vvnv98",
+        "my-11134201-23020-dzpm7c33vvnv0f",
+        "my-11134201-23020-li5mwc33vvnva1",
+        "my-11134201-23020-0fco3b33vvnv0c"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "Dolomita Branca",
+          "image": "sg-11134301-7rep5-mdu52x6c5qwa96",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": null,
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134301-7rep5-mdu52x6c5qwa96"
+        },
+        {
+          "name": "Atenas Preto",
+          "image": "sg-11134301-824j7-mfmbyy62a9e31d",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Black Athina",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134301-824j7-mfmbyy62a9e31d"
+        },
+        {
+          "name": "Rosa macio",
+          "image": "sg-11134301-7rent-mdu53as26ack66",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Soft pink",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134301-7rent-mdu53as26ack66"
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2
+      ],
+      "overlay": {
+        "type": 0,
+        "image": "br-11134258-820m5-ml8a34rlu7t287",
+        "preview_end_time": null,
+        "is_pre_order": null,
+        "description": "Vendedor Internacional"
+      },
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "sg-11134301-824j7-mfmbyy62a9e31d"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "sg-11134301-7rent-mdu53as26ack66"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "sg-11134301-7rep5-mdu52x6c5qwa96"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": {
+            "url": "sg-11134201-7rdy2-mcalf0x0l84ba9",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134201-23020-2pmgch33vvnv94",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134201-23020-6ocbyk33vvnv2e",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134201-23020-0sokke33vvnv02",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134201-23020-2lb0bm33vvnv98",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134201-23020-dzpm7c33vvnv0f",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134201-23020-li5mwc33vvnva1",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "my-11134201-23020-0fco3b33vvnv0c",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 37,
+      "installment_info": {
+        "recommended_plan": {
+          "months": 11,
+          "pay_per_month": 580156,
+          "has_buyer_transaction_fee": true
+        }
+      },
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": -1,
+        "range_min": 5521000,
+        "range_max": 5534000,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": -1,
+        "range_min": 8750000,
+        "range_max": 8850000,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": false,
+      "discount_text": null,
+      "show_final_price_indicator": null,
+      "final_price_vouchers": null,
+      "has_final_price": true,
+      "final_price_info": null,
+      "price_subtext": null,
+      "price_model": {
+        "price_single_model_id": null,
+        "price_min_model_id": 49785220091,
+        "price_max_model_id": 49785220092
+      },
+      "price_promotion": {
+        "price_single_promotion_id": null,
+        "price_single_promotion_type": null,
+        "price_min_promotion_id": 476041521086754,
+        "price_min_promotion_type": 202,
+        "price_max_promotion_id": 476041521086754,
+        "price_max_promotion_type": 202
+      },
+      "instalment_cta_action": {
+        "type": 0,
+        "redirection_url": null
+      }
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": true,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.841634738186462,
+      "rating_count": [
+        783,
+        9,
+        4,
+        22,
+        32,
+        716
+      ],
+      "total_rating_count": 783,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 8946,
+      "cmt_count": 807,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": true,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": {
+        "type": 2
+      },
+      "historical_sold_display": "2mil+",
+      "global_sold_display": "100mil+",
+      "sold_count_display": "100mil+"
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": {
+        "month": 11,
+        "price_raw": 580156,
+        "interest": 0,
+        "has_buyer_transaction_fee": true,
+        "display_text": "11x {{price}}"
+      },
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": true,
+        "is_non_cc_installment_payment_eligible": true
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "Internacional",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 1,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 90001,
+          "name": "Expresso padrão",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 1300000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1785316410,
+            "estimated_delivery_date_to": 1786507287,
+            "estimated_delivery_time_min": 10,
+            "estimated_delivery_time_max": 24,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 29/jul to 12/ago",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_range}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_range",
+                    "value": {
+                      "value_str": "Get by 29/jul to 12/ago",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 1,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 1300000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":10,\"edt_max\":24,\"edt_min_hours\":223,\"edt_max_hours\":554,\"edt_min_minutes\":13377,\"edt_max_minutes\":33225,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": null,
+      "pre_selected_shipping_channel": {
+        "channel_id": 90001,
+        "name": "Expresso padrão",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 1300000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1785316410,
+          "estimated_delivery_date_to": 1786507287,
+          "estimated_delivery_time_min": 10,
+          "estimated_delivery_time_max": 24,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Get by 29/jul to 12/ago",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_range}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_range",
+                  "value": {
+                    "value_str": "Get by 29/jul to 12/ago",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 1,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 0,
+          "discount_value": 1300000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":10,\"edt_max\":24,\"edt_min_hours\":223,\"edt_max_hours\":554,\"edt_min_minutes\":13377,\"edt_max_minutes\":33225,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": true,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 49785220091,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 7,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Brand",
+          "value": "SPRISE",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": "/search?brands=3619860",
+          "brand_id": 3619860,
+          "full_url": "https://shopee.com.br/search?brands=3619860",
+          "type": 1,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Connection Type",
+          "value": "Wireless (Bluetooth or Wifi)",
+          "id": 100408,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Connection Type",
+          "value_tr": "Wireless (Bluetooth or Wifi)"
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "Over Ear",
+          "id": 100519,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Earphone, Headphone, & Headset Type",
+          "value_tr": "Over Ear"
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Gaming Focused",
+          "value_tr": "Yes"
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Mobile, Others, PC & Laptop",
+          "id": 100516,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Audio Compatibility",
+          "value_tr": "Mobile, Others, PC & Laptop"
+        },
+        {
+          "name": "Sports Focused",
+          "value": "Yes",
+          "id": 100528,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Sports Focused",
+          "value_tr": "Yes"
+        },
+        {
+          "name": "Headphone Accessory Type",
+          "value": "Stereo Cable",
+          "id": 100521,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Headphone Accessory Type",
+          "value_tr": "Stereo Cable"
+        },
+        {
+          "name": "Earphones, Headphones & Headsets Features",
+          "value": "Built-in Microphone, Noise Cancellation, Noise Isolating, Sweat Resistant, Volume Control",
+          "id": 100523,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Earphones, Headphones & Headsets Features",
+          "value_tr": "Built-in Microphone, Noise Cancellation, Noise Isolating, Sweat Resistant, Volume Control"
+        },
+        {
+          "name": "Headphone Connection Type",
+          "value": "Bluetooth",
+          "id": 100522,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Headphone Connection Type",
+          "value_tr": "Bluetooth"
+        },
+        {
+          "name": "Material",
+          "value": "Plastic, Metal",
+          "id": 100134,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": 1,
+          "name_tr": "Material",
+          "value_tr": "Plastic, Metal"
+        },
+        {
+          "name": "Build-in Battery",
+          "value": "Yes",
+          "id": 100526,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Build-in Battery",
+          "value_tr": "Yes"
+        },
+        {
+          "name": "Model Name",
+          "value": "DR-58",
+          "id": 101040,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Model Name",
+          "value_tr": "DR-58"
+        },
+        {
+          "name": "Registration ID",
+          "value": "008772517466",
+          "id": 101197,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Registration ID",
+          "value_tr": "008772517466"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "SHENZHEN BOYANG E-COMMERCE CO., LTD. ",
+          "id": 101237,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Manufacturer",
+          "value_tr": "SHENZHEN BOYANG E-COMMERCE CO., LTD. "
+        },
+        {
+          "name": "Ships From",
+          "value": "Internacional",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 1006215031,
+      "userid": 1006395303,
+      "last_active_time": 1784513669,
+      "vacation": false,
+      "place": null,
+      "account": {
+        "portrait": "cn-11134216-7r98o-lvkbjp9g6tuudb",
+        "username": "choice_oficial.br",
+        "status": 1
+      },
+      "is_shopee_verified": true,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": false,
+      "shop_location": null,
+      "item_count": 366071,
+      "rating_star": 4.804303,
+      "response_rate": 100,
+      "session_info": null,
+      "name": "Choice Oficial",
+      "ctime": 1684926410,
+      "response_time": 4,
+      "follower_count": 8110222,
+      "show_official_shop_label": false,
+      "rating_bad": 721290,
+      "rating_good": 42761204,
+      "rating_normal": 1636466,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": true,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": null,
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": {},
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": null,
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": null,
+      "bank": {
+        "channels": [
+          {
+            "channel_ic": "",
+            "channel_name": "label_cc_installment",
+            "is_cc": true,
+            "plans": [
+              {
+                "plan_name": "1x",
+                "duration": 1,
+                "interest_rate": 0,
+                "monthly_payment": 5521000,
+                "total_amount": 5521000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "2x",
+                "duration": 2,
+                "interest_rate": 0,
+                "monthly_payment": 2986861,
+                "total_amount": 5973722,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "3x",
+                "duration": 3,
+                "interest_rate": 0,
+                "monthly_payment": 2020686,
+                "total_amount": 6062058,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "4x",
+                "duration": 4,
+                "interest_rate": 0,
+                "monthly_payment": 1520897,
+                "total_amount": 6083589,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "5x",
+                "duration": 5,
+                "interest_rate": 0,
+                "monthly_payment": 1226214,
+                "total_amount": 6131070,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "6x",
+                "duration": 6,
+                "interest_rate": 0,
+                "monthly_payment": 1029666,
+                "total_amount": 6177999,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "7x",
+                "duration": 7,
+                "interest_rate": 0,
+                "monthly_payment": 884779,
+                "total_amount": 6193457,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "8x",
+                "duration": 8,
+                "interest_rate": 0,
+                "monthly_payment": 780048,
+                "total_amount": 6240386,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "9x",
+                "duration": 9,
+                "interest_rate": 0,
+                "monthly_payment": 698590,
+                "total_amount": 6287314,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "10x",
+                "duration": 10,
+                "interest_rate": 0,
+                "monthly_payment": 633479,
+                "total_amount": 6334795,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "11x",
+                "duration": 11,
+                "interest_rate": 0,
+                "monthly_payment": 580156,
+                "total_amount": 6381723,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "12x",
+                "duration": 12,
+                "interest_rate": 0,
+                "monthly_payment": 535721,
+                "total_amount": 6428652,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$60,00",
+                  "min_item_price": 6000000
+                }
+              }
+            ],
+            "banks": null,
+            "plan_groups": null
+          }
+        ]
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": null,
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "my-11134202-23020-23uhrpbbwvnv04",
+          "ratio": 0.635,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "my-11134202-23020-xb4al8cbwvnv33",
+          "ratio": 0.638,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "my-11134202-23020-xymzktebwvnv76",
+          "ratio": 0.635,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "my-11134202-23020-2hoskagbwvnv6a",
+          "ratio": 0.5,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "my-11134202-23020-pwv7n3hbwvnvb3",
+          "ratio": 0.558,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "my-11134202-23020-lmn1ivibwvnvef",
+          "ratio": 0.51,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Ei~ Bem-vindo à loja oficial SPRISE! Por favor, leia a descrição do produto claramente, escolha u necessidade. Todos os itens estão em estoques! Por favor, aproveite~ ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "❥Especificações do:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1. Nome da marca: SPRISE DR58",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "2. Cor da Dolomita: Branco Dolomita/Atenas PretoRosa tenda",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "3. Pesos do produto: 275g",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "4. Versão Bluetooth: 5.0",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "5. Distância de comunicação: 10m",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "6. Tempo de conversação: 12 horas",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "7. Tempo de carregamento: 3-4 horas",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "8. Sistema de janelas e macOS adequado para: Android, iOS, macOS",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "❥Características do:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1. A qualidade avançada de som avançada HIFI traz uma experiência de música ao vivo como pessoalmente; com protetores auriculares respiráveis amigáveis à pele, confortáveis de usar sem pressão nas orelhas.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "2. Design dobrável, fácil de transportar; material de metal preferido, resistente à pressão e à violência.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "3. O fone de ouvido Bluetooth joga jogos com latência ultrabaixa, impermeável e à prova de suor, com um cabo de áudio para trazer a melhor experiência de boa vida.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "❥Lista de produtos:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Fone de ouvido Bluetooth ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Cabo de carregamento tipo C ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Cabo de áudio",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1* Manual do Usuário",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Nota: Não use mais de 1,5 A carga da cabeça de carregamento",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 2
+        },
+        {
+          "type": 0,
+          "text": "#earphone #headphone #earphone Jogos #headset #headphone Bluetooth bluetooth #gaming Fone de ouvido com fone de ouvido #headphones #headphone Jogos sem fio para jogos sem fio #bluetooth Fone de ouvido com fone de ouvido #wireless Fones de ouvido com fones de ouvido #cute Fone de ouvido de fone de ouvido #headsets #bluetooth Fone de ouvido com microfone de ouvido #over Fones de ouvido de ouvido de ouvido #wired Fone de ouvido de fone de ouvido #studio Fone de ouvido de fone de ouvido #headphone Baixo de graves",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "my-11134202-23020-23uhrpbbwvnv04",
+          "ratio": 0.635,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "my-11134202-23020-xb4al8cbwvnv33",
+          "ratio": 0.638,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "my-11134202-23020-xymzktebwvnv76",
+          "ratio": 0.635,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "my-11134202-23020-2hoskagbwvnv6a",
+          "ratio": 0.5,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "my-11134202-23020-pwv7n3hbwvnvb3",
+          "ratio": 0.558,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "my-11134202-23020-lmn1ivibwvnvef",
+          "ratio": 0.51,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Hey~ Welcome to SPRISE official store! Please read the product description clearly, choose u need. All items are in stock! Please enjoy~ ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "❥Specifications of:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1. Brand name: SPRISE DR58",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "2. Dolomite Color: White Dolomite/Athens BlackPink Tent",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "3. Product weights: 275g",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "4. Bluetooth Version: 5.0",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "5. Communication distance: 10m",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "6. Talk time: 12 hours",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "7. Charging time: 3-4 hours",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "8. Windows and macOS system suitable for: Android, iOS, macOS",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "❥Features of:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1. Advanced HIFI sound quality brings you A live music experience like personally; with skin-friendly breathable earmuffs, comfortable to wear, no pressure on the ears.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "2. Foldable Design, easy to carry; preferred metal material, resistant to pressure and violence.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "3. The Bluetooth headset plays games with ultra-low latency, waterproof and sweat-proof, with an audio cable to bring you the best good life experience.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "❥Product list:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth headset ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Type C charging cable ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Audio cable",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1* User Manual",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Note: Do not use more than 1.5 A charging head",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 2
+        },
+        {
+          "type": 0,
+          "text": "#earphone #headphone #earphone Games #headset #headphone Bluetooth bluetooth #gaming Headphone with headphone #headphones #headphone Wireless games for wireless games #bluetooth Headphone with headphone #wireless Headphones with headphones #cute Headphone headset #headsets #bluetooth Headset with ear microphone #over In-ear headphones #wired Headphone headset #studio Headphone headset #headphone Bass bass bass",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": null
+  }
+}

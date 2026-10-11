@@ -1,0 +1,2627 @@
+{
+  "task_link": "https://shopee.com.br/product/1006215031/29384596438",
+  "token": "br_batch_crawl",
+  "api_key": "br_batch_crawl",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 29384596438,
+      "shop_id": 1006215031,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "A6S Fones De Ouvido TWS Sem Fio Bluetooth Fone Com Cancelamento De Ruído Esportes Jogos Escritório Microfone",
+      "image": "sg-11134201-7rdxh-mcamfdilkp8h63",
+      "label_ids": [
+        1938661,
+        298408357,
+        844931064601283,
+        1718087960,
+        1428713,
+        1400620050,
+        997961055,
+        298643352,
+        1823833,
+        1943678,
+        700810080,
+        1823810,
+        822062091123206,
+        5325720222303768,
+        1718387941,
+        700605236,
+        299108363,
+        299108400
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100535,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": null,
+      "brand_id": 0,
+      "show_discount": 41,
+      "ctime": 1745399692,
+      "item_rating": {
+        "rating_star": 4.781235266383781
+      },
+      "cb_option": 1,
+      "has_model_with_available_shopee_stock": true,
+      "shop_location": "Internacional",
+      "attributes": [
+        {
+          "name": "Connection Type",
+          "value": "Wireless (Bluetooth or Wifi)",
+          "id": 100408,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2530,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "In Ear",
+          "id": 100519,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2909,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2538,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Mobile, Others, PC & Laptop",
+          "id": 100516,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2867,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Headphone Connection Type",
+          "value": "Bluetooth",
+          "id": 100522,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2923,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Type",
+          "value": "Supplier Warranty",
+          "id": 100370,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2437,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Duration",
+          "value": "7 dias",
+          "id": 100121,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Name",
+          "value": "A6S",
+          "id": 101040,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Registration ID",
+          "value": "040122314191",
+          "id": 101197,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Shenzhen Dahongxing Electronic Technology Co., Ltd\t ",
+          "id": 101237,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "type": 0,
+            "text": "Por favor, note:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": " O produto tem uma função de proteção da bateria, quando a energia do fone de ouvido é 100%. Desligue automaticamente.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Este não é um mau funcionamento, mas uma função de proteção normal da bateria)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "O pacote de pacote inclui:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1x Par de Fones de ouvido",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1x Cabo de Carregamento",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1x Manual do usuário",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": " Especificações do produto",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Modelo do Produto: A6S",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Versão compatível com Bluetooth: V5.3",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Tipo de fone de ouvido: tipo de fone de ouvido",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Tempo de reprodução: cerca de 3 horas",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Tempo de conexão: cerca de 4 horas",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Sistema de trilha Vocal: estéreo",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Modo de suporte para suporte de modo de suporte: HFP / HSP / A2DP / AVRCP",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Sensibilidade de sensibilidade: 105dB + 3dB S P L em 1KHz",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "À prova d'água: IPX4",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Distância de transmissão: 10 metros (em um ambiente ideal sem grandes obstáculos)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Tempo de espera: cerca de 80 horas",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Especificação da bateria: fone de ouvido 3.7V / 45mAh; caixa de carregamento 7V / 250mAh",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Tempo de carregamento: carregue o compartimento de carregamento por cerca de 1,5 horas",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Carregue o fone de ouvido por cerca de 1 hora",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Caixa de carregamento de carregamento para carregar o fone de ouvido: cerca de 2,5 vezes",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-7ras8-m9744zwkkrde56",
+            "ratio": 0.974,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-7ras8-m9744zwkm5xu28",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-7ras8-m9744zwknkia94",
+            "ratio": 0.555,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Descrição do Produto:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": " Ouvir músicas e ligações telefônicas, apoiando ouvir músicas e fazer chamadas.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": " Número de identificação de chamada de chamada, prompt de tom completo em inglês inteligente, potência, emparelhamento, desligamento, baixa potência, etc.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": " Cada vez que o fone de ouvido é conectado ao telefone, o fone de ouvido se conectará automaticamente ao telefone quando estiver ligado, o que é conveniente e mais rápido.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": " Compatibilidade inteligente inteligente de tablet: Suporta todos os telefones celulares com função, tablet, notebook, dispositivo, todos os telefones celulares.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": " Função do botão: pressione e segure para alimentar, pressione e segure para desligar, clique em pausa de música/jogo/atendimento de chamada/desligar o telefone.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "Por favor, note:\n O produto tem uma função de proteção da bateria, quando a energia do fone de ouvido é 100%. Desligue automaticamente.\nEste não é um mau funcionamento, mas uma função de proteção normal da bateria)\n\nO pacote de pacote inclui:\n1x Par de Fones de ouvido\n1x Cabo de Carregamento\n1x Manual do usuário\n\n Especificações do produto\nModelo do Produto: A6S\nVersão compatível com Bluetooth: V5.3\nTipo de fone de ouvido: tipo de fone de ouvido\nTempo de reprodução: cerca de 3 horas\nTempo de conexão: cerca de 4 horas\nSistema de trilha Vocal: estéreo\nModo de suporte para suporte de modo de suporte: HFP / HSP / A2DP / AVRCP\nSensibilidade de sensibilidade: 105dB + 3dB S P L em 1KHz\nÀ prova d'água: IPX4\nDistância de transmissão: 10 metros (em um ambiente ideal sem grandes obstáculos)\nTempo de espera: cerca de 80 horas\nEspecificação da bateria: fone de ouvido 3.7V / 45mAh; caixa de carregamento 7V / 250mAh\nTempo de carregamento: carregue o compartimento de carregamento por cerca de 1,5 horas\nCarregue o fone de ouvido por cerca de 1 hora\nCaixa de carregamento de carregamento para carregar o fone de ouvido: cerca de 2,5 vezes\n\n\n\nDescrição do Produto:\n Ouvir músicas e ligações telefônicas, apoiando ouvir músicas e fazer chamadas.\n Número de identificação de chamada de chamada, prompt de tom completo em inglês inteligente, potência, emparelhamento, desligamento, baixa potência, etc.\n Cada vez que o fone de ouvido é conectado ao telefone, o fone de ouvido se conectará automaticamente ao telefone quando estiver ligado, o que é conveniente e mais rápido.\n Compatibilidade inteligente inteligente de tablet: Suporta todos os telefones celulares com função, tablet, notebook, dispositivo, todos os telefones celulares.\n Função do botão: pressione e segure para alimentar, pressione e segure para desligar, clique em pausa de música/jogo/atendimento de chamada/desligar o telefone.\n",
+      "categories": [
+        {
+          "catid": 100535,
+          "display_name": "Áudio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100578,
+          "display_name": "Fones de Ouvido, Headphones e Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 29384596438,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Rosa",
+          "promotion_id": 476041521086754,
+          "price": 1283000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 2100000,
+          "model_id": 99211187373,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Pink",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 29384596438,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Azul",
+          "promotion_id": 476041521086754,
+          "price": 1300000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 2200000,
+          "model_id": 99211187374,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Blue",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 29384596438,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Verde",
+          "promotion_id": 476041521086754,
+          "price": 1317000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 2200000,
+          "model_id": 99211187375,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Green",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 29384596438,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Preto",
+          "promotion_id": 476041521086754,
+          "price": 1276000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 2100000,
+          "model_id": 89819351556,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Black",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 29384596438,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Branco",
+          "promotion_id": 476041521086754,
+          "price": 1313000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 2100000,
+          "model_id": 99211187372,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "White",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "Cor",
+          "options": [
+            "Preto",
+            "Branco",
+            "Rosa",
+            "Azul",
+            "Verde"
+          ],
+          "images": [
+            "sg-11134301-7reps-m8eddmmrbnwg55",
+            "sg-11134301-7repq-m8eddqqxc9ef25",
+            "sg-11134301-7renl-m8edduvxa7cwf6",
+            "sg-11134301-7reow-m8eddy3mjhds85",
+            "sg-11134301-7renj-m8eddzk2g5uf00"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "name_tr": "Color",
+          "options_tr": [
+            "Black",
+            "White",
+            "Pink",
+            "Blue",
+            "Green"
+          ],
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 1,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 1276000,
+      "raw_discount": 41,
+      "hidden_price_display": null,
+      "price_min": 1276000,
+      "price_max": 1317000,
+      "price_before_discount": 2100000,
+      "price_min_before_discount": 2100000,
+      "price_max_before_discount": 2200000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": false,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": true,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "A6S TWS Wireless Bluetooth Earphones Noise Cancelling Headset Sports Gaming Office Mic",
+      "description_tr": "Please note:\n The product has a battery protection function, when the headphone power is 100%. Automatically turn off.\nThis is not a malfunction, but a normal battery protection function)\n\nThe package package includes:\n1x Pair of Headphones\n1x Charging cable\n1x User Manual\n\n Product specifications\nProduct Model: A6S\nBluetooth compatible version: V5.3\nHeadphone type: headphone type\nPlayback time: about 3 hours\nConnection time: about 4 hours\nVocal trail system: stereo\nSupport mode support support: HFP / HSP / A2DP / AVRCP\nSensitivity sensitivity: 105dB + 3dB S P L at 1KHz\nWaterproof: IPX4\nTransmission distance: 10 meters (in an ideal environment without major obstacles)\nStandby time: about 80 hours\nBattery specification: headphone 3.7V / 45mAh; 7V / 250mAh charging box\nCharging time: charge the charging compartment for about 1.5 hours\nCharge the headset for about 1 hour\nCharging box for charging the headset: about 2.5 times\n\n\n\nProduct Description:\n Listening to music and phone calls, supporting listening to music and making calls.\n Call call ID number, smart English full tone prompt, power, pairing, shutdown, low power, etc.\n Each time the headset is connected to the phone, the headset will automatically connect to the phone when it is turned on, which is convenient and faster.\n Smart Tablet Compatibility: Support all mobile phones with function, tablet, notebook, device, all mobile phones.\n Button function: long press to power, long press to turn off, click music pause/game/call answer/hang up the phone.\n",
+      "rich_text_description_tr": {
+        "paragraph_list": [
+          {
+            "type": 0,
+            "text": "Please note:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": " The product has a battery protection function, when the headphone power is 100%. Automatically turn off.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "This is not a malfunction, but a normal battery protection function)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "The package package includes:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1x Pair of Headphones",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1x Charging cable",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1x User Manual",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": " Product specifications",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Product Model: A6S",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Bluetooth compatible version: V5.3",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Headphone type: headphone type",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Playback time: about 3 hours",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Connection time: about 4 hours",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Vocal trail system: stereo",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Support mode support support: HFP / HSP / A2DP / AVRCP",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Sensitivity sensitivity: 105dB + 3dB S P L at 1KHz",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Waterproof: IPX4",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Transmission distance: 10 meters (in an ideal environment without major obstacles)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Standby time: about 80 hours",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Battery specification: headphone 3.7V / 45mAh; 7V / 250mAh charging box",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Charging time: charge the charging compartment for about 1.5 hours",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Charge the headset for about 1 hour",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Charging box for charging the headset: about 2.5 times",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-7ras8-m9744zwkkrde56",
+            "ratio": 0.974,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-7ras8-m9744zwkm5xu28",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-7ras8-m9744zwknkia94",
+            "ratio": 0.555,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Product Description:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": " Listening to music and phone calls, supporting listening to music and making calls.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": " Call call ID number, smart English full tone prompt, power, pairing, shutdown, low power, etc.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": " Each time the headset is connected to the phone, the headset will automatically connect to the phone when it is turned on, which is convenient and faster.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": " Smart Tablet Compatibility: Support all mobile phones with function, tablet, notebook, device, all mobile phones.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": " Button function: long press to power, long press to turn off, click music pause/game/call answer/hang up the phone.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "stock_display": "IN STOCK",
+      "max_quantity_display": "IN STOCK",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": 1707139756,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": {
+        "video_id": "api/v4/11110166/mms/sg-11110166-6kio1-m8fxhl32o9at90.default.mp4",
+        "thumb_url": "https://down-spe-sg.img.susercontent.com/sg-11110166-6kio1-m8fxhl32o9at90_cover",
+        "duration": 23200,
+        "version": 1,
+        "vid": "sg-11110166-6kio1-m8fxhl32o9at90",
+        "formats": null,
+        "default_format": null,
+        "mms_data": null,
+        "item_cover": null
+      },
+      "images": [
+        "sg-11134201-7rdxh-mcamfdilkp8h63",
+        "sg-11134301-7rfge-m975no9xo7tz30",
+        "sg-11134301-7rfgu-m975no9xr11xa6",
+        "sg-11134301-7rfez-m975noa7ntatb7",
+        "sg-11134301-7rff0-m975no7zsgdj9a",
+        "sg-11134301-7rfgu-m975no9xpm0wa9",
+        "sg-11134301-7rfid-m975nreb3rgg22",
+        "sg-11134301-7rfi2-m975nre146j934",
+        "sg-11134301-7rasn-ma3nntm744rwd3"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "Preto",
+          "image": "sg-11134301-7reps-m8eddmmrbnwg55",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Black",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134301-7reps-m8eddmmrbnwg55"
+        },
+        {
+          "name": "Branco",
+          "image": "sg-11134301-7repq-m8eddqqxc9ef25",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "White",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134301-7repq-m8eddqqxc9ef25"
+        },
+        {
+          "name": "Rosa",
+          "image": "sg-11134301-7renl-m8edduvxa7cwf6",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Pink",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134301-7renl-m8edduvxa7cwf6"
+        },
+        {
+          "name": "Azul",
+          "image": "sg-11134301-7reow-m8eddy3mjhds85",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Blue",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134301-7reow-m8eddy3mjhds85"
+        },
+        {
+          "name": "Verde",
+          "image": "sg-11134301-7renj-m8eddzk2g5uf00",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Green",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134301-7renj-m8eddzk2g5uf00"
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "overlay": {
+        "type": 0,
+        "image": "br-11134258-820m5-ml8a34rlu7t287",
+        "preview_end_time": null,
+        "is_pre_order": null,
+        "description": "Vendedor Internacional"
+      },
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "sg-11134301-7renl-m8edduvxa7cwf6"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "sg-11134301-7reow-m8eddy3mjhds85"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "sg-11134301-7renj-m8eddzk2g5uf00"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "sg-11134301-7reps-m8eddmmrbnwg55"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "sg-11134301-7repq-m8eddqqxc9ef25"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": null,
+          "video": {
+            "video_id": "api/v4/11110166/mms/sg-11110166-6kio1-m8fxhl32o9at90.default.mp4",
+            "thumb_url": "https://down-spe-sg.img.susercontent.com/sg-11110166-6kio1-m8fxhl32o9at90_cover",
+            "duration": 23200,
+            "version": 1,
+            "vid": "sg-11110166-6kio1-m8fxhl32o9at90",
+            "formats": null,
+            "default_format": null,
+            "mms_data": null,
+            "item_cover": null
+          }
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdxh-mcamfdilkp8h63",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134301-7rfge-m975no9xo7tz30",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134301-7rfgu-m975no9xr11xa6",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134301-7rfez-m975noa7ntatb7",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134301-7rff0-m975no7zsgdj9a",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134301-7rfgu-m975no9xpm0wa9",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134301-7rfid-m975nreb3rgg22",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134301-7rfi2-m975nre146j934",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134301-7rasn-ma3nntm744rwd3",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 39,
+      "installment_info": null,
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": -1,
+        "range_min": 1276000,
+        "range_max": 1317000,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": -1,
+        "range_min": 2100000,
+        "range_max": 2200000,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": false,
+      "discount_text": null,
+      "show_final_price_indicator": null,
+      "final_price_vouchers": null,
+      "has_final_price": true,
+      "final_price_info": null,
+      "price_subtext": null,
+      "price_model": {
+        "price_single_model_id": null,
+        "price_min_model_id": 89819351556,
+        "price_max_model_id": 99211187375
+      },
+      "price_promotion": {
+        "price_single_promotion_id": null,
+        "price_single_promotion_type": null,
+        "price_min_promotion_id": 476041521086754,
+        "price_min_promotion_type": 202,
+        "price_max_promotion_id": 476041521086754,
+        "price_max_promotion_type": 202
+      },
+      "instalment_cta_action": null
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": true,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.781235266383781,
+      "rating_count": [
+        2121,
+        53,
+        20,
+        44,
+        104,
+        1900
+      ],
+      "total_rating_count": 2121,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 11243,
+      "cmt_count": 12983,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": true,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": {
+        "type": 2
+      },
+      "historical_sold_display": "200mil+",
+      "global_sold_display": "800mil+",
+      "sold_count_display": "800mil+"
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": null,
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": false,
+        "is_non_cc_installment_payment_eligible": false
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "Internacional",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 1,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 90001,
+          "name": "Expresso padrão",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 1300000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1785316437,
+            "estimated_delivery_date_to": 1786507314,
+            "estimated_delivery_time_min": 10,
+            "estimated_delivery_time_max": 24,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 29/jul to 12/ago",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_range}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_range",
+                    "value": {
+                      "value_str": "Get by 29/jul to 12/ago",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 1,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 1300000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":10,\"edt_max\":24,\"edt_min_hours\":223,\"edt_max_hours\":554,\"edt_min_minutes\":13377,\"edt_max_minutes\":33225,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": null,
+      "pre_selected_shipping_channel": {
+        "channel_id": 90001,
+        "name": "Expresso padrão",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 1300000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1785316437,
+          "estimated_delivery_date_to": 1786507314,
+          "estimated_delivery_time_min": 10,
+          "estimated_delivery_time_max": 24,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Get by 29/jul to 12/ago",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_range}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_range",
+                  "value": {
+                    "value_str": "Get by 29/jul to 12/ago",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 1,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 0,
+          "discount_value": 1300000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":10,\"edt_max\":24,\"edt_min_hours\":223,\"edt_max_hours\":554,\"edt_min_minutes\":13377,\"edt_max_minutes\":33225,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": true,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 89819351556,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 7,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Connection Type",
+          "value": "Wireless (Bluetooth or Wifi)",
+          "id": 100408,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Connection Type",
+          "value_tr": "Wireless (Bluetooth or Wifi)"
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "In Ear",
+          "id": 100519,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Earphone, Headphone, & Headset Type",
+          "value_tr": "In Ear"
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Gaming Focused",
+          "value_tr": "Yes"
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Mobile, Others, PC & Laptop",
+          "id": 100516,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Audio Compatibility",
+          "value_tr": "Mobile, Others, PC & Laptop"
+        },
+        {
+          "name": "Headphone Connection Type",
+          "value": "Bluetooth",
+          "id": 100522,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Headphone Connection Type",
+          "value_tr": "Bluetooth"
+        },
+        {
+          "name": "Warranty Type",
+          "value": "Supplier Warranty",
+          "id": 100370,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Warranty Type",
+          "value_tr": "Supplier Warranty"
+        },
+        {
+          "name": "Warranty Duration",
+          "value": "7 dias",
+          "id": 100121,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Warranty Duration",
+          "value_tr": "7 days"
+        },
+        {
+          "name": "Model Name",
+          "value": "A6S",
+          "id": 101040,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Model Name",
+          "value_tr": "A6S"
+        },
+        {
+          "name": "Registration ID",
+          "value": "040122314191",
+          "id": 101197,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Registration ID",
+          "value_tr": "040122314191"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Shenzhen Dahongxing Electronic Technology Co., Ltd\t ",
+          "id": 101237,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Manufacturer",
+          "value_tr": "Shenzhen Dahongxing Electronic Technology Co., Ltd"
+        },
+        {
+          "name": "Ships From",
+          "value": "Internacional",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 1006215031,
+      "userid": 1006395303,
+      "last_active_time": 1784513669,
+      "vacation": false,
+      "place": null,
+      "account": {
+        "portrait": "cn-11134216-7r98o-lvkbjp9g6tuudb",
+        "username": "choice_oficial.br",
+        "status": 1
+      },
+      "is_shopee_verified": true,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": false,
+      "shop_location": null,
+      "item_count": 366071,
+      "rating_star": 4.804303,
+      "response_rate": 100,
+      "session_info": null,
+      "name": "Choice Oficial",
+      "ctime": 1684926410,
+      "response_time": 4,
+      "follower_count": 8110222,
+      "show_official_shop_label": false,
+      "rating_bad": 721291,
+      "rating_good": 42761219,
+      "rating_normal": 1636466,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": true,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": null,
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": {},
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": null,
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": null,
+      "bank": {
+        "channels": null
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": null,
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "Por favor, note:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " O produto tem uma função de proteção da bateria, quando a energia do fone de ouvido é 100%. Desligue automaticamente.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Este não é um mau funcionamento, mas uma função de proteção normal da bateria)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "O pacote de pacote inclui:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1x Par de Fones de ouvido",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1x Cabo de Carregamento",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1x Manual do usuário",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": " Especificações do produto",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Modelo do Produto: A6S",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Versão compatível com Bluetooth: V5.3",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tipo de fone de ouvido: tipo de fone de ouvido",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tempo de reprodução: cerca de 3 horas",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tempo de conexão: cerca de 4 horas",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Sistema de trilha Vocal: estéreo",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Modo de suporte para suporte de modo de suporte: HFP / HSP / A2DP / AVRCP",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Sensibilidade de sensibilidade: 105dB + 3dB S P L em 1KHz",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "À prova d'água: IPX4",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Distância de transmissão: 10 metros (em um ambiente ideal sem grandes obstáculos)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tempo de espera: cerca de 80 horas",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Especificação da bateria: fone de ouvido 3.7V / 45mAh; caixa de carregamento 7V / 250mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tempo de carregamento: carregue o compartimento de carregamento por cerca de 1,5 horas",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Carregue o fone de ouvido por cerca de 1 hora",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Caixa de carregamento de carregamento para carregar o fone de ouvido: cerca de 2,5 vezes",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-7ras8-m9744zwkkrde56",
+          "ratio": 0.974,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-7ras8-m9744zwkm5xu28",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-7ras8-m9744zwknkia94",
+          "ratio": 0.555,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Descrição do Produto:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Ouvir músicas e ligações telefônicas, apoiando ouvir músicas e fazer chamadas.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Número de identificação de chamada de chamada, prompt de tom completo em inglês inteligente, potência, emparelhamento, desligamento, baixa potência, etc.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Cada vez que o fone de ouvido é conectado ao telefone, o fone de ouvido se conectará automaticamente ao telefone quando estiver ligado, o que é conveniente e mais rápido.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Compatibilidade inteligente inteligente de tablet: Suporta todos os telefones celulares com função, tablet, notebook, dispositivo, todos os telefones celulares.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Função do botão: pressione e segure para alimentar, pressione e segure para desligar, clique em pausa de música/jogo/atendimento de chamada/desligar o telefone.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "Please note:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " The product has a battery protection function, when the headphone power is 100%. Automatically turn off.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "This is not a malfunction, but a normal battery protection function)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "The package package includes:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1x Pair of Headphones",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1x Charging cable",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1x User Manual",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": " Product specifications",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Product Model: A6S",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth compatible version: V5.3",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Headphone type: headphone type",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Playback time: about 3 hours",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Connection time: about 4 hours",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Vocal trail system: stereo",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Support mode support support: HFP / HSP / A2DP / AVRCP",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Sensitivity sensitivity: 105dB + 3dB S P L at 1KHz",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Waterproof: IPX4",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Transmission distance: 10 meters (in an ideal environment without major obstacles)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Standby time: about 80 hours",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Battery specification: headphone 3.7V / 45mAh; 7V / 250mAh charging box",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Charging time: charge the charging compartment for about 1.5 hours",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Charge the headset for about 1 hour",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Charging box for charging the headset: about 2.5 times",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-7ras8-m9744zwkkrde56",
+          "ratio": 0.974,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-7ras8-m9744zwkm5xu28",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-7ras8-m9744zwknkia94",
+          "ratio": 0.555,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Product Description:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Listening to music and phone calls, supporting listening to music and making calls.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Call call ID number, smart English full tone prompt, power, pairing, shutdown, low power, etc.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Each time the headset is connected to the phone, the headset will automatically connect to the phone when it is turned on, which is convenient and faster.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Smart Tablet Compatibility: Support all mobile phones with function, tablet, notebook, device, all mobile phones.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Button function: long press to power, long press to turn off, click music pause/game/call answer/hang up the phone.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": null
+  }
+}

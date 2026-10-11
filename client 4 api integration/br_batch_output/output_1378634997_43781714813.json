@@ -1,0 +1,2662 @@
+{
+  "task_link": "https://shopee.com.br/product/1378634997/43781714813",
+  "token": "br_batch_crawl",
+  "api_key": "br_batch_crawl",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 43781714813,
+      "shop_id": 1378634997,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "Fone De Ouvido Inpods 13 Bluetooth Sem Fio Com Microfone Fones esportivos Adequado Branco",
+      "image": "sg-11134201-824gj-mphmbiylea6l6d",
+      "label_ids": [
+        1000022,
+        298408357,
+        844931064601283,
+        700065053,
+        700065054,
+        822062091122182,
+        835343123222554,
+        595473041,
+        700960097,
+        1688717
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100535,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": null,
+      "brand_id": 0,
+      "show_discount": 67,
+      "ctime": 1781506108,
+      "item_rating": {
+        "rating_star": 4.581314878892734
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": false,
+      "shop_location": "São Paulo",
+      "attributes": [
+        {
+          "name": "Connection Type",
+          "value": "Wireless (Bluetooth or Wifi)",
+          "id": 100408,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2530,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "On Ear",
+          "id": 100519,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2943,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "No",
+          "id": 100381,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2512,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Mobile",
+          "id": 100516,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2867,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Name",
+          "value": "KA-991",
+          "id": 101040,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Registration ID",
+          "value": "015312214323",
+          "id": 101197,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Shenzhen Yixinwang Electronic Technology Co.,ltd",
+          "id": 101237,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "type": 0,
+            "text": "🌟 𝐂𝐎𝐑𝐄𝐒 𝐄𝐍𝐕𝐈𝐀𝐃𝐀𝐒 𝐀𝐋𝐄𝐀𝐓𝐎𝐑𝐈𝐀𝐌𝐄𝐍𝐓𝐄 🌟",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Chegou o fone que vai transformar seu dia a dia! Perfeito para 𝐭𝐫𝐞𝐢𝐧𝐚𝐫 𝐧𝐚 𝐚𝐜𝐚𝐝𝐞𝐦𝐢𝐚, 𝐜𝐮𝐫𝐭𝐢𝐫 𝐮𝐦𝐚 𝐦𝐮́𝐬𝐢𝐜𝐚 𝐧𝐨 𝐭𝐫𝐚̂𝐧𝐬𝐢𝐭𝐨, 𝐚𝐬𝐬𝐢𝐬𝐭𝐢𝐫 𝐚 𝐚𝐮𝐥𝐚𝐬 𝐨𝐧𝐥𝐢𝐧𝐞 ou simplesmente relaxar com suas playlists favoritas! 🎧💥",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "📌 𝐏𝐀𝐑𝐀̂𝐌𝐄𝐓𝐑𝐎𝐒 𝐃𝐎 𝐏𝐑𝐎𝐃𝐔𝐓𝐎:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "𝐏𝐞𝐬𝐨 𝐥𝐞𝐯𝐞 𝐞 𝐜𝐨𝐦𝐩𝐚𝐜𝐭𝐨: Apenas 5-6g por fone. Ideal para levar pra qualquer lugar! 🏃‍♂️💨",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "𝐁𝐚𝐭𝐞𝐫𝐢𝐚 𝐝𝐞 𝐚𝐥𝐭𝐚 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "🔋 5-7h de uso contínuo",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "⏳ 480h em standby (𝐦𝐚𝐢𝐬 𝐝𝐞 20 𝐝𝐢𝐚𝐬!)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "⚡ Recarga rápida: 1-1,5h na caixinha",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "𝐂𝐚𝐢𝐱𝐢𝐧𝐡𝐚 𝐜𝐨𝐦 210mAh: Carrega os fones várias vezes sem precisar de tomada! 🔄",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "𝐀𝐥𝐜𝐚𝐧𝐜𝐞 𝐝𝐞 𝐚𝐭𝐞́ 12𝐦: Ouça música até mesmo com o celular na outra ponta da casa! 🏠🎶",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "𝐂𝐨𝐦𝐩𝐚𝐭𝐢́𝐯𝐞𝐥 𝐜𝐨𝐦 𝐭𝐨𝐝𝐨𝐬 𝐨𝐬 𝐜𝐞𝐥𝐮𝐥𝐚𝐫𝐞𝐬: Android, iOS, Windows e qualquer dispositivo com Bluetooth! 📱💻✔️",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "🎯 𝐅𝐔𝐍𝐂̧𝐎̃𝐄𝐒 𝐄 𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄𝐒:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐞 𝐭𝐚́𝐜𝐭𝐢𝐥 𝐢𝐧𝐭𝐞𝐥𝐢𝐠𝐞𝐧𝐭𝐞: Toque para play/pause, pular música, ativar assistente de voz e atender chamadas! 👆🎶",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "𝐔𝐬𝐨 𝐢𝐧𝐝𝐢𝐯𝐢𝐝𝐮𝐚𝐥 𝐨𝐮 𝐞𝐦 𝐩𝐚𝐫: Use um fone só ou os dois juntos, como preferir! 🔄🎧",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "𝐒𝐨𝐦 𝐇𝐢-𝐅𝐢 𝐜𝐨𝐦 𝐁𝐚𝐬𝐬𝐨 𝟖𝐃: Imersão total na música! 🎶🔥",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "𝐁𝐥𝐮𝐞𝐭𝐨𝐨𝐭𝐡 𝟓.𝟎: Conexão estável e sem delays – perfeito para vídeos e calls! 📞🟦",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "𝐀𝐮𝐭𝐨 𝐎𝐧/𝐎𝐟𝐟: Abriu a caixinha? Já conecta! Fechou? Desliga sozinho! 🤖🔌",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "𝐀𝐯𝐢𝐬𝐨𝐬 𝐞𝐦 𝐢𝐧𝐠𝐥𝐞̂𝐬: Chame a atenção com prompts claros e modernos! 🗣️🔊",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "𝐆𝐏𝐒 𝐯𝐢𝐫𝐭𝐮𝐚𝐥: Nunca mais perca seus fones! 🗺️📍",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "📦 𝐎 𝐐𝐔𝐄 𝐕𝐄𝐌 𝐍𝐀 𝐂𝐀𝐈𝐗𝐀:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1x Par de fones Bluetooth",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1x Caixa de carregamento",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1x Cabo USB",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1x Manual do usuário (em português! 📖)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "💬 𝐏𝐞𝐫𝐟𝐞𝐢𝐭𝐨 𝐩𝐚𝐫𝐚:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Quem ama praticidade",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Quer qualidade sem pagar caro",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Precisa de fone pra day-to-day 🎧❤️",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Chega de fio! Chega de complicação!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Garanta já o seu I13 e mude sua experiência de audio! 🛒🎶",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Connection Type:Wired (usb-c/type-c)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Audio Compatibility:Mobile",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Model Name:Ka-991",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Registration ID:015312214323",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Manufacturer:Shenzhen Yixinwang Electronic Technology Co.,ltd",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Connection Type:Wireless",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Audio Compatibility:Mobile",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Model Name:Ka-991",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "🌟 𝐂𝐎𝐑𝐄𝐒 𝐄𝐍𝐕𝐈𝐀𝐃𝐀𝐒 𝐀𝐋𝐄𝐀𝐓𝐎𝐑𝐈𝐀𝐌𝐄𝐍𝐓𝐄 🌟\nChegou o fone que vai transformar seu dia a dia! Perfeito para 𝐭𝐫𝐞𝐢𝐧𝐚𝐫 𝐧𝐚 𝐚𝐜𝐚𝐝𝐞𝐦𝐢𝐚, 𝐜𝐮𝐫𝐭𝐢𝐫 𝐮𝐦𝐚 𝐦𝐮́𝐬𝐢𝐜𝐚 𝐧𝐨 𝐭𝐫𝐚̂𝐧𝐬𝐢𝐭𝐨, 𝐚𝐬𝐬𝐢𝐬𝐭𝐢𝐫 𝐚 𝐚𝐮𝐥𝐚𝐬 𝐨𝐧𝐥𝐢𝐧𝐞 ou simplesmente relaxar com suas playlists favoritas! 🎧💥\n📌 𝐏𝐀𝐑𝐀̂𝐌𝐄𝐓𝐑𝐎𝐒 𝐃𝐎 𝐏𝐑𝐎𝐃𝐔𝐓𝐎:\n𝐏𝐞𝐬𝐨 𝐥𝐞𝐯𝐞 𝐞 𝐜𝐨𝐦𝐩𝐚𝐜𝐭𝐨: Apenas 5-6g por fone. Ideal para levar pra qualquer lugar! 🏃‍♂️💨\n𝐁𝐚𝐭𝐞𝐫𝐢𝐚 𝐝𝐞 𝐚𝐥𝐭𝐚 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞:\n🔋 5-7h de uso contínuo\n⏳ 480h em standby (𝐦𝐚𝐢𝐬 𝐝𝐞 20 𝐝𝐢𝐚𝐬!)\n⚡ Recarga rápida: 1-1,5h na caixinha\n𝐂𝐚𝐢𝐱𝐢𝐧𝐡𝐚 𝐜𝐨𝐦 210mAh: Carrega os fones várias vezes sem precisar de tomada! 🔄\n𝐀𝐥𝐜𝐚𝐧𝐜𝐞 𝐝𝐞 𝐚𝐭𝐞́ 12𝐦: Ouça música até mesmo com o celular na outra ponta da casa! 🏠🎶\n𝐂𝐨𝐦𝐩𝐚𝐭𝐢́𝐯𝐞𝐥 𝐜𝐨𝐦 𝐭𝐨𝐝𝐨𝐬 𝐨𝐬 𝐜𝐞𝐥𝐮𝐥𝐚𝐫𝐞𝐬: Android, iOS, Windows e qualquer dispositivo com Bluetooth! 📱💻✔️\n🎯 𝐅𝐔𝐍𝐂̧𝐎̃𝐄𝐒 𝐄 𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄𝐒:\n𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐞 𝐭𝐚́𝐜𝐭𝐢𝐥 𝐢𝐧𝐭𝐞𝐥𝐢𝐠𝐞𝐧𝐭𝐞: Toque para play/pause, pular música, ativar assistente de voz e atender chamadas! 👆🎶\n𝐔𝐬𝐨 𝐢𝐧𝐝𝐢𝐯𝐢𝐝𝐮𝐚𝐥 𝐨𝐮 𝐞𝐦 𝐩𝐚𝐫: Use um fone só ou os dois juntos, como preferir! 🔄🎧\n𝐒𝐨𝐦 𝐇𝐢-𝐅𝐢 𝐜𝐨𝐦 𝐁𝐚𝐬𝐬𝐨 𝟖𝐃: Imersão total na música! 🎶🔥\n𝐁𝐥𝐮𝐞𝐭𝐨𝐨𝐭𝐡 𝟓.𝟎: Conexão estável e sem delays – perfeito para vídeos e calls! 📞🟦\n𝐀𝐮𝐭𝐨 𝐎𝐧/𝐎𝐟𝐟: Abriu a caixinha? Já conecta! Fechou? Desliga sozinho! 🤖🔌\n𝐀𝐯𝐢𝐬𝐨𝐬 𝐞𝐦 𝐢𝐧𝐠𝐥𝐞̂𝐬: Chame a atenção com prompts claros e modernos! 🗣️🔊\n𝐆𝐏𝐒 𝐯𝐢𝐫𝐭𝐮𝐚𝐥: Nunca mais perca seus fones! 🗺️📍\n📦 𝐎 𝐐𝐔𝐄 𝐕𝐄𝐌 𝐍𝐀 𝐂𝐀𝐈𝐗𝐀:\n1x Par de fones Bluetooth\n1x Caixa de carregamento\n1x Cabo USB\n1x Manual do usuário (em português! 📖)\n\n💬 𝐏𝐞𝐫𝐟𝐞𝐢𝐭𝐨 𝐩𝐚𝐫𝐚:\nQuem ama praticidade\nQuer qualidade sem pagar caro\nPrecisa de fone pra day-to-day 🎧❤️\nChega de fio! Chega de complicação!\nGaranta já o seu I13 e mude sua experiência de audio! 🛒🎶\nConnection Type:Wired (usb-c/type-c)\nAudio Compatibility:Mobile\nModel Name:Ka-991\nRegistration ID:015312214323\nManufacturer:Shenzhen Yixinwang Electronic Technology Co.,ltd\nConnection Type:Wireless\nAudio Compatibility:Mobile\nModel Name:Ka-991",
+      "categories": [
+        {
+          "catid": 100535,
+          "display_name": "Áudio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100578,
+          "display_name": "Fones de Ouvido, Headphones e Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 43781714813,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "i13,1PC",
+          "promotion_id": 482738717282339,
+          "price": 1998000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 312
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": true,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 6000000,
+          "model_id": 262699474291,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "I13,1Pc",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 43781714813,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "i13,2PCS",
+          "promotion_id": 482738717282339,
+          "price": 3998000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 312
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": true,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 8000000,
+          "model_id": 262699474292,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "I13,2pcs",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 43781714813,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "i12,1PC",
+          "promotion_id": 482738717282339,
+          "price": 1798000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 312
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": true,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 4000000,
+          "model_id": 262699474293,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "I12,1Pc",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 43781714813,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "i12,2PCS",
+          "promotion_id": 482738717282339,
+          "price": 3698000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 312
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": true,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 6000000,
+          "model_id": 262699474294,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "I12,2pcs",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "Modelo",
+          "options": [
+            "i13",
+            "i12"
+          ],
+          "images": [
+            "cn-11134207-820l4-mphmdblr0xe399",
+            "cn-11134207-820l4-mphmd86s15vl7f"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0
+          ],
+          "name_tr": "Model",
+          "options_tr": [
+            "I13",
+            "I12"
+          ],
+          "selling_points": [
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        },
+        {
+          "name": "Kit",
+          "options": [
+            "1PC",
+            "2PCS"
+          ],
+          "images": null,
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0
+          ],
+          "name_tr": "",
+          "options_tr": [
+            "1Pc",
+            "2pcs"
+          ],
+          "selling_points": [
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 1,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 1798000,
+      "raw_discount": 67,
+      "hidden_price_display": null,
+      "price_min": 1798000,
+      "price_max": 3998000,
+      "price_before_discount": 4000000,
+      "price_min_before_discount": 4000000,
+      "price_max_before_discount": 8000000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": true,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "Inpods 13 Wireless Bluetooth Headphones With Mic Sports Headphones Suitable White",
+      "description_tr": "🌟 Colors sent randomly. 🌟\nThe headphones that will transform your everyday life have arrived! Perfect for working out at the gym, enjoying some music in traffic, taking online classes, or simply relaxing with your favorite playlists! 🎧💥\n📌 Product parameters:\nLightweight and compact: Only 5-6g per earphone. Perfect to take anywhere! 🏃‍♂️💨\nHigh-performance battery:\n🔋 5-7 hours of continuous use\n⏳ 480 hours in standby (more than 20 days!)\n⚡ Fast recharge: 1-1.5 hours in the case.\n210mAh case: Charges your earbuds multiple times without needing a wall outlet! 🔄\nRange up to 12m: Listen to music even with your phone on the other end of the house! 🏠🎶\nCompatible with all phones: Android, iOS, Windows, and any device with Bluetooth! 📱💻✔️\n🎯 FUNCTIONS AND HIGHLIGHTS:\nSmart táctil control: Touch to play/pause, skip songs, activate voice assistant, and answer calls! 👆🎶\nUse individually or in pairs: Use one earphone or both together, as you prefer! 🔄🎧\nHi-Fi sound with Basso 8D: total immersion in music! 🎶🔥\nBluetooth 5.0: Stable and lag-free connection – perfect for videos and calls! 📞🟦\nAuto On/Off: Did you open the box? Connect now! Is it closed? It shuts off automatically! 🤖🔌\nNotices in English: Grab attention with clear and modern prompts! 🗣️🔊\nVirtual GPS: Never lose your headphones again! 🗺️📍\n📦 WHAT'S IN THE BOX:\n1 pair of Bluetooth headphones\n1x Charging case\n1x USB cable\n1x User Manual (in Portuguese!) 📖)\n\n💬 Perfect for:\nFor those who love practicality.\nWant quality without paying a lot?\nYou need headphones for everyday use. 🎧❤️\nNo more wires! No more complications!\nSecure your I13 now and transform your audio experience! 🛒🎶\nConnection type: Wired (usb-C/type-C)\nAudio Compatibility: Mobile\nModel Name: Ka-991\nRegistration ID:015312214323\nManufacturer: Shenzhen Yixinwang Electronic Technology Co., ltd.\nConnection Type: Wireless\nAudio Compatibility: Mobile\nModel Name: Ka-991",
+      "rich_text_description_tr": {
+        "paragraph_list": [
+          {
+            "type": 0,
+            "text": "🌟 Colors sent randomly. 🌟",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "The headphones that will transform your everyday life have arrived! Perfect for working out at the gym, enjoying some music in traffic, taking online classes, or simply relaxing with your favorite playlists! 🎧💥",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "📌 Product parameters:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Lightweight and compact: Only 5-6g per earphone. Perfect to take anywhere! 🏃‍♂️💨",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "High-performance battery:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "🔋 5-7 hours of continuous use",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "⏳ 480 hours in standby (more than 20 days!)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "⚡ Fast recharge: 1-1.5 hours in the case.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "210mAh case: Charges your earbuds multiple times without needing a wall outlet! 🔄",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Range up to 12m: Listen to music even with your phone on the other end of the house! 🏠🎶",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Compatible with all phones: Android, iOS, Windows, and any device with Bluetooth! 📱💻✔️",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "🎯 FUNCTIONS AND HIGHLIGHTS:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Smart táctil control: Touch to play/pause, skip songs, activate voice assistant, and answer calls! 👆🎶",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Use individually or in pairs: Use one earphone or both together, as you prefer! 🔄🎧",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Hi-Fi sound with Basso 8D: total immersion in music! 🎶🔥",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Bluetooth 5.0: Stable and lag-free connection – perfect for videos and calls! 📞🟦",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Auto On/Off: Did you open the box? Connect now! Is it closed? It shuts off automatically! 🤖🔌",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Notices in English: Grab attention with clear and modern prompts! 🗣️🔊",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Virtual GPS: Never lose your headphones again! 🗺️📍",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "📦 WHAT'S IN THE BOX:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1 pair of Bluetooth headphones",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1x Charging case",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1x USB cable",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "1x User Manual (in Portuguese!) 📖)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "💬 Perfect for:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "For those who love practicality.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Want quality without paying a lot?",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "You need headphones for everyday use. 🎧❤️",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "No more wires! No more complications!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Secure your I13 now and transform your audio experience! 🛒🎶",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Connection type: Wired (usb-C/type-C)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Audio Compatibility: Mobile",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Model Name: Ka-991",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Registration ID:015312214323",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Manufacturer: Shenzhen Yixinwang Electronic Technology Co., ltd.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Connection Type: Wireless",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Audio Compatibility: Mobile",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Model Name: Ka-991",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "stock_display": "IN STOCK",
+      "max_quantity_display": "IN STOCK",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": 1707139756,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": null,
+      "images": [
+        "sg-11134201-824gj-mphmbiylea6l6d",
+        "sg-11134201-824gr-mphmbjauyv4197",
+        "sg-11134201-824im-mphmbj5jutj59d",
+        "sg-11134201-824iw-mphmbjci8i6mc2",
+        "sg-11134201-824gm-mphmbjigzrws86",
+        "sg-11134201-824gz-mphmblmkwohu0c",
+        "sg-11134201-824i7-mphmblixx82467"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "i13",
+          "image": "cn-11134207-820l4-mphmdblr0xe399",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "I13",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "cn-11134207-820l4-mphmdblr0xe399"
+        },
+        {
+          "name": "i12",
+          "image": "cn-11134207-820l4-mphmd86s15vl7f",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "I12",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "cn-11134207-820l4-mphmd86s15vl7f"
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        1
+      ],
+      "overlay": {
+        "type": 0,
+        "image": "br-11134258-820lw-mlc5ivsid3bb6c",
+        "preview_end_time": null,
+        "is_pre_order": null,
+        "description": "EstoqueNoBrasil"
+      },
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            0,
+            0
+          ],
+          "gallery_image": "cn-11134207-820l4-mphmdblr0xe399"
+        },
+        {
+          "tier_index": [
+            0,
+            1
+          ],
+          "gallery_image": "cn-11134207-820l4-mphmdblr0xe399"
+        },
+        {
+          "tier_index": [
+            1,
+            0
+          ],
+          "gallery_image": "cn-11134207-820l4-mphmd86s15vl7f"
+        },
+        {
+          "tier_index": [
+            1,
+            1
+          ],
+          "gallery_image": "cn-11134207-820l4-mphmd86s15vl7f"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": {
+            "url": "sg-11134201-824gj-mphmbiylea6l6d",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-824gr-mphmbjauyv4197",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-824im-mphmbj5jutj59d",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-824iw-mphmbjci8i6mc2",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-824gm-mphmbjigzrws86",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-824gz-mphmblmkwohu0c",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-824i7-mphmblixx82467",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 55,
+      "installment_info": null,
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": 1798000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 4000000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": false,
+      "discount_text": null,
+      "show_final_price_indicator": null,
+      "final_price_vouchers": null,
+      "has_final_price": true,
+      "final_price_info": null,
+      "price_subtext": null,
+      "price_model": {
+        "price_single_model_id": 262699474293,
+        "price_min_model_id": null,
+        "price_max_model_id": null
+      },
+      "price_promotion": {
+        "price_single_promotion_id": 482738717282339,
+        "price_single_promotion_type": 312,
+        "price_min_promotion_id": null,
+        "price_min_promotion_type": null,
+        "price_max_promotion_id": null,
+        "price_max_promotion_type": null
+      },
+      "instalment_cta_action": null
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": true,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.581314878892734,
+      "rating_count": [
+        289,
+        16,
+        9,
+        7,
+        16,
+        241
+      ],
+      "total_rating_count": 289,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 336,
+      "cmt_count": 289,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": null,
+      "historical_sold_display": "1mil+",
+      "global_sold_display": "1mil+",
+      "sold_count_display": "1mil+"
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": null,
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": false,
+        "is_non_cc_installment_payment_eligible": false
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "São Paulo",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 0,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 91003,
+          "name": "Entrega Padrão",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 839000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784946946,
+            "estimated_delivery_date_to": 1784946946,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_exact}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_exact",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 839000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        },
+        {
+          "channel_id": 90024,
+          "name": "Retire Perto de Você",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 671000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784946946,
+            "estimated_delivery_date_to": 1784946946,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{opc_label_receive_by_date_exact_self_collect}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "opc_label_receive_by_date_exact_self_collect",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 671000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": "",
+      "pre_selected_shipping_channel": {
+        "channel_id": 91003,
+        "name": "Entrega Padrão",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 839000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1784946946,
+          "estimated_delivery_date_to": 1784946946,
+          "estimated_delivery_time_min": 5,
+          "estimated_delivery_time_max": 5,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Get by 24/jul",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_exact}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_exact",
+                  "value": {
+                    "value_str": "Get by 24/jul",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 0,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 0,
+          "discount_value": 839000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": true,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 262699474293,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Discount stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 9,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Other Stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 10,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Connection Type",
+          "value": "Wireless (Bluetooth or Wifi)",
+          "id": 100408,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Connection Type",
+          "value_tr": "Wireless (Bluetooth or Wifi)"
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "On Ear",
+          "id": 100519,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Earphone, Headphone, & Headset Type",
+          "value_tr": "On Ear"
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "No",
+          "id": 100381,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Gaming Focused",
+          "value_tr": "No"
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Mobile",
+          "id": 100516,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Audio Compatibility",
+          "value_tr": "Mobile"
+        },
+        {
+          "name": "Model Name",
+          "value": "KA-991",
+          "id": 101040,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Model Name",
+          "value_tr": "KA-991"
+        },
+        {
+          "name": "Registration ID",
+          "value": "015312214323",
+          "id": 101197,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Registration ID",
+          "value_tr": "015312214323"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Shenzhen Yixinwang Electronic Technology Co.,ltd",
+          "id": 101237,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Manufacturer",
+          "value_tr": "ShenZhen Yixinwang Electronic Technology Co.,Ltd"
+        },
+        {
+          "name": "Ships From",
+          "value": "São Paulo",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 1378634997,
+      "userid": 1379309546,
+      "last_active_time": 1784514599,
+      "vacation": false,
+      "place": null,
+      "account": {
+        "portrait": "cn-11134216-7ras8-m7c2trmchg6m73",
+        "username": "loja_do_povo.br",
+        "status": 1
+      },
+      "is_shopee_verified": true,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": false,
+      "shop_location": null,
+      "item_count": 350,
+      "rating_star": 4.780875,
+      "response_rate": 99,
+      "session_info": null,
+      "name": "LOJA_DO_POVO.br",
+      "ctime": 1728543331,
+      "response_time": 295,
+      "follower_count": 8248,
+      "show_official_shop_label": false,
+      "rating_bad": 2400,
+      "rating_good": 93821,
+      "rating_normal": 3609,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": true,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": true,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": null,
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": null,
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": null,
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": null,
+      "bank": {
+        "channels": null
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": null,
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "🌟 𝐂𝐎𝐑𝐄𝐒 𝐄𝐍𝐕𝐈𝐀𝐃𝐀𝐒 𝐀𝐋𝐄𝐀𝐓𝐎𝐑𝐈𝐀𝐌𝐄𝐍𝐓𝐄 🌟",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Chegou o fone que vai transformar seu dia a dia! Perfeito para 𝐭𝐫𝐞𝐢𝐧𝐚𝐫 𝐧𝐚 𝐚𝐜𝐚𝐝𝐞𝐦𝐢𝐚, 𝐜𝐮𝐫𝐭𝐢𝐫 𝐮𝐦𝐚 𝐦𝐮́𝐬𝐢𝐜𝐚 𝐧𝐨 𝐭𝐫𝐚̂𝐧𝐬𝐢𝐭𝐨, 𝐚𝐬𝐬𝐢𝐬𝐭𝐢𝐫 𝐚 𝐚𝐮𝐥𝐚𝐬 𝐨𝐧𝐥𝐢𝐧𝐞 ou simplesmente relaxar com suas playlists favoritas! 🎧💥",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "📌 𝐏𝐀𝐑𝐀̂𝐌𝐄𝐓𝐑𝐎𝐒 𝐃𝐎 𝐏𝐑𝐎𝐃𝐔𝐓𝐎:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "𝐏𝐞𝐬𝐨 𝐥𝐞𝐯𝐞 𝐞 𝐜𝐨𝐦𝐩𝐚𝐜𝐭𝐨: Apenas 5-6g por fone. Ideal para levar pra qualquer lugar! 🏃‍♂️💨",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "𝐁𝐚𝐭𝐞𝐫𝐢𝐚 𝐝𝐞 𝐚𝐥𝐭𝐚 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "🔋 5-7h de uso contínuo",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⏳ 480h em standby (𝐦𝐚𝐢𝐬 𝐝𝐞 20 𝐝𝐢𝐚𝐬!)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⚡ Recarga rápida: 1-1,5h na caixinha",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "𝐂𝐚𝐢𝐱𝐢𝐧𝐡𝐚 𝐜𝐨𝐦 210mAh: Carrega os fones várias vezes sem precisar de tomada! 🔄",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "𝐀𝐥𝐜𝐚𝐧𝐜𝐞 𝐝𝐞 𝐚𝐭𝐞́ 12𝐦: Ouça música até mesmo com o celular na outra ponta da casa! 🏠🎶",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "𝐂𝐨𝐦𝐩𝐚𝐭𝐢́𝐯𝐞𝐥 𝐜𝐨𝐦 𝐭𝐨𝐝𝐨𝐬 𝐨𝐬 𝐜𝐞𝐥𝐮𝐥𝐚𝐫𝐞𝐬: Android, iOS, Windows e qualquer dispositivo com Bluetooth! 📱💻✔️",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "🎯 𝐅𝐔𝐍𝐂̧𝐎̃𝐄𝐒 𝐄 𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄𝐒:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐞 𝐭𝐚́𝐜𝐭𝐢𝐥 𝐢𝐧𝐭𝐞𝐥𝐢𝐠𝐞𝐧𝐭𝐞: Toque para play/pause, pular música, ativar assistente de voz e atender chamadas! 👆🎶",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "𝐔𝐬𝐨 𝐢𝐧𝐝𝐢𝐯𝐢𝐝𝐮𝐚𝐥 𝐨𝐮 𝐞𝐦 𝐩𝐚𝐫: Use um fone só ou os dois juntos, como preferir! 🔄🎧",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "𝐒𝐨𝐦 𝐇𝐢-𝐅𝐢 𝐜𝐨𝐦 𝐁𝐚𝐬𝐬𝐨 𝟖𝐃: Imersão total na música! 🎶🔥",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "𝐁𝐥𝐮𝐞𝐭𝐨𝐨𝐭𝐡 𝟓.𝟎: Conexão estável e sem delays – perfeito para vídeos e calls! 📞🟦",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "𝐀𝐮𝐭𝐨 𝐎𝐧/𝐎𝐟𝐟: Abriu a caixinha? Já conecta! Fechou? Desliga sozinho! 🤖🔌",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "𝐀𝐯𝐢𝐬𝐨𝐬 𝐞𝐦 𝐢𝐧𝐠𝐥𝐞̂𝐬: Chame a atenção com prompts claros e modernos! 🗣️🔊",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "𝐆𝐏𝐒 𝐯𝐢𝐫𝐭𝐮𝐚𝐥: Nunca mais perca seus fones! 🗺️📍",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "📦 𝐎 𝐐𝐔𝐄 𝐕𝐄𝐌 𝐍𝐀 𝐂𝐀𝐈𝐗𝐀:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1x Par de fones Bluetooth",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1x Caixa de carregamento",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1x Cabo USB",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1x Manual do usuário (em português! 📖)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "💬 𝐏𝐞𝐫𝐟𝐞𝐢𝐭𝐨 𝐩𝐚𝐫𝐚:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Quem ama praticidade",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Quer qualidade sem pagar caro",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Precisa de fone pra day-to-day 🎧❤️",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Chega de fio! Chega de complicação!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Garanta já o seu I13 e mude sua experiência de audio! 🛒🎶",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Connection Type:Wired (usb-c/type-c)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Audio Compatibility:Mobile",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Model Name:Ka-991",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Registration ID:015312214323",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Manufacturer:Shenzhen Yixinwang Electronic Technology Co.,ltd",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Connection Type:Wireless",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Audio Compatibility:Mobile",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Model Name:Ka-991",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "🌟 Colors sent randomly. 🌟",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "The headphones that will transform your everyday life have arrived! Perfect for working out at the gym, enjoying some music in traffic, taking online classes, or simply relaxing with your favorite playlists! 🎧💥",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "📌 Product parameters:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Lightweight and compact: Only 5-6g per earphone. Perfect to take anywhere! 🏃‍♂️💨",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "High-performance battery:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "🔋 5-7 hours of continuous use",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⏳ 480 hours in standby (more than 20 days!)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⚡ Fast recharge: 1-1.5 hours in the case.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "210mAh case: Charges your earbuds multiple times without needing a wall outlet! 🔄",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Range up to 12m: Listen to music even with your phone on the other end of the house! 🏠🎶",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Compatible with all phones: Android, iOS, Windows, and any device with Bluetooth! 📱💻✔️",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "🎯 FUNCTIONS AND HIGHLIGHTS:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Smart táctil control: Touch to play/pause, skip songs, activate voice assistant, and answer calls! 👆🎶",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Use individually or in pairs: Use one earphone or both together, as you prefer! 🔄🎧",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Hi-Fi sound with Basso 8D: total immersion in music! 🎶🔥",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth 5.0: Stable and lag-free connection – perfect for videos and calls! 📞🟦",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Auto On/Off: Did you open the box? Connect now! Is it closed? It shuts off automatically! 🤖🔌",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Notices in English: Grab attention with clear and modern prompts! 🗣️🔊",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Virtual GPS: Never lose your headphones again! 🗺️📍",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "📦 WHAT'S IN THE BOX:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1 pair of Bluetooth headphones",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1x Charging case",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1x USB cable",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1x User Manual (in Portuguese!) 📖)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "💬 Perfect for:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "For those who love practicality.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Want quality without paying a lot?",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "You need headphones for everyday use. 🎧❤️",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "No more wires! No more complications!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Secure your I13 now and transform your audio experience! 🛒🎶",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Connection type: Wired (usb-C/type-C)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Audio Compatibility: Mobile",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Model Name: Ka-991",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Registration ID:015312214323",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Manufacturer: Shenzhen Yixinwang Electronic Technology Co., ltd.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Connection Type: Wireless",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Audio Compatibility: Mobile",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Model Name: Ka-991",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": {
+      "welcome_package": null,
+      "flash_sale": {
+        "skin": {
+          "main_color": "#EE4D2D",
+          "secondary_color": "#FF7337",
+          "end_time": 1784516400
+        },
+        "promotion_id": 482738717282339
+      },
+      "deep_discount": null,
+      "live_stream": null,
+      "exclusive_price": null,
+      "membership_exclusive": null,
+      "recommended_shop_voucher": null,
+      "recommended_voucher": null,
+      "platform_exclusive_sku": null,
+      "vip_savings_banner": null,
+      "shopee_vip": null
+    },
+    "bottom_banner": null
+  }
+}

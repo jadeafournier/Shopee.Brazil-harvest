@@ -1,0 +1,1655 @@
+{
+  "task_link": "https://shopee.com.br/product/1569849623/22594956223",
+  "token": "br_batch_crawl",
+  "api_key": "br_batch_crawl",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 22594956223,
+      "shop_id": 1569849623,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "Air Pro 4 Tws Fone De Ouvido Sem Fio Bluetooth 5.1Mini Fones Esportivos Para Android / Ios iphone",
+      "image": "sg-11134201-820nz-mnme6j97o2yqe5",
+      "label_ids": [
+        844931064601283,
+        700065053,
+        700065054,
+        822062091122182,
+        595473041,
+        648011521,
+        835343123222554,
+        700960097,
+        1718388139,
+        1428713,
+        1718087960
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100535,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": "Taiwan Collection",
+      "brand_id": 1145795,
+      "show_discount": 79,
+      "ctime": 1777436413,
+      "item_rating": {
+        "rating_star": 4.659485338120886
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": false,
+      "shop_location": "São Paulo",
+      "attributes": [
+        {
+          "name": "Connection Type",
+          "value": "Wireless (Bluetooth or Wifi)",
+          "id": 100408,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2530,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Celular",
+          "id": 100516,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Name",
+          "value": "S138",
+          "id": 101040,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Registration ID",
+          "value": "054082411044",
+          "id": 101197,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Guangzhou Wesdar Electronic Technology Co., Ltd.",
+          "id": 101237,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": null,
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "Especificações:\nModelo: Pro4\nDuração da bateria: 24 horas\nBluetooth:  5.0\nTamanho do compartimento de carregamento: 44,5 * 44,5 * 20,5MM\nTamanho único do fone: 16*33,5MM\nCapacidade da bateria de compartimento de carregamento: 220mAh\nCapacidade da bateria de ouvido: 25mAh\nReprodução multiformato: A2DP/AVRCP/HFP/HSP\nDistância de transmissão eficaz: >10M\nAlto-falante: 14MM, alto-falante membrana composto, alta qualidade de som de alta definição\n\n* Qualidade de som puro: grande diafragma movimentação movimentação, restaurar verdadeiramente detalhes de qualidade de som.\n* O jogo não está atrasado, a bobina de voz é sincronizada, e a experiência do jogo é melhor.\n* Redução de ruído para chamadas de microfone duplo: Os microfones primários e secundários funcionam juntos para reduzir o ruído ambiental e deixar a chamada mais clara.\n* Som de qualidade de som atualizado HIFI nas orelhas: HiFi multipush graves, camadas ricas, tornam o som mais sensacional, pura e excelente qualidade de som, aproveite a festa de auditoria.\n*Confortável Trava Ear Fit Design: A estrutura de uso semi-arro é adotada para melhor encaixar o canal do ouvido e dar ambos as orelhas de uso mais estável, compacto e leve, confortável de usar.\n\nPacote Inclui:\nFone De Ouvido Bluetooth * 1 par\nCompartimento de Carregamento * 1\nCabo de Carregamento * 1\nManual do Usuário * 1",
+      "categories": [
+        {
+          "catid": 100535,
+          "display_name": "Áudio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100578,
+          "display_name": "Fones de Ouvido, Headphones e Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 22594956223,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "T616 com fio",
+          "promotion_id": 476360292381065,
+          "price": 1769000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 3000000,
+          "model_id": 239442215749,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "T616 wired",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22594956223,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Pro4",
+          "promotion_id": 476360292381065,
+          "price": 2098000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 10000000,
+          "model_id": 239442215750,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "PRO4",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "model",
+          "options": [
+            "T616 com fio",
+            "Pro4"
+          ],
+          "images": [
+            "sg-11134201-820nm-mnme6ll41pms01",
+            "sg-11134201-820nz-mnme6j97o2yqe5"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0
+          ],
+          "name_tr": "Model",
+          "options_tr": [
+            "T616 wired",
+            "PRO4"
+          ],
+          "selling_points": [
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 2,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 1769000,
+      "raw_discount": 79,
+      "hidden_price_display": null,
+      "price_min": 1769000,
+      "price_max": 2098000,
+      "price_before_discount": 3000000,
+      "price_min_before_discount": 3000000,
+      "price_max_before_discount": 10000000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": false,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "Air Pro 4 Tws Wireless Earphone Bluetooth 5.1Mini Sports Earbuds For Android/Ios iphone",
+      "description_tr": "Specifications:\nModel: Pro4\nBattery life: 24 hours\nBluetooth: 5.0\nCharging compartment size: 44.5*44.5*20.5MM\nOne earphone size: 16*33.5MM\nCharging compartment battery capacity: 220mAh\nEar battery capacity: 25mAh\nMultiformat playback: A2DP/AVRCP/HFP/HSP\nEffective transmission distance: >10M\nSpeaker: 14MM, composite membrane speaker, high definition sound quality\n\n* Pure sound quality: large diaphragm drive, truly restore sound quality details.\n* The game is not late, the voice coil is synchronized, and the game experience is better.\n* Noise Reduction for Dual Microphone Calls: Primary and secondary microphones work together to reduce environmental noise and make the call clearer.\n* Upgraded HIFI sound quality sound in the ears: HiFi multipush bass, rich layers, make the sound more sensational, pure and excellent sound quality, enjoy the listening party.\n*Comfortable Ear Fit Lock Design: The semi-rim wearing structure is adopted to better Fit the Ear canal and give both ears more stable wearing, compact and lightweight, comfortable to wear.\n\nPackage includes:\nBluetooth Headset*1 pair\nCharging Compartment*1\nCharging cable*1\nUser Manual * 1",
+      "rich_text_description_tr": null,
+      "stock_display": "IN STOCK",
+      "max_quantity_display": "IN STOCK",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": 1707139756,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": {
+        "video_id": "api/v4/11110106/mms/sg-11110106-6vas1-mnme5e0gjegwb8.16000101777436361.mp4",
+        "thumb_url": "sg-11110106-6vas1-mnme5e0gjegwb8_cover",
+        "duration": 58,
+        "version": 2,
+        "vid": "sg-11110106-6vas1-mnme5e0gjegwb8",
+        "formats": [
+          {
+            "format": 1600010,
+            "defn": "V540P",
+            "profile": "MP4",
+            "path": "api/v4/11110106/mms/sg-11110106-6vas1-mnme5e0gjegwb8.16000101777436361.mp4",
+            "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6vas1-mnme5e0gjegwb8.16000101777436361.mp4",
+            "width": 540,
+            "height": 720
+          }
+        ],
+        "default_format": {
+          "format": 1600323,
+          "defn": "V540P",
+          "profile": "MP4",
+          "path": "",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6vas1-mnme5e0gjegwb8.default.mp4",
+          "width": 540,
+          "height": 720
+        },
+        "mms_data": "{\"vid\":\"sg-11110106-6vas1-mnme5e0gjegwb8\",\"biz\":107,\"duration\":58006,\"create_time\":1777436360,\"update_time\":1777436362,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/sg-11110106-6vas1-mnme5e0gjegwb8_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600010,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110106/mms/sg-11110106-6vas1-mnme5e0gjegwb8.16000101777436361.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6vas1-mnme5e0gjegwb8.16000101777436361.mp4\",\"width\":540,\"height\":720,\"bitrate\":172058,\"abitrate\":32175,\"size\":1530702,\"fps\":25,\"duration\":58006,\"update_time\":1777436375,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6vas1-mnme5e0gjegwb8.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":178785,\"abitrate\":32175,\"size\":1579492,\"fps\":25,\"duration\":58006,\"update_time\":1777436386,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+        "item_cover": null
+      },
+      "images": [
+        "sg-11134201-820nz-mnme6j97o2yqe5",
+        "sg-11134201-820n8-mnme6j4hcq2w29",
+        "sg-11134201-820ni-mnme6jczlxj41b",
+        "sg-11134201-820lj-mnme6j97tp8o29",
+        "sg-11134201-820md-mnme6kb2ff2e86",
+        "sg-11134201-820n9-mnme6kkxdlojc8",
+        "sg-11134201-820m6-mnme6kw1ct8m25",
+        "sg-11134201-820m1-mnme6j6681l2d2",
+        "sg-11134201-820oh-mnme6j5qm4u803"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "T616 com fio",
+          "image": "sg-11134201-820nm-mnme6ll41pms01",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "T616 wired",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134201-820nm-mnme6ll41pms01"
+        },
+        {
+          "name": "Pro4",
+          "image": "sg-11134201-820nz-mnme6j97o2yqe5",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "PRO4",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134201-820nz-mnme6j97o2yqe5"
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        1
+      ],
+      "overlay": null,
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "sg-11134201-820nm-mnme6ll41pms01"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "sg-11134201-820nz-mnme6j97o2yqe5"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": null,
+          "video": {
+            "video_id": "api/v4/11110106/mms/sg-11110106-6vas1-mnme5e0gjegwb8.16000101777436361.mp4",
+            "thumb_url": "sg-11110106-6vas1-mnme5e0gjegwb8_cover",
+            "duration": 58,
+            "version": 2,
+            "vid": "sg-11110106-6vas1-mnme5e0gjegwb8",
+            "formats": [
+              {
+                "format": 1600010,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": "api/v4/11110106/mms/sg-11110106-6vas1-mnme5e0gjegwb8.16000101777436361.mp4",
+                "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6vas1-mnme5e0gjegwb8.16000101777436361.mp4",
+                "width": 540,
+                "height": 720
+              }
+            ],
+            "default_format": {
+              "format": 1600323,
+              "defn": "V540P",
+              "profile": "MP4",
+              "path": "",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6vas1-mnme5e0gjegwb8.default.mp4",
+              "width": 540,
+              "height": 720
+            },
+            "mms_data": "{\"vid\":\"sg-11110106-6vas1-mnme5e0gjegwb8\",\"biz\":107,\"duration\":58006,\"create_time\":1777436360,\"update_time\":1777436362,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/sg-11110106-6vas1-mnme5e0gjegwb8_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600010,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110106/mms/sg-11110106-6vas1-mnme5e0gjegwb8.16000101777436361.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6vas1-mnme5e0gjegwb8.16000101777436361.mp4\",\"width\":540,\"height\":720,\"bitrate\":172058,\"abitrate\":32175,\"size\":1530702,\"fps\":25,\"duration\":58006,\"update_time\":1777436375,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110106/mms/sg-11110106-6vas1-mnme5e0gjegwb8.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":178785,\"abitrate\":32175,\"size\":1579492,\"fps\":25,\"duration\":58006,\"update_time\":1777436386,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+            "item_cover": null
+          }
+        },
+        {
+          "image": {
+            "url": "sg-11134201-820nz-mnme6j97o2yqe5",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-820n8-mnme6j4hcq2w29",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-820ni-mnme6jczlxj41b",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-820lj-mnme6j97tp8o29",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-820md-mnme6kb2ff2e86",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-820n9-mnme6kkxdlojc8",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-820m6-mnme6kw1ct8m25",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-820m1-mnme6j6681l2d2",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-820oh-mnme6j5qm4u803",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 41,
+      "installment_info": null,
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": -1,
+        "range_min": 1769000,
+        "range_max": 2098000,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": -1,
+        "range_min": 3000000,
+        "range_max": 10000000,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": false,
+      "discount_text": null,
+      "show_final_price_indicator": null,
+      "final_price_vouchers": null,
+      "has_final_price": true,
+      "final_price_info": null,
+      "price_subtext": null,
+      "price_model": {
+        "price_single_model_id": null,
+        "price_min_model_id": 239442215749,
+        "price_max_model_id": 239442215750
+      },
+      "price_promotion": {
+        "price_single_promotion_id": null,
+        "price_single_promotion_type": null,
+        "price_min_promotion_id": 476360292381065,
+        "price_min_promotion_type": 301,
+        "price_max_promotion_id": 476360292381065,
+        "price_max_promotion_type": 301
+      },
+      "instalment_cta_action": null
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": true,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.659485338120886,
+      "rating_count": [
+        1671,
+        72,
+        24,
+        62,
+        85,
+        1428
+      ],
+      "total_rating_count": 1671,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 1096,
+      "cmt_count": 1671,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": null,
+      "historical_sold_display": "5mil+",
+      "global_sold_display": "5mil+",
+      "sold_count_display": "5mil+"
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": null,
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": false,
+        "is_non_cc_installment_payment_eligible": false
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "São Paulo",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 0,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 91003,
+          "name": "Entrega Padrão",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 839000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784947405,
+            "estimated_delivery_date_to": 1784947405,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_exact}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_exact",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 839000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        },
+        {
+          "channel_id": 90024,
+          "name": "Retire Perto de Você",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 671000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784947405,
+            "estimated_delivery_date_to": 1784947405,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{opc_label_receive_by_date_exact_self_collect}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "opc_label_receive_by_date_exact_self_collect",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 671000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": "",
+      "pre_selected_shipping_channel": {
+        "channel_id": 91003,
+        "name": "Entrega Padrão",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 839000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1784947405,
+          "estimated_delivery_date_to": 1784947405,
+          "estimated_delivery_time_min": 5,
+          "estimated_delivery_time_max": 5,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Get by 24/jul",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_exact}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_exact",
+                  "value": {
+                    "value_str": "Get by 24/jul",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 0,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 0,
+          "discount_value": 839000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": true,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 239442215749,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 7,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Brand",
+          "value": "Taiwan Collection",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": "/search?brands=1145795",
+          "brand_id": 1145795,
+          "full_url": "https://shopee.com.br/search?brands=1145795",
+          "type": 1,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Connection Type",
+          "value": "Wireless (Bluetooth or Wifi)",
+          "id": 100408,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Connection Type",
+          "value_tr": "Wireless (Bluetooth or Wifi)"
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Celular",
+          "id": 100516,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Audio Compatibility",
+          "value_tr": "Calular"
+        },
+        {
+          "name": "Model Name",
+          "value": "S138",
+          "id": 101040,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Model Name",
+          "value_tr": "S138"
+        },
+        {
+          "name": "Registration ID",
+          "value": "054082411044",
+          "id": 101197,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Registration ID",
+          "value_tr": "054082411044"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Guangzhou Wesdar Electronic Technology Co., Ltd.",
+          "id": 101237,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Manufacturer",
+          "value_tr": "Guangzhou Wesdar Electronic Technology Co., Ltd."
+        },
+        {
+          "name": "Ships From",
+          "value": "São Paulo",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 1569849623,
+      "userid": 1570720040,
+      "last_active_time": 1784515109,
+      "vacation": false,
+      "place": "São Paulo, São Paulo",
+      "account": {
+        "portrait": "br-11134216-81z1k-mfc70qq45xc61c",
+        "username": "casatopshop",
+        "status": 1
+      },
+      "is_shopee_verified": true,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": false,
+      "shop_location": "",
+      "item_count": 343,
+      "rating_star": 4.786908,
+      "response_rate": 100,
+      "session_info": null,
+      "name": "CASA TOP SHOP",
+      "ctime": 1750516053,
+      "response_time": 545,
+      "follower_count": 7497,
+      "show_official_shop_label": false,
+      "rating_bad": 2989,
+      "rating_good": 120353,
+      "rating_normal": 4422,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": true,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": null,
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": null,
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": null,
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": null,
+      "bank": {
+        "channels": null
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": null,
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "Especificações:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Modelo: Pro4",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Duração da bateria: 24 horas",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth:  5.0",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tamanho do compartimento de carregamento: 44,5 * 44,5 * 20,5MM",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tamanho único do fone: 16*33,5MM",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Capacidade da bateria de compartimento de carregamento: 220mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Capacidade da bateria de ouvido: 25mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Reprodução multiformato: A2DP/AVRCP/HFP/HSP",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Distância de transmissão eficaz: >10M",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Alto-falante: 14MM, alto-falante membrana composto, alta qualidade de som de alta definição",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "* Qualidade de som puro: grande diafragma movimentação movimentação, restaurar verdadeiramente detalhes de qualidade de som.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "* O jogo não está atrasado, a bobina de voz é sincronizada, e a experiência do jogo é melhor.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "* Redução de ruído para chamadas de microfone duplo: Os microfones primários e secundários funcionam juntos para reduzir o ruído ambiental e deixar a chamada mais clara.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "* Som de qualidade de som atualizado HIFI nas orelhas: HiFi multipush graves, camadas ricas, tornam o som mais sensacional, pura e excelente qualidade de som, aproveite a festa de auditoria.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "*Confortável Trava Ear Fit Design: A estrutura de uso semi-arro é adotada para melhor encaixar o canal do ouvido e dar ambos as orelhas de uso mais estável, compacto e leve, confortável de usar.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Pacote Inclui:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Fone De Ouvido Bluetooth * 1 par",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Compartimento de Carregamento * 1",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Cabo de Carregamento * 1",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Manual do Usuário * 1",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "Specifications:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Model: Pro4",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Battery life: 24 hours",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth: 5.0",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Charging compartment size: 44.5*44.5*20.5MM",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "One earphone size: 16*33.5MM",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Charging compartment battery capacity: 220mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Ear battery capacity: 25mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Multiformat playback: A2DP/AVRCP/HFP/HSP",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Effective transmission distance: >10M",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Speaker: 14MM, composite membrane speaker, high definition sound quality",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "* Pure sound quality: large diaphragm drive, truly restore sound quality details.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "* The game is not late, the voice coil is synchronized, and the game experience is better.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "* Noise Reduction for Dual Microphone Calls: Primary and secondary microphones work together to reduce environmental noise and make the call clearer.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "* Upgraded HIFI sound quality sound in the ears: HiFi multipush bass, rich layers, make the sound more sensational, pure and excellent sound quality, enjoy the listening party.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "*Comfortable Ear Fit Lock Design: The semi-rim wearing structure is adopted to better Fit the Ear canal and give both ears more stable wearing, compact and lightweight, comfortable to wear.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Package includes:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth Headset*1 pair",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Charging Compartment*1",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Charging cable*1",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "User Manual * 1",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": {
+      "flash_sale_preview": {
+        "promotion_id": 483216133935143,
+        "flash_sale_type": 2,
+        "start_time": 1784516400
+      },
+      "exclusive_price": null,
+      "live_stream": null,
+      "deep_discount": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null,
+      "shopee_vip": null
+    }
+  }
+}

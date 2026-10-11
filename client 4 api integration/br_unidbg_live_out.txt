@@ -1,0 +1,30 @@
+[probe] proxy= http://gdxc12191-region-BR-st-S%C3%A3o%20Paulo-city-Barueri-sid-D7QtFMkB-t-120:qadnrubc@us cookie_len= 3018
+[probe] config-sign keys ['114aecb5', '76fe10cc', 'f7b8d522', 'x-sap-ri'] lens {'114aecb5': 28, '76fe10cc': 968, 'f7b8d522': 28, 'x-sap-ri': 52}
+[probe] df config st= 200 xspa= False body= {"code":3160005,"msg":"parse protocol data fail"}
+[probe] signing /api/v4/pdp/get_pc?shop_id=1397458631&item_id=26420453879
+[probe] sig keys ['21a3867c', '2f', 'f55970c4', 'x-sap-ri'] {'21a3867c': 976, '2f': 28, 'f55970c4': 28, 'x-sap-ri': 52}
+[probe] init lines: [signer] vuwuuwvv(1001) ok
+[signer] vuwuuwvu opcode=65533 ret=0 status=3
+[signer] native 65533 status=3 outBytes=279 outStrLen=0
+[signer] wrote shps_config_body.b64 len=372 bin=279
+[signer] vuwuuwvu opcode=20480 ret=0 status=3
+[signer] native 20480 status=3 outBytes=32
+[signer] vuwuuwvu opcode=20482 ret=0 status=3
+[signer] native 20482 status=3 outBytes=256
+[signer] softToken session=0caba194...
+[signer] loaded so=libshpssdk.so apk=com.shopee.id.apk pkg=com.shopee.id base=0x12000000 cfgLen=0 ski
+[probe] id ua=app var=raw st=403 err=90309999 item=False n=160
+[probe] id ua=app var=force_x_sap_sec st=403 err=90309999 item=False n=160
+[probe] id ua=app var=dual st=403 err=90309999 item=False n=160
+[probe] id ua=web var=raw st=403 err=90309999 item=False n=160
+[probe] id ua=web var=force_x_sap_sec st=403 err=90309999 item=False n=160
+[probe] id ua=web var=dual st=403 err=90309999 item=False n=160
+[probe] br ua=app var=raw st=403 err=90309999 item=False n=159
+[probe] br ua=app var=force_x_sap_sec st=403 err=90309999 item=False n=159
+[probe] br ua=app var=dual st=403 err=90309999 item=False n=158
+[probe] br ua=web var=raw st=403 err=90309999 item=False n=159
+[probe] br ua=web var=force_x_sap_sec st=403 err=90309999 item=False n=159
+[probe] br ua=web var=dual st=403 err=90309999 item=False n=159
+[probe] extra br i.1397458631.29943809506 st=403 err=90309999 item=False
+[probe] extra br i.1397458631.42556519762 st=403 err=90309999 item=False
+[probe] DONE saved= 0 summary= D:\Great Scraper\Great Scraper\client 4 api integration\br_deliverable_getpc\_probe_summary.json

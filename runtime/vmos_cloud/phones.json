@@ -1,0 +1,42 @@
+[
+  {
+    "shard": 0,
+    "pad": "AC20250306MHUQVN",
+    "name": "Phone3",
+    "port": "8088",
+    "adb_port": "5071",
+    "serial": "localhost:63411"
+  },
+  {
+    "shard": 1,
+    "pad": "ACP251005M8NPVM5",
+    "name": "Phone2",
+    "port": "8089",
+    "adb_port": "5072",
+    "serial": "localhost:59554"
+  },
+  {
+    "shard": 2,
+    "pad": "ACP250719PQRGGM6",
+    "name": "Phone1",
+    "port": "8090",
+    "adb_port": "5073",
+    "serial": "localhost:50626"
+  },
+  {
+    "shard": 3,
+    "pad": "APP5B54EHZR76TYF",
+    "name": "Phone4",
+    "port": "8091",
+    "adb_port": "5074",
+    "serial": "localhost:64041"
+  },
+  {
+    "shard": 4,
+    "pad": "ACP62L5XZKCSRODB",
+    "name": "Phone5",
+    "port": "8092",
+    "adb_port": "5075",
+    "serial": "localhost:54720"
+  }
+]

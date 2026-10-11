@@ -1,0 +1,60 @@
+Cookie:
+ssr-tz=Asia/Taipei; _QPWSDCXHZQA=887b288e-411e-4380-be2f-f1c683cd896c; REC7iLP4Q=8c8be5f1-e88a-407a-8ebe-3cb553920f02; REC_T_ID=b43d3213-821f-11f1-99f9-ee398775c7ba; SPC_F=0EAyNQaW9tgEQMTDXf1ZvtcbLCS0VVQe; SPC_SI=WKEragAAAABRMmp3QWF5d1eJNAMAAAAAZTUwSW5Fc0Y=; _med=refer; language=en; _ga=GA1.1.1054239037.1784321023; _gcl_au=1.1.806289413.1784321024; _fbp=fb.2.1784321023650.347394064855867231; SPC_CLIENTID=MEVBeU5RYVc5dGdFliuazijgtmcwnsqn; _sapid=f0561c34a2c5465ef50bd03616471727ce315b587e42aa449dc43721; csrftoken=UUEv24UM6xtq9wICskEkQ6IViOmKdn3N; SPC_CDS_CHAT=ac303a4d-edf9-4585-833c-71373ad80f5d; SPC_EC=-; SPC_ST=MTBvcW1vaXhjc3JqUUpRTh10uyNaeQCnXex+Kk7Wz6EE3KI7S7L0iEyuIUKjJwdjlDETYYerOz7eYMqAuCkynuCyoZip6u6RETXfd9dTy4e1JTc4lHZff6BG1yIEmdEXnAxpNgajUd0R06R/236pVYTQzEAr6S/L4UPheqxfGL6PgnEkaXLUaBQ9wIDh5BzOCpCTT9IYb1GSjbiF8hR1RA==.AI/5c9W0iSTrmujM7fqvgUOxJoOZhLSxrTOu6vNckHM1; SPC_U=1707139756; SPC_R_T_ID=URzhGHqVg5iZ3pB9kGv7y4uTfoVCE3IG6l7ngMHbeGGExdtI1B2EM4XZt8EvhDF3kRU75x7TWdTbgmMSRIa7T+nqPDz/WRxGXnlE6IkotBGIoo29Xf7u7x+xQNOKn+e8j2K46A0wyH8aBq7pOaJrUvtZZcoVXapRwJMhLjAACaI=; SPC_R_T_IV=OVFRQm9PVU83UURsY01OcA==; SPC_T_ID=URzhGHqVg5iZ3pB9kGv7y4uTfoVCE3IG6l7ngMHbeGGExdtI1B2EM4XZt8EvhDF3kRU75x7TWdTbgmMSRIa7T+nqPDz/WRxGXnlE6IkotBGIoo29Xf7u7x+xQNOKn+e8j2K46A0wyH8aBq7pOaJrUvtZZcoVXapRwJMhLjAACaI=; SPC_T_IV=OVFRQm9PVU83UURsY01OcA==; SPC_SEC_SI=v1-ZUZORlNWT2JXSTA3SEpMOBdYEoZHRhN8xayYC3xDG+9VdwKRX8pKmAO/l0QcJAXXRcqEbbH+mfdiALathSIWNPjbBp+OvfLGgSNRtiZ3IYg=; _ga_T69DLR1QPG=GS2.1.s1785194963$o26$g1$t1785194995$j28$l1$h1744580051; shopee_webUnique_ccd=VLZvIFY%2BHesXTFKLU9b%2FOw%3D%3D%7CUspHB3Fg1nQCd6D1%2FYAUN42FyojbX9q9mBlvPggmyk3%2F5Z04Rs8mX4UjZLCVig05gSYJ7zgt92sHywkQak4%3D%7C5ea2Or8Qf%2BM4%2B1mH%7C08%7C3; ds=9e7472890fbf8279637b0625e2765344; AC_CERT_D=gqRjZGVrxHeFomtpuDE0MjUxOmNhcHRjaGFfY29va2llX2tleaJrdtEAAaRhbGdv0gAAAGSjZGVrwKJjdMRAAAAADGE52xUo3Wm3iC5rRYtPIg498IF1KHCytnPhbjJaI6YqfVhynmwqpbv6ogr0FzEZ/3RtNpmV6B9rxJ+WP6pjaXBoZXJ0ZXh0xQNNAAAADOhtCwaEEdY3xTBAC6tB4KGb4qWZ7cZKIA5fCX7M48sF9YWhtWgEtnRNZitOpXu/GGR2Wm7+qVzZx1wRPdPlvr22rXTzT5DYan5HAoGuBWa/G+1nmOPHAtAte5IQgmFKOtmv7MbzDfPoyznwUeUqNlLG/UbU6iP0Ii+/ziRsYbmnz5H/YzqEsYxgjmzXs5qTJU5e2t400rWYoBYh39PVsmO1TgLw4FIkifSY4SE3AqIGQHXbxCDCDnY6J4cFtiMtG8r49KsUn2WtPm0s9fhSFs8EgMHCjNLNGFoF+4X+KPAcHDrvAwlDYjiAS7PE6VNV7lD/xIb4mXZdJoUlfqnmc6oe3RfCyQM5rjwCblU3z3E5Rl+p67XrvVzZOMwKWLiY9J+ma/f38//MNd8/yB3vemhsgM3mkkV93Gm5p2CCasUHZacnNuMAYGsCIb9g7gCK+XQSG0PLqtLT6IDCjNA+EkL77qI+Zwe/2NzJo31sIGtgVlXOP6enAtXSYoThKcnDvVlZIBrkpkQF3UdVmTXKlzTq01udA5Uy4xGdMCWGBqIg60HRfuvxUnQLDR4CKtw9UG48jPzKWeXmr35uXmiEOmlK3UaSXQzU+F0eYZvvGKV2n9pgzRervM3owJzvnPkahSA/zy92UQxPfvEwQCFIVZLb1N0MROz9FxhdWa3g8uqrz52aVz7NeWLn97yHAx43aYLY18EEdsKIqcR+286GK5SnFE8rRfPnWGOQWJ07zih4LkfFd7x+ujiTL4FMydm2WDrbFUDD5hn07kUAgDvcYGbuKojj/mfxZP8pFIO1WIN1YbcxQOFuSoabtrCvqXPmykEkpqmaY/efnIqFGm+IJX1zDNu2gONU486rHJYwKa23hgzCYlNDOiLSF4t3j9xDk1Ugi4taSWjRmbqfRXfGl8ygtDZqKqtvgGyPd/ntbkQAi3yYPif9nUWoKdj6zco2rNkcv9Mv5DX3t0H2LAHP3dic5ezSDx2D86dkW749WrOEEl70q635GPCrDpRY8FBL9Ks6A6LzdDZlsPOS23lOR4DP5S90ICRLsll7PIaTVCSYZvbUlIWvhb66rTBARZrMxVqooSpHGcistkj1Gsg0B9dS6eEOA+K4fPc=; sense_sa_r=s
+
+Proxy:
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-D7QtFMkB-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-M6FE5cj9-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-cR3FaQOv-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-INRQE92G-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-0cS56fNF-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-mGwO8ySS-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-0yIq8BMT-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-itBaiXww-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-Il7oRfWi-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-vyY5TAqn-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-HYKMjxDL-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-LHRDTD2R-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-9MfHeiMN-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-28ZBowTn-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-ZxS7yYuj-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-bkVGzO8L-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-Dy3ZqQeh-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-ISJiHoKS-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-5ICTN87u-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-B0bVRnI9-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-uNzKWdCV-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-3EpZoW7S-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-T4DbS2ZG-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-9TTzWM8P-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-F8e1t1p5-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-4I1ngOgM-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-h371vybx-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-aNiiDRQS-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-BUf0sNnp-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-zt0iUVcw-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-2SvuX0bb-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-SdDCh8nu-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-2Chozwqy-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-YVpSmodU-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-9tGPvt6o-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-6qhyEfrw-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-IIZwYRxK-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-ZFm59xe7-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-g6vWDZYQ-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-NgtxJrpE-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-dnZn82E5-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-23QtEYJW-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-F4mdmEh5-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-zlzkTmFS-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-gjzDtMiG-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-K3McEHSH-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-EvyC3eal-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-L1HEdIGA-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-d1thDas5-t-120:qadnrubc
+us.1024proxy.io:3000:gdxc12191-region-BR-st-São Paulo-city-Barueri-sid-WoTugWKT-t-120:qadnrubc
+
+Test Url:
+https://shopee.com.br/Bomba-De-Ar-Manual-Com-Medidor-150-Psi-Pneu-Moto-Bike-Carro-BT-AX103-i.1397458631.26420453879?extraParams=%7B%22display_model_id%22%3A258444874122%2C%22model_selection_logic%22%3A3%7D&sp_atk=d67c6381-6237-4b6d-ba4d-fabd4494ff27&xptdk=d67c6381-6237-4b6d-ba4d-fabd4494ff27
+https://shopee.com.br/24-Divis%C3%B3rias-Pasta-Organizadora-De-Arquivos-Expans%C3%ADvel-Para-Documentos-i.1397458631.29943809506?extraParams=%7B%22display_model_id%22%3A272259431027%2C%22model_selection_logic%22%3A3%7D
+https://shopee.com.br/Suporte-De-Carro-Para-Celular-360o-Ventosa-Montagem-Haste-Firme-Ajust%C3%A1vel-i.1397458631.42556519762?extraParams=%7B%22display_model_id%22%3A270549008390%2C%22model_selection_logic%22%3A3%7D
+https://shopee.com.br/WALCOS-Suporte-Para-Celular-%C3%80-Prova-D'%C3%A1gua-Guiador-De-Motocicleta-(todos-os-celulares)-i.1809553926.23394941480?extraParams=%7B%22display_model_id%22%3A199621212091%2C%22model_selection_logic%22%3A3%7D&sp_atk=f9c1564f-dea1-457b-85b7-2e55529a537f&xptdk=f9c1564f-dea1-457b-85b7-2e55529a537f

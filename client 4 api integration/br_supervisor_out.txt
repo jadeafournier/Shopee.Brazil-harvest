@@ -1,0 +1,5 @@
+08:52:22 supervisor n=621 spawn ultraslow
+08:52:22 ULTRASLOW start n=621 pending=45562 accounts=12
+08:52:22 try br_1705283243_F3zrbhjv …pee.com.br/product/980944158/26142163515 sub=... de Janeiro-sid-OgGw2kAw-t-120
+08:52:46 get_pc err=None keys=103
+08:52:46 OK total=622

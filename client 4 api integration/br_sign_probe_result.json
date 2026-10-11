@@ -1,0 +1,26 @@
+[
+  {
+    "acc": "br_5196720216_hsRjFTxp_live.json",
+    "err": 90309999,
+    "keys": 0,
+    "signed": true,
+    "cert": false,
+    "url": "https://shopee.com.br/verify/traffic?anti_bot_tracking_id=gqRjZGVrxHSFomtptTE0MjUxOnRyYWNraW5nX2lkX2tleaJrdtEAAaRhbGdv0gAAAGSjZGVrwKJjdMRAAAAADFtqOKbXYKgMC8nLGk4Rev47Hz1FMRdSdsDndMJcxwZW747xm49oNJjktd1kWEFMBx2WycGbks3K61nlV6pjaXBoZXJ0ZXh0xQM9AAAADC1_m_cQhDLSWV0e9LD6Ht1xSpJtDWZjMZx_Ti9Wh1v5rBIdoOQcSav_c5fwhLkh4reUqFJWpea6WSYBoEjfSK99tLMYTT0M5ZHbITyOunu4v9_2hEVCa5LszT6YMOAtbS7YUHuAdjj8e-XEvMYRhvDJV7e8z5bmIrTDauzzSvyMdJPn25JfCCrbgEsIMoexbXXq3mdb7VUeT-HNncAPJyQYqb2AvlqdCtLvxGX20QL7qLHkgJpq7yRWHTWYHf_DBxgcxmEu6pHo0lrLegJIxmzN6HEubNyMJhCa1wX1Uk4pJlmDioO6jAVERdWgcz8XfwdTfDfpV8LnAv0QARsc1IZkLPElOokubbqAY5XDNmCQNj08TaqN5UHXo60F2DwqTCEqE_FpMocd_OFfgzL3N4RuFHsv_xFzK1UBkQVtWETRe_ET_K_RY5aejlTkfuaRekTONXz6o2zjb2dg9vfmxiXgpgRixCgtZJyDfTFz40swgU7IG8vOC3D1bK1mzj6E79TvxDBtLmg-HXycndrHeNceaV6hPbbOeTst8zQhebCfph23vH_rT8aNktbY4kmwJtC7e3a5HeRQpviQzml7WiIoGXGAbafju4eWRQ5HmkrgM12BOk6PalG6cJnyS-zDuXgBfI1GCeRsne30W8rHDsoctydBLVQ6jbNzxCytvohvxPY3zOXKPWiSyekNlCUCQ-xMlqyMeKiBJ4_1DzOkj3HhoOkUxGJn8BrvDPxns5K6ak2QLtFMnEL_sIkJJs5kgHK5sj1kbMa7b7mST66TQuLmuvyx-bCDayuoCVKYWGsuTZOr-9XosFQfZ7ppM9YkM0tzQ7Pa1fO3cZHDUqdsLYzQHsKFWPNxgkWIAfeZNcJzENs6XAMTK0t2Bhe3y0S6Fu7Qn_pOggdsP189uObUxTFZijQ1f1Xp71aDIELkB9pCpVIvyWz3q_3lD8lmQdno7O2QvsO2984GMOnd3yGGSkr3G84UN4y6zim2Cr8bqYnzHSsDvsQrdhVBJbu1gQc7n0qKFjwoaMInlhYEVNGwAOBsYEvHFD1r0xIbUwu7Pn61hqiq2BCUnsNaUo7otj9zQPMkvxcCrEsKeA&app_key=mfreyJidXNpbmVzcyI6IlBEUCIsIm1mciI6IjAiLCJtZnJfY2FwdGNoYSI6IiIsInBvcF91cCI6ZmFsc2V9.PC&client_id=&is_initial=true&next=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1006215031%2F24076819963&redirect_type=2&scene=crawler_item&should_replace_history=true"
+  },
+  {
+    "acc": "br_1707407334_mRNUQARQ_live.json",
+    "err": 90309999,
+    "keys": 0,
+    "signed": true,
+    "cert": false,
+    "url": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_in=true&tracking_id=651bfb248ec-7917-4b89-834d-324b34b27965"
+  },
+  {
+    "acc": "br_1706801030_ydvUxsIK_live.json",
+    "err": 90309999,
+    "keys": 0,
+    "signed": true,
+    "cert": false,
+    "url": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_in=true&tracking_id=801c68e27f4-14b5-407a-aacd-bf0ceb383fe7"
+  }
+]

@@ -1,0 +1,15 @@
+06:32:58 ULTRASLOW start n=621 pending=45562 accounts=12
+06:32:58 try br_1705283243_F3zrbhjv …pee.com.br/product/980944158/26142163515 sub=...ty-Salvador-sid-TgndJVPA-t-120
+06:34:05 gap 300s n=621
+06:39:05 try br_1706784820_OUk7hm0A …ee.com.br/product/1808715181/58209420568 sub=... de Janeiro-sid-Rk5Bg73I-t-120
+06:39:28 get_pc err=90309999 keys=0
+06:39:28 cool br_1706784820_OUk7hm0A_live.json 60m
+06:39:28 cool br_1706784820_OUk7hm0A_live.json 45m need_app_sign
+06:39:28 gap 300s n=621
+06:44:28 try br_1706785017_CoOHjjSQ …pee.com.br/product/395237078/23694444548 sub=...y-São Paulo-sid-gyaI6vsL-t-120
+06:46:22 gap 300s n=621
+06:51:22 try br_1706801030_ydvUxsIK …ee.com.br/product/1802639857/23995020340 sub=...city-Recife-sid-AW8DgJ6r-t-120
+06:51:33 get_pc err=90309999 keys=0
+06:51:33 cool br_1706801030_ydvUxsIK_live.json 60m
+06:51:33 cool br_1706801030_ydvUxsIK_live.json 45m need_app_sign
+06:51:33 gap 300s n=621

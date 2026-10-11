@@ -1,0 +1,1953 @@
+{
+  "task_link": "https://shopee.com.br/product/1520128912/23294877500",
+  "token": "br_batch_crawl",
+  "api_key": "br_batch_crawl",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 23294877500,
+      "shop_id": 1520128912,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "Fones De Ouvido Sound Earcuffs Condução De Ossos Ambie Sem Fio Bluetooth 5.2",
+      "image": "sg-11134201-8261n-ml6lho5jv1fse2",
+      "label_ids": [
+        844931064601283,
+        700065053,
+        700065054,
+        822062091122182,
+        595473041,
+        835343123222554,
+        648011521,
+        998291046,
+        1428713,
+        1718087960,
+        700960097,
+        1718388139
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100535,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": "Taiwan Collection",
+      "brand_id": 1145795,
+      "show_discount": 49,
+      "ctime": 1772121689,
+      "item_rating": {
+        "rating_star": 4.775510204081633
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": false,
+      "shop_location": "São Paulo",
+      "attributes": [
+        {
+          "name": "Connection Type",
+          "value": "Wired (USB-C/Type-C)",
+          "id": 100408,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 15784,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "In Ear",
+          "id": 100519,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2909,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2538,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Quantity",
+          "value": "1",
+          "id": 100999,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Pack Size",
+          "value": "15CM",
+          "id": 101029,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Name",
+          "value": "EB-212",
+          "id": 101040,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": null,
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "Descrição:\nPeso: (Corpo) cerca de 4,2 gramas por orelha: (Corpo: (Corpo) cerca de 4,2 gramas por orelha\nCerca de 25 gramas\nTamanho do corpo: (Corpo) 20,9 mm x 27,9 mm x 14,1 mm\nCaixa) 37,3 mm x 66 mm x 21,2 mm\nPerfis Bluetooth: A2DP, AVRCP, HFP, Perfis Bluetooth: A2DP, AVRCP, HFP, HSP\nMétodo de bateria de lítio-ion\nCapacidade da bateria do fone de ouvido do fone de ouvido: 35mAh\nCapacidade da bateria do compartimento de carregamento: 270mAh\nTempo de Reprodução Contínuo: 6 horas mais 24 horas em estojo de carregamento\nMétodo de comunicação: Método de comunicação padrão Bluetooth Ver5.2.\nDistância do smartphone emparelhado: Cerca de 10 metros (nível 2)\nDesempenho à prova d'água à prova d'água IPX5: O estojo de carregamento IPX5 não é à prova d'água\nItens empacotados: Cabo USB Tipo-C, manual de instruções\nEspecificações do:\nFones de ouvido de condução de ar conceito de conceito de condução de ar, corpo ultraleve, restrições, fones de ouvido de condução de ar de conceito de conceito de\nar, corpo ultraleve, restrição, confortável de usar.\nChip versão Bluetooth 5.2, transmissão suave, conexão estável, lag.\nDesign ergonômico, com método de condução de ar, a vida útil da música não está ergonômico, com design ergonômico, com método de condução de ar, a vida musical não está errada.\nBateria de grande capacidade, bateria de bateria de longa duração, até 24 horas com o estojo de carregamento.\nNome do Modelo: Eb-212\nID de Registro: 108852314028\nFabricante: Shenzhen Guangxun Lishen Technology Co. Ltd\nTipo de Conexão: Sem Fio\nTipo de Conexão:Bluetooth\nNome do Modelo:Eb-212\nNr. de Homologação:108852314028\nFabricante:Shenzhen Guangxun Lishen Tecnologia Co., Ltd.\nConnection Type:Wired (usb-c/type-c)\n:Eb-212",
+      "categories": [
+        {
+          "catid": 100535,
+          "display_name": "Áudio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100578,
+          "display_name": "Fones de Ouvido, Headphones e Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 23294877500,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Branco",
+          "promotion_id": 478668908605689,
+          "price": 3487000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 6799000,
+          "model_id": 149790656034,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "White",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23294877500,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "preto",
+          "promotion_id": 478668908605689,
+          "price": 3487000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 6799000,
+          "model_id": 149790656033,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Black",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "cor",
+          "options": [
+            "preto",
+            "Branco"
+          ],
+          "images": [
+            "br-11134207-820ma-ml9htup29ame4a",
+            "br-11134207-820lh-ml9htup2ap6u81"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0
+          ],
+          "name_tr": "Color",
+          "options_tr": [
+            "Black",
+            "White"
+          ],
+          "selling_points": [
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 2,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 3487000,
+      "raw_discount": 49,
+      "hidden_price_display": null,
+      "price_min": 3487000,
+      "price_max": 3487000,
+      "price_before_discount": 6799000,
+      "price_min_before_discount": 6799000,
+      "price_max_before_discount": 6799000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": false,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "Sound Earcuffs Bone Conduction Ambie Wireless Bluetooth 5.2 Headphones",
+      "description_tr": "Description:\nWeight: (Body) about 4.2 grams per ear: (Body: (Body) about 4.2 grams per ear\nAbout 25 grams\nBody Size: (Body) 20.9mm x 27.9mm x 14.1mm\nBox) 37.3 mm x 66 mm x 21.2 mm\nBluetooth Profiles: A2DP, AVRCP, HFP, PerfisBluetooth: A2DP, AVRCP, HFP, HSP\nLithium-ion battery method\nHeadphone battery capacity: 35mAh\nCharging compartment battery capacity: 270mAh\nContinuous Playback Time: 6 hours plus 24 hours in charging case\nCommunication method: Standard Bluetooth Ver5.2 communication method.\nPaired smartphone distance: About 10 meters (level 2)\nIPX5 Waterproof Waterproof Performance: IPX5 charging case is not waterproof\nPackaged Items: USB Type-C cable, instruction manual\nSpecifications of:\nAir conduction headphones concept of air conduction concept, ultralight body, restrictions, concept of air conduction headphones\nAir, ultralight body, restriction, comfortable to wear.\nBluetooth 5.2 version Chip, smooth transmission, stable connection, lag.\nErgonomic design, with air conduction method, music life is not ergonomic, with ergonomic design, with air conduction method, music life is not wrong.\nLarge capacity battery, long battery life, up to 24 hours with charging case.\nModel Name: Eb-212\nRegistration ID: 108852314028\nFabricante: Shenzhen Guangxun Lishen Technology Co. Ltd\nConnection type: Wireless\nConnection Type: Bluetooth\nModel Name: Eb-212\nNr. of Approval:108852314028\nManufacturer: Shenzhen Guangxun Lishen Technology Co., Ltd.\nConnection Type:Wired (usb-c/type-c)\n:Eb-212",
+      "rich_text_description_tr": null,
+      "stock_display": "IN STOCK",
+      "max_quantity_display": "IN STOCK",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": 1707139756,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": {
+        "video_id": "api/v4/11110105/mms/br-11110105-6v65f-ml9hsz04r4lg96.16000081772297081.mp4",
+        "thumb_url": "br-11110105-6v65f-ml9hsz04r4lg96_cover",
+        "duration": 37,
+        "version": 2,
+        "vid": "br-11110105-6v65f-ml9hsz04r4lg96",
+        "formats": [
+          {
+            "format": 1600008,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/br-11110105-6v65f-ml9hsz04r4lg96.16000081772297081.mp4",
+            "url": "https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-ml9hsz04r4lg96.16000081772297081.mp4",
+            "width": 464,
+            "height": 848
+          }
+        ],
+        "default_format": {
+          "format": 1600323,
+          "defn": "V540P",
+          "profile": "MP4",
+          "path": "",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-ml9hsz04r4lg96.default.mp4",
+          "width": 464,
+          "height": 848
+        },
+        "mms_data": "{\"vid\":\"br-11110105-6v65f-ml9hsz04r4lg96\",\"biz\":107,\"duration\":37040,\"create_time\":1772297078,\"update_time\":1772297082,\"serviceID\":2,\"cover\":\"https://down-tx-br.img.susercontent.com/br-11110105-6v65f-ml9hsz04r4lg96_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v65f-ml9hsz04r4lg96.16000081772297081.mp4\",\"url\":\"https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-ml9hsz04r4lg96.16000081772297081.mp4\",\"width\":464,\"height\":848,\"bitrate\":269454,\"abitrate\":12418,\"size\":1337453,\"fps\":25,\"duration\":37040,\"update_time\":1772297091,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-ml9hsz04r4lg96.default.mp4\",\"width\":464,\"height\":848,\"bitrate\":257172,\"abitrate\":12418,\"size\":1280588,\"fps\":25,\"duration\":37040,\"update_time\":1772297097,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+        "item_cover": null
+      },
+      "images": [
+        "sg-11134201-8261n-ml6lho5jv1fse2",
+        "sg-11134201-8261a-ml6lhmcs5q80c1",
+        "sg-11134201-8262d-ml6lhqflr5z87c",
+        "sg-11134201-82603-ml6lhsffs2rxc4",
+        "sg-11134201-82615-ml6lhu394o3xfe",
+        "sg-11134201-8261q-ml6lhvv4sr2b60",
+        "sg-11134201-825zx-ml6lhxj9gnigc0",
+        "sg-11134201-8261f-ml6lhz1rjkzxe5",
+        "sg-11134201-82634-ml6li0rh4xkz56"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "preto",
+          "image": "br-11134207-820ma-ml9htup29ame4a",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Black",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820ma-ml9htup29ame4a"
+        },
+        {
+          "name": "Branco",
+          "image": "br-11134207-820lh-ml9htup2ap6u81",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "White",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820lh-ml9htup2ap6u81"
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        1
+      ],
+      "overlay": null,
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": [
+        "br-11134207-820m8-ml9hqd177y8598",
+        "br-11134207-820lh-ml9htup20v7q37",
+        "br-11134207-820ld-ml9htup229s66f",
+        "br-11134207-820lo-ml9htup23ocma1",
+        "br-11134207-820lv-ml9htup1zgnae6",
+        "br-11134207-820lz-ml6hzvdkiupzaf",
+        "br-11134207-820mh-ml6hzvdkk9af2e",
+        "br-11134207-820mh-ml9htup252x232",
+        "br-11134207-820lc-ml9htup1y22u30"
+      ],
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": true,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "br-11134207-820lh-ml9htup2ap6u81"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "br-11134207-820ma-ml9htup29ame4a"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": null,
+          "video": {
+            "video_id": "api/v4/11110105/mms/br-11110105-6v65f-ml9hsz04r4lg96.16000081772297081.mp4",
+            "thumb_url": "br-11110105-6v65f-ml9hsz04r4lg96_cover",
+            "duration": 37,
+            "version": 2,
+            "vid": "br-11110105-6v65f-ml9hsz04r4lg96",
+            "formats": [
+              {
+                "format": 1600008,
+                "defn": "V720P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/br-11110105-6v65f-ml9hsz04r4lg96.16000081772297081.mp4",
+                "url": "https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-ml9hsz04r4lg96.16000081772297081.mp4",
+                "width": 464,
+                "height": 848
+              }
+            ],
+            "default_format": {
+              "format": 1600323,
+              "defn": "V540P",
+              "profile": "MP4",
+              "path": "",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-ml9hsz04r4lg96.default.mp4",
+              "width": 464,
+              "height": 848
+            },
+            "mms_data": "{\"vid\":\"br-11110105-6v65f-ml9hsz04r4lg96\",\"biz\":107,\"duration\":37040,\"create_time\":1772297078,\"update_time\":1772297082,\"serviceID\":2,\"cover\":\"https://down-tx-br.img.susercontent.com/br-11110105-6v65f-ml9hsz04r4lg96_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v65f-ml9hsz04r4lg96.16000081772297081.mp4\",\"url\":\"https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-ml9hsz04r4lg96.16000081772297081.mp4\",\"width\":464,\"height\":848,\"bitrate\":269454,\"abitrate\":12418,\"size\":1337453,\"fps\":25,\"duration\":37040,\"update_time\":1772297091,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65f-ml9hsz04r4lg96.default.mp4\",\"width\":464,\"height\":848,\"bitrate\":257172,\"abitrate\":12418,\"size\":1280588,\"fps\":25,\"duration\":37040,\"update_time\":1772297097,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+            "item_cover": null
+          }
+        },
+        {
+          "image": {
+            "url": "br-11134207-820m8-ml9hqd177y8598",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820lh-ml9htup20v7q37",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820ld-ml9htup229s66f",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820lo-ml9htup23ocma1",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820lv-ml9htup1zgnae6",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820lz-ml6hzvdkiupzaf",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820mh-ml6hzvdkk9af2e",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820mh-ml9htup252x232",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820lc-ml9htup1y22u30",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 49,
+      "installment_info": {
+        "recommended_plan": {
+          "months": 6,
+          "pay_per_month": 650325,
+          "has_buyer_transaction_fee": true
+        }
+      },
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": 3487000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 6799000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": false,
+      "discount_text": null,
+      "show_final_price_indicator": null,
+      "final_price_vouchers": null,
+      "has_final_price": true,
+      "final_price_info": null,
+      "price_subtext": null,
+      "price_model": {
+        "price_single_model_id": 149790656034,
+        "price_min_model_id": null,
+        "price_max_model_id": null
+      },
+      "price_promotion": {
+        "price_single_promotion_id": 478668908605689,
+        "price_single_promotion_type": 301,
+        "price_min_promotion_id": null,
+        "price_min_promotion_type": null,
+        "price_max_promotion_id": null,
+        "price_max_promotion_type": null
+      },
+      "instalment_cta_action": {
+        "type": 0,
+        "redirection_url": null
+      }
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": true,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.775510204081633,
+      "rating_count": [
+        98,
+        3,
+        0,
+        3,
+        4,
+        88
+      ],
+      "total_rating_count": 98,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 294,
+      "cmt_count": 98,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": null,
+      "historical_sold_display": "231",
+      "global_sold_display": "231",
+      "sold_count_display": "231"
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": {
+        "month": 6,
+        "price_raw": 650325,
+        "interest": 0,
+        "has_buyer_transaction_fee": true,
+        "display_text": "6x {{price}}"
+      },
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": true,
+        "is_non_cc_installment_payment_eligible": true
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "São Paulo",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 0,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 91003,
+          "name": "Entrega Padrão",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 718000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784947354,
+            "estimated_delivery_date_to": 1784947354,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_exact}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_exact",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 718000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        },
+        {
+          "channel_id": 90024,
+          "name": "Retire Perto de Você",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 574000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784947354,
+            "estimated_delivery_date_to": 1784947354,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{opc_label_receive_by_date_exact_self_collect}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "opc_label_receive_by_date_exact_self_collect",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 574000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": "",
+      "pre_selected_shipping_channel": {
+        "channel_id": 91003,
+        "name": "Entrega Padrão",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 718000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1784947354,
+          "estimated_delivery_date_to": 1784947354,
+          "estimated_delivery_time_min": 5,
+          "estimated_delivery_time_max": 5,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Get by 24/jul",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_exact}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_exact",
+                  "value": {
+                    "value_str": "Get by 24/jul",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 0,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 0,
+          "discount_value": 718000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": false,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 149790656034,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 7,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Brand",
+          "value": "Taiwan Collection",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": "/search?brands=1145795",
+          "brand_id": 1145795,
+          "full_url": "https://shopee.com.br/search?brands=1145795",
+          "type": 1,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Connection Type",
+          "value": "Wired (USB-C/Type-C)",
+          "id": 100408,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Connection Type",
+          "value_tr": "Wired (USB-C/Type-C)"
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "In Ear",
+          "id": 100519,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Earphone, Headphone, & Headset Type",
+          "value_tr": "In Ear"
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Gaming Focused",
+          "value_tr": "Yes"
+        },
+        {
+          "name": "Quantity",
+          "value": "1",
+          "id": 100999,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Quantity",
+          "value_tr": "1"
+        },
+        {
+          "name": "Pack Size",
+          "value": "15CM",
+          "id": 101029,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Pack Size",
+          "value_tr": "15CM"
+        },
+        {
+          "name": "Model Name",
+          "value": "EB-212",
+          "id": 101040,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Model Name",
+          "value_tr": "EB-212"
+        },
+        {
+          "name": "Ships From",
+          "value": "São Paulo",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 1520128912,
+      "userid": 1520953397,
+      "last_active_time": 1784514988,
+      "vacation": false,
+      "place": "São Paulo, São Paulo",
+      "account": {
+        "portrait": "br-11134216-820ma-mmf2mcc2i0aocc",
+        "username": "luoweisheng970",
+        "status": 1
+      },
+      "is_shopee_verified": true,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": false,
+      "shop_location": "",
+      "item_count": 92,
+      "rating_star": 4.739204,
+      "response_rate": 100,
+      "session_info": null,
+      "name": "SHOT WEI",
+      "ctime": 1744643408,
+      "response_time": 1064,
+      "follower_count": 566,
+      "show_official_shop_label": false,
+      "rating_bad": 352,
+      "rating_good": 9479,
+      "rating_normal": 372,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": true,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": null,
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": null,
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": null,
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": null,
+      "bank": {
+        "channels": [
+          {
+            "channel_ic": "",
+            "channel_name": "label_cc_installment",
+            "is_cc": true,
+            "plans": [
+              {
+                "plan_name": "1x",
+                "duration": 1,
+                "interest_rate": 0,
+                "monthly_payment": 3487000,
+                "total_amount": 3487000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "2x",
+                "duration": 2,
+                "interest_rate": 0,
+                "monthly_payment": 1886467,
+                "total_amount": 3772934,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "3x",
+                "duration": 3,
+                "interest_rate": 0,
+                "monthly_payment": 1276242,
+                "total_amount": 3828726,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "4x",
+                "duration": 4,
+                "interest_rate": 0,
+                "monthly_payment": 960581,
+                "total_amount": 3842325,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "5x",
+                "duration": 5,
+                "interest_rate": 0,
+                "monthly_payment": 774462,
+                "total_amount": 3872313,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "6x",
+                "duration": 6,
+                "interest_rate": 0,
+                "monthly_payment": 650325,
+                "total_amount": 3901953,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "7x",
+                "duration": 7,
+                "interest_rate": 0,
+                "monthly_payment": 558816,
+                "total_amount": 3911716,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$35,00",
+                  "min_item_price": 3500000
+                }
+              },
+              {
+                "plan_name": "8x",
+                "duration": 8,
+                "interest_rate": 0,
+                "monthly_payment": 492669,
+                "total_amount": 3941356,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$40,00",
+                  "min_item_price": 4000000
+                }
+              },
+              {
+                "plan_name": "9x",
+                "duration": 9,
+                "interest_rate": 0,
+                "monthly_payment": 441221,
+                "total_amount": 3970995,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$45,00",
+                  "min_item_price": 4500000
+                }
+              },
+              {
+                "plan_name": "10x",
+                "duration": 10,
+                "interest_rate": 0,
+                "monthly_payment": 400098,
+                "total_amount": 4000983,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$50,00",
+                  "min_item_price": 5000000
+                }
+              },
+              {
+                "plan_name": "11x",
+                "duration": 11,
+                "interest_rate": 0,
+                "monthly_payment": 366420,
+                "total_amount": 4030623,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$55,00",
+                  "min_item_price": 5500000
+                }
+              },
+              {
+                "plan_name": "12x",
+                "duration": 12,
+                "interest_rate": 0,
+                "monthly_payment": 338355,
+                "total_amount": 4060262,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$60,00",
+                  "min_item_price": 6000000
+                }
+              }
+            ],
+            "banks": null,
+            "plan_groups": null
+          }
+        ]
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": null,
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "Descrição:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Peso: (Corpo) cerca de 4,2 gramas por orelha: (Corpo: (Corpo) cerca de 4,2 gramas por orelha",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Cerca de 25 gramas",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tamanho do corpo: (Corpo) 20,9 mm x 27,9 mm x 14,1 mm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Caixa) 37,3 mm x 66 mm x 21,2 mm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Perfis Bluetooth: A2DP, AVRCP, HFP, Perfis Bluetooth: A2DP, AVRCP, HFP, HSP",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Método de bateria de lítio-ion",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Capacidade da bateria do fone de ouvido do fone de ouvido: 35mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Capacidade da bateria do compartimento de carregamento: 270mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tempo de Reprodução Contínuo: 6 horas mais 24 horas em estojo de carregamento",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Método de comunicação: Método de comunicação padrão Bluetooth Ver5.2.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Distância do smartphone emparelhado: Cerca de 10 metros (nível 2)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Desempenho à prova d'água à prova d'água IPX5: O estojo de carregamento IPX5 não é à prova d'água",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Itens empacotados: Cabo USB Tipo-C, manual de instruções",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Especificações do:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Fones de ouvido de condução de ar conceito de conceito de condução de ar, corpo ultraleve, restrições, fones de ouvido de condução de ar de conceito de conceito de",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "ar, corpo ultraleve, restrição, confortável de usar.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Chip versão Bluetooth 5.2, transmissão suave, conexão estável, lag.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Design ergonômico, com método de condução de ar, a vida útil da música não está ergonômico, com design ergonômico, com método de condução de ar, a vida musical não está errada.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bateria de grande capacidade, bateria de bateria de longa duração, até 24 horas com o estojo de carregamento.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Nome do Modelo: Eb-212",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "ID de Registro: 108852314028",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Fabricante: Shenzhen Guangxun Lishen Technology Co. Ltd",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tipo de Conexão: Sem Fio",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tipo de Conexão:Bluetooth",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Nome do Modelo:Eb-212",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Nr. de Homologação:108852314028",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Fabricante:Shenzhen Guangxun Lishen Tecnologia Co., Ltd.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Connection Type:Wired (usb-c/type-c)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": ":Eb-212",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "Description:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Weight: (Body) about 4.2 grams per ear: (Body: (Body) about 4.2 grams per ear",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "About 25 grams",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Body Size: (Body) 20.9mm x 27.9mm x 14.1mm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Box) 37.3 mm x 66 mm x 21.2 mm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth Profiles: A2DP, AVRCP, HFP, PerfisBluetooth: A2DP, AVRCP, HFP, HSP",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Lithium-ion battery method",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Headphone battery capacity: 35mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Charging compartment battery capacity: 270mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Continuous Playback Time: 6 hours plus 24 hours in charging case",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Communication method: Standard Bluetooth Ver5.2 communication method.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Paired smartphone distance: About 10 meters (level 2)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "IPX5 Waterproof Waterproof Performance: IPX5 charging case is not waterproof",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Packaged Items: USB Type-C cable, instruction manual",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Specifications of:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Air conduction headphones concept of air conduction concept, ultralight body, restrictions, concept of air conduction headphones",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Air, ultralight body, restriction, comfortable to wear.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth 5.2 version Chip, smooth transmission, stable connection, lag.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Ergonomic design, with air conduction method, music life is not ergonomic, with ergonomic design, with air conduction method, music life is not wrong.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Large capacity battery, long battery life, up to 24 hours with charging case.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Model Name: Eb-212",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Registration ID: 108852314028",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Fabricante: Shenzhen Guangxun Lishen Technology Co. Ltd",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Connection type: Wireless",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Connection Type: Bluetooth",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Model Name: Eb-212",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Nr. of Approval:108852314028",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Manufacturer: Shenzhen Guangxun Lishen Technology Co., Ltd.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Connection Type:Wired (usb-c/type-c)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": ":Eb-212",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": null
+  }
+}

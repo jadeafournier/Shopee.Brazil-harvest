@@ -1,0 +1,2917 @@
+{
+  "task_link": "https://shopee.com.br/24-Divis%C3%B3rias-Pasta-Organizadora-De-Arquivos-Expans%C3%ADvel-Para-Documentos-i.1397458631.29943809506?extraParams=%7B%22display_model_id%22%3A272259431027%2C%22model_selection_logic%22%3A3%7D",
+  "token": "br_client4_test",
+  "api_key": "br_client4_test",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 29943809506,
+      "shop_id": 1397458631,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "24 Divisórias Pasta Organizadora De Arquivos Expansível Para Documentos",
+      "image": "cn-11134207-820l4-mibfar6e4g069d",
+      "label_ids": [
+        1000022,
+        298408357,
+        844931064601283,
+        1428713,
+        1718087960,
+        822062091122182,
+        595473041,
+        835343123222554,
+        700810080,
+        700065054,
+        700065053,
+        1688717,
+        2108629
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100638,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": null,
+      "brand_id": 0,
+      "show_discount": 50,
+      "ctime": 1765876341,
+      "item_rating": {
+        "rating_star": 4.894736842105263
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": false,
+      "shop_location": "São Paulo",
+      "attributes": [
+        {
+          "name": "Paper Organizer Type",
+          "value": "Others",
+          "id": 100644,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 3430,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Custom Product",
+          "value": "No",
+          "id": 101219,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 7222,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Quantity",
+          "value": "1",
+          "id": 100999,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "type": 0,
+            "text": "🌟 Conjunto de Pasta de Armazenamento Oasis Diga adeus aos Arquivos Desordenados!🌟",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "🔥 Maisrado! Nunca se preocupe em perder arquivos!Bem organizado e fácil de armazenar!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Pilha de Pasta Desgastada Que Notas, Recibos Ou Documentos Importantes Não Pode Ser Encontrada Em Pasta Desordenada?A Pasta de Armazenamento Oásis É Sua Pasta de Armazenamento Ideal!Armazenamento e 24 grades diferentes de dois modelos diferentes (12 grades e 24 grades), fechamento seguro, Design prático, tornam o desordem eficiente - escolha perfeita para estudantes, pessoas no local de trabalho e todos aqueles que prestem atenção ao armazenamento e organização!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "📚 Função potente (Modelo 1: 12 Grade)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Compartimentos de codificação compartimentos de codificação: Sort Arquivos por assunto, item ou mês.Compartimento de cores: Sort Documentos por assunto, item ou mês.Instantemente Encontre Notas de sala de aula, recibos ou relatórios - Não precisa mais se preocupar com \"perdas\"!🌈",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "A qualquer hora e leve (315G, 329 X 235 X 30mm): Pode caber facilmente na mochila, pasta ou gaveta.Escritório ou viagem de negócios – Fácil de organizar a qualquer hora, em qualquer lugar!🎒",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Fechamento de segurança à prova de choque: A fivela à prova de choque protege arquivos de chuva, poeira ou gotas. Seus documentos importantes são seguros e som!🔒",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Material durável tanto (plástico transparente + tampa de cor): você pode ver o conteúdo sem abrir, e proteger o arquivo de arranhões. Tanto a durabilidade quanto a praticidade!🛡️",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "📚 Características Superiores (Modelo 2: 24 Compartimentos)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Armário de Arquivo Extra Grande Para Fácil Armazenamento: 24 Compartimentos Para Fácil Armazenamento: Perfeito Para Armazenamento Recibos de Um ano, Conjunto Completo De Dados Extra Grandes Para Fácil Armazenamento: 24 Compartimentos Para Fácil Armazenamento: Perfeito Para Armazenamento de Recibos de Um ano, Conjunto Completo De Dados de Curso Ou Grande Projeto Documentos.Um \"Mobile Armário de📖",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Armários de arquivo resistentes e leves (540G, 330 X 35mm): Pode conter um lote de papel sem deformação. Adequado para pastas grandes ou armários de arquivo de escritório - Até mesmo documentos derramados podem ser armazenados facilmente!💼",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Fivela de corda de folha solta: O Design clássico da fivela de corda garante que a pasta esteja bem fechada para evitar que poeira e detritos entrem. Simples e eficiente!🧵",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Material durável do rasgo do papel preto + capa resistente): fácil de transportar documentos pesados, não é fácil de rasgar. Ideal para uso diário de documentos em papel!🛡️",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "🏆 Por que esses produtos são melhores?",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Funções diversas, distantes de muitos competidores: Muitos compartimentos de pasta ou material fino. Fornecemos dois modelos (12 grades e 24 grades), ambos com um Design de fechamento de segurança para atender às suas várias necessidades. Diga adeus à desordem e melhorar A eficiência!✨",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Qualidade Superior: Concorrentes Utilizam Plástico Frágil.Nosso Produto Combina Material Durável E Design Prático – Um Parceiro Confiável Para Seus Anos De Organização E Armazenamento Fino Fino.Nosso Produto Combina Material Durável E Design Prático – Um Parceiro Confiável Para Seus Anos De Organização E Armazenamento!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "🌍 Amor com eles definitivamente!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Estudantes: Organize Anotações, Papeles de exame e trabalhos domésticos. A Pasta de 12 grades é adequada para uso de um semestre, e A Pasta de 24 grades é adequada para o uso em todo o curso. Use um conjunto completo de materiais de aprendizagem! 📚",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Profissionais: Relatórios de arquivamento, recibos e contrastes. A Pasta de 12 compartimentos é conveniente para você colocá-lo em sua mesa e acessá-lo a qualquer momento; Pasta de 24 compartimentos é adequada para arquivar todos os meses e armazená-lo em o Bloqueio de bloqueio!💼",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Viagem e atividades: Transporte documentos importantes (pasta de 12 grades) ou informações da oficina (pasta de 12 grades) durante as viagens de negócios. Qualquer hora, em qualquer lugar, em ordem!✈️",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Presente Perfeito: Ideal Para Estudantes, Profissionais Ou Armazenar Entusiastas.Presente Prático, Simplifique Brinde Diário E Vem Em Estudantes, Profissionais Ou Armazenar Entusiastas.Presente Prático, Simplifique Trabalho Diário E Vem Em Mão Diário Todos os🎁",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "🎉 Compre mais e economize mais!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Presenteie todo o ano? Quer um presente para sua equipe, colegas, ou estoque para todo o ano?Compre mais e aproveite desconto exclusivo. Mais Pastas = Mais Ordinária, economize dinheiro e aproveite mais e aproveite desconto exclusivo. Mais Pastas = Mais Ordem, economize dinheiro e sinta-se mais à vontade!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "🚀 Clique em Comprar agora!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Diga adeus a perder arquivos e relatórios bagunçados. Diga adeus a perder arquivos e relatórios bagunçados. Diga adeus a perder arquivos e relatórios bagunçados. Diga adeus aos arquivos perdidos e relatórios bagunçados. Com a Pasta Oasis Organizador, cada arquivo tem sua localização exclusiva – Seus documentos são feitos e merecem esse gerenciamento eficiente!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Organize - Clique para gerenciar seus documentos - Clique para encomendar!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "🌟 Conjunto de Pasta de Armazenamento Oasis Diga adeus aos Arquivos Desordenados!🌟\n\n🔥 Maisrado! Nunca se preocupe em perder arquivos!Bem organizado e fácil de armazenar!\n\nPilha de Pasta Desgastada Que Notas, Recibos Ou Documentos Importantes Não Pode Ser Encontrada Em Pasta Desordenada?A Pasta de Armazenamento Oásis É Sua Pasta de Armazenamento Ideal!Armazenamento e 24 grades diferentes de dois modelos diferentes (12 grades e 24 grades), fechamento seguro, Design prático, tornam o desordem eficiente - escolha perfeita para estudantes, pessoas no local de trabalho e todos aqueles que prestem atenção ao armazenamento e organização!\n\n📚 Função potente (Modelo 1: 12 Grade)\n\nCompartimentos de codificação compartimentos de codificação: Sort Arquivos por assunto, item ou mês.Compartimento de cores: Sort Documentos por assunto, item ou mês.Instantemente Encontre Notas de sala de aula, recibos ou relatórios - Não precisa mais se preocupar com \"perdas\"!🌈\n\nA qualquer hora e leve (315G, 329 X 235 X 30mm): Pode caber facilmente na mochila, pasta ou gaveta.Escritório ou viagem de negócios – Fácil de organizar a qualquer hora, em qualquer lugar!🎒\n\nFechamento de segurança à prova de choque: A fivela à prova de choque protege arquivos de chuva, poeira ou gotas. Seus documentos importantes são seguros e som!🔒\n\nMaterial durável tanto (plástico transparente + tampa de cor): você pode ver o conteúdo sem abrir, e proteger o arquivo de arranhões. Tanto a durabilidade quanto a praticidade!🛡️\n\n📚 Características Superiores (Modelo 2: 24 Compartimentos)\n\nArmário de Arquivo Extra Grande Para Fácil Armazenamento: 24 Compartimentos Para Fácil Armazenamento: Perfeito Para Armazenamento Recibos de Um ano, Conjunto Completo De Dados Extra Grandes Para Fácil Armazenamento: 24 Compartimentos Para Fácil Armazenamento: Perfeito Para Armazenamento de Recibos de Um ano, Conjunto Completo De Dados de Curso Ou Grande Projeto Documentos.Um \"Mobile Armário de📖\n\nArmários de arquivo resistentes e leves (540G, 330 X 35mm): Pode conter um lote de papel sem deformação. Adequado para pastas grandes ou armários de arquivo de escritório - Até mesmo documentos derramados podem ser armazenados facilmente!💼\n\nFivela de corda de folha solta: O Design clássico da fivela de corda garante que a pasta esteja bem fechada para evitar que poeira e detritos entrem. Simples e eficiente!🧵\n\nMaterial durável do rasgo do papel preto + capa resistente): fácil de transportar documentos pesados, não é fácil de rasgar. Ideal para uso diário de documentos em papel!🛡️\n\n🏆 Por que esses produtos são melhores?\n\nFunções diversas, distantes de muitos competidores: Muitos compartimentos de pasta ou material fino. Fornecemos dois modelos (12 grades e 24 grades), ambos com um Design de fechamento de segurança para atender às suas várias necessidades. Diga adeus à desordem e melhorar A eficiência!✨\n\nQualidade Superior: Concorrentes Utilizam Plástico Frágil.Nosso Produto Combina Material Durável E Design Prático – Um Parceiro Confiável Para Seus Anos De Organização E Armazenamento Fino Fino.Nosso Produto Combina Material Durável E Design Prático – Um Parceiro Confiável Para Seus Anos De Organização E Armazenamento!\n\n🌍 Amor com eles definitivamente!\n\nEstudantes: Organize Anotações, Papeles de exame e trabalhos domésticos. A Pasta de 12 grades é adequada para uso de um semestre, e A Pasta de 24 grades é adequada para o uso em todo o curso. Use um conjunto completo de materiais de aprendizagem! 📚\n\nProfissionais: Relatórios de arquivamento, recibos e contrastes. A Pasta de 12 compartimentos é conveniente para você colocá-lo em sua mesa e acessá-lo a qualquer momento; Pasta de 24 compartimentos é adequada para arquivar todos os meses e armazená-lo em o Bloqueio de bloqueio!💼\n\nViagem e atividades: Transporte documentos importantes (pasta de 12 grades) ou informações da oficina (pasta de 12 grades) durante as viagens de negócios. Qualquer hora, em qualquer lugar, em ordem!✈️\n\nPresente Perfeito: Ideal Para Estudantes, Profissionais Ou Armazenar Entusiastas.Presente Prático, Simplifique Brinde Diário E Vem Em Estudantes, Profissionais Ou Armazenar Entusiastas.Presente Prático, Simplifique Trabalho Diário E Vem Em Mão Diário Todos os🎁\n\n🎉 Compre mais e economize mais!\n\nPresenteie todo o ano? Quer um presente para sua equipe, colegas, ou estoque para todo o ano?Compre mais e aproveite desconto exclusivo. Mais Pastas = Mais Ordinária, economize dinheiro e aproveite mais e aproveite desconto exclusivo. Mais Pastas = Mais Ordem, economize dinheiro e sinta-se mais à vontade!\n\n🚀 Clique em Comprar agora!\n\nDiga adeus a perder arquivos e relatórios bagunçados. Diga adeus a perder arquivos e relatórios bagunçados. Diga adeus a perder arquivos e relatórios bagunçados. Diga adeus aos arquivos perdidos e relatórios bagunçados. Com a Pasta Oasis Organizador, cada arquivo tem sua localização exclusiva – Seus documentos são feitos e merecem esse gerenciamento eficiente!\n\nOrganize - Clique para gerenciar seus documentos - Clique para encomendar!",
+      "categories": [
+        {
+          "catid": 100638,
+          "display_name": "Papelaria",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100732,
+          "display_name": "Equipamento Escolar e de Escritório",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 101356,
+          "display_name": "Pastas, Organizadores de Papel e Acessórios",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059993,
+          "display_name": "Stationery",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060207,
+          "display_name": "School & Office Equipment",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11062168,
+          "display_name": "Folders, Paper Organizers & Accessories",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 29943809506,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "24 Divisórias -2 unidades",
+          "promotion_id": 932531134726144,
+          "price": 7699000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 15198000,
+          "model_id": 272259431028,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "24 Partitions -2 units",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 29943809506,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "24 Divisórias -1 unidade",
+          "promotion_id": 932531134726144,
+          "price": 3999000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 7998000,
+          "model_id": 272259431027,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "24 Partitions -1 unit",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "Modelo",
+          "options": [
+            "24 Divisórias -1 unidade",
+            "24 Divisórias -2 unidades"
+          ],
+          "images": null,
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0
+          ],
+          "name_tr": "Model",
+          "options_tr": [
+            "24 Partitions -1 unit",
+            "24 Partitions -2 units"
+          ],
+          "selling_points": [
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 1,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 3999000,
+      "raw_discount": 50,
+      "hidden_price_display": null,
+      "price_min": 3999000,
+      "price_max": 7699000,
+      "price_before_discount": 7998000,
+      "price_min_before_discount": 7998000,
+      "price_max_before_discount": 15198000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": false,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "24 Expandable File Organizer Folder for Documents",
+      "description_tr": "🌟 Oasis Storage Folder Set Say goodbye to Disordered Files!🌟\n\n🔥 Morerado! Never worry about losing files!Well organized and easy to store!\n\nWorn Folder Stack What Important Notes, Receipts Or Documents Cannot Be Found In Disordered Folder?The Oasis Storage Folder Is Your Ideal Storage Folder!Storage and 24 different grids of two different models (12 grids and 24 grids), secure closure, Practical Design, make clutter efficient - perfect choice for students, people at the workplace and all those who pay Attention to storage and organization!\n\n📚 Powerful function (Model 1: 12 Grid)\n\nCoding Compartments Coding Compartments: Sort Files by subject, item or month.Color Compartment: Sort Documents by subject, item or month.Instantly Find Classroom Notes, Receipts or Reports - No need to worry about \"loss\"!🌈\n\nAnytime and lightweight (315G, 329 X 235 X 30mm): Can easily fit in your backpack, briefcase or drawer. Office or Business Travel - Easy to organize anytime, anywhere!🎒\n\nShockproof Safety Closure: Shockproof buckle protects files from rain, dust or drops. Your important documents are safe and sound!🔒\n\nDurable Material both (transparent plastic + color cover): you can see the contents without opening, and protect the file from scratches. Both durability and practicality!🛡️\n\n📚 Superior Features (Model 2: 24 Compartments)\n\nExtra Large File Cabinet For Easy Storage: 24 Compartments For Easy Storage: Perfect For Storage One Year Receipts, Complete Set Of Extra Large Dice For Easy Storage: 24 Compartments For Easy Storage: Perfect For Storage One Year Receipts, Complete Set Of Course Data Or Large Project Documents.📖\n\nSturdy and lightweight file cabinets (540G, 330 X 35mm): May contain a batch of paper without deformation. Suitable for large folders or office file cabinets - Even spilled documents can be stored easily!💼\n\nLoose Leaf Rope Buckle: Classic rope buckle Design ensures the folder is tightly closed to prevent dust and debris from entering. Simple and efficient!🧵\n\nDurable black paper tear Material + sturdy cover): easy to carry heavy documents, not easy to tear. Ideal for daily use of paper documents!🛡️\n\n🏆 Why are these products better?\n\nDiverse functions, far from many competitors: Many folder compartments or fine material. We provide two models (12 grids and 24 grids), both with a safety closure Design to meet your various needs. Say goodbye to clutter and improve efficiency!✨\n\nSuperior Quality: Competitors Use Fragile Plastic. Our Product Combines Durable Material And Practical Design – A Reliable Partner For Your Years Of Organization And Fine Storage. Our Product Combines Durable Material And Practical Design – A Reliable Partner For Your Years Organization and Storage!\n\n🌍 Love with them definitely!\n\nStudents: Organize Notes, Examination Papers and Housework. The 12-grid Folder is suitable for use with a semester, and the 24-grid Folder is suitable for use throughout the course. Use a complete set of learning supplies! 📚\n\nProfessionals: Archival reports, receipts and contrasts. The 12-compartment Folder is convenient for you to place it on your desk and access it at any time; 24-compartment folder is suitable for filing every month and storing it in the Lock Lock!💼\n\nTravel and activities: Transport important documents (12 grid folder) or workshop information (12 grid folder) during business trips. Anytime, anywhere, in order!✈️\n\nPerfect Gift: Ideal for Students, Professionals or Storing Enthusiasts. Practical Gift, Simplify Daily Gift And Comes In Students, Professionals Or Store Enthusiasts. Practical Gift, Simplify Daily Work And Comes In Daily Hand All🎁\n\n🎉 Buy more and save more!\n\nGift all year round? Want a gift for your team, colleagues, or stock for the whole year?Buy more and enjoy exclusive discount. More Folders = More Ordinary, save money and enjoy more and enjoy exclusive discount. More Folders = More Order, save money and feel more at ease!\n\n🚀 Click BUY NOW!\n\nSay goodbye to losing messy files and reports. Say goodbye to losing messy files and reports. Say goodbye to losing messy files and reports. Say goodbye to lost files and messy reports. With the Oasis Organizer Folder, each file has its exclusive location – Your documents are made and deserve this efficient management!\n\nOrganize - Click to manage your documents - Click to order!",
+      "rich_text_description_tr": {
+        "paragraph_list": [
+          {
+            "type": 0,
+            "text": "🌟 Oasis Storage Folder Set Say goodbye to Disordered Files!🌟",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "🔥 Morerado! Never worry about losing files!Well organized and easy to store!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Worn Folder Stack What Important Notes, Receipts Or Documents Cannot Be Found In Disordered Folder?The Oasis Storage Folder Is Your Ideal Storage Folder!Storage and 24 different grids of two different models (12 grids and 24 grids), secure closure, Practical Design, make clutter efficient - perfect choice for students, people at the workplace and all those who pay Attention to storage and organization!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "📚 Powerful function (Model 1: 12 Grid)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Coding Compartments Coding Compartments: Sort Files by subject, item or month.Color Compartment: Sort Documents by subject, item or month.Instantly Find Classroom Notes, Receipts or Reports - No need to worry about \"loss\"!🌈",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Anytime and lightweight (315G, 329 X 235 X 30mm): Can easily fit in your backpack, briefcase or drawer. Office or Business Travel - Easy to organize anytime, anywhere!🎒",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Shockproof Safety Closure: Shockproof buckle protects files from rain, dust or drops. Your important documents are safe and sound!🔒",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Durable Material both (transparent plastic + color cover): you can see the contents without opening, and protect the file from scratches. Both durability and practicality!🛡️",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "📚 Superior Features (Model 2: 24 Compartments)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Extra Large File Cabinet For Easy Storage: 24 Compartments For Easy Storage: Perfect For Storage One Year Receipts, Complete Set Of Extra Large Dice For Easy Storage: 24 Compartments For Easy Storage: Perfect For Storage One Year Receipts, Complete Set Of Course Data Or Large Project Documents.📖",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Sturdy and lightweight file cabinets (540G, 330 X 35mm): May contain a batch of paper without deformation. Suitable for large folders or office file cabinets - Even spilled documents can be stored easily!💼",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Loose Leaf Rope Buckle: Classic rope buckle Design ensures the folder is tightly closed to prevent dust and debris from entering. Simple and efficient!🧵",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Durable black paper tear Material + sturdy cover): easy to carry heavy documents, not easy to tear. Ideal for daily use of paper documents!🛡️",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "🏆 Why are these products better?",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Diverse functions, far from many competitors: Many folder compartments or fine material. We provide two models (12 grids and 24 grids), both with a safety closure Design to meet your various needs. Say goodbye to clutter and improve efficiency!✨",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Superior Quality: Competitors Use Fragile Plastic. Our Product Combines Durable Material And Practical Design – A Reliable Partner For Your Years Of Organization And Fine Storage. Our Product Combines Durable Material And Practical Design – A Reliable Partner For Your Years Organization and Storage!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "🌍 Love with them definitely!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Students: Organize Notes, Examination Papers and Housework. The 12-grid Folder is suitable for use with a semester, and the 24-grid Folder is suitable for use throughout the course. Use a complete set of learning supplies! 📚",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Professionals: Archival reports, receipts and contrasts. The 12-compartment Folder is convenient for you to place it on your desk and access it at any time; 24-compartment folder is suitable for filing every month and storing it in the Lock Lock!💼",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Travel and activities: Transport important documents (12 grid folder) or workshop information (12 grid folder) during business trips. Anytime, anywhere, in order!✈️",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Perfect Gift: Ideal for Students, Professionals or Storing Enthusiasts. Practical Gift, Simplify Daily Gift And Comes In Students, Professionals Or Store Enthusiasts. Practical Gift, Simplify Daily Work And Comes In Daily Hand All🎁",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "🎉 Buy more and save more!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Gift all year round? Want a gift for your team, colleagues, or stock for the whole year?Buy more and enjoy exclusive discount. More Folders = More Ordinary, save money and enjoy more and enjoy exclusive discount. More Folders = More Order, save money and feel more at ease!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "🚀 Click BUY NOW!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Say goodbye to losing messy files and reports. Say goodbye to losing messy files and reports. Say goodbye to losing messy files and reports. Say goodbye to lost files and messy reports. With the Oasis Organizer Folder, each file has its exclusive location – Your documents are made and deserve this efficient management!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Organize - Click to manage your documents - Click to order!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "stock_display": "IN STOCK",
+      "max_quantity_display": "IN STOCK",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": 1707139756,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": null,
+      "images": [
+        "cn-11134207-820l4-mibfar6e4g069d",
+        "cn-11134207-820l4-mibfar622eiqee",
+        "cn-11134207-820l4-mibfar5wkcg8e2",
+        "cn-11134207-820l4-mibfar5x179f95",
+        "cn-11134207-820l4-mibfar6af01s6e",
+        "cn-11134207-820l4-mibfar623t368d",
+        "cn-11134207-820l4-mibfar6c4t1e00",
+        "cn-11134207-820l4-mibfar5wixvs44",
+        "cn-11134207-820l4-mibfar5x2ltvef"
+      ],
+      "first_tier_variations": null,
+      "sorted_variation_image_index_list": [],
+      "overlay": {
+        "type": 0,
+        "image": "br-11134258-820lw-mlc5ivsid3bb6c",
+        "preview_end_time": null,
+        "is_pre_order": null,
+        "description": "EstoqueNoBrasil"
+      },
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": null,
+      "gallery_contents": [
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mibfar6e4g069d",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mibfar622eiqee",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mibfar5wkcg8e2",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mibfar5x179f95",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mibfar6af01s6e",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mibfar623t368d",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mibfar6c4t1e00",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mibfar5wixvs44",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mibfar5x2ltvef",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 50,
+      "installment_info": {
+        "recommended_plan": {
+          "months": 7,
+          "pay_per_month": 640868,
+          "has_buyer_transaction_fee": true
+        }
+      },
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": -1,
+        "range_min": 3999000,
+        "range_max": 7699000,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": -1,
+        "range_min": 7998000,
+        "range_max": 15198000,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": false,
+      "discount_text": null,
+      "show_final_price_indicator": null,
+      "final_price_vouchers": null,
+      "has_final_price": true,
+      "final_price_info": null,
+      "price_subtext": null,
+      "price_model": {
+        "price_single_model_id": null,
+        "price_min_model_id": 272259431027,
+        "price_max_model_id": 272259431028
+      },
+      "price_promotion": {
+        "price_single_promotion_id": null,
+        "price_single_promotion_type": null,
+        "price_min_promotion_id": 932531134726144,
+        "price_min_promotion_type": 301,
+        "price_max_promotion_id": 932531134726144,
+        "price_max_promotion_type": 301
+      },
+      "instalment_cta_action": {
+        "type": 0,
+        "redirection_url": null
+      }
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": false,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.894736842105263,
+      "rating_count": [
+        19,
+        0,
+        0,
+        0,
+        2,
+        17
+      ],
+      "total_rating_count": 19,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 42,
+      "cmt_count": 19,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": null,
+      "historical_sold_display": "61",
+      "global_sold_display": "61",
+      "sold_count_display": "61"
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": {
+        "month": 7,
+        "price_raw": 640868,
+        "interest": 0,
+        "has_buyer_transaction_fee": true,
+        "display_text": "7x {{price}}"
+      },
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": true,
+        "is_non_cc_installment_payment_eligible": true
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "São Paulo",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 0,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 91003,
+          "name": "Entrega Padrão",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 839000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784943860,
+            "estimated_delivery_date_to": 1784943860,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_exact}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_exact",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 839000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        },
+        {
+          "channel_id": 90024,
+          "name": "Retire Perto de Você",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 671000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784943860,
+            "estimated_delivery_date_to": 1784943860,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{opc_label_receive_by_date_exact_self_collect}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "opc_label_receive_by_date_exact_self_collect",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 671000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": "",
+      "pre_selected_shipping_channel": {
+        "channel_id": 91003,
+        "name": "Entrega Padrão",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 839000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1784943860,
+          "estimated_delivery_date_to": 1784943860,
+          "estimated_delivery_time_min": 5,
+          "estimated_delivery_time_max": 5,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Get by 24/jul",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_exact}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_exact",
+                  "value": {
+                    "value_str": "Get by 24/jul",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 0,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 0,
+          "discount_value": 839000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": true,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 272259431027,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 7,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Paper Organizer Type",
+          "value": "Others",
+          "id": 100644,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Paper Organizer Type",
+          "value_tr": "Others"
+        },
+        {
+          "name": "Custom Product",
+          "value": "No",
+          "id": 101219,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Custom Product",
+          "value_tr": "No"
+        },
+        {
+          "name": "Quantity",
+          "value": "1",
+          "id": 100999,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Quantity",
+          "value_tr": "1"
+        },
+        {
+          "name": "Ships From",
+          "value": "São Paulo",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059993,
+          "display_name": "Stationery",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060207,
+          "display_name": "School & Office Equipment",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11062168,
+          "display_name": "Folders, Paper Organizers & Accessories",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 1397458631,
+      "userid": 1398186957,
+      "last_active_time": 1784499236,
+      "vacation": false,
+      "place": null,
+      "account": {
+        "portrait": "cn-11134216-7ras8-m3x67r80vive84",
+        "username": "taizhijin01.br",
+        "status": 1
+      },
+      "is_shopee_verified": false,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": false,
+      "shop_location": null,
+      "item_count": 11,
+      "rating_star": 4.794158,
+      "response_rate": 57,
+      "session_info": null,
+      "name": "BemEstilo",
+      "ctime": 1730881678,
+      "response_time": 0,
+      "follower_count": 303,
+      "show_official_shop_label": false,
+      "rating_bad": 145,
+      "rating_good": 8544,
+      "rating_normal": 326,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": true,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": null,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": null,
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": null,
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": null,
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": null,
+      "bank": {
+        "channels": [
+          {
+            "channel_ic": "",
+            "channel_name": "label_cc_installment",
+            "is_cc": true,
+            "plans": [
+              {
+                "plan_name": "1x",
+                "duration": 1,
+                "interest_rate": 0,
+                "monthly_payment": 3999000,
+                "total_amount": 3999000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "2x",
+                "duration": 2,
+                "interest_rate": 0,
+                "monthly_payment": 2163459,
+                "total_amount": 4326918,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "3x",
+                "duration": 3,
+                "interest_rate": 0,
+                "monthly_payment": 1463634,
+                "total_amount": 4390902,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "4x",
+                "duration": 4,
+                "interest_rate": 0,
+                "monthly_payment": 1101624,
+                "total_amount": 4406498,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "5x",
+                "duration": 5,
+                "interest_rate": 0,
+                "monthly_payment": 888177,
+                "total_amount": 4440889,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "6x",
+                "duration": 6,
+                "interest_rate": 0,
+                "monthly_payment": 745813,
+                "total_amount": 4474881,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "7x",
+                "duration": 7,
+                "interest_rate": 0,
+                "monthly_payment": 640868,
+                "total_amount": 4486078,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "8x",
+                "duration": 8,
+                "interest_rate": 0,
+                "monthly_payment": 565008,
+                "total_amount": 4520069,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$40,00",
+                  "min_item_price": 4000000
+                }
+              },
+              {
+                "plan_name": "9x",
+                "duration": 9,
+                "interest_rate": 0,
+                "monthly_payment": 506006,
+                "total_amount": 4554061,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$45,00",
+                  "min_item_price": 4500000
+                }
+              },
+              {
+                "plan_name": "10x",
+                "duration": 10,
+                "interest_rate": 0,
+                "monthly_payment": 458845,
+                "total_amount": 4588452,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$50,00",
+                  "min_item_price": 5000000
+                }
+              },
+              {
+                "plan_name": "11x",
+                "duration": 11,
+                "interest_rate": 0,
+                "monthly_payment": 420222,
+                "total_amount": 4622444,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$55,00",
+                  "min_item_price": 5500000
+                }
+              },
+              {
+                "plan_name": "12x",
+                "duration": 12,
+                "interest_rate": 0,
+                "monthly_payment": 388036,
+                "total_amount": 4656435,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$60,00",
+                  "min_item_price": 6000000
+                }
+              }
+            ],
+            "banks": null,
+            "plan_groups": null
+          }
+        ]
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": null,
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "🌟 Conjunto de Pasta de Armazenamento Oasis Diga adeus aos Arquivos Desordenados!🌟",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "🔥 Maisrado! Nunca se preocupe em perder arquivos!Bem organizado e fácil de armazenar!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Pilha de Pasta Desgastada Que Notas, Recibos Ou Documentos Importantes Não Pode Ser Encontrada Em Pasta Desordenada?A Pasta de Armazenamento Oásis É Sua Pasta de Armazenamento Ideal!Armazenamento e 24 grades diferentes de dois modelos diferentes (12 grades e 24 grades), fechamento seguro, Design prático, tornam o desordem eficiente - escolha perfeita para estudantes, pessoas no local de trabalho e todos aqueles que prestem atenção ao armazenamento e organização!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "📚 Função potente (Modelo 1: 12 Grade)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Compartimentos de codificação compartimentos de codificação: Sort Arquivos por assunto, item ou mês.Compartimento de cores: Sort Documentos por assunto, item ou mês.Instantemente Encontre Notas de sala de aula, recibos ou relatórios - Não precisa mais se preocupar com \"perdas\"!🌈",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "A qualquer hora e leve (315G, 329 X 235 X 30mm): Pode caber facilmente na mochila, pasta ou gaveta.Escritório ou viagem de negócios – Fácil de organizar a qualquer hora, em qualquer lugar!🎒",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Fechamento de segurança à prova de choque: A fivela à prova de choque protege arquivos de chuva, poeira ou gotas. Seus documentos importantes são seguros e som!🔒",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Material durável tanto (plástico transparente + tampa de cor): você pode ver o conteúdo sem abrir, e proteger o arquivo de arranhões. Tanto a durabilidade quanto a praticidade!🛡️",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "📚 Características Superiores (Modelo 2: 24 Compartimentos)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Armário de Arquivo Extra Grande Para Fácil Armazenamento: 24 Compartimentos Para Fácil Armazenamento: Perfeito Para Armazenamento Recibos de Um ano, Conjunto Completo De Dados Extra Grandes Para Fácil Armazenamento: 24 Compartimentos Para Fácil Armazenamento: Perfeito Para Armazenamento de Recibos de Um ano, Conjunto Completo De Dados de Curso Ou Grande Projeto Documentos.Um \"Mobile Armário de📖",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Armários de arquivo resistentes e leves (540G, 330 X 35mm): Pode conter um lote de papel sem deformação. Adequado para pastas grandes ou armários de arquivo de escritório - Até mesmo documentos derramados podem ser armazenados facilmente!💼",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Fivela de corda de folha solta: O Design clássico da fivela de corda garante que a pasta esteja bem fechada para evitar que poeira e detritos entrem. Simples e eficiente!🧵",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Material durável do rasgo do papel preto + capa resistente): fácil de transportar documentos pesados, não é fácil de rasgar. Ideal para uso diário de documentos em papel!🛡️",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "🏆 Por que esses produtos são melhores?",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Funções diversas, distantes de muitos competidores: Muitos compartimentos de pasta ou material fino. Fornecemos dois modelos (12 grades e 24 grades), ambos com um Design de fechamento de segurança para atender às suas várias necessidades. Diga adeus à desordem e melhorar A eficiência!✨",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Qualidade Superior: Concorrentes Utilizam Plástico Frágil.Nosso Produto Combina Material Durável E Design Prático – Um Parceiro Confiável Para Seus Anos De Organização E Armazenamento Fino Fino.Nosso Produto Combina Material Durável E Design Prático – Um Parceiro Confiável Para Seus Anos De Organização E Armazenamento!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "🌍 Amor com eles definitivamente!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Estudantes: Organize Anotações, Papeles de exame e trabalhos domésticos. A Pasta de 12 grades é adequada para uso de um semestre, e A Pasta de 24 grades é adequada para o uso em todo o curso. Use um conjunto completo de materiais de aprendizagem! 📚",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Profissionais: Relatórios de arquivamento, recibos e contrastes. A Pasta de 12 compartimentos é conveniente para você colocá-lo em sua mesa e acessá-lo a qualquer momento; Pasta de 24 compartimentos é adequada para arquivar todos os meses e armazená-lo em o Bloqueio de bloqueio!💼",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Viagem e atividades: Transporte documentos importantes (pasta de 12 grades) ou informações da oficina (pasta de 12 grades) durante as viagens de negócios. Qualquer hora, em qualquer lugar, em ordem!✈️",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Presente Perfeito: Ideal Para Estudantes, Profissionais Ou Armazenar Entusiastas.Presente Prático, Simplifique Brinde Diário E Vem Em Estudantes, Profissionais Ou Armazenar Entusiastas.Presente Prático, Simplifique Trabalho Diário E Vem Em Mão Diário Todos os🎁",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "🎉 Compre mais e economize mais!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Presenteie todo o ano? Quer um presente para sua equipe, colegas, ou estoque para todo o ano?Compre mais e aproveite desconto exclusivo. Mais Pastas = Mais Ordinária, economize dinheiro e aproveite mais e aproveite desconto exclusivo. Mais Pastas = Mais Ordem, economize dinheiro e sinta-se mais à vontade!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "🚀 Clique em Comprar agora!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Diga adeus a perder arquivos e relatórios bagunçados. Diga adeus a perder arquivos e relatórios bagunçados. Diga adeus a perder arquivos e relatórios bagunçados. Diga adeus aos arquivos perdidos e relatórios bagunçados. Com a Pasta Oasis Organizador, cada arquivo tem sua localização exclusiva – Seus documentos são feitos e merecem esse gerenciamento eficiente!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Organize - Clique para gerenciar seus documentos - Clique para encomendar!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "🌟 Oasis Storage Folder Set Say goodbye to Disordered Files!🌟",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "🔥 Morerado! Never worry about losing files!Well organized and easy to store!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Worn Folder Stack What Important Notes, Receipts Or Documents Cannot Be Found In Disordered Folder?The Oasis Storage Folder Is Your Ideal Storage Folder!Storage and 24 different grids of two different models (12 grids and 24 grids), secure closure, Practical Design, make clutter efficient - perfect choice for students, people at the workplace and all those who pay Attention to storage and organization!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "📚 Powerful function (Model 1: 12 Grid)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Coding Compartments Coding Compartments: Sort Files by subject, item or month.Color Compartment: Sort Documents by subject, item or month.Instantly Find Classroom Notes, Receipts or Reports - No need to worry about \"loss\"!🌈",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Anytime and lightweight (315G, 329 X 235 X 30mm): Can easily fit in your backpack, briefcase or drawer. Office or Business Travel - Easy to organize anytime, anywhere!🎒",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Shockproof Safety Closure: Shockproof buckle protects files from rain, dust or drops. Your important documents are safe and sound!🔒",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Durable Material both (transparent plastic + color cover): you can see the contents without opening, and protect the file from scratches. Both durability and practicality!🛡️",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "📚 Superior Features (Model 2: 24 Compartments)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Extra Large File Cabinet For Easy Storage: 24 Compartments For Easy Storage: Perfect For Storage One Year Receipts, Complete Set Of Extra Large Dice For Easy Storage: 24 Compartments For Easy Storage: Perfect For Storage One Year Receipts, Complete Set Of Course Data Or Large Project Documents.📖",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Sturdy and lightweight file cabinets (540G, 330 X 35mm): May contain a batch of paper without deformation. Suitable for large folders or office file cabinets - Even spilled documents can be stored easily!💼",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Loose Leaf Rope Buckle: Classic rope buckle Design ensures the folder is tightly closed to prevent dust and debris from entering. Simple and efficient!🧵",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Durable black paper tear Material + sturdy cover): easy to carry heavy documents, not easy to tear. Ideal for daily use of paper documents!🛡️",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "🏆 Why are these products better?",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Diverse functions, far from many competitors: Many folder compartments or fine material. We provide two models (12 grids and 24 grids), both with a safety closure Design to meet your various needs. Say goodbye to clutter and improve efficiency!✨",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Superior Quality: Competitors Use Fragile Plastic. Our Product Combines Durable Material And Practical Design – A Reliable Partner For Your Years Of Organization And Fine Storage. Our Product Combines Durable Material And Practical Design – A Reliable Partner For Your Years Organization and Storage!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "🌍 Love with them definitely!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Students: Organize Notes, Examination Papers and Housework. The 12-grid Folder is suitable for use with a semester, and the 24-grid Folder is suitable for use throughout the course. Use a complete set of learning supplies! 📚",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Professionals: Archival reports, receipts and contrasts. The 12-compartment Folder is convenient for you to place it on your desk and access it at any time; 24-compartment folder is suitable for filing every month and storing it in the Lock Lock!💼",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Travel and activities: Transport important documents (12 grid folder) or workshop information (12 grid folder) during business trips. Anytime, anywhere, in order!✈️",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Perfect Gift: Ideal for Students, Professionals or Storing Enthusiasts. Practical Gift, Simplify Daily Gift And Comes In Students, Professionals Or Store Enthusiasts. Practical Gift, Simplify Daily Work And Comes In Daily Hand All🎁",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "🎉 Buy more and save more!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Gift all year round? Want a gift for your team, colleagues, or stock for the whole year?Buy more and enjoy exclusive discount. More Folders = More Ordinary, save money and enjoy more and enjoy exclusive discount. More Folders = More Order, save money and feel more at ease!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "🚀 Click BUY NOW!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Say goodbye to losing messy files and reports. Say goodbye to losing messy files and reports. Say goodbye to losing messy files and reports. Say goodbye to lost files and messy reports. With the Oasis Organizer Folder, each file has its exclusive location – Your documents are made and deserve this efficient management!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Organize - Click to manage your documents - Click to order!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": null
+  }
+}

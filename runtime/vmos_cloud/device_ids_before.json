@@ -1,0 +1,16 @@
+{
+  "ro.build.fingerprint": "samsung/a22nstur/a22:13/TP1A.220624.014/A225FXXU6DWE3:user/release-keys",
+  "ro.product.model": "SM-A225F",
+  "ro.product.brand": "samsung",
+  "ro.product.device": "a22",
+  "ro.product.manufacturer": "samsung",
+  "persist.sys.timezone": "America/Sao_Paulo",
+  "persist.sys.locale": "en-US",
+  "gsm.sim.operator.iso-country": "br,br",
+  "persist.sys.cloud.wifi.mac": "",
+  "persist.sys.cloud.bt.mac": "",
+  "persist.sys.cloud.imei": "",
+  "persist.sys.cloud.serialno": "",
+  "android_id": "116438713ed31ca4",
+  "shopee_prefs": "0_home_wallet_voucher.xml\n1706785017_home_wallet_voucher.xml\nAppsFlyer.xml\nAwOriginVisitLoggerPrefs.xml\nCOOKIE_MANAGER_PREF.xml\nFirebaseHeartBeatW0RFRkFVTFRd+MToxMDQ4MjkyNDE3ODEzOmFuZHJvaWQ6ZmY2OWNjZWRiYmQ1YThkZmEzYzkxYw.xml\nSPHelper_sp_main.xml\nShopeeTracker_DeviceInfoManager.xml\nTRACKER_CONFIG.xml\nWebViewChromiumPrefs.xml"
+}

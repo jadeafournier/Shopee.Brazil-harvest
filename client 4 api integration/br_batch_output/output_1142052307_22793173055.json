@@ -1,0 +1,2925 @@
+{
+  "task_link": "https://shopee.com.br/product/1142052307/22793173055",
+  "token": "br_batch_crawl",
+  "api_key": "br_batch_crawl",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 22793173055,
+      "shop_id": 1142052307,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "Fones de ouvido Bluetooth sem fio, BT510 elegantes e leves Fone De Ouvido Headset Bluetooth Sem Fio",
+      "image": "br-11134207-820l4-mng4pbg1xzpc94",
+      "label_ids": [
+        1000022,
+        844931064601283,
+        700065053,
+        700065054,
+        822062091122182,
+        1718087960,
+        1428713,
+        835343123222554,
+        595473041,
+        648011521,
+        998291046,
+        700960097,
+        1718388139
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100535,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": "Taiwan Collection",
+      "brand_id": 1145795,
+      "show_discount": 73,
+      "ctime": 1721845409,
+      "item_rating": {
+        "rating_star": 4.719979754523599
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": false,
+      "shop_location": "São Paulo",
+      "attributes": [
+        {
+          "name": "Connection Type",
+          "value": "Wired / Others",
+          "id": 100408,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2498,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "Over Ear",
+          "id": 100519,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2973,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2538,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Sports Focused",
+          "value": "Yes",
+          "id": 100528,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2932,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Name",
+          "value": "BT510",
+          "id": 101040,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": null,
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "1. Redução de ruído inteligente: A tecnologia de redução de ruído passiva intra-auricular é perfeitamente combinada com a tampão do silenciador para isorar efetivamente uma ampla gama de ruídos e desfrutar de uma experiência musical pura.\n2. Efeitos sonoros de alta qualidade: os fones de ouvido sem fio são equipados com chips de áudio de alto desempenho para fornecer efeitos sonoros claros e realistas, permitindo que você sinta cada nota imersivamente.\n3. Tempo de audição super longo:com uma carga, até 6 horas de audição, permitindo que você mergulhe no oceano da música e desfrute de uma jornada musical desenfreada.\n4. Controle de botão: mais simples e conveniente, você pode usar facilmente esses botões para operações rápidas e não causa operação incorreta facilmente.\n5. Compatibilidade ultra-ampla: compatível com qualquer dispositivo Bluetooth, como iPhone, Samsung, Xiaomi, HUAWEI, Motorola, etc., fácil conexão e transmissão de música perfeita. Desfrute de música pura a qualquer hora e em qualquer lugar.\n6. Adequado para jogos: Este fone de ouvido sem fio montado na cabeça é especialmente otimizado para jogos. A baixa latência e a alta fidelidade garantem que você obtenha retorno oportuno e preciso sobre cada ação realizada no jogo.\n1. Redução de ruído inteligente: A tecnologia de redução de ruído passiva intra-auricular é perfeitamente combinada com a tampão do silenciador para isorar efetivamente uma ampla gama de ruídos e desfrutar de uma experiência musical pura.\n2. Efeitos sonoros de alta qualidade: os fones de ouvido sem fio são equipados com chips de áudio de alto desempenho para fornecer efeitos sonoros claros e realistas, permitindo que você sinta cada nota imersivamente.\n3. Tempo de audição super longo:com uma carga, até 6 horas de audição, permitindo que você mergulhe no oceano da música e desfrute de uma jornada musical desenfreada.\n4. Controle de botão: mais simples e conveniente, você pode usar facilmente esses botões para operações rápidas e não causa operação incorreta facilmente.\n5. Compatibilidade ultra-ampla: compatível com qualquer dispositivo Bluetooth, como iPhone, Samsung, Xiaomi, HUAWEI, Motorola, etc., fácil conexão e transmissão de música perfeita. Desfrute de música pura a qualquer hora e em qualquer lugar.\n6. Adequado para jogos: Este fone de ouvido sem fio montado na cabeça é especialmente otimizado para jogos. A baixa latência e a alta fidelidade garantem que você obtenha retorno oportuno e preciso sobre cada ação realizada no jogo.\n\nMarca: \nModelo: BT760\nDistância de transmissão: 10 metros\nTempo de música: 6horas\nTempo de espera: 15 horas",
+      "categories": [
+        {
+          "catid": 100535,
+          "display_name": "Áudio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100578,
+          "display_name": "Fones de Ouvido, Headphones e Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "ROSA BT880",
+          "promotion_id": 859740238692352,
+          "price": 12999000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              13
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 20000000,
+          "model_id": 199622075175,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "PINK BT880",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "aleatório 950",
+          "promotion_id": 859740238692352,
+          "price": 5799000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              8
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 19900000,
+          "model_id": 228804789750,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Random 950",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "aleatório BT760",
+          "promotion_id": 859740238692352,
+          "price": 5399000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              17
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 19900000,
+          "model_id": 109729128356,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Random BT760",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "VERMELHO 950",
+          "promotion_id": 859740238692352,
+          "price": 5999000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 19900000,
+          "model_id": 228804789749,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Red 950",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "AZUL 950",
+          "promotion_id": 859740238692352,
+          "price": 6499000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 19900000,
+          "model_id": 228804789752,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Blue 950",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "ROSA BT510",
+          "promotion_id": 859740238692352,
+          "price": 5999000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 19900000,
+          "model_id": 149791886984,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "PINK BT510",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "PRETO BT510",
+          "promotion_id": 859740238692352,
+          "price": 6999000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 19999000,
+          "model_id": 239406922127,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "BLACK BT510",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "VERMELHO  BT510",
+          "promotion_id": 859740238692352,
+          "price": 5499000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              11
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 19900000,
+          "model_id": 149554030162,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "RED BT510",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "PRETO 950",
+          "promotion_id": 859740238692352,
+          "price": 6599000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 19900000,
+          "model_id": 228804789751,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Black 950",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "aleatório BT880",
+          "promotion_id": 859740238692352,
+          "price": 12499000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              16
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 20000000,
+          "model_id": 199622075179,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Random BT880",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "BRANCO BT510",
+          "promotion_id": 859740238692352,
+          "price": 6299000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              9
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 19900000,
+          "model_id": 149554030163,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "WHITE BT510",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "PRETO BT880",
+          "promotion_id": 859740238692352,
+          "price": 12999000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              15
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 20000000,
+          "model_id": 199622075174,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "BLACK BT880",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "AZUL BT510",
+          "promotion_id": 859740238692352,
+          "price": 5999000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 19999000,
+          "model_id": 239406922129,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "BLUE BT510",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "aleatório BT510",
+          "promotion_id": 859740238692352,
+          "price": 5399000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              10
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 19900000,
+          "model_id": 149554030164,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Random BT510",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "AZUL BT880",
+          "promotion_id": 859740238692352,
+          "price": 12999000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              12
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 20000000,
+          "model_id": 199622075173,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "BLUE BT880",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "BRANCO BT880",
+          "promotion_id": 859740238692352,
+          "price": 12999000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              14
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 20000000,
+          "model_id": 199622075178,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "WHITE BT880",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "CINZA 950",
+          "promotion_id": 859740238692352,
+          "price": 6499000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 19900000,
+          "model_id": 228804789748,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "GRAY 950",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 22793173055,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "BRANCO 950",
+          "promotion_id": 859740238692352,
+          "price": 6499000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              7
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 19900000,
+          "model_id": 228804789753,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "White 950",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "BRANCO",
+          "options": [
+            "PRETO BT510",
+            "AZUL BT510",
+            "ROSA BT510",
+            "PRETO 950",
+            "AZUL 950",
+            "CINZA 950",
+            "VERMELHO 950",
+            "BRANCO 950",
+            "aleatório 950",
+            "BRANCO BT510",
+            "aleatório BT510",
+            "VERMELHO  BT510",
+            "AZUL BT880",
+            "ROSA BT880",
+            "BRANCO BT880",
+            "PRETO BT880",
+            "aleatório BT880",
+            "aleatório BT760"
+          ],
+          "images": [
+            "br-11134207-820l4-mng4pbg1xzpc94",
+            "br-11134207-820lh-mm188x7ie96s7d",
+            "br-11134207-820md-mnojmbm5j37ma4",
+            "br-11134207-820lv-mnr98xq66cqo28",
+            "br-11134207-820mh-mnr98xq45b7oa8",
+            "br-11134207-820m0-mnr98xq46ps43c",
+            "br-11134207-820m4-mnr98xq484ckf1",
+            "br-11134207-820l8-mnr98xq49ix090",
+            "br-11134207-820lo-mnr98xq4axhg73",
+            "br-11134207-820lb-mmhpat8943k4a8",
+            "br-11134207-820l8-mnuf4ky7515063",
+            "br-11134207-820ly-mnuf4ky7zxmoc9",
+            "br-11134207-820m1-mofpnpkm8i6d98",
+            "br-11134207-820lo-mofpnpkm9wqt17",
+            "br-11134207-820m2-mofpnpkmbbb928",
+            "br-11134207-820li-mofpnpkmcpvp55",
+            "br-11134207-820lq-mofpnpkme4g57d",
+            "br-11134207-820m8-mozo1p5am2gwa8"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2
+          ],
+          "name_tr": "White",
+          "options_tr": [
+            "BLACK BT510",
+            "BLUE BT510",
+            "PINK BT510",
+            "Black 950",
+            "Blue 950",
+            "GRAY 950",
+            "Red 950",
+            "White 950",
+            "Random 950",
+            "WHITE BT510",
+            "Random BT510",
+            "RED BT510",
+            "BLUE BT880",
+            "PINK BT880",
+            "WHITE BT880",
+            "BLACK BT880",
+            "Random BT880",
+            "Random BT760"
+          ],
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 2,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 5399000,
+      "raw_discount": 73,
+      "hidden_price_display": null,
+      "price_min": 5399000,
+      "price_max": 12999000,
+      "price_before_discount": 19900000,
+      "price_min_before_discount": 19900000,
+      "price_max_before_discount": 20000000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": false,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "Wireless Bluetooth Headphones, BT510 Stylish and Lightweight Wireless Bluetooth Headset Headphone",
+      "description_tr": "1. Intelligent Noise Reduction: In-ear passive noise reduction technology is perfectly combined with the muffler cap to effectively isolate a wide range of noise and enjoy a pure music experience.\n2. High Quality Sound Effects: The wireless headphones are equipped with high-performance audio chips to provide clear and realistic sound effects, allowing you to feel every note immersively.\n3. Super long listening time: with a charge, up to 6 hours of listening, allowing you to immerse yourself in the ocean of music and enjoy an unbriled music journey.\n4. Button Control: Simpler and more convenient, you can easily use these buttons for quick operations, and it does not cause incorrect operation easily.\n5. Ultra-wide Compatibility: Compatible with any Bluetooth device, such as iPhone, Samsung, Xiaomi, HUAWEI, Motorola, etc., easy connection and perfect music transmission. Enjoy pure music anytime and anywhere.\n6. Gaming Suitable: This head mounted wireless headset is specially optimized for gaming. Low latency and high fidelity ensure you get timely and accurate feedback on every action performed in the game.\n1. Intelligent Noise Reduction: In-ear passive noise reduction technology is perfectly combined with the muffler cap to effectively isolate a wide range of noise and enjoy a pure music experience.\n2. High Quality Sound Effects: The wireless headphones are equipped with high-performance audio chips to provide clear and realistic sound effects, allowing you to feel every note immersively.\n3. Super long listening time: with a charge, up to 6 hours of listening, allowing you to immerse yourself in the ocean of music and enjoy an unbriled music journey.\n4. Button Control: Simpler and more convenient, you can easily use these buttons for quick operations, and it does not cause incorrect operation easily.\n5. Ultra-wide Compatibility: Compatible with any Bluetooth device, such as iPhone, Samsung, Xiaomi, HUAWEI, Motorola, etc., easy connection and perfect music transmission. Enjoy pure music anytime and anywhere.\n6. Gaming Suitable: This head mounted wireless headset is specially optimized for gaming. Low latency and high fidelity ensure you get timely and accurate feedback on every action performed in the game.\n\nBRAND: \nModel: BT760\nTransmission distance: 10 meters\nMusic time: 6 hours\nStandby time: 15 hours",
+      "rich_text_description_tr": null,
+      "stock_display": "IN STOCK",
+      "max_quantity_display": "IN STOCK",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": 1707139756,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": {
+        "video_id": "api/v4/11110105/mms/br-11110105-6v6x5-mofpggjbp6gw19.16000081779210875.mp4",
+        "thumb_url": "br-11110105-6v6x5-mofpggjbp6gw19_cover",
+        "duration": 20,
+        "version": 2,
+        "vid": "br-11110105-6v6x5-mofpggjbp6gw19",
+        "formats": [
+          {
+            "format": 1600008,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/br-11110105-6v6x5-mofpggjbp6gw19.16000081779210875.mp4",
+            "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x5-mofpggjbp6gw19.16000081779210875.mp4",
+            "width": 464,
+            "height": 832
+          }
+        ],
+        "default_format": {
+          "format": 1600323,
+          "defn": "V540P",
+          "profile": "MP4",
+          "path": "",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x5-mofpggjbp6gw19.default.mp4",
+          "width": 464,
+          "height": 832
+        },
+        "mms_data": "{\"vid\":\"br-11110105-6v6x5-mofpggjbp6gw19\",\"biz\":107,\"duration\":20066,\"create_time\":1779210873,\"update_time\":1779210878,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v6x5-mofpggjbp6gw19_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x5-mofpggjbp6gw19.16000081779210875.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x5-mofpggjbp6gw19.16000081779210875.mp4\",\"width\":464,\"height\":832,\"bitrate\":764934,\"abitrate\":0,\"size\":1923020,\"fps\":25,\"duration\":20040,\"update_time\":1779210882,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x5-mofpggjbp6gw19.default.mp4\",\"width\":464,\"height\":832,\"bitrate\":500073,\"abitrate\":0,\"size\":1259541,\"fps\":25,\"duration\":20040,\"update_time\":1779210889,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+        "item_cover": null
+      },
+      "images": [
+        "br-11134207-820l4-mng4pbg1xzpc94",
+        "br-11134207-820lc-mng4pbg1pkaoe4",
+        "br-11134207-820lg-mng4pbg1ts0057",
+        "br-11134207-820lg-mng4pbg1qyv45d",
+        "br-11134207-820lw-mng4pbg1wl4wf3",
+        "br-11134207-820m6-mnojmblvgooyc4",
+        "br-11134207-820ma-mnojmblwbl6pc8",
+        "br-11134207-820mg-mnojmbm8q9s4ac",
+        "br-11134207-820l9-mnojmbm0hvy877"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "PRETO BT510",
+          "image": "br-11134207-820l4-mng4pbg1xzpc94",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "BLACK BT510",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820l4-mng4pbg1xzpc94"
+        },
+        {
+          "name": "AZUL BT510",
+          "image": "br-11134207-820lh-mm188x7ie96s7d",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "BLUE BT510",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820lh-mm188x7ie96s7d"
+        },
+        {
+          "name": "ROSA BT510",
+          "image": "br-11134207-820md-mnojmbm5j37ma4",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "PINK BT510",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820md-mnojmbm5j37ma4"
+        },
+        {
+          "name": "PRETO 950",
+          "image": "br-11134207-820lv-mnr98xq66cqo28",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Black 950",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820lv-mnr98xq66cqo28"
+        },
+        {
+          "name": "AZUL 950",
+          "image": "br-11134207-820mh-mnr98xq45b7oa8",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Blue 950",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820mh-mnr98xq45b7oa8"
+        },
+        {
+          "name": "CINZA 950",
+          "image": "br-11134207-820m0-mnr98xq46ps43c",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "GRAY 950",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820m0-mnr98xq46ps43c"
+        },
+        {
+          "name": "VERMELHO 950",
+          "image": "br-11134207-820m4-mnr98xq484ckf1",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Red 950",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820m4-mnr98xq484ckf1"
+        },
+        {
+          "name": "BRANCO 950",
+          "image": "br-11134207-820l8-mnr98xq49ix090",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "White 950",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820l8-mnr98xq49ix090"
+        },
+        {
+          "name": "aleatório 950",
+          "image": "br-11134207-820lo-mnr98xq4axhg73",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Random 950",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820lo-mnr98xq4axhg73"
+        },
+        {
+          "name": "BRANCO BT510",
+          "image": "br-11134207-820lb-mmhpat8943k4a8",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "WHITE BT510",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820lb-mmhpat8943k4a8"
+        },
+        {
+          "name": "aleatório BT510",
+          "image": "br-11134207-820l8-mnuf4ky7515063",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Random BT510",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820l8-mnuf4ky7515063"
+        },
+        {
+          "name": "VERMELHO  BT510",
+          "image": "br-11134207-820ly-mnuf4ky7zxmoc9",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "RED BT510",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820ly-mnuf4ky7zxmoc9"
+        },
+        {
+          "name": "AZUL BT880",
+          "image": "br-11134207-820m1-mofpnpkm8i6d98",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "BLUE BT880",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820m1-mofpnpkm8i6d98"
+        },
+        {
+          "name": "ROSA BT880",
+          "image": "br-11134207-820lo-mofpnpkm9wqt17",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "PINK BT880",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820lo-mofpnpkm9wqt17"
+        },
+        {
+          "name": "BRANCO BT880",
+          "image": "br-11134207-820m2-mofpnpkmbbb928",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "WHITE BT880",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820m2-mofpnpkmbbb928"
+        },
+        {
+          "name": "PRETO BT880",
+          "image": "br-11134207-820li-mofpnpkmcpvp55",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "BLACK BT880",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820li-mofpnpkmcpvp55"
+        },
+        {
+          "name": "aleatório BT880",
+          "image": "br-11134207-820lq-mofpnpkme4g57d",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Random BT880",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820lq-mofpnpkme4g57d"
+        },
+        {
+          "name": "aleatório BT760",
+          "image": "br-11134207-820m8-mozo1p5am2gwa8",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Random BT760",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-820m8-mozo1p5am2gwa8"
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "overlay": null,
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            13
+          ],
+          "gallery_image": "br-11134207-820lo-mofpnpkm9wqt17"
+        },
+        {
+          "tier_index": [
+            8
+          ],
+          "gallery_image": "br-11134207-820lo-mnr98xq4axhg73"
+        },
+        {
+          "tier_index": [
+            17
+          ],
+          "gallery_image": "br-11134207-820m8-mozo1p5am2gwa8"
+        },
+        {
+          "tier_index": [
+            6
+          ],
+          "gallery_image": "br-11134207-820m4-mnr98xq484ckf1"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "br-11134207-820mh-mnr98xq45b7oa8"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "br-11134207-820md-mnojmbm5j37ma4"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "br-11134207-820l4-mng4pbg1xzpc94"
+        },
+        {
+          "tier_index": [
+            11
+          ],
+          "gallery_image": "br-11134207-820ly-mnuf4ky7zxmoc9"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "br-11134207-820lv-mnr98xq66cqo28"
+        },
+        {
+          "tier_index": [
+            16
+          ],
+          "gallery_image": "br-11134207-820lq-mofpnpkme4g57d"
+        },
+        {
+          "tier_index": [
+            9
+          ],
+          "gallery_image": "br-11134207-820lb-mmhpat8943k4a8"
+        },
+        {
+          "tier_index": [
+            15
+          ],
+          "gallery_image": "br-11134207-820li-mofpnpkmcpvp55"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "br-11134207-820lh-mm188x7ie96s7d"
+        },
+        {
+          "tier_index": [
+            10
+          ],
+          "gallery_image": "br-11134207-820l8-mnuf4ky7515063"
+        },
+        {
+          "tier_index": [
+            12
+          ],
+          "gallery_image": "br-11134207-820m1-mofpnpkm8i6d98"
+        },
+        {
+          "tier_index": [
+            14
+          ],
+          "gallery_image": "br-11134207-820m2-mofpnpkmbbb928"
+        },
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "br-11134207-820m0-mnr98xq46ps43c"
+        },
+        {
+          "tier_index": [
+            7
+          ],
+          "gallery_image": "br-11134207-820l8-mnr98xq49ix090"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": null,
+          "video": {
+            "video_id": "api/v4/11110105/mms/br-11110105-6v6x5-mofpggjbp6gw19.16000081779210875.mp4",
+            "thumb_url": "br-11110105-6v6x5-mofpggjbp6gw19_cover",
+            "duration": 20,
+            "version": 2,
+            "vid": "br-11110105-6v6x5-mofpggjbp6gw19",
+            "formats": [
+              {
+                "format": 1600008,
+                "defn": "V720P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/br-11110105-6v6x5-mofpggjbp6gw19.16000081779210875.mp4",
+                "url": "https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x5-mofpggjbp6gw19.16000081779210875.mp4",
+                "width": 464,
+                "height": 832
+              }
+            ],
+            "default_format": {
+              "format": 1600323,
+              "defn": "V540P",
+              "profile": "MP4",
+              "path": "",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x5-mofpggjbp6gw19.default.mp4",
+              "width": 464,
+              "height": 832
+            },
+            "mms_data": "{\"vid\":\"br-11110105-6v6x5-mofpggjbp6gw19\",\"biz\":107,\"duration\":20066,\"create_time\":1779210873,\"update_time\":1779210878,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v6x5-mofpggjbp6gw19_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x5-mofpggjbp6gw19.16000081779210875.mp4\",\"url\":\"https://down-ws-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x5-mofpggjbp6gw19.16000081779210875.mp4\",\"width\":464,\"height\":832,\"bitrate\":764934,\"abitrate\":0,\"size\":1923020,\"fps\":25,\"duration\":20040,\"update_time\":1779210882,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x5-mofpggjbp6gw19.default.mp4\",\"width\":464,\"height\":832,\"bitrate\":500073,\"abitrate\":0,\"size\":1259541,\"fps\":25,\"duration\":20040,\"update_time\":1779210889,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+            "item_cover": null
+          }
+        },
+        {
+          "image": {
+            "url": "br-11134207-820l4-mng4pbg1xzpc94",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820lc-mng4pbg1pkaoe4",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820lg-mng4pbg1ts0057",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820lg-mng4pbg1qyv45d",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820lw-mng4pbg1wl4wf3",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820m6-mnojmblvgooyc4",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820ma-mnojmblwbl6pc8",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820mg-mnojmbm8q9s4ac",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-820l9-mnojmbm0hvy877",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 73,
+      "installment_info": {
+        "recommended_plan": {
+          "months": 10,
+          "pay_per_month": 613285,
+          "has_buyer_transaction_fee": true
+        }
+      },
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": 5345000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 19900000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": true,
+      "discount_text": null,
+      "show_final_price_indicator": false,
+      "final_price_vouchers": [
+        {
+          "promotion_id": 1466765913632768,
+          "voucher_code": "SORTTTTT1",
+          "is_auto_claimed_just_now": false,
+          "groups": null,
+          "voucher_type": 1
+        }
+      ],
+      "has_final_price": true,
+      "final_price_info": {
+        "model_id": 149554030164,
+        "hint_text": "After Voucher",
+        "show_final_price_indicator": false,
+        "final_price_vouchers": {
+          "platform_voucher": null,
+          "shop_voucher": {
+            "promotion_id": 1466765913632768,
+            "voucher_code": "SORTTTTT1",
+            "is_auto_claimed_just_now": false,
+            "groups": null,
+            "voucher_discount_type": 1,
+            "voucher_discount": 54000
+          },
+          "ads_voucher": null
+        },
+        "payment_channel_discount": null,
+        "final_price_icon_type": 0
+      },
+      "price_subtext": {
+        "template": "or {price}",
+        "format": null,
+        "attributes": [
+          {
+            "type": 2,
+            "key": "price",
+            "value": {
+              "value_str": null,
+              "value_int": 5399000
+            },
+            "format": null,
+            "text_color": null,
+            "text_hex_color": null,
+            "url": null
+          }
+        ],
+        "text_color": null,
+        "text_hex_color": null
+      },
+      "price_model": {
+        "price_single_model_id": 149554030164,
+        "price_min_model_id": null,
+        "price_max_model_id": null
+      },
+      "price_promotion": {
+        "price_single_promotion_id": 859740238692352,
+        "price_single_promotion_type": 301,
+        "price_min_promotion_id": null,
+        "price_min_promotion_type": null,
+        "price_max_promotion_id": null,
+        "price_max_promotion_type": null
+      },
+      "instalment_cta_action": null
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": true,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.719979754523599,
+      "rating_count": [
+        7903,
+        298,
+        85,
+        216,
+        334,
+        6970
+      ],
+      "total_rating_count": 7903,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 12912,
+      "cmt_count": 7902,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": null,
+      "historical_sold_display": "10mil+",
+      "global_sold_display": "10mil+",
+      "sold_count_display": "10mil+"
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": {
+        "month": 10,
+        "price_raw": 613285,
+        "interest": 0,
+        "has_buyer_transaction_fee": true,
+        "display_text": "10x {{price}}"
+      },
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": true,
+        "is_non_cc_installment_payment_eligible": true
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "São Paulo",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 0,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 91003,
+          "name": "Entrega Padrão",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 718000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784946484,
+            "estimated_delivery_date_to": 1784946484,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_exact}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_exact",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 718000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        },
+        {
+          "channel_id": 90024,
+          "name": "Retire Perto de Você",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 574000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784946484,
+            "estimated_delivery_date_to": 1784946484,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{opc_label_receive_by_date_exact_self_collect}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "opc_label_receive_by_date_exact_self_collect",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 574000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": "",
+      "pre_selected_shipping_channel": {
+        "channel_id": 91003,
+        "name": "Entrega Padrão",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 718000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1784946484,
+          "estimated_delivery_date_to": 1784946484,
+          "estimated_delivery_time_min": 5,
+          "estimated_delivery_time_max": 5,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Get by 24/jul",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_exact}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_exact",
+                  "value": {
+                    "value_str": "Get by 24/jul",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 0,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 0,
+          "discount_value": 718000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": true,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 149554030164,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [
+      {
+        "promotionid": 1466765913632768,
+        "voucher_code": "SORTTTTT1",
+        "signature": "cbc76d20ebbfa141bca63418732e81be4685a372f9884a63493d75c8615434d1",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 2500000,
+        "used_price": 54000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 1,
+        "start_time": 1784311980,
+        "end_time": 1790795580,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 1,
+        "reward_value": 0,
+        "reward_cap": 500000,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "br-11134216-7r98o-lxsotk7n7u0vf3",
+        "icon_text": "FENIX ELETRO COMERCIO LTDA",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 1142052307,
+        "shop_name": "FENIX ELETRO COMERCIO LTDA",
+        "is_shop_preferred": true,
+        "is_shop_official": false,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-22D13A28278822280000001105140010",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 0,
+        "discount_percentage": 1,
+        "discount_cap": 500000,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "br-11134216-7r98o-lxsotk7n7u0vf3",
+        "error_code": 0,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      }
+    ],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 7,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Brand",
+          "value": "Taiwan Collection",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": "/search?brands=1145795",
+          "brand_id": 1145795,
+          "full_url": "https://shopee.com.br/search?brands=1145795",
+          "type": 1,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Connection Type",
+          "value": "Wired / Others",
+          "id": 100408,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Connection Type",
+          "value_tr": "Wired / Others"
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "Over Ear",
+          "id": 100519,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Earphone, Headphone, & Headset Type",
+          "value_tr": "Over Ear"
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Gaming Focused",
+          "value_tr": "Yes"
+        },
+        {
+          "name": "Sports Focused",
+          "value": "Yes",
+          "id": 100528,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Sports Focused",
+          "value_tr": "Yes"
+        },
+        {
+          "name": "Model Name",
+          "value": "BT510",
+          "id": 101040,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Model Name",
+          "value_tr": "BT510"
+        },
+        {
+          "name": "Ships From",
+          "value": "São Paulo",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 1142052307,
+      "userid": 1142385748,
+      "last_active_time": 1784514116,
+      "vacation": false,
+      "place": "São Paulo, São Paulo",
+      "account": {
+        "portrait": "br-11134216-7r98o-lxsotk7n7u0vf3",
+        "username": "sortudo1666",
+        "status": 1
+      },
+      "is_shopee_verified": true,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": false,
+      "shop_location": "",
+      "item_count": 186,
+      "rating_star": 4.740564,
+      "response_rate": 100,
+      "session_info": null,
+      "name": "FENIX ELETRO COMERCIO LTDA",
+      "ctime": 1702488457,
+      "response_time": 213,
+      "follower_count": 14316,
+      "show_official_shop_label": false,
+      "rating_bad": 10700,
+      "rating_good": 327095,
+      "rating_normal": 14435,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": true,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": null,
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": null,
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": {
+        "price": 5345000
+      },
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": null,
+      "bank": {
+        "channels": [
+          {
+            "channel_ic": "",
+            "channel_name": "label_cc_installment",
+            "is_cc": true,
+            "plans": [
+              {
+                "plan_name": "1x",
+                "duration": 1,
+                "interest_rate": 0,
+                "monthly_payment": 5345000,
+                "total_amount": 5345000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "2x",
+                "duration": 2,
+                "interest_rate": 0,
+                "monthly_payment": 2891645,
+                "total_amount": 5783290,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "3x",
+                "duration": 3,
+                "interest_rate": 0,
+                "monthly_payment": 1956270,
+                "total_amount": 5868810,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "4x",
+                "duration": 4,
+                "interest_rate": 0,
+                "monthly_payment": 1472413,
+                "total_amount": 5889655,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "5x",
+                "duration": 5,
+                "interest_rate": 0,
+                "monthly_payment": 1187124,
+                "total_amount": 5935622,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "6x",
+                "duration": 6,
+                "interest_rate": 0,
+                "monthly_payment": 996842,
+                "total_amount": 5981055,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "7x",
+                "duration": 7,
+                "interest_rate": 0,
+                "monthly_payment": 856574,
+                "total_amount": 5996021,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "8x",
+                "duration": 8,
+                "interest_rate": 0,
+                "monthly_payment": 755181,
+                "total_amount": 6041453,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "9x",
+                "duration": 9,
+                "interest_rate": 0,
+                "monthly_payment": 676320,
+                "total_amount": 6086886,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "10x",
+                "duration": 10,
+                "interest_rate": 0,
+                "monthly_payment": 613285,
+                "total_amount": 6132853,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "11x",
+                "duration": 11,
+                "interest_rate": 0,
+                "monthly_payment": 561662,
+                "total_amount": 6178285,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$55,00",
+                  "min_item_price": 5500000
+                }
+              },
+              {
+                "plan_name": "12x",
+                "duration": 12,
+                "interest_rate": 0,
+                "monthly_payment": 518643,
+                "total_amount": 6223718,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": {
+                  "key": "not_reach_min_amount",
+                  "reason": "Valor mínimo para esta opção: R$60,00",
+                  "min_item_price": 6000000
+                }
+              }
+            ],
+            "banks": null,
+            "plan_groups": null
+          }
+        ]
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": {
+      "price": {
+        "single_value": 5345000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 19900000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "discount_breakdown": [
+        {
+          "type": 0,
+          "price_source": "Product Discount",
+          "discount_amount": 14501000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": null,
+          "icon_type": null
+        },
+        {
+          "type": 2,
+          "price_source": "Shop Voucher Discount",
+          "discount_amount": 54000,
+          "exclusive_price": null,
+          "shop_voucher": {
+            "min_spend": 2500000,
+            "discount_type": 1,
+            "discount_value": null,
+            "discount_percentage": "1"
+          },
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": {
+            "template": "Buy {min_spend} get {discount_percentage} off",
+            "format": null,
+            "attributes": [
+              {
+                "type": 2,
+                "key": "min_spend",
+                "value": {
+                  "value_str": null,
+                  "value_int": 2500000
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              },
+              {
+                "type": 1,
+                "key": "discount_percentage",
+                "value": {
+                  "value_str": "1%",
+                  "value_int": null
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              }
+            ],
+            "text_color": null,
+            "text_hex_color": null
+          },
+          "icon_type": null
+        }
+      ]
+    },
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "1. Redução de ruído inteligente: A tecnologia de redução de ruído passiva intra-auricular é perfeitamente combinada com a tampão do silenciador para isorar efetivamente uma ampla gama de ruídos e desfrutar de uma experiência musical pura.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "2. Efeitos sonoros de alta qualidade: os fones de ouvido sem fio são equipados com chips de áudio de alto desempenho para fornecer efeitos sonoros claros e realistas, permitindo que você sinta cada nota imersivamente.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "3. Tempo de audição super longo:com uma carga, até 6 horas de audição, permitindo que você mergulhe no oceano da música e desfrute de uma jornada musical desenfreada.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "4. Controle de botão: mais simples e conveniente, você pode usar facilmente esses botões para operações rápidas e não causa operação incorreta facilmente.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "5. Compatibilidade ultra-ampla: compatível com qualquer dispositivo Bluetooth, como iPhone, Samsung, Xiaomi, HUAWEI, Motorola, etc., fácil conexão e transmissão de música perfeita. Desfrute de música pura a qualquer hora e em qualquer lugar.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "6. Adequado para jogos: Este fone de ouvido sem fio montado na cabeça é especialmente otimizado para jogos. A baixa latência e a alta fidelidade garantem que você obtenha retorno oportuno e preciso sobre cada ação realizada no jogo.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1. Redução de ruído inteligente: A tecnologia de redução de ruído passiva intra-auricular é perfeitamente combinada com a tampão do silenciador para isorar efetivamente uma ampla gama de ruídos e desfrutar de uma experiência musical pura.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "2. Efeitos sonoros de alta qualidade: os fones de ouvido sem fio são equipados com chips de áudio de alto desempenho para fornecer efeitos sonoros claros e realistas, permitindo que você sinta cada nota imersivamente.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "3. Tempo de audição super longo:com uma carga, até 6 horas de audição, permitindo que você mergulhe no oceano da música e desfrute de uma jornada musical desenfreada.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "4. Controle de botão: mais simples e conveniente, você pode usar facilmente esses botões para operações rápidas e não causa operação incorreta facilmente.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "5. Compatibilidade ultra-ampla: compatível com qualquer dispositivo Bluetooth, como iPhone, Samsung, Xiaomi, HUAWEI, Motorola, etc., fácil conexão e transmissão de música perfeita. Desfrute de música pura a qualquer hora e em qualquer lugar.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "6. Adequado para jogos: Este fone de ouvido sem fio montado na cabeça é especialmente otimizado para jogos. A baixa latência e a alta fidelidade garantem que você obtenha retorno oportuno e preciso sobre cada ação realizada no jogo.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Marca: ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Modelo: BT760",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Distância de transmissão: 10 metros",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tempo de música: 6horas",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tempo de espera: 15 horas",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "1. Intelligent Noise Reduction: In-ear passive noise reduction technology is perfectly combined with the muffler cap to effectively isolate a wide range of noise and enjoy a pure music experience.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "2. High Quality Sound Effects: The wireless headphones are equipped with high-performance audio chips to provide clear and realistic sound effects, allowing you to feel every note immersively.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "3. Super long listening time: with a charge, up to 6 hours of listening, allowing you to immerse yourself in the ocean of music and enjoy an unbriled music journey.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "4. Button Control: Simpler and more convenient, you can easily use these buttons for quick operations, and it does not cause incorrect operation easily.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "5. Ultra-wide Compatibility: Compatible with any Bluetooth device, such as iPhone, Samsung, Xiaomi, HUAWEI, Motorola, etc., easy connection and perfect music transmission. Enjoy pure music anytime and anywhere.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "6. Gaming Suitable: This head mounted wireless headset is specially optimized for gaming. Low latency and high fidelity ensure you get timely and accurate feedback on every action performed in the game.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1. Intelligent Noise Reduction: In-ear passive noise reduction technology is perfectly combined with the muffler cap to effectively isolate a wide range of noise and enjoy a pure music experience.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "2. High Quality Sound Effects: The wireless headphones are equipped with high-performance audio chips to provide clear and realistic sound effects, allowing you to feel every note immersively.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "3. Super long listening time: with a charge, up to 6 hours of listening, allowing you to immerse yourself in the ocean of music and enjoy an unbriled music journey.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "4. Button Control: Simpler and more convenient, you can easily use these buttons for quick operations, and it does not cause incorrect operation easily.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "5. Ultra-wide Compatibility: Compatible with any Bluetooth device, such as iPhone, Samsung, Xiaomi, HUAWEI, Motorola, etc., easy connection and perfect music transmission. Enjoy pure music anytime and anywhere.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "6. Gaming Suitable: This head mounted wireless headset is specially optimized for gaming. Low latency and high fidelity ensure you get timely and accurate feedback on every action performed in the game.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "BRAND: ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Model: BT760",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Transmission distance: 10 meters",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Music time: 6 hours",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Standby time: 15 hours",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": null
+  }
+}

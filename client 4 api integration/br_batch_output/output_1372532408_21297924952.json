@@ -1,0 +1,3125 @@
+{
+  "task_link": "https://shopee.com.br/product/1372532408/21297924952",
+  "token": "br_batch_crawl",
+  "api_key": "br_batch_crawl",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 21297924952,
+      "shop_id": 1372532408,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "IPhone 11 64gb/128gb/256gb 100% Original | Celular IPhone Apple",
+      "image": "br-11134207-820lq-mqa8yh9ylhxec4",
+      "label_ids": [
+        844931064601283,
+        1000022,
+        1823810,
+        700065054,
+        700065053,
+        822062091122182,
+        595473041,
+        835343123222554,
+        1718387984,
+        298818315,
+        998291046,
+        1823833,
+        700810080,
+        1718388139,
+        647826546
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100013,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": "Apple",
+      "brand_id": 1189223,
+      "show_discount": 49,
+      "ctime": 1727984448,
+      "item_rating": {
+        "rating_star": 4.813877551020409
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": false,
+      "shop_location": "São Paulo",
+      "attributes": [
+        {
+          "name": "Condition",
+          "value": "Outros",
+          "id": 100413,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Storage Capacity",
+          "value": "128GB",
+          "id": 100465,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Name",
+          "value": "A2221",
+          "id": 101040,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Registration ID",
+          "value": "056861901993",
+          "id": 101197,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Apple Inc.",
+          "id": 101237,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": null,
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "ATENÇÃO: Por questões logísticas, NÃO estamos enviando para os seguintes estados:\n\n Acre (AC)\n Bahia (BA)\n Amapá (AP)\n Rio Grande do Sul (RS)\n Pará (PA)\n Pernambuco (PE)\n Ceará (CE)\n Rio Grande do Norte (RN)\n Paraíba (PB)\n Maranhão (MA)\n Piauí (PI) \n Alagoas (AL)\n Sergipe (SE) \n Rondônia (RO)\n Roraima (RR)\n Amazonas (AM)\nIPhone 11 vitrine Original inclui todos acessórios. Após o ato da compra enviamos o seu produto em até 24 horas.\nFace ID.\nBateria 100%.\nAcompanha capinha, pelicula e carregador de brinde\nTemos todas cores disponíveis a pronta entrega.",
+      "categories": [
+        {
+          "catid": 100013,
+          "display_name": "Celulares e Dispositivos",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100073,
+          "display_name": "Celulares",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059988,
+          "display_name": "Mobile & Gadgets",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060166,
+          "display_name": "Mobile Phones",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 21297924952,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Vermelho,256GB",
+          "promotion_id": 0,
+          "price": 300000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              4,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 0,
+          "model_id": 219175829079,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Red,256GB",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        },
+        {
+          "item_id": 21297924952,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Vermelho,64GB",
+          "promotion_id": 480648171311279,
+          "price": 163900000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              4,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 300000000,
+          "model_id": 229411869087,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Red,64GB",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 21297924952,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Branco,64GB",
+          "promotion_id": 480648171311279,
+          "price": 163900000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              2,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 300000000,
+          "model_id": 229411869089,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "White,64GB",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 21297924952,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Verde,128GB",
+          "promotion_id": 480648171311279,
+          "price": 167900000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              3,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 330000000,
+          "model_id": 229411869097,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Green,128GB",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 21297924952,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Lilás,128GB",
+          "promotion_id": 480648171311279,
+          "price": 167900000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 330000000,
+          "model_id": 229411869083,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "LILAC,128GB",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 21297924952,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Verde,256GB",
+          "promotion_id": 0,
+          "price": 300000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              3,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 0,
+          "model_id": 219175829078,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Green,256GB",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        },
+        {
+          "item_id": 21297924952,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Branco,128GB",
+          "promotion_id": 480648171311279,
+          "price": 167900000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              2,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 330000000,
+          "model_id": 229411869096,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "White,128GB",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 21297924952,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Vermelho,128GB",
+          "promotion_id": 480648171311279,
+          "price": 167900000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              4,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 330000000,
+          "model_id": 229411869090,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Red,128GB",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 21297924952,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Preto,128GB",
+          "promotion_id": 480648171311279,
+          "price": 167900000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1,
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 330000000,
+          "model_id": 229411869088,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Black,128GB",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 21297924952,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Preto,64GB",
+          "promotion_id": 480648171311279,
+          "price": 163900000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 300000000,
+          "model_id": 229411869084,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Black,64GB",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 21297924952,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Branco,256GB",
+          "promotion_id": 0,
+          "price": 300000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              2,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 0,
+          "model_id": 219175829082,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "White,256GB",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        },
+        {
+          "item_id": 21297924952,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Lilás,64GB",
+          "promotion_id": 480648171311279,
+          "price": 163900000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 300000000,
+          "model_id": 229411869093,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "LILAC,64GB",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 21297924952,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Lilás,256GB",
+          "promotion_id": 0,
+          "price": 300000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 0,
+          "model_id": 219175829080,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "LILAC,256GB",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        },
+        {
+          "item_id": 21297924952,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Verde,64GB",
+          "promotion_id": 480648171311279,
+          "price": 163900000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              3,
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 300000000,
+          "model_id": 229411869092,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Green,64GB",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 21297924952,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Preto,256GB",
+          "promotion_id": 0,
+          "price": 300000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1,
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 0,
+          "model_id": 219175829081,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Black,256GB",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "Iphone 11",
+          "options": [
+            "Lilás",
+            "Preto",
+            "Branco",
+            "Verde",
+            "Vermelho"
+          ],
+          "images": [
+            "sg-11134201-7rdy7-m0xgyq94dhl302",
+            "sg-11134201-7rdwh-m0xgyqt3k93s9e",
+            "sg-11134201-7rdxc-m0xgyra0vhh68a",
+            "sg-11134201-7rdvz-m0xgysadeamfb0",
+            "sg-11134201-7rdw0-m0xgyv33awh01f"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "name_tr": "IPhone 11",
+          "options_tr": [
+            "LILAC",
+            "Black",
+            "White",
+            "Green",
+            "Red"
+          ],
+          "selling_points": null,
+          "selling_points_tr": null
+        },
+        {
+          "name": "GB",
+          "options": [
+            "64GB",
+            "128GB",
+            "256GB"
+          ],
+          "images": null,
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0,
+            2
+          ],
+          "name_tr": "Gb",
+          "options_tr": [
+            "64GB",
+            "128GB",
+            "256GB"
+          ],
+          "selling_points": null,
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 2,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 163900000,
+      "raw_discount": 49,
+      "hidden_price_display": null,
+      "price_min": 163900000,
+      "price_max": 167900000,
+      "price_before_discount": 300000000,
+      "price_min_before_discount": 300000000,
+      "price_max_before_discount": 330000000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": false,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "IPhone 11 64gb/128gb/256gb 100% Original | Celular IPhone Apple",
+      "description_tr": "ATTENTION: For logistical reasons, we are NOT shipping to the following states:\n\n Acre (AC)\n Bahia (BA)\n Amapá (AP)\n Rio Grande do Sul (RS)\n Para (PA)\n Pernambuco (PE)\n Ceará (CE)\n Rio Grande do Norte (RN)\n Paraíba (PB)\n Maranhão (MA)\n Piauí (PI) \n Alagoas (AL)\n Sergipe (SE) \n Rondônia (RO)\n Roraima (RR)\n Amazon (AM)\nIPhone 11 showcase Original includes all accessories. After the act of purchase, we ship your product within 24 hours.\nFace ID.\nBattery 100%.\nComes with cover, film and charger as a gift\nWe have all colors available for immediate delivery.",
+      "rich_text_description_tr": null,
+      "stock_display": "IN STOCK",
+      "max_quantity_display": "IN STOCK",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": 1707139756,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": {
+        "video_id": "api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16000081733499050.mp4",
+        "thumb_url": "br-11110105-6kfkq-m3gkiioeqzp1ae_cover",
+        "duration": 19,
+        "version": 2,
+        "vid": "br-11110105-6kfkq-m3gkiioeqzp1ae",
+        "formats": [
+          {
+            "format": 1600432,
+            "defn": "V360P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004321774725331.mp4",
+            "url": "https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004321774725331.mp4",
+            "width": 360,
+            "height": 636
+          },
+          {
+            "format": 1600433,
+            "defn": "V540P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004331774725332.mp4",
+            "url": "https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004331774725332.mp4",
+            "width": 540,
+            "height": 954
+          },
+          {
+            "format": 1600008,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16000081733499050.mp4",
+            "url": "https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16000081733499050.mp4",
+            "width": 480,
+            "height": 848
+          },
+          {
+            "format": 1600434,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004341774725331.mp4",
+            "url": "https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004341774725331.mp4",
+            "width": 720,
+            "height": 1272
+          },
+          {
+            "format": 1600435,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004351774725331.mp4",
+            "url": "https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004351774725331.mp4",
+            "width": 720,
+            "height": 1272
+          }
+        ],
+        "default_format": {
+          "format": 1600323,
+          "defn": "V540P",
+          "profile": "MP4",
+          "path": "",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.default.mp4",
+          "width": 480,
+          "height": 848
+        },
+        "mms_data": "{\"vid\":\"br-11110105-6kfkq-m3gkiioeqzp1ae\",\"biz\":107,\"duration\":18653,\"create_time\":1733499046,\"update_time\":1733499051,\"serviceID\":2,\"cover\":\"https://down-zl-br.img.susercontent.com/br-11110105-6kfkq-m3gkiioeqzp1ae_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600432,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004321774725331.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004321774725331.mp4\",\"width\":360,\"height\":636,\"bitrate\":137864,\"abitrate\":32297,\"size\":409797,\"fps\":25,\"duration\":18639,\"update_time\":1774725336,\"codec\":\"H264\"},{\"format\":1600433,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004331774725332.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004331774725332.mp4\",\"width\":540,\"height\":954,\"bitrate\":208200,\"abitrate\":32297,\"size\":573680,\"fps\":25,\"duration\":18639,\"update_time\":1774725337,\"codec\":\"H264\"},{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16000081733499050.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16000081733499050.mp4\",\"width\":480,\"height\":848,\"bitrate\":311987,\"abitrate\":47277,\"size\":855577,\"fps\":25,\"duration\":18680,\"update_time\":1733499055,\"codec\":\"H264\"},{\"format\":1600434,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004341774725331.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004341774725331.mp4\",\"width\":720,\"height\":1272,\"bitrate\":395160,\"abitrate\":47362,\"size\":1044361,\"fps\":25,\"duration\":18639,\"update_time\":1774725341,\"codec\":\"H264\"},{\"format\":1600435,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004351774725331.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004351774725331.mp4\",\"width\":720,\"height\":1272,\"bitrate\":648149,\"abitrate\":47362,\"size\":1638084,\"fps\":28.3034,\"duration\":18621,\"update_time\":1774725343,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":218213,\"abitrate\":47277,\"size\":636612,\"fps\":25,\"duration\":18680,\"update_time\":1733499137,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600436,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004361774725325.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004361774725325.mp4\",\"width\":360,\"height\":636,\"bitrate\":117511,\"abitrate\":32297,\"size\":365133,\"fps\":25,\"duration\":18639,\"update_time\":1774725331,\"codec\":\"H265\"},{\"format\":1600437,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004371774725331.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004371774725331.mp4\",\"width\":540,\"height\":954,\"bitrate\":192112,\"abitrate\":32297,\"size\":538955,\"fps\":25,\"duration\":18639,\"update_time\":1774725343,\"codec\":\"H265\"},{\"format\":1600438,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004381774725331.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004381774725331.mp4\",\"width\":720,\"height\":1272,\"bitrate\":368981,\"abitrate\":47362,\"size\":991071,\"fps\":28.3034,\"duration\":18621,\"update_time\":1774725347,\"codec\":\"H265\"},{\"format\":1600439,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004391774725331.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004391774725331.mp4\",\"width\":720,\"height\":1272,\"bitrate\":310225,\"abitrate\":47362,\"size\":854304,\"fps\":28.3034,\"duration\":18621,\"update_time\":1774725346,\"codec\":\"H265\"},{\"format\":1600746,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16007461774725331.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16007461774725331.mp4\",\"width\":720,\"height\":1272,\"bitrate\":239860,\"abitrate\":47362,\"size\":690513,\"fps\":28.3034,\"duration\":18621,\"update_time\":1774725345,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "item_cover": null
+      },
+      "images": [
+        "br-11134207-820lq-mqa8yh9ylhxec4",
+        "sg-11134201-7rdvc-m0xgyh1tuamf40",
+        "sg-11134201-7rdx6-m0xgyhhx6qtjeb",
+        "br-11134207-7r98o-m3gkgfvlpb1x62",
+        "br-11134207-7r98o-m3gkgfvlqpmdb0",
+        "br-11134207-7r98o-m3gkgfvls46t3a",
+        "br-11134207-7r98o-m3gkgfvltir9f8",
+        "br-11134207-7r98o-m3gkgfvluxbp78",
+        "br-11134207-7r98o-m3gkgfvlwbw576"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "Lilás",
+          "image": "sg-11134201-7rdy7-m0xgyq94dhl302",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "LILAC",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134201-7rdy7-m0xgyq94dhl302"
+        },
+        {
+          "name": "Preto",
+          "image": "sg-11134201-7rdwh-m0xgyqt3k93s9e",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Black",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134201-7rdwh-m0xgyqt3k93s9e"
+        },
+        {
+          "name": "Branco",
+          "image": "sg-11134201-7rdxc-m0xgyra0vhh68a",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "White",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134201-7rdxc-m0xgyra0vhh68a"
+        },
+        {
+          "name": "Verde",
+          "image": "sg-11134201-7rdvz-m0xgysadeamfb0",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Green",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134201-7rdvz-m0xgysadeamfb0"
+        },
+        {
+          "name": "Vermelho",
+          "image": "sg-11134201-7rdw0-m0xgyv33awh01f",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Red",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134201-7rdw0-m0xgyv33awh01f"
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "overlay": null,
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            4,
+            2
+          ],
+          "gallery_image": "sg-11134201-7rdw0-m0xgyv33awh01f"
+        },
+        {
+          "tier_index": [
+            4,
+            0
+          ],
+          "gallery_image": "sg-11134201-7rdw0-m0xgyv33awh01f"
+        },
+        {
+          "tier_index": [
+            2,
+            0
+          ],
+          "gallery_image": "sg-11134201-7rdxc-m0xgyra0vhh68a"
+        },
+        {
+          "tier_index": [
+            3,
+            1
+          ],
+          "gallery_image": "sg-11134201-7rdvz-m0xgysadeamfb0"
+        },
+        {
+          "tier_index": [
+            0,
+            1
+          ],
+          "gallery_image": "sg-11134201-7rdy7-m0xgyq94dhl302"
+        },
+        {
+          "tier_index": [
+            3,
+            2
+          ],
+          "gallery_image": "sg-11134201-7rdvz-m0xgysadeamfb0"
+        },
+        {
+          "tier_index": [
+            2,
+            1
+          ],
+          "gallery_image": "sg-11134201-7rdxc-m0xgyra0vhh68a"
+        },
+        {
+          "tier_index": [
+            4,
+            1
+          ],
+          "gallery_image": "sg-11134201-7rdw0-m0xgyv33awh01f"
+        },
+        {
+          "tier_index": [
+            1,
+            1
+          ],
+          "gallery_image": "sg-11134201-7rdwh-m0xgyqt3k93s9e"
+        },
+        {
+          "tier_index": [
+            1,
+            0
+          ],
+          "gallery_image": "sg-11134201-7rdwh-m0xgyqt3k93s9e"
+        },
+        {
+          "tier_index": [
+            2,
+            2
+          ],
+          "gallery_image": "sg-11134201-7rdxc-m0xgyra0vhh68a"
+        },
+        {
+          "tier_index": [
+            0,
+            0
+          ],
+          "gallery_image": "sg-11134201-7rdy7-m0xgyq94dhl302"
+        },
+        {
+          "tier_index": [
+            0,
+            2
+          ],
+          "gallery_image": "sg-11134201-7rdy7-m0xgyq94dhl302"
+        },
+        {
+          "tier_index": [
+            3,
+            0
+          ],
+          "gallery_image": "sg-11134201-7rdvz-m0xgysadeamfb0"
+        },
+        {
+          "tier_index": [
+            1,
+            2
+          ],
+          "gallery_image": "sg-11134201-7rdwh-m0xgyqt3k93s9e"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": null,
+          "video": {
+            "video_id": "api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16000081733499050.mp4",
+            "thumb_url": "br-11110105-6kfkq-m3gkiioeqzp1ae_cover",
+            "duration": 19,
+            "version": 2,
+            "vid": "br-11110105-6kfkq-m3gkiioeqzp1ae",
+            "formats": [
+              {
+                "format": 1600432,
+                "defn": "V360P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004321774725331.mp4",
+                "url": "https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004321774725331.mp4",
+                "width": 360,
+                "height": 636
+              },
+              {
+                "format": 1600433,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004331774725332.mp4",
+                "url": "https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004331774725332.mp4",
+                "width": 540,
+                "height": 954
+              },
+              {
+                "format": 1600008,
+                "defn": "V720P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16000081733499050.mp4",
+                "url": "https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16000081733499050.mp4",
+                "width": 480,
+                "height": 848
+              },
+              {
+                "format": 1600434,
+                "defn": "V720P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004341774725331.mp4",
+                "url": "https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004341774725331.mp4",
+                "width": 720,
+                "height": 1272
+              },
+              {
+                "format": 1600435,
+                "defn": "V720P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004351774725331.mp4",
+                "url": "https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004351774725331.mp4",
+                "width": 720,
+                "height": 1272
+              }
+            ],
+            "default_format": {
+              "format": 1600323,
+              "defn": "V540P",
+              "profile": "MP4",
+              "path": "",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.default.mp4",
+              "width": 480,
+              "height": 848
+            },
+            "mms_data": "{\"vid\":\"br-11110105-6kfkq-m3gkiioeqzp1ae\",\"biz\":107,\"duration\":18653,\"create_time\":1733499046,\"update_time\":1733499051,\"serviceID\":2,\"cover\":\"https://down-zl-br.img.susercontent.com/br-11110105-6kfkq-m3gkiioeqzp1ae_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600432,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004321774725331.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004321774725331.mp4\",\"width\":360,\"height\":636,\"bitrate\":137864,\"abitrate\":32297,\"size\":409797,\"fps\":25,\"duration\":18639,\"update_time\":1774725336,\"codec\":\"H264\"},{\"format\":1600433,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004331774725332.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004331774725332.mp4\",\"width\":540,\"height\":954,\"bitrate\":208200,\"abitrate\":32297,\"size\":573680,\"fps\":25,\"duration\":18639,\"update_time\":1774725337,\"codec\":\"H264\"},{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16000081733499050.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16000081733499050.mp4\",\"width\":480,\"height\":848,\"bitrate\":311987,\"abitrate\":47277,\"size\":855577,\"fps\":25,\"duration\":18680,\"update_time\":1733499055,\"codec\":\"H264\"},{\"format\":1600434,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004341774725331.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004341774725331.mp4\",\"width\":720,\"height\":1272,\"bitrate\":395160,\"abitrate\":47362,\"size\":1044361,\"fps\":25,\"duration\":18639,\"update_time\":1774725341,\"codec\":\"H264\"},{\"format\":1600435,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004351774725331.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004351774725331.mp4\",\"width\":720,\"height\":1272,\"bitrate\":648149,\"abitrate\":47362,\"size\":1638084,\"fps\":28.3034,\"duration\":18621,\"update_time\":1774725343,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":218213,\"abitrate\":47277,\"size\":636612,\"fps\":25,\"duration\":18680,\"update_time\":1733499137,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600436,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004361774725325.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004361774725325.mp4\",\"width\":360,\"height\":636,\"bitrate\":117511,\"abitrate\":32297,\"size\":365133,\"fps\":25,\"duration\":18639,\"update_time\":1774725331,\"codec\":\"H265\"},{\"format\":1600437,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004371774725331.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004371774725331.mp4\",\"width\":540,\"height\":954,\"bitrate\":192112,\"abitrate\":32297,\"size\":538955,\"fps\":25,\"duration\":18639,\"update_time\":1774725343,\"codec\":\"H265\"},{\"format\":1600438,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004381774725331.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004381774725331.mp4\",\"width\":720,\"height\":1272,\"bitrate\":368981,\"abitrate\":47362,\"size\":991071,\"fps\":28.3034,\"duration\":18621,\"update_time\":1774725347,\"codec\":\"H265\"},{\"format\":1600439,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004391774725331.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16004391774725331.mp4\",\"width\":720,\"height\":1272,\"bitrate\":310225,\"abitrate\":47362,\"size\":854304,\"fps\":28.3034,\"duration\":18621,\"update_time\":1774725346,\"codec\":\"H265\"},{\"format\":1600746,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16007461774725331.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m3gkiioeqzp1ae.16007461774725331.mp4\",\"width\":720,\"height\":1272,\"bitrate\":239860,\"abitrate\":47362,\"size\":690513,\"fps\":28.3034,\"duration\":18621,\"update_time\":1774725345,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "item_cover": null
+          }
+        },
+        {
+          "image": {
+            "url": "br-11134207-820lq-mqa8yh9ylhxec4",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdvc-m0xgyh1tuamf40",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-7rdx6-m0xgyhhx6qtjeb",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m3gkgfvlpb1x62",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m3gkgfvlqpmdb0",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m3gkgfvls46t3a",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m3gkgfvltir9f8",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m3gkgfvluxbp78",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m3gkgfvlwbw576",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 51,
+      "installment_info": {
+        "recommended_plan": {
+          "months": 12,
+          "pay_per_month": 13325000,
+          "has_buyer_transaction_fee": true
+        }
+      },
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": 146788000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 300000000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": true,
+      "discount_text": null,
+      "show_final_price_indicator": false,
+      "final_price_vouchers": [
+        {
+          "promotion_id": 1465945642381312,
+          "voucher_code": "ELIT12345",
+          "is_auto_claimed_just_now": false,
+          "groups": null,
+          "voucher_type": 1
+        },
+        {
+          "promotion_id": 1454429786222596,
+          "voucher_code": "1383027839",
+          "is_auto_claimed_just_now": null,
+          "groups": [
+            "BR_FINAL_PRICE_WHITELIST",
+            "__SYSTEM_AUTO_DISPATCH__"
+          ],
+          "voucher_type": 2
+        }
+      ],
+      "has_final_price": true,
+      "final_price_info": {
+        "model_id": 229411869092,
+        "hint_text": "with Pix after voucher",
+        "show_final_price_indicator": false,
+        "final_price_vouchers": {
+          "platform_voucher": {
+            "promotion_id": 1454429786222596,
+            "voucher_code": "1383027839",
+            "is_auto_claimed_just_now": null,
+            "groups": [
+              "BR_FINAL_PRICE_WHITELIST",
+              "__SYSTEM_AUTO_DISPATCH__"
+            ],
+            "voucher_discount_type": 1,
+            "voucher_discount": 2500000
+          },
+          "shop_voucher": {
+            "promotion_id": 1465945642381312,
+            "voucher_code": "ELIT12345",
+            "is_auto_claimed_just_now": false,
+            "groups": null,
+            "voucher_discount_type": 0,
+            "voucher_discount": 1500000
+          },
+          "ads_voucher": null
+        },
+        "payment_channel_discount": {
+          "pix_discount": {
+            "discount_id": 470693858988179,
+            "snapshot_id": 325103934198074,
+            "discount_amount": 13112000
+          }
+        },
+        "final_price_icon_type": 0
+      },
+      "price_subtext": {
+        "template": "or {price} without a voucher with other payment methods",
+        "format": null,
+        "attributes": [
+          {
+            "type": 2,
+            "key": "price",
+            "value": {
+              "value_str": null,
+              "value_int": 163900000
+            },
+            "format": null,
+            "text_color": null,
+            "text_hex_color": null,
+            "url": null
+          }
+        ],
+        "text_color": null,
+        "text_hex_color": null
+      },
+      "price_model": {
+        "price_single_model_id": 229411869092,
+        "price_min_model_id": null,
+        "price_max_model_id": null
+      },
+      "price_promotion": {
+        "price_single_promotion_id": 480648171311279,
+        "price_single_promotion_type": 301,
+        "price_min_promotion_id": null,
+        "price_min_promotion_type": null,
+        "price_max_promotion_id": null,
+        "price_max_promotion_type": null
+      },
+      "instalment_cta_action": null
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": false,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.813877551020409,
+      "rating_count": [
+        1225,
+        28,
+        8,
+        12,
+        68,
+        1109
+      ],
+      "total_rating_count": 1225,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 69155,
+      "cmt_count": 1225,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": null,
+      "historical_sold_display": "2mil+",
+      "global_sold_display": "2mil+",
+      "sold_count_display": "2mil+"
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": {
+        "month": 12,
+        "price_raw": 13325000,
+        "interest": 0,
+        "has_buyer_transaction_fee": true,
+        "display_text": "12x {{price}}"
+      },
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": true,
+        "is_non_cc_installment_payment_eligible": true
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "São Paulo",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 0,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 91003,
+          "name": "Entrega Padrão",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 718000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784946849,
+            "estimated_delivery_date_to": 1784946849,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_exact}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_exact",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 718000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        },
+        {
+          "channel_id": 90024,
+          "name": "Retire Perto de Você",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 574000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784946849,
+            "estimated_delivery_date_to": 1784946849,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{opc_label_receive_by_date_exact_self_collect}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "opc_label_receive_by_date_exact_self_collect",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 574000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": "",
+      "pre_selected_shipping_channel": {
+        "channel_id": 91003,
+        "name": "Entrega Padrão",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 718000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1784946849,
+          "estimated_delivery_date_to": 1784946849,
+          "estimated_delivery_time_min": 5,
+          "estimated_delivery_time_max": 5,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Get by 24/jul",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_exact}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_exact",
+                  "value": {
+                    "value_str": "Get by 24/jul",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 0,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 0,
+          "discount_value": 718000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": true,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 229411869092,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [
+      {
+        "promotionid": 1465945642381312,
+        "voucher_code": "ELIT12345",
+        "signature": "e7606483acfc6871250c272136354d8b26f6a3f270966753cae399c498d46328",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 150000000,
+        "used_price": 1500000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 21,
+        "start_time": 1784214120,
+        "end_time": 1790784120,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 1500000,
+        "reward_cap": 0,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "br-11134216-820m6-mng334ki41s128",
+        "icon_text": "EliteTech666",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 1372532408,
+        "shop_name": "EliteTech666",
+        "is_shop_preferred": false,
+        "is_shop_official": false,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-212110BE078822280000001105111011",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 1500000,
+        "discount_percentage": 0,
+        "discount_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "br-11134216-820m6-mng334ki41s128",
+        "error_code": 0,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      },
+      {
+        "promotionid": 1465936087363584,
+        "voucher_code": "ELIT887",
+        "signature": "1e68d7263fb6501904f94804c66b65d8cd0dded0539abfe192ce0b99ec191e9d",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 100000000,
+        "used_price": 1000000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 56,
+        "start_time": 1784212800,
+        "end_time": 1788190800,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 1000000,
+        "reward_cap": 0,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "br-11134216-820m6-mng334ki41s128",
+        "icon_text": "EliteTech666",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 1372532408,
+        "shop_name": "EliteTech666",
+        "is_shop_preferred": false,
+        "is_shop_official": false,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-FB37F22A078822280000001105111004",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 1000000,
+        "discount_percentage": 0,
+        "discount_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "br-11134216-820m6-mng334ki41s128",
+        "error_code": 0,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      },
+      {
+        "promotionid": 1465945801502720,
+        "voucher_code": "ELIT12311",
+        "signature": "6c2c0612736a27bc51e7d46bff9452ff976e4a516beeb6a1f95a2868d4f2f6cb",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 100000000,
+        "used_price": 1000000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 2,
+        "start_time": 1784214120,
+        "end_time": 1790784120,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 1000000,
+        "reward_cap": 0,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "br-11134216-820m6-mng334ki41s128",
+        "icon_text": "EliteTech666",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 1372532408,
+        "shop_name": "EliteTech666",
+        "is_shop_preferred": false,
+        "is_shop_official": false,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-29E450AE078822280000001105111011",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 1000000,
+        "discount_percentage": 0,
+        "discount_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "br-11134216-820m6-mng334ki41s128",
+        "error_code": 0,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      },
+      {
+        "promotionid": 1465945960755200,
+        "voucher_code": "ELIT12312",
+        "signature": "e2a014c72bd51fd81352ffc490639cdb9ec72bee61064edfb9625933956a0bf1",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 200000000,
+        "used_price": 2000000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 42,
+        "start_time": 1784214120,
+        "end_time": 1790784120,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 2000000,
+        "reward_cap": 0,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "br-11134216-820m6-mng334ki41s128",
+        "icon_text": "EliteTech666",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 1372532408,
+        "shop_name": "EliteTech666",
+        "is_shop_preferred": false,
+        "is_shop_official": false,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-061810AA078822280000001105111011",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 2000000,
+        "discount_percentage": 0,
+        "discount_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "br-11134216-820m6-mng334ki41s128",
+        "error_code": 9,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      },
+      {
+        "promotionid": 1465946137178112,
+        "voucher_code": "ELIT12313",
+        "signature": "bc91233c69593c3ea9e7d1f63ce505a0ba48ef4a0edcd7afdc4e8c5eae8886e7",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 300000000,
+        "used_price": 3000000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 16,
+        "start_time": 1784214180,
+        "end_time": 1790784180,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 3000000,
+        "reward_cap": 0,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "br-11134216-820m6-mng334ki41s128",
+        "icon_text": "EliteTech666",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 1372532408,
+        "shop_name": "EliteTech666",
+        "is_shop_preferred": false,
+        "is_shop_official": false,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-8EDC50BA078822280000001105111011",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 3000000,
+        "discount_percentage": 0,
+        "discount_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "br-11134216-820m6-mng334ki41s128",
+        "error_code": 9,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      }
+    ],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 7,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Brand",
+          "value": "Apple",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": "/search?brands=1189223",
+          "brand_id": 1189223,
+          "full_url": "https://shopee.com.br/search?brands=1189223",
+          "type": 1,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Condition",
+          "value": "Outros",
+          "id": 100413,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Condition",
+          "value_tr": "Others"
+        },
+        {
+          "name": "Storage Capacity",
+          "value": "128GB",
+          "id": 100465,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Storage Capacity",
+          "value_tr": "128GB"
+        },
+        {
+          "name": "Model Name",
+          "value": "A2221",
+          "id": 101040,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Model Name",
+          "value_tr": "A22221"
+        },
+        {
+          "name": "Registration ID",
+          "value": "056861901993",
+          "id": 101197,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Registration ID",
+          "value_tr": "056861901993"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Apple Inc.",
+          "id": 101237,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Manufacturer",
+          "value_tr": "Apple Inc."
+        },
+        {
+          "name": "Ships From",
+          "value": "São Paulo",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059988,
+          "display_name": "Mobile & Gadgets",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060166,
+          "display_name": "Mobile Phones",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 1372532408,
+      "userid": 1373256732,
+      "last_active_time": 1784514588,
+      "vacation": false,
+      "place": "São Paulo, São Paulo",
+      "account": {
+        "portrait": "br-11134216-820m6-mng334ki41s128",
+        "username": "elitetech666",
+        "status": 1
+      },
+      "is_shopee_verified": false,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": false,
+      "shop_location": "",
+      "item_count": 47,
+      "rating_star": 4.799444,
+      "response_rate": 100,
+      "session_info": null,
+      "name": "EliteTech666",
+      "ctime": 1727872673,
+      "response_time": 95,
+      "follower_count": 56172,
+      "show_official_shop_label": false,
+      "rating_bad": 284,
+      "rating_good": 10338,
+      "rating_normal": 244,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": true,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": null,
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": null,
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": {
+        "price": 146788000
+      },
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": null,
+      "bank": {
+        "channels": [
+          {
+            "channel_ic": "",
+            "channel_name": "label_cc_installment",
+            "is_cc": true,
+            "plans": [
+              {
+                "plan_name": "1x",
+                "duration": 1,
+                "interest_rate": 0,
+                "monthly_payment": 159900000,
+                "total_amount": 159900000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "2x",
+                "duration": 2,
+                "interest_rate": 0,
+                "monthly_payment": 79950000,
+                "total_amount": 159900000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "3x",
+                "duration": 3,
+                "interest_rate": 0,
+                "monthly_payment": 53300000,
+                "total_amount": 159900000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "4x",
+                "duration": 4,
+                "interest_rate": 0,
+                "monthly_payment": 39975000,
+                "total_amount": 159900000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "5x",
+                "duration": 5,
+                "interest_rate": 0,
+                "monthly_payment": 31980000,
+                "total_amount": 159900000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "6x",
+                "duration": 6,
+                "interest_rate": 0,
+                "monthly_payment": 26650000,
+                "total_amount": 159900000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "7x",
+                "duration": 7,
+                "interest_rate": 0,
+                "monthly_payment": 22842857,
+                "total_amount": 159900000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "8x",
+                "duration": 8,
+                "interest_rate": 0,
+                "monthly_payment": 19987500,
+                "total_amount": 159900000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "9x",
+                "duration": 9,
+                "interest_rate": 0,
+                "monthly_payment": 17766666,
+                "total_amount": 159900000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "10x",
+                "duration": 10,
+                "interest_rate": 0,
+                "monthly_payment": 15990000,
+                "total_amount": 159900000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "11x",
+                "duration": 11,
+                "interest_rate": 0,
+                "monthly_payment": 14536363,
+                "total_amount": 159900000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "12x",
+                "duration": 12,
+                "interest_rate": 0,
+                "monthly_payment": 13325000,
+                "total_amount": 159900000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              }
+            ],
+            "banks": null,
+            "plan_groups": null
+          }
+        ]
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": {
+      "price": {
+        "single_value": 146788000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 300000000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "discount_breakdown": [
+        {
+          "type": 0,
+          "price_source": "Product Discount",
+          "discount_amount": 136100000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": null,
+          "icon_type": null
+        },
+        {
+          "type": 3,
+          "price_source": "Voucher Discount",
+          "discount_amount": 2500000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": {
+            "min_spend": 20000000,
+            "discount_type": 1,
+            "discount_value": null,
+            "discount_percentage": "5"
+          },
+          "ads_voucher": null,
+          "breakdown_text": {
+            "template": "Buy {min_spend} get {discount_percentage} off",
+            "format": null,
+            "attributes": [
+              {
+                "type": 2,
+                "key": "min_spend",
+                "value": {
+                  "value_str": null,
+                  "value_int": 20000000
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              },
+              {
+                "type": 1,
+                "key": "discount_percentage",
+                "value": {
+                  "value_str": "5%",
+                  "value_int": null
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              }
+            ],
+            "text_color": null,
+            "text_hex_color": null
+          },
+          "icon_type": 0
+        },
+        {
+          "type": 2,
+          "price_source": "Shop Voucher Discount",
+          "discount_amount": 1500000,
+          "exclusive_price": null,
+          "shop_voucher": {
+            "min_spend": 150000000,
+            "discount_type": 0,
+            "discount_value": 1500000,
+            "discount_percentage": null
+          },
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": {
+            "template": "Buy {min_spend} get {discount_value} off",
+            "format": null,
+            "attributes": [
+              {
+                "type": 2,
+                "key": "min_spend",
+                "value": {
+                  "value_str": null,
+                  "value_int": 150000000
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              },
+              {
+                "type": 2,
+                "key": "discount_value",
+                "value": {
+                  "value_str": null,
+                  "value_int": 1500000
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              }
+            ],
+            "text_color": null,
+            "text_hex_color": null
+          },
+          "icon_type": null
+        },
+        {
+          "type": 4,
+          "price_source": "Pix Discount",
+          "discount_amount": 13112000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": null,
+          "icon_type": null
+        }
+      ]
+    },
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "ATENÇÃO: Por questões logísticas, NÃO estamos enviando para os seguintes estados:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": " Acre (AC)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Bahia (BA)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Amapá (AP)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Rio Grande do Sul (RS)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Pará (PA)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Pernambuco (PE)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Ceará (CE)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Rio Grande do Norte (RN)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Paraíba (PB)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Maranhão (MA)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Piauí (PI) ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Alagoas (AL)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Sergipe (SE) ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Rondônia (RO)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Roraima (RR)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Amazonas (AM)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "IPhone 11 vitrine Original inclui todos acessórios. Após o ato da compra enviamos o seu produto em até 24 horas.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Face ID.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bateria 100%.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Acompanha capinha, pelicula e carregador de brinde",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Temos todas cores disponíveis a pronta entrega.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "ATTENTION: For logistical reasons, we are NOT shipping to the following states:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": " Acre (AC)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Bahia (BA)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Amapá (AP)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Rio Grande do Sul (RS)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Para (PA)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Pernambuco (PE)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Ceará (CE)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Rio Grande do Norte (RN)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Paraíba (PB)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Maranhão (MA)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Piauí (PI) ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Alagoas (AL)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Sergipe (SE) ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Rondônia (RO)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Roraima (RR)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": " Amazon (AM)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "IPhone 11 showcase Original includes all accessories. After the act of purchase, we ship your product within 24 hours.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Face ID.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Battery 100%.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Comes with cover, film and charger as a gift",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "We have all colors available for immediate delivery.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": null
+  }
+}

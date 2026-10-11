@@ -1,0 +1,32 @@
+{
+  "running": true,
+  "method": "기본방식 · 상류 프록시 없음 · mitm · 4건마다 재기동 · 미저장이면 재기동 · 418은 캡차 대기(앱 재기동 없음) · 저장 300건마다 또는 막히면 다음 보관 세션 · 페이지 사용 불가 화면이면 다른 보관 세션으로 전환, 없으면 새 로그인 · HTTP/2 끔 · 간격 0.4~0.4s · 40건마다 12s 휴식",
+  "note": "수집 진행 중",
+  "started_at": 1791179592.2639897,
+  "elapsed_s": 4851.0,
+  "saved": 466,
+  "miss": 46,
+  "done": 512,
+  "pending_total": 9755,
+  "pending_left": 9243,
+  "per_min": 5.76,
+  "per_hour": 345.8,
+  "target_per_hour": 500,
+  "last": {
+    "ok": true,
+    "shop_id": 379160109,
+    "item_id": 58255598305,
+    "url": "https://shopee.com.br/product/379160109/58255598305",
+    "sec": 6.21,
+    "source": "emulator_pdp_get",
+    "traffic_error": false,
+    "saved": "D:\\Luxury\\Great Scraper2\\Great Scraper\\Shopee.Brazil\\Upload\\379160109_58255598305.json",
+    "how": "재기동"
+  },
+  "serial": "localhost:60252",
+  "userid": "13144257019",
+  "upstream": "",
+  "egress": "폰 회선 직접",
+  "log_file": "D:\\Luxury\\Great Scraper2\\Great Scraper\\runtime\\vmos_cloud\\list_1.log",
+  "updated": 1791184444.0809028
+}

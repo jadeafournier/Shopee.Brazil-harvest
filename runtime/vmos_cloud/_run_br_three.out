@@ -1,0 +1,30 @@
+==== 3대 Change Region BR ====
+replacePad {"msg": "success", "traceId": "g06nohy68pa8", "code": 200, "data": [{"padCode": "AC20250306MHUQVN", "errMsg": null, "dispatchCode": 200, "vmStatus": 1, "taskId": 1435504682, "taskStatus": 1}, {"padCode": "ACP251005M8NPVM5", "errMsg": null, "dispatchCode": 200, "vmStatus": 1, "taskId": 1435504673, "taskStatus": 1}, {"padCode": "ACP250719PQRGGM6", "errMsg": null, "dispatchCode": 200, "vmStatus": 1, "taskId": 1435504683, "taskStatus": 1}], "ts": 1791093138911}
+task 1435504673 ACP251005M8NPVM5 status=2
+task 1435504682 AC20250306MHUQVN status=2
+task 1435504683 ACP250719PQRGGM6 status=2
+task 1435504673 ACP251005M8NPVM5 status=2
+task 1435504682 AC20250306MHUQVN status=2
+task 1435504683 ACP250719PQRGGM6 status=2
+task 1435504673 ACP251005M8NPVM5 status=2
+task 1435504682 AC20250306MHUQVN status=2
+task 1435504683 ACP250719PQRGGM6 status=2
+task 1435504673 ACP251005M8NPVM5 status=3
+task 1435504682 AC20250306MHUQVN status=3
+task 1435504683 ACP250719PQRGGM6 status=3
+대기 AC20250306MHUQVN on=True country=Brazil | ACP251005M8NPVM5 on=True country=Brazil | ACP250719PQRGGM6 on=True country=Brazil
+Samsung1 localhost:58225 adb 5073 connected to localhost:58225
+Samsung2 localhost:60201 adb 5072 connected to localhost:60201
+Phone3 localhost:57344 adb 5071 connected to localhost:57344
+Samsung1 Shopee 설치 시작
+Samsung2 Shopee 설치 시작
+Phone3 Shopee 설치 시작
+Phone3 install adb: failed to write "D:\Luxury\Shopee.BR.Android\Shopee.BR.Android\runtime\vmos_cloud\apk_cache\xapk_unpack\com.shopee.br.apk"
+adb: failed to run abb_exec. Error: device offline
+adb: connect error for finalize: device offline
+Samsung2 install adb: failed to write "D:\Luxury\Shopee.BR.Android\Shopee.BR.Android\runtime\vmos_cloud\apk_cache\xapk_unpack\com.shopee.br.apk"
+adb: failed to run abb_exec. Error: device offline
+adb: connect error for finalize: device offline
+Samsung1 install adb: failed to write "D:\Luxury\Shopee.BR.Android\Shopee.BR.Android\runtime\vmos_cloud\apk_cache\xapk_unpack\com.shopee.br.apk"
+adb: failed to run abb_exec. Error: device offline
+adb: connect error for finalize: device offline

@@ -1,0 +1,206 @@
+{
+  "finished_at": "2026-07-22T01:16:16.224136+00:00",
+  "spc_u": "5196720216",
+  "results": [
+    {
+      "profile": "ios",
+      "url": "https://shopee.com.br/Bomba-De-Ar-Manual-Com-Medidor-150-Psi-Pneu-Moto-Bike-Carro-BT-AX103-i.1397458631.26420453879?extraParams=%7B%22display_model_id%22%3A258444874122%2C%22model_selection_logic%22%3A3%7D&sp_atk=d67c6381-6237-4b6d-ba4d-fabd4494ff27&xptdk=d67c6381-6237-4b6d-ba4d-fabd4494ff27",
+      "endpoint": "item/get",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "ios",
+      "url": "https://shopee.com.br/Bomba-De-Ar-Manual-Com-Medidor-150-Psi-Pneu-Moto-Bike-Carro-BT-AX103-i.1397458631.26420453879?extraParams=%7B%22display_model_id%22%3A258444874122%2C%22model_selection_logic%22%3A3%7D&sp_atk=d67c6381-6237-4b6d-ba4d-fabd4494ff27&xptdk=d67c6381-6237-4b6d-ba4d-fabd4494ff27",
+      "endpoint": "get_rw",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "ios",
+      "url": "https://shopee.com.br/Bomba-De-Ar-Manual-Com-Medidor-150-Psi-Pneu-Moto-Bike-Carro-BT-AX103-i.1397458631.26420453879?extraParams=%7B%22display_model_id%22%3A258444874122%2C%22model_selection_logic%22%3A3%7D&sp_atk=d67c6381-6237-4b6d-ba4d-fabd4494ff27&xptdk=d67c6381-6237-4b6d-ba4d-fabd4494ff27",
+      "endpoint": "get_pc",
+      "ok": false,
+      "status": "network",
+      "http": 0,
+      "error": "SSLError: Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "ios",
+      "url": "https://shopee.com.br/24-Divis%C3%B3rias-Pasta-Organizadora-De-Arquivos-Expans%C3%ADvel-Para-Documentos-i.1397458631.29943809506?extraParams=%7B%22display_model_id%22%3A272259431027%2C%22model_selection_logic%22%3A3%7D",
+      "endpoint": "item/get",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "ios",
+      "url": "https://shopee.com.br/24-Divis%C3%B3rias-Pasta-Organizadora-De-Arquivos-Expans%C3%ADvel-Para-Documentos-i.1397458631.29943809506?extraParams=%7B%22display_model_id%22%3A272259431027%2C%22model_selection_logic%22%3A3%7D",
+      "endpoint": "get_rw",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "ios",
+      "url": "https://shopee.com.br/24-Divis%C3%B3rias-Pasta-Organizadora-De-Arquivos-Expans%C3%ADvel-Para-Documentos-i.1397458631.29943809506?extraParams=%7B%22display_model_id%22%3A272259431027%2C%22model_selection_logic%22%3A3%7D",
+      "endpoint": "get_pc",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "ios_safari",
+      "url": "https://shopee.com.br/Bomba-De-Ar-Manual-Com-Medidor-150-Psi-Pneu-Moto-Bike-Carro-BT-AX103-i.1397458631.26420453879?extraParams=%7B%22display_model_id%22%3A258444874122%2C%22model_selection_logic%22%3A3%7D&sp_atk=d67c6381-6237-4b6d-ba4d-fabd4494ff27&xptdk=d67c6381-6237-4b6d-ba4d-fabd4494ff27",
+      "endpoint": "item/get",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "ios_safari",
+      "url": "https://shopee.com.br/Bomba-De-Ar-Manual-Com-Medidor-150-Psi-Pneu-Moto-Bike-Carro-BT-AX103-i.1397458631.26420453879?extraParams=%7B%22display_model_id%22%3A258444874122%2C%22model_selection_logic%22%3A3%7D&sp_atk=d67c6381-6237-4b6d-ba4d-fabd4494ff27&xptdk=d67c6381-6237-4b6d-ba4d-fabd4494ff27",
+      "endpoint": "get_rw",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "ios_safari",
+      "url": "https://shopee.com.br/Bomba-De-Ar-Manual-Com-Medidor-150-Psi-Pneu-Moto-Bike-Carro-BT-AX103-i.1397458631.26420453879?extraParams=%7B%22display_model_id%22%3A258444874122%2C%22model_selection_logic%22%3A3%7D&sp_atk=d67c6381-6237-4b6d-ba4d-fabd4494ff27&xptdk=d67c6381-6237-4b6d-ba4d-fabd4494ff27",
+      "endpoint": "get_pc",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "ios_safari",
+      "url": "https://shopee.com.br/24-Divis%C3%B3rias-Pasta-Organizadora-De-Arquivos-Expans%C3%ADvel-Para-Documentos-i.1397458631.29943809506?extraParams=%7B%22display_model_id%22%3A272259431027%2C%22model_selection_logic%22%3A3%7D",
+      "endpoint": "item/get",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "ios_safari",
+      "url": "https://shopee.com.br/24-Divis%C3%B3rias-Pasta-Organizadora-De-Arquivos-Expans%C3%ADvel-Para-Documentos-i.1397458631.29943809506?extraParams=%7B%22display_model_id%22%3A272259431027%2C%22model_selection_logic%22%3A3%7D",
+      "endpoint": "get_rw",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "ios_safari",
+      "url": "https://shopee.com.br/24-Divis%C3%B3rias-Pasta-Organizadora-De-Arquivos-Expans%C3%ADvel-Para-Documentos-i.1397458631.29943809506?extraParams=%7B%22display_model_id%22%3A272259431027%2C%22model_selection_logic%22%3A3%7D",
+      "endpoint": "get_pc",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "rn_android",
+      "url": "https://shopee.com.br/Bomba-De-Ar-Manual-Com-Medidor-150-Psi-Pneu-Moto-Bike-Carro-BT-AX103-i.1397458631.26420453879?extraParams=%7B%22display_model_id%22%3A258444874122%2C%22model_selection_logic%22%3A3%7D&sp_atk=d67c6381-6237-4b6d-ba4d-fabd4494ff27&xptdk=d67c6381-6237-4b6d-ba4d-fabd4494ff27",
+      "endpoint": "item/get",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "rn_android",
+      "url": "https://shopee.com.br/Bomba-De-Ar-Manual-Com-Medidor-150-Psi-Pneu-Moto-Bike-Carro-BT-AX103-i.1397458631.26420453879?extraParams=%7B%22display_model_id%22%3A258444874122%2C%22model_selection_logic%22%3A3%7D&sp_atk=d67c6381-6237-4b6d-ba4d-fabd4494ff27&xptdk=d67c6381-6237-4b6d-ba4d-fabd4494ff27",
+      "endpoint": "get_rw",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "rn_android",
+      "url": "https://shopee.com.br/Bomba-De-Ar-Manual-Com-Medidor-150-Psi-Pneu-Moto-Bike-Carro-BT-AX103-i.1397458631.26420453879?extraParams=%7B%22display_model_id%22%3A258444874122%2C%22model_selection_logic%22%3A3%7D&sp_atk=d67c6381-6237-4b6d-ba4d-fabd4494ff27&xptdk=d67c6381-6237-4b6d-ba4d-fabd4494ff27",
+      "endpoint": "get_pc",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "rn_android",
+      "url": "https://shopee.com.br/24-Divis%C3%B3rias-Pasta-Organizadora-De-Arquivos-Expans%C3%ADvel-Para-Documentos-i.1397458631.29943809506?extraParams=%7B%22display_model_id%22%3A272259431027%2C%22model_selection_logic%22%3A3%7D",
+      "endpoint": "item/get",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "rn_android",
+      "url": "https://shopee.com.br/24-Divis%C3%B3rias-Pasta-Organizadora-De-Arquivos-Expans%C3%ADvel-Para-Documentos-i.1397458631.29943809506?extraParams=%7B%22display_model_id%22%3A272259431027%2C%22model_selection_logic%22%3A3%7D",
+      "endpoint": "get_rw",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    },
+    {
+      "profile": "rn_android",
+      "url": "https://shopee.com.br/24-Divis%C3%B3rias-Pasta-Organizadora-De-Arquivos-Expans%C3%ADvel-Para-Documentos-i.1397458631.29943809506?extraParams=%7B%22display_model_id%22%3A272259431027%2C%22model_selection_logic%22%3A3%7D",
+      "endpoint": "get_pc",
+      "ok": false,
+      "status": "need_app_sign",
+      "http": 403,
+      "error": 90309999,
+      "data_keys": 0,
+      "item_keys": 0
+    }
+  ],
+  "ok_count": 0,
+  "need_app_sign": 17
+}

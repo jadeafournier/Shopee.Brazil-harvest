@@ -1,0 +1,3474 @@
+{
+  "task_link": "https://shopee.com.br/product/239168233/27350696719",
+  "token": "br_batch_crawl",
+  "api_key": "br_batch_crawl",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 27350696719,
+      "shop_id": 239168233,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "QCY H3 ANC Fones De Ouvido Sem Fio Bluetooth 5.4 Sobre Fone 43dB Com Cancelamento De Ruído 60H",
+      "image": "cn-11134207-7r98o-lyowog7l62le7c",
+      "label_ids": [
+        298408357,
+        844931064601283,
+        822062091123206,
+        5325720222303768,
+        298773385,
+        1428713,
+        1718087960,
+        298923417,
+        2203725,
+        998291046,
+        1400850105,
+        700960097,
+        1718428132,
+        700810080
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100535,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": "QCY",
+      "brand_id": 1146930,
+      "show_discount": 49,
+      "ctime": 1716428194,
+      "item_rating": {
+        "rating_star": 4.8962108731466225
+      },
+      "cb_option": 1,
+      "has_model_with_available_shopee_stock": true,
+      "shop_location": "Internacional",
+      "attributes": [
+        {
+          "name": "Connection Type",
+          "value": "Wireless (Bluetooth or Wifi)",
+          "id": 100408,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2530,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "Over Ear",
+          "id": 100519,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2973,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2538,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Mobile, PC & Laptop",
+          "id": 100516,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2867,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Duration",
+          "value": "12 Months",
+          "id": 100121,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 822,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Type",
+          "value": "Supplier Warranty",
+          "id": 100370,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2437,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Name",
+          "value": "BH23H3A",
+          "id": 101040,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Registration ID",
+          "value": "17303-23-03372",
+          "id": 101197,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Manufacturer",
+          "value": "DongGuan Hele Eletronics Co.,Ltd.",
+          "id": 101237,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "type": 0,
+            "text": "Nome do produto: QCY H3",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Modelo certificado:BH23H3A",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Nome da emparelhamento:10m",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Compatibilidade com: iOS/ Android",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Faixa de Operação de Operação:10m",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Tempo de reprodução: aprox.60/35hr (ANC OFF/ON)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Perfis Bluetooth:A2DP /AVRCP/HFP",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Capacidade da bateria da bateria: 500mAh",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Tempo de carregamento: cerca de 2hr",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Porta de carregamento do tipo-C",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Tamanho do fone de ouvido: 160,2 * 81,7 * 196,8 m",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Fones De Ouvido Sem Fio QCY H3 ANC Bluetooth 5.4 Hi-Res Áudio Sobre Fone de Ouvido 43dB Híbrido Activo Cancelamento de Ruído Fones de Ouvido 60H",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Cancelamento de ruído ativo híbrido de 43dB",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Com tecnologia híbrida anc, os cinco microfones funcionam juntos para bloquear o ruído até 43dB. Quatro configurações ajustáveis para cada situação barulhenta.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Compensação de áudio adaptativa de orelha Bimodal (BECAAC)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Fone de ouvido para detectar a estrutura canal auditiva e a maneira como as pessoas usam e criam parâmetros exclusivos de cancelamento de ruído para revisar a curva de áudio que pode oferecer audição premium ao mesmo tempo em que as pessoas usam diferentes pessoas.(Nota: Esta função precisa ser ligada manualmente toda vez que você usá-lo, não pode ser totalmente autoadaptada em tempo real.)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Limpar chamadas",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Embalado com a tecnologia Very Deep Convolucional Neural Networks(VDCNN), os microfones podem perceber diferentes ambientes e ajustar automaticamente o nível de cancelamento de ruído de acordo com para que você sempre possa desfrutar de chamadas internas ou ao ar livre estáveis, naturais e de qualidade.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Som HD Original do áudio do alta qualidade",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "A resposta de frequência de 40 kHz oferece som de qualidade CD. O áudio Hi-Res fornece clareza e detalhes extraordinários. 40 mm Composto-Diafragma com chapeamento de titânio oferecem som 3D de nível de cinema, alta resolução com graves punchy e altos transparentes.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "A qualidade do som médio e de alta frequência pode ser melhorada atualizando o firmware no aplicativo QCY!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Modo de transparência modo de transparência",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Escudo o som ambiente claramente enquanto ainda aproveita a música. Esteja ciente do ambiente ao redor quando você estiver comprando/caminhando/chatting.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Conecte-se a 2 dispositivos",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Suporta conexão simultânea de dois dispositivos Bluetooth, permitindo que você desfrute de trabalho e entretenimento ao mesmo tempo.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Vida útil da bateria Extra longa de 60 horas",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Aproveite cerca de 60 horas de reprodução, ligue para ANC, com ANC off, aproveite cerca de 60 horas de reprodução, ligue para ANC, há 35 horas de reprodução. Tempo de carregamento de 1,5 h = 60h Tempo de música = 300h Tempo de espera.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Modo sem fio Bluetooth 5.4/Com fio",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "O chip Bluetooth 5.4 avançado fornece uma transmissão rápida e estável de link completo.4 avançado Você pode facilmente alternar entre o cabo bluetooth 5.4 e 3.5mm AUX. Essas 2 configurações concedem a versatilidade para obter o máximo de todos os dispositivos.( Cabo AUX de 3,5 mm incluído)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Modo de jogos para jogos",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "A baixa latência de jogos permite que você desfrute de uma melhor experiência de jogo no modo de jogo, 0,08 cm de baixa latência permite que você aproveite uma melhor experiência de jogo.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Almofadas de ouvido macias, conforto sem precedentes",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Almofadas de ouvido de couro de proteína sintética combinam com espuma de memória de mola lenta para uso excepcional com menos pressão nas orelhas dos ouvidos combinam com espuma de memória de mola lenta para uso excepcional com menos pressão nas orelhas.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "É tão confortável que você não precisa tirar uma pausa de sua música favorita.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "APP inteligente inteligente inteligente de APP",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "O aplicativo QCY suporta emparelhamento de pop-up, EQ e nível de cancelamento de ruído personalizável QCY APP suporta emparelhamento de pop-up, EQ e nível de cancelamento de ruído personalizável. Agora é hora de explorar mais no APP e construir seu próprio fone de ouvido.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Controle de botão, fácil de operar, suporta assistente de voz.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Aviso prévio para uso de modo com fio:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Quando seu QCY H3 usando nosso cabo de 3,5 mm (ou seja, o modo com fio está ligado), o fone de ouvido está de modo próximo e suporta apenas saída de áudio. A função Bluetooth (ANC, EQ, etc.) e microfone incapaz de ser usado.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Se você precisar usar funções relacionadas, mude para o modo sem fio e confirme se você precisa usar funções relacionadas, alterne para o modo sem fio e confirme se o Bluetooth foi conectado.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nlrbgna5a",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nlrcv7q01",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nlre9s6a8",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nlrfocm9a",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nlxfzt181",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": true,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "Nome do produto: QCY H3\nModelo certificado:BH23H3A\nNome da emparelhamento:10m\nCompatibilidade com: iOS/ Android\nFaixa de Operação de Operação:10m\nTempo de reprodução: aprox.60/35hr (ANC OFF/ON)\nPerfis Bluetooth:A2DP /AVRCP/HFP\nCapacidade da bateria da bateria: 500mAh\nTempo de carregamento: cerca de 2hr\nPorta de carregamento do tipo-C\nTamanho do fone de ouvido: 160,2 * 81,7 * 196,8 m\nFones De Ouvido Sem Fio QCY H3 ANC Bluetooth 5.4 Hi-Res Áudio Sobre Fone de Ouvido 43dB Híbrido Activo Cancelamento de Ruído Fones de Ouvido 60H\nCancelamento de ruído ativo híbrido de 43dB\nCom tecnologia híbrida anc, os cinco microfones funcionam juntos para bloquear o ruído até 43dB. Quatro configurações ajustáveis para cada situação barulhenta.\nCompensação de áudio adaptativa de orelha Bimodal (BECAAC)\nFone de ouvido para detectar a estrutura canal auditiva e a maneira como as pessoas usam e criam parâmetros exclusivos de cancelamento de ruído para revisar a curva de áudio que pode oferecer audição premium ao mesmo tempo em que as pessoas usam diferentes pessoas.(Nota: Esta função precisa ser ligada manualmente toda vez que você usá-lo, não pode ser totalmente autoadaptada em tempo real.)\nLimpar chamadas\nEmbalado com a tecnologia Very Deep Convolucional Neural Networks(VDCNN), os microfones podem perceber diferentes ambientes e ajustar automaticamente o nível de cancelamento de ruído de acordo com para que você sempre possa desfrutar de chamadas internas ou ao ar livre estáveis, naturais e de qualidade.\nSom HD Original do áudio do alta qualidade\nA resposta de frequência de 40 kHz oferece som de qualidade CD. O áudio Hi-Res fornece clareza e detalhes extraordinários. 40 mm Composto-Diafragma com chapeamento de titânio oferecem som 3D de nível de cinema, alta resolução com graves punchy e altos transparentes.\nA qualidade do som médio e de alta frequência pode ser melhorada atualizando o firmware no aplicativo QCY!\nModo de transparência modo de transparência\nEscudo o som ambiente claramente enquanto ainda aproveita a música. Esteja ciente do ambiente ao redor quando você estiver comprando/caminhando/chatting.\nConecte-se a 2 dispositivos\nSuporta conexão simultânea de dois dispositivos Bluetooth, permitindo que você desfrute de trabalho e entretenimento ao mesmo tempo.\nVida útil da bateria Extra longa de 60 horas\nAproveite cerca de 60 horas de reprodução, ligue para ANC, com ANC off, aproveite cerca de 60 horas de reprodução, ligue para ANC, há 35 horas de reprodução. Tempo de carregamento de 1,5 h = 60h Tempo de música = 300h Tempo de espera.\nModo sem fio Bluetooth 5.4/Com fio\nO chip Bluetooth 5.4 avançado fornece uma transmissão rápida e estável de link completo.4 avançado Você pode facilmente alternar entre o cabo bluetooth 5.4 e 3.5mm AUX. Essas 2 configurações concedem a versatilidade para obter o máximo de todos os dispositivos.( Cabo AUX de 3,5 mm incluído)\nModo de jogos para jogos\nA baixa latência de jogos permite que você desfrute de uma melhor experiência de jogo no modo de jogo, 0,08 cm de baixa latência permite que você aproveite uma melhor experiência de jogo.\nAlmofadas de ouvido macias, conforto sem precedentes\nAlmofadas de ouvido de couro de proteína sintética combinam com espuma de memória de mola lenta para uso excepcional com menos pressão nas orelhas dos ouvidos combinam com espuma de memória de mola lenta para uso excepcional com menos pressão nas orelhas.\nÉ tão confortável que você não precisa tirar uma pausa de sua música favorita.\nAPP inteligente inteligente inteligente de APP\nO aplicativo QCY suporta emparelhamento de pop-up, EQ e nível de cancelamento de ruído personalizável QCY APP suporta emparelhamento de pop-up, EQ e nível de cancelamento de ruído personalizável. Agora é hora de explorar mais no APP e construir seu próprio fone de ouvido.\nControle de botão, fácil de operar, suporta assistente de voz.\nAviso prévio para uso de modo com fio:\nQuando seu QCY H3 usando nosso cabo de 3,5 mm (ou seja, o modo com fio está ligado), o fone de ouvido está de modo próximo e suporta apenas saída de áudio. A função Bluetooth (ANC, EQ, etc.) e microfone incapaz de ser usado.\nSe você precisar usar funções relacionadas, mude para o modo sem fio e confirme se você precisa usar funções relacionadas, alterne para o modo sem fio e confirme se o Bluetooth foi conectado.\n",
+      "categories": [
+        {
+          "catid": 100535,
+          "display_name": "Áudio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100578,
+          "display_name": "Fones de Ouvido, Headphones e Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 27350696719,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "H3-BLACK",
+          "promotion_id": 481197398635218,
+          "price": 19799000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 302
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": true,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 38800000,
+          "model_id": 207527225998,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "H3-Black",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 27350696719,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "H3-WHITE",
+          "promotion_id": 481197398635218,
+          "price": 19799000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 302
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": true,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 38800000,
+          "model_id": 207527225999,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "H3-white",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 27350696719,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "H3-BLUE",
+          "promotion_id": 481197398635218,
+          "price": 19799000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 302
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": true,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 38800000,
+          "model_id": 207527226000,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "H3-Blue",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 27350696719,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "H3-PURPLE",
+          "promotion_id": 0,
+          "price": 38530000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 0,
+          "model_id": 207527226001,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "H3-PURPLE",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        },
+        {
+          "item_id": 27350696719,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "H3-BLUEGREY",
+          "promotion_id": 0,
+          "price": 38575000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 0,
+          "model_id": 207527226002,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "H3-BLUEGRAY",
+          "is_clickable": false,
+          "is_grayout": true,
+          "has_stock": false
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "Cor",
+          "options": [
+            "H3-BLACK",
+            "H3-WHITE",
+            "H3-BLUE",
+            "H3-PURPLE",
+            "H3-BLUEGREY"
+          ],
+          "images": [
+            "cn-11134207-7r98o-lvmk6d9mz8mcce",
+            "cn-11134207-7r98o-lvmk6d9n0n6s89",
+            "cn-11134207-7r98o-lvmk6d9n21r838",
+            "cn-11134207-7r98o-lvmk6d9n3gbocc",
+            "cn-11134207-7r98o-lvmk6d9n4uw413"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0,
+            0,
+            2,
+            2
+          ],
+          "name_tr": "Color",
+          "options_tr": [
+            "H3-Black",
+            "H3-white",
+            "H3-Blue",
+            "H3-PURPLE",
+            "H3-BLUEGRAY"
+          ],
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 1,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 19799000,
+      "raw_discount": 49,
+      "hidden_price_display": null,
+      "price_min": 19799000,
+      "price_max": 19799000,
+      "price_before_discount": 38800000,
+      "price_min_before_discount": 38800000,
+      "price_max_before_discount": 38800000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": true,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "QCY H3 ANC Wireless Bluetooth 5.4 Headphones Over Ear 43dB Noise Cancelling 60H",
+      "description_tr": "Product name: QCY H3\nCertified model: BH23H3A\nPairing name:10m\nCompatibility with: iOS/ Android\nOperating Operating Range: 10m\nPlayback time: approx.60/35hr (ANC OFF/ON)\nBluetooth Profiles:A2DP /AVRCP/HFP\nBattery Battery Capacity: 500mAh\nCharging time: about 2hr\nType-C charging port\nHeadphone Size: 20.2*81.7*196.8m\nWireless Headphones QCY H3 ANC Bluetooth 5.4 Hi-Res Audio Over Earphone 43dB Hybrid Active Noise Canceling Headphones 60H\n43dB hybrid active noise cancellation\nWith anc hybrid technology, the five microphones work together to block noise up to 43dB. Four adjustable settings for every noisy situation.\nBimodal ear adaptive audio compensation (BECAAC)\nHeadphone to detect the hearing channel structure and the way people use it and create unique noise canceling parameters to review the audio curve that can offer premium listening while People use different people.(Note: This function needs to be turned on manually every time you use it, it cannot be fully self-adapted in real time.)\nClear calls\nPacked with Very Deep Convolutionary Neural Networks (VDCNN) technology, the microphones can realize different environments and automatically adjust the noise canceling level according to so that you can always enjoy indoor calls or outdoors. Stable, natural and quality outdoor.\nHigh quality audio Original HD sound\n40 kHz frequency response delivers CD quality sound. Hi-Res audio provides extraordinary clarity and detail. 40mm Composite-Diaphragm with titanium plating deliver cinema-grade 3D sound, high resolution with punchy bass and clear louds.\nMedium and high frequency sound quality can be improved by updating the firmware in the QCY app!\nTransparency mode transparency mode\nShield the ambient sound clearly while still enjoying the music. Be aware of the surrounding environment when you are buying/walking/chatting.\nConnect to 2 devices\nIt supports simultaneous connection of two Bluetooth devices, allowing you to enjoy work and entertainment at the same time.\nExtra long battery life 60 hours\nEnjoy about 60 hours of playtime, call ANC, with ANC off, enjoy about 60 hours of playtime, call ANC, there are 35 hours of playtime. Charging time 1.5h = 60h Music time = 300h Standby time.\nBluetooth 5.4/Wired Wireless Mode\nAdvanced Bluetooth 5.4 chip provides advanced full link fast and stable transmission.4 You can easily switch between bluetooth 5.4 and 3.5mm AUX cable. These 2 settings grant versatility to get the most out of all devices.( 3.5mm AUX cable included)\nGame mode for games\nLow gaming latency lets you enjoy better gaming experience in game mode, 0.08 cm low latency lets you enjoy A better gaming experience.\nSoft ear pads, unprecedented comfort\nSynthetic protein leather ear pads combine with slow spring memory foam for exceptional use with less pressure on ear ears combine with slow spring memory foam for exceptional use with less pressure In the ears.\nIt's so comfortable that you don't have to take a break from your favorite music.\nAPP smart smart smart APP\nQCY APP supports pop-up pairing, EQ and QCY APP customizable noise canceling level supports pop-up pairing, EQ and customizable noise canceling level. Now it's time to explore more on the APP and build your own headphone.\nButton control, easy to operate, support voice assistant.\nEarly warning for wired mode use:\nWhen your QCY H3 using our 3.5mm cable (that is, the wired mode is on), the headset is closely and only supports audio output. Bluetooth function (ANC, EQ, etc.) and microphone unable to be used.\nIf you need to use related functions, switch to wireless mode and confirm whether you need to use related functions, switch to wireless mode and confirm whether Bluetooth has been connected.\n",
+      "rich_text_description_tr": {
+        "paragraph_list": [
+          {
+            "type": 0,
+            "text": "Product name: QCY H3",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Certified model: BH23H3A",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Pairing name:10m",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Compatibility with: iOS/ Android",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Operating Operating Range: 10m",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Playback time: approx.60/35hr (ANC OFF/ON)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Bluetooth Profiles:A2DP /AVRCP/HFP",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Battery Battery Capacity: 500mAh",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Charging time: about 2hr",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Type-C charging port",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Headphone Size: 20.2*81.7*196.8m",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Wireless Headphones QCY H3 ANC Bluetooth 5.4 Hi-Res Audio Over Earphone 43dB Hybrid Active Noise Canceling Headphones 60H",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "43dB hybrid active noise cancellation",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "With anc hybrid technology, the five microphones work together to block noise up to 43dB. Four adjustable settings for every noisy situation.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Bimodal ear adaptive audio compensation (BECAAC)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Headphone to detect the hearing channel structure and the way people use it and create unique noise canceling parameters to review the audio curve that can offer premium listening while People use different people.(Note: This function needs to be turned on manually every time you use it, it cannot be fully self-adapted in real time.)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Clear calls",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Packed with Very Deep Convolutionary Neural Networks (VDCNN) technology, the microphones can realize different environments and automatically adjust the noise canceling level according to so that you can always enjoy indoor calls or outdoors. Stable, natural and quality outdoor.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "High quality audio Original HD sound",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "40 kHz frequency response delivers CD quality sound. Hi-Res audio provides extraordinary clarity and detail. 40mm Composite-Diaphragm with titanium plating deliver cinema-grade 3D sound, high resolution with punchy bass and clear louds.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Medium and high frequency sound quality can be improved by updating the firmware in the QCY app!",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Transparency mode transparency mode",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Shield the ambient sound clearly while still enjoying the music. Be aware of the surrounding environment when you are buying/walking/chatting.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Connect to 2 devices",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "It supports simultaneous connection of two Bluetooth devices, allowing you to enjoy work and entertainment at the same time.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Extra long battery life 60 hours",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Enjoy about 60 hours of playtime, call ANC, with ANC off, enjoy about 60 hours of playtime, call ANC, there are 35 hours of playtime. Charging time 1.5h = 60h Music time = 300h Standby time.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Bluetooth 5.4/Wired Wireless Mode",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Advanced Bluetooth 5.4 chip provides advanced full link fast and stable transmission.4 You can easily switch between bluetooth 5.4 and 3.5mm AUX cable. These 2 settings grant versatility to get the most out of all devices.( 3.5mm AUX cable included)",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Game mode for games",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Low gaming latency lets you enjoy better gaming experience in game mode, 0.08 cm low latency lets you enjoy A better gaming experience.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Soft ear pads, unprecedented comfort",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Synthetic protein leather ear pads combine with slow spring memory foam for exceptional use with less pressure on ear ears combine with slow spring memory foam for exceptional use with less pressure In the ears.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "It's so comfortable that you don't have to take a break from your favorite music.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "APP smart smart smart APP",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "QCY APP supports pop-up pairing, EQ and QCY APP customizable noise canceling level supports pop-up pairing, EQ and customizable noise canceling level. Now it's time to explore more on the APP and build your own headphone.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Button control, easy to operate, support voice assistant.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Early warning for wired mode use:",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "When your QCY H3 using our 3.5mm cable (that is, the wired mode is on), the headset is closely and only supports audio output. Bluetooth function (ANC, EQ, etc.) and microphone unable to be used.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "If you need to use related functions, switch to wireless mode and confirm whether you need to use related functions, switch to wireless mode and confirm whether Bluetooth has been connected.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nlrbgna5a",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nlrcv7q01",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nlre9s6a8",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nlrfocm9a",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nlxfzt181",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "stock_display": "IN STOCK",
+      "max_quantity_display": "IN STOCK",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": 1707139756,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": {
+        "video_id": "api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.16000081716427861.mp4",
+        "thumb_url": "sg-11110105-7rd3m-lvmk8gxs6bwx75",
+        "duration": 26,
+        "version": 2,
+        "vid": "sg-11110105-6khxg-lvmk8cwy1xl1e4",
+        "formats": [
+          {
+            "format": 1600008,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.16000081716427861.mp4",
+            "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.16000081716427861.mp4",
+            "width": 1280,
+            "height": 720
+          }
+        ],
+        "default_format": {
+          "format": 1600323,
+          "defn": "V540P",
+          "profile": "MP4",
+          "path": "",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.default.mp4",
+          "width": 960,
+          "height": 540
+        },
+        "mms_data": "{\"vid\":\"sg-11110105-6khxg-lvmk8cwy1xl1e4\",\"biz\":107,\"duration\":34505,\"create_time\":1716427859,\"update_time\":1716427864,\"serviceID\":2,\"cover\":\"https://down-zl-br.img.susercontent.com/sg-11110105-7rd3m-lvmk8gxs6bwx75\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.16000081716427861.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.16000081716427861.mp4\",\"width\":1280,\"height\":720,\"bitrate\":755628,\"abitrate\":48364,\"size\":2636328,\"fps\":25.03846,\"duration\":26017,\"update_time\":1716427876,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":417535,\"abitrate\":48273,\"size\":1535400,\"fps\":25.03846,\"duration\":26038,\"update_time\":1716427906,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.16003091716427895.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.16003091716427895.mp4\",\"width\":1280,\"height\":720,\"bitrate\":490528,\"abitrate\":48364,\"size\":1777845,\"fps\":25.03846,\"duration\":26017,\"update_time\":1716427923,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "item_cover": null
+      },
+      "images": [
+        "cn-11134207-7r98o-lyowog7l62le7c",
+        "cn-11134207-820l4-mhsrwueey7ew4f",
+        "cn-11134207-820l4-mhsrwueek5qe34",
+        "cn-11134207-820l4-mhsrwuefggsgd6",
+        "cn-11134207-820l4-mhsrwuehn4lfa4",
+        "cn-11134207-7r98o-lvsbj6dmm2xa46"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "H3-BLACK",
+          "image": "cn-11134207-7r98o-lvmk6d9mz8mcce",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "H3-Black",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "cn-11134207-7r98o-lvmk6d9mz8mcce"
+        },
+        {
+          "name": "H3-WHITE",
+          "image": "cn-11134207-7r98o-lvmk6d9n0n6s89",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "H3-white",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "cn-11134207-7r98o-lvmk6d9n0n6s89"
+        },
+        {
+          "name": "H3-BLUE",
+          "image": "cn-11134207-7r98o-lvmk6d9n21r838",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "H3-Blue",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "cn-11134207-7r98o-lvmk6d9n21r838"
+        },
+        {
+          "name": "H3-PURPLE",
+          "image": "cn-11134207-7r98o-lvmk6d9n3gbocc",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "H3-PURPLE",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "cn-11134207-7r98o-lvmk6d9n3gbocc"
+        },
+        {
+          "name": "H3-BLUEGREY",
+          "image": "cn-11134207-7r98o-lvmk6d9n4uw413",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "H3-BLUEGRAY",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "cn-11134207-7r98o-lvmk6d9n4uw413"
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "overlay": {
+        "type": 0,
+        "image": "br-11134258-820m5-ml8a34rlu7t287",
+        "preview_end_time": null,
+        "is_pre_order": null,
+        "description": "Vendedor Internacional"
+      },
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "cn-11134207-7r98o-lvmk6d9mz8mcce"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "cn-11134207-7r98o-lvmk6d9n0n6s89"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "cn-11134207-7r98o-lvmk6d9n21r838"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "cn-11134207-7r98o-lvmk6d9n3gbocc"
+        },
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "cn-11134207-7r98o-lvmk6d9n4uw413"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": null,
+          "video": {
+            "video_id": "api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.16000081716427861.mp4",
+            "thumb_url": "sg-11110105-7rd3m-lvmk8gxs6bwx75",
+            "duration": 26,
+            "version": 2,
+            "vid": "sg-11110105-6khxg-lvmk8cwy1xl1e4",
+            "formats": [
+              {
+                "format": 1600008,
+                "defn": "V720P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.16000081716427861.mp4",
+                "url": "https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.16000081716427861.mp4",
+                "width": 1280,
+                "height": 720
+              }
+            ],
+            "default_format": {
+              "format": 1600323,
+              "defn": "V540P",
+              "profile": "MP4",
+              "path": "",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.default.mp4",
+              "width": 960,
+              "height": 540
+            },
+            "mms_data": "{\"vid\":\"sg-11110105-6khxg-lvmk8cwy1xl1e4\",\"biz\":107,\"duration\":34505,\"create_time\":1716427859,\"update_time\":1716427864,\"serviceID\":2,\"cover\":\"https://down-zl-br.img.susercontent.com/sg-11110105-7rd3m-lvmk8gxs6bwx75\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.16000081716427861.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.16000081716427861.mp4\",\"width\":1280,\"height\":720,\"bitrate\":755628,\"abitrate\":48364,\"size\":2636328,\"fps\":25.03846,\"duration\":26017,\"update_time\":1716427876,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":417535,\"abitrate\":48273,\"size\":1535400,\"fps\":25.03846,\"duration\":26038,\"update_time\":1716427906,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.16003091716427895.mp4\",\"url\":\"https://down-bs-br.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khxg-lvmk8cwy1xl1e4.16003091716427895.mp4\",\"width\":1280,\"height\":720,\"bitrate\":490528,\"abitrate\":48364,\"size\":1777845,\"fps\":25.03846,\"duration\":26017,\"update_time\":1716427923,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "item_cover": null
+          }
+        },
+        {
+          "image": {
+            "url": "cn-11134207-7r98o-lyowog7l62le7c",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mhsrwueey7ew4f",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mhsrwueek5qe34",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mhsrwuefggsgd6",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mhsrwuehn4lfa4",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-7r98o-lvsbj6dmm2xa46",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 54,
+      "installment_info": {
+        "recommended_plan": {
+          "months": 12,
+          "pay_per_month": 1824129,
+          "has_buyer_transaction_fee": true
+        }
+      },
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": 17810000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 38800000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": true,
+      "discount_text": null,
+      "show_final_price_indicator": false,
+      "final_price_vouchers": [
+        {
+          "promotion_id": 1462101663166464,
+          "voucher_code": "QCYO67S",
+          "is_auto_claimed_just_now": false,
+          "groups": null,
+          "voucher_type": 1
+        }
+      ],
+      "has_final_price": true,
+      "final_price_info": {
+        "model_id": 207527225998,
+        "hint_text": "with Pix after voucher",
+        "show_final_price_indicator": false,
+        "final_price_vouchers": {
+          "platform_voucher": null,
+          "shop_voucher": {
+            "promotion_id": 1462101663166464,
+            "voucher_code": "QCYO67S",
+            "is_auto_claimed_just_now": false,
+            "groups": null,
+            "voucher_discount_type": 0,
+            "voucher_discount": 1000000
+          },
+          "ads_voucher": null
+        },
+        "payment_channel_discount": {
+          "pix_discount": {
+            "discount_id": 470694215495879,
+            "snapshot_id": 328317811245058,
+            "discount_amount": 989000
+          }
+        },
+        "final_price_icon_type": 0
+      },
+      "price_subtext": {
+        "template": "or {price} without a voucher with other payment methods",
+        "format": null,
+        "attributes": [
+          {
+            "type": 2,
+            "key": "price",
+            "value": {
+              "value_str": null,
+              "value_int": 19799000
+            },
+            "format": null,
+            "text_color": null,
+            "text_hex_color": null,
+            "url": null
+          }
+        ],
+        "text_color": null,
+        "text_hex_color": null
+      },
+      "price_model": {
+        "price_single_model_id": 207527225998,
+        "price_min_model_id": null,
+        "price_max_model_id": null
+      },
+      "price_promotion": {
+        "price_single_promotion_id": 481197398635218,
+        "price_single_promotion_type": 302,
+        "price_min_promotion_id": null,
+        "price_min_promotion_type": null,
+        "price_max_promotion_id": null,
+        "price_max_promotion_type": null
+      },
+      "instalment_cta_action": null
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": true,
+      "show_shopee_verified_label": false,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.8962108731466225,
+      "rating_count": [
+        1214,
+        8,
+        3,
+        18,
+        49,
+        1136
+      ],
+      "total_rating_count": 1214,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 14219,
+      "cmt_count": 1177,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": null,
+      "historical_sold_display": "2mil+",
+      "global_sold_display": "2mil+",
+      "sold_count_display": "2mil+"
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": {
+        "month": 12,
+        "price_raw": 1824129,
+        "interest": 0,
+        "has_buyer_transaction_fee": true,
+        "display_text": "12x {{price}}"
+      },
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": true,
+        "is_non_cc_installment_payment_eligible": true
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "Internacional",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 1,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 90001,
+          "name": "Expresso padrão",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 1300000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1785321270,
+            "estimated_delivery_date_to": 1786512147,
+            "estimated_delivery_time_min": 10,
+            "estimated_delivery_time_max": 24,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 29/jul to 12/ago",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_range}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_range",
+                    "value": {
+                      "value_str": "Get by 29/jul to 12/ago",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 1,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 1300000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":10,\"edt_max\":24,\"edt_min_hours\":225,\"edt_max_hours\":556,\"edt_min_minutes\":13465,\"edt_max_minutes\":33313,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": null,
+      "pre_selected_shipping_channel": {
+        "channel_id": 90001,
+        "name": "Expresso padrão",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 1300000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1785321270,
+          "estimated_delivery_date_to": 1786512147,
+          "estimated_delivery_time_min": 10,
+          "estimated_delivery_time_max": 24,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Get by 29/jul to 12/ago",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_range}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_range",
+                  "value": {
+                    "value_str": "Get by 29/jul to 12/ago",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 1,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 0,
+          "discount_value": 1300000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":10,\"edt_max\":24,\"edt_min_hours\":225,\"edt_max_hours\":556,\"edt_min_minutes\":13465,\"edt_max_minutes\":33313,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": false,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 207527225998,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [
+      {
+        "promotionid": 1462101663166464,
+        "voucher_code": "QCYO67S",
+        "signature": "033b0bcb3edc865c66269f696993f59b28d4ff6a7b093a108b48dcfed752c117",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 10000000,
+        "used_price": 1000000,
+        "current_spend": null,
+        "product_limit": true,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 3,
+        "start_time": 1783755240,
+        "end_time": 1790783940,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 1000000,
+        "reward_cap": 0,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "5a7bd7936bead082be18d718f75fb075",
+        "icon_text": "QCY Official Store.br",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 239168233,
+        "shop_name": "QCY Official Store.br",
+        "is_shop_preferred": false,
+        "is_shop_official": true,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-092430AE858822280000001105015014",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 1000000,
+        "discount_percentage": 0,
+        "discount_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "5a7bd7936bead082be18d718f75fb075",
+        "error_code": 0,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      },
+      {
+        "promotionid": 1454793122525184,
+        "voucher_code": "QCYO5TS",
+        "signature": "a2d35c9adf45adeb45a714906e24241fc3f01bde226f5c5d527de35d52bc8dab",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 16000000,
+        "used_price": 500000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 27,
+        "start_time": 1782884580,
+        "end_time": 1790783940,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 500000,
+        "reward_cap": 0,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "5a7bd7936bead082be18d718f75fb075",
+        "icon_text": "QCY Official Store.br",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 239168233,
+        "shop_name": "QCY Official Store.br",
+        "is_shop_preferred": false,
+        "is_shop_official": true,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-3CCF38660D0822280000001104450400",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 500000,
+        "discount_percentage": 0,
+        "discount_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "5a7bd7936bead082be18d718f75fb075",
+        "error_code": 0,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      },
+      {
+        "promotionid": 1454792811622400,
+        "voucher_code": "QCYO1SW",
+        "signature": "8d09b91cf738d6d65dfea877dca745eb93e9aef74ca6812477d227de829d20ae",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 8000000,
+        "used_price": 200000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 20,
+        "start_time": 1782884580,
+        "end_time": 1790783940,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 200000,
+        "reward_cap": 0,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "5a7bd7936bead082be18d718f75fb075",
+        "icon_text": "QCY Official Store.br",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 239168233,
+        "shop_name": "QCY Official Store.br",
+        "is_shop_preferred": false,
+        "is_shop_official": true,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-91E278260D0822280000001104450400",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 200000,
+        "discount_percentage": 0,
+        "discount_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "5a7bd7936bead082be18d718f75fb075",
+        "error_code": 0,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      }
+    ],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [
+        {
+          "coin_earn": 197
+        },
+        {
+          "coin_earn": 197
+        },
+        {
+          "coin_earn": 385
+        },
+        {
+          "coin_earn": 385
+        },
+        {
+          "coin_earn": 197
+        }
+      ],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Discount stock",
+          "value": "20",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 9,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Other Stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 10,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Brand",
+          "value": "QCY",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": "/search?brands=1146930",
+          "brand_id": 1146930,
+          "full_url": "https://shopee.com.br/search?brands=1146930",
+          "type": 1,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Connection Type",
+          "value": "Wireless (Bluetooth or Wifi)",
+          "id": 100408,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Connection Type",
+          "value_tr": "Wireless (Bluetooth or Wifi)"
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "Over Ear",
+          "id": 100519,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Earphone, Headphone, & Headset Type",
+          "value_tr": "Over Ear"
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Gaming Focused",
+          "value_tr": "Yes"
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Mobile, PC & Laptop",
+          "id": 100516,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Audio Compatibility",
+          "value_tr": "Mobile, PC & Laptop"
+        },
+        {
+          "name": "Warranty Duration",
+          "value": "12 Months",
+          "id": 100121,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Warranty Duration",
+          "value_tr": "12 Months"
+        },
+        {
+          "name": "Warranty Type",
+          "value": "Supplier Warranty",
+          "id": 100370,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Warranty Type",
+          "value_tr": "Supplier Warranty"
+        },
+        {
+          "name": "Model Name",
+          "value": "BH23H3A",
+          "id": 101040,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Model Name",
+          "value_tr": "BH23H3A"
+        },
+        {
+          "name": "Registration ID",
+          "value": "17303-23-03372",
+          "id": 101197,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Registration ID",
+          "value_tr": "17303-23-03372"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "DongGuan Hele Eletronics Co.,Ltd.",
+          "id": 101237,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Manufacturer",
+          "value_tr": "DongGuan Hele Eletronics Co., Ltd."
+        },
+        {
+          "name": "Ships From",
+          "value": "Internacional",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 239168233,
+      "userid": 239173601,
+      "last_active_time": 1784512888,
+      "vacation": false,
+      "place": null,
+      "account": {
+        "portrait": "5a7bd7936bead082be18d718f75fb075",
+        "username": "qcyofficialstore.br",
+        "status": 1
+      },
+      "is_shopee_verified": false,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": true,
+      "shop_location": null,
+      "item_count": 23,
+      "rating_star": 4.903647,
+      "response_rate": 83,
+      "session_info": null,
+      "name": "QCY Official Store.br",
+      "ctime": 1585213914,
+      "response_time": 16516,
+      "follower_count": 25735,
+      "show_official_shop_label": true,
+      "rating_bad": 173,
+      "rating_good": 21591,
+      "rating_normal": 315,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": null,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": {
+        "count": 385,
+        "text": "Buy and earn up to {{count}} Shopee Coin"
+      },
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": {},
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": {
+        "price": 17810000
+      },
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": null,
+      "bank": {
+        "channels": [
+          {
+            "channel_ic": "",
+            "channel_name": "label_cc_installment",
+            "is_cc": true,
+            "plans": [
+              {
+                "plan_name": "1x",
+                "duration": 1,
+                "interest_rate": 0,
+                "monthly_payment": 18799000,
+                "total_amount": 18799000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "2x",
+                "duration": 2,
+                "interest_rate": 0,
+                "monthly_payment": 9399500,
+                "total_amount": 18799000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "3x",
+                "duration": 3,
+                "interest_rate": 0,
+                "monthly_payment": 6266333,
+                "total_amount": 18799000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "4x",
+                "duration": 4,
+                "interest_rate": 0,
+                "monthly_payment": 5178654,
+                "total_amount": 20714618,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "5x",
+                "duration": 5,
+                "interest_rate": 0,
+                "monthly_payment": 4175257,
+                "total_amount": 20876289,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "6x",
+                "duration": 6,
+                "interest_rate": 0,
+                "monthly_payment": 3506013,
+                "total_amount": 21036081,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "7x",
+                "duration": 7,
+                "interest_rate": 0,
+                "monthly_payment": 3012674,
+                "total_amount": 21088718,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "8x",
+                "duration": 8,
+                "interest_rate": 0,
+                "monthly_payment": 2656063,
+                "total_amount": 21248509,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "9x",
+                "duration": 9,
+                "interest_rate": 0,
+                "monthly_payment": 2378700,
+                "total_amount": 21408301,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "10x",
+                "duration": 10,
+                "interest_rate": 0,
+                "monthly_payment": 2156997,
+                "total_amount": 21569972,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "11x",
+                "duration": 11,
+                "interest_rate": 0,
+                "monthly_payment": 1975433,
+                "total_amount": 21729764,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "12x",
+                "duration": 12,
+                "interest_rate": 0,
+                "monthly_payment": 1824129,
+                "total_amount": 21889555,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              }
+            ],
+            "banks": null,
+            "plan_groups": null
+          }
+        ]
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": {
+      "price": {
+        "single_value": 17810000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 38800000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "discount_breakdown": [
+        {
+          "type": 0,
+          "price_source": "Product Discount",
+          "discount_amount": 19001000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": null,
+          "icon_type": null
+        },
+        {
+          "type": 2,
+          "price_source": "Shop Voucher Discount",
+          "discount_amount": 1000000,
+          "exclusive_price": null,
+          "shop_voucher": {
+            "min_spend": 10000000,
+            "discount_type": 0,
+            "discount_value": 1000000,
+            "discount_percentage": null
+          },
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": {
+            "template": "Buy {min_spend} get {discount_value} off",
+            "format": null,
+            "attributes": [
+              {
+                "type": 2,
+                "key": "min_spend",
+                "value": {
+                  "value_str": null,
+                  "value_int": 10000000
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              },
+              {
+                "type": 2,
+                "key": "discount_value",
+                "value": {
+                  "value_str": null,
+                  "value_int": 1000000
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              }
+            ],
+            "text_color": null,
+            "text_hex_color": null
+          },
+          "icon_type": null
+        },
+        {
+          "type": 4,
+          "price_source": "Pix Discount",
+          "discount_amount": 989000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": null,
+          "icon_type": null
+        }
+      ]
+    },
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "Nome do produto: QCY H3",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Modelo certificado:BH23H3A",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Nome da emparelhamento:10m",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Compatibilidade com: iOS/ Android",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Faixa de Operação de Operação:10m",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tempo de reprodução: aprox.60/35hr (ANC OFF/ON)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Perfis Bluetooth:A2DP /AVRCP/HFP",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Capacidade da bateria da bateria: 500mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tempo de carregamento: cerca de 2hr",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Porta de carregamento do tipo-C",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tamanho do fone de ouvido: 160,2 * 81,7 * 196,8 m",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Fones De Ouvido Sem Fio QCY H3 ANC Bluetooth 5.4 Hi-Res Áudio Sobre Fone de Ouvido 43dB Híbrido Activo Cancelamento de Ruído Fones de Ouvido 60H",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Cancelamento de ruído ativo híbrido de 43dB",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Com tecnologia híbrida anc, os cinco microfones funcionam juntos para bloquear o ruído até 43dB. Quatro configurações ajustáveis para cada situação barulhenta.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Compensação de áudio adaptativa de orelha Bimodal (BECAAC)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Fone de ouvido para detectar a estrutura canal auditiva e a maneira como as pessoas usam e criam parâmetros exclusivos de cancelamento de ruído para revisar a curva de áudio que pode oferecer audição premium ao mesmo tempo em que as pessoas usam diferentes pessoas.(Nota: Esta função precisa ser ligada manualmente toda vez que você usá-lo, não pode ser totalmente autoadaptada em tempo real.)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Limpar chamadas",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Embalado com a tecnologia Very Deep Convolucional Neural Networks(VDCNN), os microfones podem perceber diferentes ambientes e ajustar automaticamente o nível de cancelamento de ruído de acordo com para que você sempre possa desfrutar de chamadas internas ou ao ar livre estáveis, naturais e de qualidade.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Som HD Original do áudio do alta qualidade",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "A resposta de frequência de 40 kHz oferece som de qualidade CD. O áudio Hi-Res fornece clareza e detalhes extraordinários. 40 mm Composto-Diafragma com chapeamento de titânio oferecem som 3D de nível de cinema, alta resolução com graves punchy e altos transparentes.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "A qualidade do som médio e de alta frequência pode ser melhorada atualizando o firmware no aplicativo QCY!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Modo de transparência modo de transparência",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Escudo o som ambiente claramente enquanto ainda aproveita a música. Esteja ciente do ambiente ao redor quando você estiver comprando/caminhando/chatting.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Conecte-se a 2 dispositivos",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Suporta conexão simultânea de dois dispositivos Bluetooth, permitindo que você desfrute de trabalho e entretenimento ao mesmo tempo.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Vida útil da bateria Extra longa de 60 horas",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Aproveite cerca de 60 horas de reprodução, ligue para ANC, com ANC off, aproveite cerca de 60 horas de reprodução, ligue para ANC, há 35 horas de reprodução. Tempo de carregamento de 1,5 h = 60h Tempo de música = 300h Tempo de espera.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Modo sem fio Bluetooth 5.4/Com fio",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "O chip Bluetooth 5.4 avançado fornece uma transmissão rápida e estável de link completo.4 avançado Você pode facilmente alternar entre o cabo bluetooth 5.4 e 3.5mm AUX. Essas 2 configurações concedem a versatilidade para obter o máximo de todos os dispositivos.( Cabo AUX de 3,5 mm incluído)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Modo de jogos para jogos",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "A baixa latência de jogos permite que você desfrute de uma melhor experiência de jogo no modo de jogo, 0,08 cm de baixa latência permite que você aproveite uma melhor experiência de jogo.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Almofadas de ouvido macias, conforto sem precedentes",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Almofadas de ouvido de couro de proteína sintética combinam com espuma de memória de mola lenta para uso excepcional com menos pressão nas orelhas dos ouvidos combinam com espuma de memória de mola lenta para uso excepcional com menos pressão nas orelhas.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "É tão confortável que você não precisa tirar uma pausa de sua música favorita.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "APP inteligente inteligente inteligente de APP",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "O aplicativo QCY suporta emparelhamento de pop-up, EQ e nível de cancelamento de ruído personalizável QCY APP suporta emparelhamento de pop-up, EQ e nível de cancelamento de ruído personalizável. Agora é hora de explorar mais no APP e construir seu próprio fone de ouvido.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Controle de botão, fácil de operar, suporta assistente de voz.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Aviso prévio para uso de modo com fio:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Quando seu QCY H3 usando nosso cabo de 3,5 mm (ou seja, o modo com fio está ligado), o fone de ouvido está de modo próximo e suporta apenas saída de áudio. A função Bluetooth (ANC, EQ, etc.) e microfone incapaz de ser usado.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Se você precisar usar funções relacionadas, mude para o modo sem fio e confirme se você precisa usar funções relacionadas, alterne para o modo sem fio e confirme se o Bluetooth foi conectado.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nlrbgna5a",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nlrcv7q01",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nlre9s6a8",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nlrfocm9a",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nlxfzt181",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "Product name: QCY H3",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Certified model: BH23H3A",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Pairing name:10m",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Compatibility with: iOS/ Android",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Operating Operating Range: 10m",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Playback time: approx.60/35hr (ANC OFF/ON)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth Profiles:A2DP /AVRCP/HFP",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Battery Battery Capacity: 500mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Charging time: about 2hr",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Type-C charging port",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Headphone Size: 20.2*81.7*196.8m",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Wireless Headphones QCY H3 ANC Bluetooth 5.4 Hi-Res Audio Over Earphone 43dB Hybrid Active Noise Canceling Headphones 60H",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "43dB hybrid active noise cancellation",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "With anc hybrid technology, the five microphones work together to block noise up to 43dB. Four adjustable settings for every noisy situation.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bimodal ear adaptive audio compensation (BECAAC)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Headphone to detect the hearing channel structure and the way people use it and create unique noise canceling parameters to review the audio curve that can offer premium listening while People use different people.(Note: This function needs to be turned on manually every time you use it, it cannot be fully self-adapted in real time.)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Clear calls",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Packed with Very Deep Convolutionary Neural Networks (VDCNN) technology, the microphones can realize different environments and automatically adjust the noise canceling level according to so that you can always enjoy indoor calls or outdoors. Stable, natural and quality outdoor.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "High quality audio Original HD sound",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "40 kHz frequency response delivers CD quality sound. Hi-Res audio provides extraordinary clarity and detail. 40mm Composite-Diaphragm with titanium plating deliver cinema-grade 3D sound, high resolution with punchy bass and clear louds.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Medium and high frequency sound quality can be improved by updating the firmware in the QCY app!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Transparency mode transparency mode",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Shield the ambient sound clearly while still enjoying the music. Be aware of the surrounding environment when you are buying/walking/chatting.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Connect to 2 devices",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "It supports simultaneous connection of two Bluetooth devices, allowing you to enjoy work and entertainment at the same time.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Extra long battery life 60 hours",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Enjoy about 60 hours of playtime, call ANC, with ANC off, enjoy about 60 hours of playtime, call ANC, there are 35 hours of playtime. Charging time 1.5h = 60h Music time = 300h Standby time.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth 5.4/Wired Wireless Mode",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Advanced Bluetooth 5.4 chip provides advanced full link fast and stable transmission.4 You can easily switch between bluetooth 5.4 and 3.5mm AUX cable. These 2 settings grant versatility to get the most out of all devices.( 3.5mm AUX cable included)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Game mode for games",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Low gaming latency lets you enjoy better gaming experience in game mode, 0.08 cm low latency lets you enjoy A better gaming experience.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Soft ear pads, unprecedented comfort",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Synthetic protein leather ear pads combine with slow spring memory foam for exceptional use with less pressure on ear ears combine with slow spring memory foam for exceptional use with less pressure In the ears.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "It's so comfortable that you don't have to take a break from your favorite music.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "APP smart smart smart APP",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "QCY APP supports pop-up pairing, EQ and QCY APP customizable noise canceling level supports pop-up pairing, EQ and customizable noise canceling level. Now it's time to explore more on the APP and build your own headphone.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Button control, easy to operate, support voice assistant.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Early warning for wired mode use:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "When your QCY H3 using our 3.5mm cable (that is, the wired mode is on), the headset is closely and only supports audio output. Bluetooth function (ANC, EQ, etc.) and microphone unable to be used.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "If you need to use related functions, switch to wireless mode and confirm whether you need to use related functions, switch to wireless mode and confirm whether Bluetooth has been connected.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nlrbgna5a",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nlrcv7q01",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nlre9s6a8",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nlrfocm9a",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nlxfzt181",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": {
+      "welcome_package": null,
+      "flash_sale": {
+        "skin": {
+          "main_color": "#EE4D2D",
+          "secondary_color": "#FF7337",
+          "end_time": 1784516400
+        },
+        "promotion_id": 481197398635218
+      },
+      "deep_discount": null,
+      "live_stream": null,
+      "exclusive_price": null,
+      "membership_exclusive": null,
+      "recommended_shop_voucher": null,
+      "recommended_voucher": null,
+      "platform_exclusive_sku": null,
+      "vip_savings_banner": null,
+      "shopee_vip": null
+    },
+    "bottom_banner": null
+  }
+}

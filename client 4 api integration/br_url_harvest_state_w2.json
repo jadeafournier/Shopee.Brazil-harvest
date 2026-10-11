@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-07-22T01:59:05.364134+00:00",
+  "total_written": 0,
+  "keyword_idx": 8,
+  "keyword_page": 0,
+  "sort_idx": 0,
+  "shop_idx": 0,
+  "shop_offset": 0,
+  "phase": "search",
+  "zero_new_keywords": 2,
+  "stopped_reason": "traffic_error",
+  "worker_id": 2,
+  "shop_dup_offsets": 0,
+  "zero_shops": 0
+}

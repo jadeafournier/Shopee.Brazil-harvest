@@ -1,0 +1,135 @@
+[22:24:38.977] Loading script br_emulator\mitm_capture.py
+[emu-mitm] 애드온 로드 완료 — get_pc/get_rw/item_get 응답 캡처 대기
+[22:24:39.090] HTTP(S) proxy listening at *:8080.
+[22:24:40.285][127.0.0.1:20836] client connect
+[22:24:40.299][127.0.0.1:20837] client connect
+[22:24:40.315][127.0.0.1:20836] server connect connectivitycheck.gstatic.com:80 (216.58.201.3:80)
+[22:24:40.321][127.0.0.1:20837] server connect www.google.com:443 (142.251.153.119:443)
+127.0.0.1:20836: GET http://connectivitycheck.gstatic.com/generate_204
+              << 204 No Content 0b
+[22:24:40.377][127.0.0.1:20837] Client TLS handshake failed. The client does not trust the proxy's certificate for www.google.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:40.391][127.0.0.1:50192] client connect
+[22:24:40.400][127.0.0.1:20837] client disconnect
+[22:24:40.409][127.0.0.1:20837] server disconnect www.google.com:443 (142.251.153.119:443)
+[22:24:40.422][127.0.0.1:50192] server connect www.google.com:80 (142.251.153.119:80)
+127.0.0.1:50192: GET http://www.google.com/gen_204
+              << 204 No Content 0b
+[22:24:56.474][127.0.0.1:1707] client connect
+127.0.0.1:20836: GET http://connectivitycheck.gstatic.com/generate_204
+              << 204 No Content 0b
+[22:24:56.514][127.0.0.1:1707] server connect www.google.com:443 (142.251.153.119:443)
+[22:24:56.534][127.0.0.1:1707] Client TLS handshake failed. The client does not trust the proxy's certificate for www.google.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:56.545][127.0.0.1:1707] client disconnect
+[22:24:56.555][127.0.0.1:1707] server disconnect www.google.com:443 (142.251.153.119:443)
+127.0.0.1:50192: GET http://www.google.com/gen_204
+              << 204 No Content 0b
+[22:24:58.741][127.0.0.1:35829] client connect
+[22:24:58.765][127.0.0.1:35829] server connect firebase-settings.crashlytics.com:443 (216.58.201.3:443)
+[22:24:58.775][127.0.0.1:35831] client connect
+[22:24:58.797][127.0.0.1:35831] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:58.807][127.0.0.1:35829] Client TLS handshake failed. The client does not trust the proxy's certificate for firebase-settings.crashlytics.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:58.817][127.0.0.1:35829] client disconnect
+[22:24:58.827][127.0.0.1:35829] server disconnect firebase-settings.crashlytics.com:443 (216.58.201.3:443)
+[22:24:58.847][127.0.0.1:35831] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:58.856][127.0.0.1:35836] client connect
+[22:24:58.865][127.0.0.1:35831] client disconnect
+[22:24:58.875][127.0.0.1:35831] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:58.887][127.0.0.1:35836] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:58.917][127.0.0.1:35836] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:58.926][127.0.0.1:35836] client disconnect
+[22:24:58.936][127.0.0.1:35836] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:58.950][127.0.0.1:47854] client connect
+[22:24:58.962][127.0.0.1:47854] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:58.981][127.0.0.1:47854] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:58.990][127.0.0.1:47856] client connect
+[22:24:59.000][127.0.0.1:47854] client disconnect
+[22:24:59.009][127.0.0.1:47854] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.021][127.0.0.1:47856] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.049][127.0.0.1:47856] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:59.059][127.0.0.1:47858] client connect
+[22:24:59.068][127.0.0.1:47856] client disconnect
+[22:24:59.077][127.0.0.1:47856] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.089][127.0.0.1:47858] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.108][127.0.0.1:47858] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:59.118][127.0.0.1:47860] client connect
+[22:24:59.129][127.0.0.1:47858] client disconnect
+[22:24:59.139][127.0.0.1:47858] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.150][127.0.0.1:47860] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.172][127.0.0.1:47860] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:59.181][127.0.0.1:47862] client connect
+[22:24:59.190][127.0.0.1:47860] client disconnect
+[22:24:59.200][127.0.0.1:47860] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.211][127.0.0.1:47862] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.231][127.0.0.1:47862] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:59.241][127.0.0.1:47864] client connect
+[22:24:59.251][127.0.0.1:47862] client disconnect
+[22:24:59.260][127.0.0.1:47862] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.271][127.0.0.1:47864] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.292][127.0.0.1:47864] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:59.302][127.0.0.1:52731] client connect
+[22:24:59.311][127.0.0.1:47864] client disconnect
+[22:24:59.320][127.0.0.1:47864] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.332][127.0.0.1:52731] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.351][127.0.0.1:52731] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:59.360][127.0.0.1:52736] client connect
+[22:24:59.372][127.0.0.1:52731] client disconnect
+[22:24:59.387][127.0.0.1:52731] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.405][127.0.0.1:52736] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.428][127.0.0.1:52736] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:59.438][127.0.0.1:52738] client connect
+[22:24:59.447][127.0.0.1:52736] client disconnect
+[22:24:59.456][127.0.0.1:52736] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.469][127.0.0.1:52738] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.488][127.0.0.1:52738] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:59.499][127.0.0.1:52738] client disconnect
+[22:24:59.508][127.0.0.1:52738] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.517][127.0.0.1:52740] client connect
+[22:24:59.529][127.0.0.1:52740] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.548][127.0.0.1:52740] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:59.557][127.0.0.1:52742] client connect
+[22:24:59.567][127.0.0.1:52740] client disconnect
+[22:24:59.576][127.0.0.1:52740] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.588][127.0.0.1:52742] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.608][127.0.0.1:52742] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:59.617][127.0.0.1:52744] client connect
+[22:24:59.626][127.0.0.1:52742] client disconnect
+[22:24:59.637][127.0.0.1:52742] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.648][127.0.0.1:52744] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.667][127.0.0.1:52744] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:59.676][127.0.0.1:52746] client connect
+[22:24:59.685][127.0.0.1:52744] client disconnect
+[22:24:59.694][127.0.0.1:52744] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.706][127.0.0.1:52746] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.726][127.0.0.1:52746] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:59.736][127.0.0.1:52748] client connect
+[22:24:59.744][127.0.0.1:52746] client disconnect
+[22:24:59.754][127.0.0.1:52746] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.768][127.0.0.1:52748] server connect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:24:59.789][127.0.0.1:52748] Client TLS handshake failed. The client does not trust the proxy's certificate for firebaseinstallations.googleapis.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:24:59.798][127.0.0.1:52748] client disconnect
+[22:24:59.807][127.0.0.1:52748] server disconnect firebaseinstallations.googleapis.com:443 (172.217.112.4:443)
+[22:25:03.125][127.0.0.1:52763] client connect
+[22:25:03.388][127.0.0.1:52763] server connect patronus.idata.shopeemobile.com:443 (147.136.145.192:443)
+[22:25:03.612][127.0.0.1:52763] Client TLS handshake failed. The client does not trust the proxy's certificate for patronus.idata.shopeemobile.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:25:03.622][127.0.0.1:52765] client connect
+[22:25:03.631][127.0.0.1:52763] client disconnect
+[22:25:03.641][127.0.0.1:52763] server disconnect patronus.idata.shopeemobile.com:443 (147.136.145.192:443)
+[22:25:03.855][127.0.0.1:52765] server connect patronus.idata.shopeemobile.com:443 (147.136.145.192:443)
+[22:25:04.076][127.0.0.1:52765] Client TLS handshake failed. The client does not trust the proxy's certificate for patronus.idata.shopeemobile.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:25:04.085][127.0.0.1:52765] client disconnect
+[22:25:04.095][127.0.0.1:52765] server disconnect patronus.idata.shopeemobile.com:443 (147.136.145.192:443)
+[22:25:28.622][127.0.0.1:49752] client connect
+127.0.0.1:20836: GET http://connectivitycheck.gstatic.com/generate_204
+              << 204 No Content 0b
+[22:25:28.651][127.0.0.1:49752] server connect www.google.com:443 (142.251.153.119:443)
+[22:25:28.671][127.0.0.1:49752] Client TLS handshake failed. The client does not trust the proxy's certificate for www.google.com (OpenSSL Error([('SSL routines', '', 'tls alert certificate unknown')]))
+[22:25:28.681][127.0.0.1:49752] client disconnect
+[22:25:28.691][127.0.0.1:49752] server disconnect www.google.com:443 (142.251.153.119:443)
+127.0.0.1:50192: GET http://www.google.com/gen_204
+              << 204 No Content 0b
+[22:29:28.634][127.0.0.1:20836] server disconnect connectivitycheck.gstatic.com:80 (216.58.201.3:80)
+[22:29:28.706][127.0.0.1:50192] server disconnect www.google.com:80 (142.251.153.119:80)
+[22:39:28.653][127.0.0.1:20836] Closing connection due to inactivity: Client(127.0.0.1:20836, state=open)
+[22:39:28.662][127.0.0.1:20836] client disconnect
+[22:39:28.715][127.0.0.1:50192] Closing connection due to inactivity: Client(127.0.0.1:50192, state=open)
+[22:39:28.725][127.0.0.1:50192] client disconnect

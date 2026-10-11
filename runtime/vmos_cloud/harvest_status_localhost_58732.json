@@ -1,0 +1,32 @@
+{
+  "running": true,
+  "method": "기본방식 · 상류 프록시 없음 · mitm · 4건마다 재기동 · 미저장이면 재기동 · 418은 캡차 대기(앱 재기동 없음) · 저장 300건마다 또는 막히면 다음 보관 세션 · 페이지 사용 불가 화면이면 다른 보관 세션으로 전환, 없으면 새 로그인 · HTTP/2 끔 · 간격 0.4~0.4s · 40건마다 12s 휴식",
+  "note": "수집 진행 중",
+  "started_at": 1791181668.8510966,
+  "elapsed_s": 2775.2,
+  "saved": 143,
+  "miss": 44,
+  "done": 187,
+  "pending_total": 9542,
+  "pending_left": 9355,
+  "per_min": 3.09,
+  "per_hour": 185.5,
+  "target_per_hour": 500,
+  "last": {
+    "ok": false,
+    "shop_id": 221068316,
+    "item_id": 22298535909,
+    "url": "https://shopee.com.br/product/221068316/22298535909",
+    "sec": 3.01,
+    "source": "emulator_pdp_get",
+    "traffic_error": false,
+    "error": "앱 pdp/get 미수신",
+    "how": "VIEW"
+  },
+  "serial": "localhost:58732",
+  "userid": "13697980581",
+  "upstream": "",
+  "egress": "폰 회선 직접",
+  "log_file": "D:\\Luxury\\Great Scraper2\\Great Scraper\\runtime\\vmos_cloud\\list_2.log",
+  "updated": 1791184444.8609302
+}

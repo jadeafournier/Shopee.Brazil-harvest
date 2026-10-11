@@ -1,0 +1,3213 @@
+{
+  "task_link": "https://shopee.com.br/product/1083800536/58263602145",
+  "token": "br_batch_crawl",
+  "api_key": "br_batch_crawl",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 58263602145,
+      "shop_id": 1083800536,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "Smartphone Galaxy A57 5G Tela 6.7 Super AMOLED Samsung",
+      "image": "sg-11134201-825a5-mq6q1v3g6s5dea",
+      "label_ids": [
+        1718387984,
+        1718388139,
+        1823810,
+        1000022,
+        298643352,
+        1823833,
+        1400620050,
+        700605236,
+        998291046,
+        298818315,
+        298738374,
+        997961055,
+        844931064601283,
+        1718087960,
+        1428713,
+        700065053,
+        700065054,
+        822062091122182,
+        595433038,
+        299033477
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100013,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": null,
+      "brand_id": 0,
+      "show_discount": 0,
+      "ctime": 1783025552,
+      "item_rating": {
+        "rating_star": 4.954545454545454
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": false,
+      "shop_location": "São Paulo",
+      "attributes": [
+        {
+          "name": "Warranty Type",
+          "value": "Manufacturer Warranty",
+          "id": 100370,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2419,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Duration",
+          "value": "12 Months",
+          "id": 100121,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 822,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "RAM",
+          "value": "8GB",
+          "id": 100461,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 5249,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Name",
+          "value": "SM-A576B/DS",
+          "id": 101040,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Registration ID",
+          "value": "073162500953",
+          "id": 101197,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Samsung Electronics Co Ltd.",
+          "id": 101237,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": null,
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "Smartphone Samsung Galaxy A57 5G Tela 6.7 128GB Câmera 50MP. Feito para durar!\r\n  O Samsung Galaxy A57 5G combina sofisticação e durabilidade em um único aparelho, com um design premium, acabamento elegante e estrutura resistente.\r\n  \r\n  Tela 6.7 AMOLED FHD+\r\n  Sua tela Super AMOLED de 6.7 com taxa de atualização de até 120Hz oferece imagens extremamente fluidas, cores vibrantes e excelente contraste. Com resolução Full HD+ (1080 x 2340 pixels), é perfeita para assistir vídeos, jogar ou navegar nas redes sociais com máxima clareza.\r\n  \r\n  Câmeras 50MP\r\n  O conjunto de câmeras é impressionante para quem valoriza a fotografia:\r\n  Câmera Principal de 50MP: Com estabilização óptica (OIS), garante fotos nítidas e estáveis, mesmo em baixa luminosidade.\r\n  Câmera Ultra Wide de 12MP e Macro de 5MP: Ampliam as possibilidades criativas para paisagens e detalhes aproximados.\r\n  Câmera Frontal de 12MP: Para selfies de alta qualidade e nitidez.\r\n  \r\n  Desempenho e Armazenamento\r\n  Equipado com o processador Exynos 1680 Octa-Core e 8GB de RAM, o dispositivo oferece uma experiência ágil e fluida para multitarefas e jogos exigentes. Conta com 128GB de armazenamento interno, proporcionando amplo espaço para seus aplicativos, fotos e vídeos.\r\n  \r\n  Bateria 5000mAh\r\n  A bateria de 5000mAh oferece autonomia para até 2 dias de uso, com suporte a carregamento rápido de 45W, garantindo que você passe menos tempo conectado à tomada.\r\n  \r\n  Conectividade 5G e Android 16\r\n  O Galaxy A57 5G conta com certificação IP68 (resistência à água e poeira) e promete longevidade com até 6 atualizações de Android e de segurança, mantendo o aparelho sempre atualizado.\r\n  \r\n  Integração com IA\r\n  A inteligência artificial integrada traz recursos que otimizam sua rotina:\r\n  Tradução, resumo e edição de textos com IA;\r\n  Assistentes inteligentes: Bixby, Gemini e Perplexity;\r\n  Otimização automática de desempenho para maior produtividade.\r\n  \r\n  NFC e Ecossistema\r\n  Com NFC para pagamentos por aproximação e segurança avançada, o Samsung Galaxy A57 5G é um smartphone potente, completo e preparado para o futuro.\r\n  \r\n  Explore a linha completa de produtos Samsung e leve para sua casa o melhor em tecnologia, inovação e qualidade!\r\n  \r\n  Características Gerais:\r\n  Smartphone: Samsung Galaxy A57 5G;\r\n  Processador: Exynos 1680 Octa-Core (até 2.9 GHz);\r\n  Armazenamento interno: 128 GB;\r\n  Memória RAM: 8 GB;\r\n  Sistema Operacional: Android 16 (com até 6 atualizações);\r\n  Tela: 6.7 Super AMOLED+;\r\n  Proteção da tela: Gorilla Glass Victus+;\r\n  Taxa de atualização: 60 Hz / 120 Hz;\r\n  Resolução do visor/display: FHD+ (1080 x 2340 pixels);\r\n  Câmera traseira tripla: 50 MP (Principal) + 12 MP (Ultra Wide) + 5 MP (Macro);\r\n  Abertura das lentes: F1.8 + F2.2 + F2.4;\r\n  Estabilização: OIS (Óptica);\r\n  Zoom digital: Até 10x;\r\n  Câmera frontal: 12 MP (F2.2);\r\n  Gravação de vídeo: 4K 30fps;\r\n  Conectividade: 5G, Wi-Fi 6, Bluetooth, NFC;\r\n  Frequências: 5G e Quadriband GSM;\r\n  Bateria: 5000 mAh;\r\n  Carregamento: Suporte a 45 W;\r\n  Bateria removível: Sim;\r\n  Segurança: Leitor de digital na tela;\r\n  Resistência: IP68 (água e poeira);\r\n  Tipo do Chip: Nano SIM e eSIM (Dual Chip);\r\n  Dimensões: 161.5 x 76.8 x 6.9 mm;\r\n  Peso: 179 g;\r\n  Cor: Azul Escuro;\r\n  Tensão/Voltagem: Bivolt;\r\n  Tipo: Barra;\r\n  Slot para cartão: Não;\r\n  Cartão incluso: Não;\r\n  Rádio FM: Não;\r\n  MP3 player: Não;\r\n  Visualizador de arquivos: Sim;\r\n  Browser de internet: HTML;\r\n  Suporte a GPS: Sim;\r\n  Mensagens: SMS, EMS, MMS e E-mail.\r\n  \r\n  Número Homologação Anatel: 07316-25-00953\r\n  Código de Referência: SM-A576BLBEZTO\r\n  \r\n  Garantia: 12 Meses\r\n  \r\n  Conteúdo da Embalagem:\r\n  1 Smartphone Samsung Galaxy A57 5G;\r\n  1 Carregador bivolt;\r\n  1 Cabo USB;\r\n  1 Extrator de chip;\r\n  1 Manual do usuário e garantia.\r\n  \r\n  Observações\r\n  Evite quedas e impactos, mesmo com o vidro reforçado (Gorilla Glass Victus+);\r\n  Não utilize produtos abrasivos na limpeza do aparelho;\r\n  Utilize um pano macio e seco para a higienização regular.\r\n  \r\n  Entrega do Produto:\r\n  Todas as instruções, manuais e peças necessárias para a utilização e configuração inicial são fornecidas junto com o produto.",
+      "categories": [
+        {
+          "catid": 100013,
+          "display_name": "Celulares e Dispositivos",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100073,
+          "display_name": "Celulares",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059988,
+          "display_name": "Mobile & Gadgets",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060166,
+          "display_name": "Mobile Phones",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 58263602145,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Azul Escuro",
+          "promotion_id": 0,
+          "price": 228751000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 0,
+          "model_id": 209191331659,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Dark blue",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "Cor",
+          "options": [
+            "Azul Escuro"
+          ],
+          "images": [
+            "sg-11134201-825a5-mq6q2vqx07po3e"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0
+          ],
+          "name_tr": "Color",
+          "options_tr": [
+            "Dark blue"
+          ],
+          "selling_points": [
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 2,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 228751000,
+      "raw_discount": 0,
+      "hidden_price_display": null,
+      "price_min": 228751000,
+      "price_max": 228751000,
+      "price_before_discount": 228751000,
+      "price_min_before_discount": 228751000,
+      "price_max_before_discount": 228751000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": false,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "Smartphone Galaxy A57 5G with 6.7\" Super AMOLED screen, Samsung",
+      "description_tr": "Smartphone Samsung Galaxy A57 5G Screen 6.7 128GB Camera 50MP. Made to last!\r\n  The Samsung Galaxy A57 5G combines sophistication and durability in a single device, with a premium design, elegant finish and sturdy structure.\r\n  \r\n  Screen 6.7 AMOLED FHD+\r\n  Your 6.7 Super AMOLED screen With up to 120Hz refresh rate offers extremely fluid images, vibrant colors and excellent contrast. With Full HD+ resolution (1080 x 2340 pixels), it is perfect for watching videos, playing games or browsing social networks with maximum clarity.\r\n  \r\n  50MP cameras\r\n  The camera set is impressive for those who value photography:\r\n  50MP Main Camera: With optical stabilization (OIS), it guarantees clear and stable photos, even in low light.\r\n  12MP Ultra Wide Camera and 5MP Macro: They expand creative possibilities for landscapes and approximate details.\r\n  12MP Front Camera: For high quality and sharp selfies.\r\n  \r\n  Performance and Storage\r\n  Equipped with the Exynos 1680 Octa-Core processor and 8GB of RAM, the device offers an agile and fluid experience for demanding multitasking and games. It has 128GB of internal storage, providing ample space for your applications, photos and videos.\r\n  \r\n  Battery 5000mAh\r\n  The 5000mAh battery offers autonomy for up to 2 days of use, supporting 45W fast charging, ensuring that you spend less time connected to the socket.\r\n  \r\n  Connectivity 5G and Android 16\r\n  The Galaxy A57 5G is IP68 certified (water and dust resistance) and promises longevity with up to 6 Android and security updates, keeping the device always up to date.\r\n  \r\n  Integration with AI\r\n  Integrated artificial intelligence brings features that optimize your routine:\r\n  Translation, summary and editing texts with AI;\r\n  Smart assistants: Bixby, Gemini and Perplexity;\r\n  Automatic performance optimization for increased productivity.\r\n  \r\n  NFC and Ecosystem\r\n  With NFC for proximity payments and advanced security, the Samsung Galaxy A57 5G is a powerful smartphone, complete and prepared for the future.\r\n  \r\n  Explore the complete line of Samsung products and bring the best in technology, innovation and quality to your home!\r\n  \r\n  GENERAL CHARACTERISTICS:\r\n  Smartphone: Samsung Galaxy A57 5G;\r\n  Processor: Exynos 1680 Octa-Core (up to 2.9 GHz);\r\n  Internal storage: 128GB;\r\n  RAM memory: 8 GB;\r\n  Operating System: Android 16 (with up to 6 updates);\r\n  Screen: 6.7 Super AMOLED+;\r\n  Screen protection: Gorilla Glass Victus+;\r\n  Refresh rate: 60Hz / 120Hz;\r\n  Display/display resolution: FHD+ (1080 x 2340 pixels);\r\n  Triple rear camera: 50 MP (Main) + 12 MP (Ultra Wide) + 5 MP (Macro);\r\n  Lens aperture: F1.8 + F2.2 + F2.4;\r\n  Stabilization: OIS (Optical);\r\n  Digital Zoom: Up to 10x;\r\n  Front camera: 12 MP (F2.2);\r\n  Video recording: 4K 30fps;\r\n  Connectivity: 5G, Wi-Fi 6, Bluetooth, NFC;\r\n  Frequencies: 5G and Quadriband GSM;\r\n  Battery: 5000 mAh;\r\n  Charging: Support 45W;\r\n  Removable battery: Yes;\r\n  Security: digital reader on the screen;\r\n  Resistance: IP68 (water and dust);\r\n  Chip Type: Nano SIM and eSIM (Dual Chip);\r\n  Dimensions: 161.5 x 76.8 x 6.9 mm;\r\n  Weight: 179g;\r\n  Color: Dark Blue;\r\n  Voltage/Voltage: Bivolt;\r\n  Type: Bar;\r\n  Card Slot: No;\r\n  Card included: No;\r\n  FM Radio: No;\r\n  MP3 player: No;\r\n  File viewer: Yes;\r\n  Internet Browser: HTML;\r\n  GPS Support: Yes;\r\n  Messages: SMS, EMS, MMS and E-mail.\r\n  \r\n  Anatel Approval Number: 07316-25-00953\r\n  Reference Code: SM-A576BLBEZTO\r\n  \r\n  Warranty: 12 months\r\n  \r\n  Package Contents:\r\n  1 Smartphone Samsung Galaxy A57 5G;\r\n  1 bivolt charger;\r\n  1 USB cable;\r\n  1 chip extractor;\r\n  1 User Manual and warranty.\r\n  \r\n  Observations\r\n  Avoid falls and impacts, even with reinforced Glass (Gorilla Glass Victus+);\r\n  Do not use abrasive products to clean the device;\r\n  Use a soft, dry cloth for regular cleaning.\r\n  \r\n  Product Delivery:\r\n  All instructions, manuals and parts necessary for use and initial configuration are provided with the product.",
+      "rich_text_description_tr": null,
+      "stock_display": "IN STOCK",
+      "max_quantity_display": "IN STOCK",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": 1707139756,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": null,
+      "images": [
+        "sg-11134201-825a5-mq6q1v3g6s5dea",
+        "sg-11134201-825au-mq6q1wlcoz663b",
+        "sg-11134201-825ba-mq6q1xy3pb7m9d",
+        "sg-11134201-825ai-mq6q1z8ej6ypcd",
+        "sg-11134201-8259d-mq6q20rfjdvz5d",
+        "sg-11134201-82593-mq6q232zmi2z67",
+        "sg-11134201-82580-mq6q24dqn9xee6"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "Azul Escuro",
+          "image": "sg-11134201-825a5-mq6q2vqx07po3e",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Dark blue",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "sg-11134201-825a5-mq6q2vqx07po3e"
+        }
+      ],
+      "sorted_variation_image_index_list": [],
+      "overlay": null,
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "sg-11134201-825a5-mq6q2vqx07po3e"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": {
+            "url": "sg-11134201-825a5-mq6q1v3g6s5dea",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-825au-mq6q1wlcoz663b",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-825ba-mq6q1xy3pb7m9d",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-825ai-mq6q1z8ej6ypcd",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-8259d-mq6q20rfjdvz5d",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-82593-mq6q232zmi2z67",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "sg-11134201-82580-mq6q24dqn9xee6",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 16,
+      "installment_info": {
+        "recommended_plan": {
+          "months": 12,
+          "pay_per_month": 17604250,
+          "has_buyer_transaction_fee": true
+        }
+      },
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": 192951000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 228751000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": true,
+      "discount_text": null,
+      "show_final_price_indicator": false,
+      "final_price_vouchers": [
+        {
+          "promotion_id": 1464480680783872,
+          "voucher_code": "CASAJUL14",
+          "is_auto_claimed_just_now": false,
+          "groups": null,
+          "voucher_type": 1
+        },
+        {
+          "promotion_id": 1454429786222596,
+          "voucher_code": "1383027839",
+          "is_auto_claimed_just_now": null,
+          "groups": [
+            "BR_FINAL_PRICE_WHITELIST",
+            "__SYSTEM_AUTO_DISPATCH__"
+          ],
+          "voucher_type": 2
+        }
+      ],
+      "has_final_price": true,
+      "final_price_info": {
+        "model_id": 209191331659,
+        "hint_text": "with Pix after voucher",
+        "show_final_price_indicator": false,
+        "final_price_vouchers": {
+          "platform_voucher": {
+            "promotion_id": 1454429786222596,
+            "voucher_code": "1383027839",
+            "is_auto_claimed_just_now": null,
+            "groups": [
+              "BR_FINAL_PRICE_WHITELIST",
+              "__SYSTEM_AUTO_DISPATCH__"
+            ],
+            "voucher_discount_type": 1,
+            "voucher_discount": 2500000
+          },
+          "shop_voucher": {
+            "promotion_id": 1464480680783872,
+            "voucher_code": "CASAJUL14",
+            "is_auto_claimed_just_now": false,
+            "groups": null,
+            "voucher_discount_type": 1,
+            "voucher_discount": 15000000
+          },
+          "ads_voucher": null
+        },
+        "payment_channel_discount": {
+          "pix_discount": {
+            "discount_id": 470693858988179,
+            "snapshot_id": 325103934198074,
+            "discount_amount": 18300000
+          }
+        },
+        "final_price_icon_type": 0
+      },
+      "price_subtext": {
+        "template": "or {price} without a voucher with other payment methods",
+        "format": null,
+        "attributes": [
+          {
+            "type": 2,
+            "key": "price",
+            "value": {
+              "value_str": null,
+              "value_int": 228751000
+            },
+            "format": null,
+            "text_color": null,
+            "text_hex_color": null,
+            "url": null
+          }
+        ],
+        "text_color": null,
+        "text_hex_color": null
+      },
+      "price_model": {
+        "price_single_model_id": 209191331659,
+        "price_min_model_id": null,
+        "price_max_model_id": null
+      },
+      "price_promotion": {
+        "price_single_promotion_id": 0,
+        "price_single_promotion_type": 0,
+        "price_min_promotion_id": null,
+        "price_min_promotion_type": null,
+        "price_max_promotion_id": null,
+        "price_max_promotion_type": null
+      },
+      "instalment_cta_action": null
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": true,
+      "show_shopee_verified_label": false,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.954545454545454,
+      "rating_count": [
+        22,
+        0,
+        0,
+        0,
+        1,
+        21
+      ],
+      "total_rating_count": 22,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 761,
+      "cmt_count": 22,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": null,
+      "historical_sold_display": "121",
+      "global_sold_display": "121",
+      "sold_count_display": "121"
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": {
+        "month": 12,
+        "price_raw": 17604250,
+        "interest": 0,
+        "has_buyer_transaction_fee": true,
+        "display_text": "12x {{price}}"
+      },
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": true,
+        "is_non_cc_installment_payment_eligible": true
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": {
+          "single_value": 20000000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "São Paulo",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 0,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 90021,
+          "name": "Logística do vendedor",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 4000000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784773559,
+            "estimated_delivery_date_to": 1784859959,
+            "estimated_delivery_time_min": 3,
+            "estimated_delivery_time_max": 4,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 22 to 23/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_range}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_range",
+                    "value": {
+                      "value_str": "Get by 22 to 23/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 20000000,
+            "discount_value": 4000000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": false,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":4,\"edt_min_hours\":72,\"edt_max_hours\":96,\"edt_min_minutes\":4320,\"edt_max_minutes\":5760,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": null,
+      "pre_selected_shipping_channel": {
+        "channel_id": 90021,
+        "name": "Logística do vendedor",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 4000000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1784773559,
+          "estimated_delivery_date_to": 1784859959,
+          "estimated_delivery_time_min": 3,
+          "estimated_delivery_time_max": 4,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Get by 22 to 23/jul",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_range}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_range",
+                  "value": {
+                    "value_str": "Get by 22 to 23/jul",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 0,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 20000000,
+          "discount_value": 4000000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": false,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":4,\"edt_min_hours\":72,\"edt_max_hours\":96,\"edt_min_minutes\":4320,\"edt_max_minutes\":5760,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": false,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 209191331659,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [
+      {
+        "promotionid": 1464480680783872,
+        "voucher_code": "CASAJUL14",
+        "signature": "8cce195a0764b904c9aafdd183258f065e6777b201c1883e9362f6ea8ffe741a",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 100000000,
+        "used_price": 15000000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 3,
+        "start_time": 1784039460,
+        "end_time": 1785511860,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 8,
+        "reward_value": 0,
+        "reward_cap": 15000000,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "br-11134216-7r98o-m5onrbgglgeo78",
+        "icon_text": "Casas Bahia Oficial",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 1083800536,
+        "shop_name": "Casas Bahia Oficial",
+        "is_shop_preferred": false,
+        "is_shop_official": true,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-DDEED80C2D8822280000001105055455",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 0,
+        "discount_percentage": 8,
+        "discount_cap": 15000000,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "br-11134216-7r98o-m5onrbgglgeo78",
+        "error_code": 0,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      },
+      {
+        "promotionid": 1466068241625088,
+        "voucher_code": "CASAJUL85",
+        "signature": "f5a238b3430a92e095ed51f2e604a0dd5b577f45a3d4c72b1f9c18865497d75a",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 127000000,
+        "used_price": 8500000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 0,
+        "start_time": 1784228640,
+        "end_time": 1785528240,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 8500000,
+        "reward_cap": 0,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "br-11134216-7r98o-m5onrbgglgeo78",
+        "icon_text": "Casas Bahia Oficial",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 1083800536,
+        "shop_name": "Casas Bahia Oficial",
+        "is_shop_preferred": false,
+        "is_shop_official": true,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-C3F0D224878822280000001105111401",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 8500000,
+        "discount_percentage": 0,
+        "discount_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "br-11134216-7r98o-m5onrbgglgeo78",
+        "error_code": 0,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      },
+      {
+        "promotionid": 1462276943654912,
+        "voucher_code": "CASACBJ05",
+        "signature": "fe646243275b5069c079745d88326469a1dd362a7f0d6c713e133b7c900f1552",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 50000000,
+        "used_price": 5000000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 6,
+        "start_time": 1783776720,
+        "end_time": 1785421920,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 5,
+        "reward_value": 0,
+        "reward_cap": 5000000,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "br-11134216-7r98o-m5onrbgglgeo78",
+        "icon_text": "Casas Bahia Oficial",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 1083800536,
+        "shop_name": "Casas Bahia Oficial",
+        "is_shop_preferred": false,
+        "is_shop_official": true,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-F40BF04C258822280000001105015454",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 0,
+        "discount_percentage": 5,
+        "discount_cap": 5000000,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "br-11134216-7r98o-m5onrbgglgeo78",
+        "error_code": 0,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      },
+      {
+        "promotionid": 1466067469742080,
+        "voucher_code": "CASAJUL16",
+        "signature": "54a70e4a9ecf476b4414e505851089065807cf98dfe360550c39bcade893e7d4",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 80000000,
+        "used_price": 4500000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 0,
+        "start_time": 1784228580,
+        "end_time": 1785528180,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 4500000,
+        "reward_cap": 0,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "br-11134216-7r98o-m5onrbgglgeo78",
+        "icon_text": "Casas Bahia Oficial",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 1083800536,
+        "shop_name": "Casas Bahia Oficial",
+        "is_shop_preferred": false,
+        "is_shop_official": true,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-9EDE5220878822280000001105111401",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 4500000,
+        "discount_percentage": 0,
+        "discount_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "br-11134216-7r98o-m5onrbgglgeo78",
+        "error_code": 0,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      },
+      {
+        "promotionid": 1456505228374016,
+        "voucher_code": "CASACARJU",
+        "signature": "90a3db6de70d007437962ab1d0a2e96e0b7694c789fa70d275a7601e2b061e7d",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 50000000,
+        "used_price": 2500000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 15,
+        "start_time": 1783088700,
+        "end_time": 1785511500,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 2500000,
+        "reward_cap": 0,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "br-11134216-7r98o-m5onrbgglgeo78",
+        "icon_text": "Casas Bahia Oficial",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 1083800536,
+        "shop_name": "Casas Bahia Oficial",
+        "is_shop_preferred": false,
+        "is_shop_official": true,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-82D0580AAD0822280000001104504455",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 2500000,
+        "discount_percentage": 0,
+        "discount_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "br-11134216-7r98o-m5onrbgglgeo78",
+        "error_code": 0,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      }
+    ],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [
+        {
+          "coin_earn": 500
+        }
+      ],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 7,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Type",
+          "value": "Manufacturer Warranty",
+          "id": 100370,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Warranty Type",
+          "value_tr": "Manufacturer Warranty"
+        },
+        {
+          "name": "Warranty Duration",
+          "value": "12 Months",
+          "id": 100121,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Warranty Duration",
+          "value_tr": "12 Months"
+        },
+        {
+          "name": "RAM",
+          "value": "8GB",
+          "id": 100461,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "RAM",
+          "value_tr": "8GB"
+        },
+        {
+          "name": "Model Name",
+          "value": "SM-A576B/DS",
+          "id": 101040,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Model Name",
+          "value_tr": "SM-A576B / DS"
+        },
+        {
+          "name": "Registration ID",
+          "value": "073162500953",
+          "id": 101197,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Registration ID",
+          "value_tr": "073162500953"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Samsung Electronics Co Ltd.",
+          "id": 101237,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Manufacturer",
+          "value_tr": "Samsung Electronics Co Ltd."
+        },
+        {
+          "name": "Ships From",
+          "value": "São Paulo",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059988,
+          "display_name": "Mobile & Gadgets",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060166,
+          "display_name": "Mobile Phones",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 1083800536,
+      "userid": 1084049969,
+      "last_active_time": 1784514119,
+      "vacation": false,
+      "place": "São Paulo, São Paulo",
+      "account": {
+        "portrait": "br-11134216-7r98o-m5onrbgglgeo78",
+        "username": "casas_bahia_oficial",
+        "status": 1
+      },
+      "is_shopee_verified": false,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": true,
+      "shop_location": "",
+      "item_count": 5843,
+      "rating_star": 4.908404,
+      "response_rate": 27,
+      "session_info": null,
+      "name": "Casas Bahia Oficial",
+      "ctime": 1695993511,
+      "response_time": 715,
+      "follower_count": 207776,
+      "show_official_shop_label": true,
+      "rating_bad": 1692,
+      "rating_good": 212144,
+      "rating_normal": 3050,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": true,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": {
+        "count": 500,
+        "text": "Buy and earn {{count}} Shopee Coin"
+      },
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": null,
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": {
+        "price": 192951000
+      },
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": null,
+      "bank": {
+        "channels": [
+          {
+            "channel_ic": "",
+            "channel_name": "label_cc_installment",
+            "is_cc": true,
+            "plans": [
+              {
+                "plan_name": "1x",
+                "duration": 1,
+                "interest_rate": 0,
+                "monthly_payment": 211251000,
+                "total_amount": 211251000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "2x",
+                "duration": 2,
+                "interest_rate": 0,
+                "monthly_payment": 105625500,
+                "total_amount": 211251000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "3x",
+                "duration": 3,
+                "interest_rate": 0,
+                "monthly_payment": 70417000,
+                "total_amount": 211251000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "4x",
+                "duration": 4,
+                "interest_rate": 0,
+                "monthly_payment": 52812750,
+                "total_amount": 211251000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "5x",
+                "duration": 5,
+                "interest_rate": 0,
+                "monthly_payment": 42250200,
+                "total_amount": 211251000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "6x",
+                "duration": 6,
+                "interest_rate": 0,
+                "monthly_payment": 35208500,
+                "total_amount": 211251000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "7x",
+                "duration": 7,
+                "interest_rate": 0,
+                "monthly_payment": 30178714,
+                "total_amount": 211251000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "8x",
+                "duration": 8,
+                "interest_rate": 0,
+                "monthly_payment": 26406375,
+                "total_amount": 211251000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "9x",
+                "duration": 9,
+                "interest_rate": 0,
+                "monthly_payment": 23472333,
+                "total_amount": 211251000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "10x",
+                "duration": 10,
+                "interest_rate": 0,
+                "monthly_payment": 21125100,
+                "total_amount": 211251000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "11x",
+                "duration": 11,
+                "interest_rate": 0,
+                "monthly_payment": 19204636,
+                "total_amount": 211251000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "12x",
+                "duration": 12,
+                "interest_rate": 0,
+                "monthly_payment": 17604250,
+                "total_amount": 211251000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              }
+            ],
+            "banks": null,
+            "plan_groups": null
+          }
+        ]
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": {
+      "price": {
+        "single_value": 192951000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 228751000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "discount_breakdown": [
+        {
+          "type": 3,
+          "price_source": "Voucher Discount",
+          "discount_amount": 2500000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": {
+            "min_spend": 20000000,
+            "discount_type": 1,
+            "discount_value": null,
+            "discount_percentage": "5"
+          },
+          "ads_voucher": null,
+          "breakdown_text": {
+            "template": "Buy {min_spend} get {discount_percentage} off",
+            "format": null,
+            "attributes": [
+              {
+                "type": 2,
+                "key": "min_spend",
+                "value": {
+                  "value_str": null,
+                  "value_int": 20000000
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              },
+              {
+                "type": 1,
+                "key": "discount_percentage",
+                "value": {
+                  "value_str": "5%",
+                  "value_int": null
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              }
+            ],
+            "text_color": null,
+            "text_hex_color": null
+          },
+          "icon_type": 0
+        },
+        {
+          "type": 2,
+          "price_source": "Shop Voucher Discount",
+          "discount_amount": 15000000,
+          "exclusive_price": null,
+          "shop_voucher": {
+            "min_spend": 100000000,
+            "discount_type": 1,
+            "discount_value": null,
+            "discount_percentage": "8"
+          },
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": {
+            "template": "Buy {min_spend} get {discount_percentage} off",
+            "format": null,
+            "attributes": [
+              {
+                "type": 2,
+                "key": "min_spend",
+                "value": {
+                  "value_str": null,
+                  "value_int": 100000000
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              },
+              {
+                "type": 1,
+                "key": "discount_percentage",
+                "value": {
+                  "value_str": "8%",
+                  "value_int": null
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              }
+            ],
+            "text_color": null,
+            "text_hex_color": null
+          },
+          "icon_type": null
+        },
+        {
+          "type": 4,
+          "price_source": "Pix Discount",
+          "discount_amount": 18300000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": null,
+          "icon_type": null
+        }
+      ]
+    },
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "Smartphone Samsung Galaxy A57 5G Tela 6.7 128GB Câmera 50MP. Feito para durar!\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  O Samsung Galaxy A57 5G combina sofisticação e durabilidade em um único aparelho, com um design premium, acabamento elegante e estrutura resistente.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Tela 6.7 AMOLED FHD+\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Sua tela Super AMOLED de 6.7 com taxa de atualização de até 120Hz oferece imagens extremamente fluidas, cores vibrantes e excelente contraste. Com resolução Full HD+ (1080 x 2340 pixels), é perfeita para assistir vídeos, jogar ou navegar nas redes sociais com máxima clareza.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Câmeras 50MP\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  O conjunto de câmeras é impressionante para quem valoriza a fotografia:\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Câmera Principal de 50MP: Com estabilização óptica (OIS), garante fotos nítidas e estáveis, mesmo em baixa luminosidade.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Câmera Ultra Wide de 12MP e Macro de 5MP: Ampliam as possibilidades criativas para paisagens e detalhes aproximados.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Câmera Frontal de 12MP: Para selfies de alta qualidade e nitidez.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Desempenho e Armazenamento\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Equipado com o processador Exynos 1680 Octa-Core e 8GB de RAM, o dispositivo oferece uma experiência ágil e fluida para multitarefas e jogos exigentes. Conta com 128GB de armazenamento interno, proporcionando amplo espaço para seus aplicativos, fotos e vídeos.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Bateria 5000mAh\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  A bateria de 5000mAh oferece autonomia para até 2 dias de uso, com suporte a carregamento rápido de 45W, garantindo que você passe menos tempo conectado à tomada.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Conectividade 5G e Android 16\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  O Galaxy A57 5G conta com certificação IP68 (resistência à água e poeira) e promete longevidade com até 6 atualizações de Android e de segurança, mantendo o aparelho sempre atualizado.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Integração com IA\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  A inteligência artificial integrada traz recursos que otimizam sua rotina:\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Tradução, resumo e edição de textos com IA;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Assistentes inteligentes: Bixby, Gemini e Perplexity;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Otimização automática de desempenho para maior produtividade.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  NFC e Ecossistema\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Com NFC para pagamentos por aproximação e segurança avançada, o Samsung Galaxy A57 5G é um smartphone potente, completo e preparado para o futuro.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Explore a linha completa de produtos Samsung e leve para sua casa o melhor em tecnologia, inovação e qualidade!\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Características Gerais:\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Smartphone: Samsung Galaxy A57 5G;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Processador: Exynos 1680 Octa-Core (até 2.9 GHz);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Armazenamento interno: 128 GB;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Memória RAM: 8 GB;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Sistema Operacional: Android 16 (com até 6 atualizações);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Tela: 6.7 Super AMOLED+;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Proteção da tela: Gorilla Glass Victus+;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Taxa de atualização: 60 Hz / 120 Hz;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Resolução do visor/display: FHD+ (1080 x 2340 pixels);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Câmera traseira tripla: 50 MP (Principal) + 12 MP (Ultra Wide) + 5 MP (Macro);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Abertura das lentes: F1.8 + F2.2 + F2.4;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Estabilização: OIS (Óptica);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Zoom digital: Até 10x;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Câmera frontal: 12 MP (F2.2);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Gravação de vídeo: 4K 30fps;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Conectividade: 5G, Wi-Fi 6, Bluetooth, NFC;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Frequências: 5G e Quadriband GSM;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Bateria: 5000 mAh;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Carregamento: Suporte a 45 W;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Bateria removível: Sim;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Segurança: Leitor de digital na tela;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Resistência: IP68 (água e poeira);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Tipo do Chip: Nano SIM e eSIM (Dual Chip);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Dimensões: 161.5 x 76.8 x 6.9 mm;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Peso: 179 g;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Cor: Azul Escuro;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Tensão/Voltagem: Bivolt;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Tipo: Barra;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Slot para cartão: Não;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Cartão incluso: Não;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Rádio FM: Não;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  MP3 player: Não;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Visualizador de arquivos: Sim;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Browser de internet: HTML;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Suporte a GPS: Sim;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Mensagens: SMS, EMS, MMS e E-mail.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Número Homologação Anatel: 07316-25-00953\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Código de Referência: SM-A576BLBEZTO\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Garantia: 12 Meses\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Conteúdo da Embalagem:\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  1 Smartphone Samsung Galaxy A57 5G;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  1 Carregador bivolt;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  1 Cabo USB;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  1 Extrator de chip;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  1 Manual do usuário e garantia.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Observações\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Evite quedas e impactos, mesmo com o vidro reforçado (Gorilla Glass Victus+);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Não utilize produtos abrasivos na limpeza do aparelho;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Utilize um pano macio e seco para a higienização regular.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Entrega do Produto:\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Todas as instruções, manuais e peças necessárias para a utilização e configuração inicial são fornecidas junto com o produto.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": {
+      "0": 0
+    },
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "Smartphone Samsung Galaxy A57 5G Screen 6.7 128GB Camera 50MP. Made to last!\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  The Samsung Galaxy A57 5G combines sophistication and durability in a single device, with a premium design, elegant finish and sturdy structure.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Screen 6.7 AMOLED FHD+\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Your 6.7 Super AMOLED screen With up to 120Hz refresh rate offers extremely fluid images, vibrant colors and excellent contrast. With Full HD+ resolution (1080 x 2340 pixels), it is perfect for watching videos, playing games or browsing social networks with maximum clarity.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  50MP cameras\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  The camera set is impressive for those who value photography:\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  50MP Main Camera: With optical stabilization (OIS), it guarantees clear and stable photos, even in low light.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  12MP Ultra Wide Camera and 5MP Macro: They expand creative possibilities for landscapes and approximate details.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  12MP Front Camera: For high quality and sharp selfies.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Performance and Storage\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Equipped with the Exynos 1680 Octa-Core processor and 8GB of RAM, the device offers an agile and fluid experience for demanding multitasking and games. It has 128GB of internal storage, providing ample space for your applications, photos and videos.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Battery 5000mAh\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  The 5000mAh battery offers autonomy for up to 2 days of use, supporting 45W fast charging, ensuring that you spend less time connected to the socket.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Connectivity 5G and Android 16\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  The Galaxy A57 5G is IP68 certified (water and dust resistance) and promises longevity with up to 6 Android and security updates, keeping the device always up to date.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Integration with AI\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Integrated artificial intelligence brings features that optimize your routine:\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Translation, summary and editing texts with AI;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Smart assistants: Bixby, Gemini and Perplexity;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Automatic performance optimization for increased productivity.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  NFC and Ecosystem\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  With NFC for proximity payments and advanced security, the Samsung Galaxy A57 5G is a powerful smartphone, complete and prepared for the future.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Explore the complete line of Samsung products and bring the best in technology, innovation and quality to your home!\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  GENERAL CHARACTERISTICS:\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Smartphone: Samsung Galaxy A57 5G;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Processor: Exynos 1680 Octa-Core (up to 2.9 GHz);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Internal storage: 128GB;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  RAM memory: 8 GB;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Operating System: Android 16 (with up to 6 updates);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Screen: 6.7 Super AMOLED+;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Screen protection: Gorilla Glass Victus+;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Refresh rate: 60Hz / 120Hz;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Display/display resolution: FHD+ (1080 x 2340 pixels);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Triple rear camera: 50 MP (Main) + 12 MP (Ultra Wide) + 5 MP (Macro);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Lens aperture: F1.8 + F2.2 + F2.4;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Stabilization: OIS (Optical);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Digital Zoom: Up to 10x;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Front camera: 12 MP (F2.2);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Video recording: 4K 30fps;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Connectivity: 5G, Wi-Fi 6, Bluetooth, NFC;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Frequencies: 5G and Quadriband GSM;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Battery: 5000 mAh;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Charging: Support 45W;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Removable battery: Yes;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Security: digital reader on the screen;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Resistance: IP68 (water and dust);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Chip Type: Nano SIM and eSIM (Dual Chip);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Dimensions: 161.5 x 76.8 x 6.9 mm;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Weight: 179g;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Color: Dark Blue;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Voltage/Voltage: Bivolt;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Type: Bar;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Card Slot: No;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Card included: No;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  FM Radio: No;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  MP3 player: No;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  File viewer: Yes;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Internet Browser: HTML;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  GPS Support: Yes;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Messages: SMS, EMS, MMS and E-mail.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Anatel Approval Number: 07316-25-00953\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Reference Code: SM-A576BLBEZTO\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Warranty: 12 months\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Package Contents:\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  1 Smartphone Samsung Galaxy A57 5G;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  1 bivolt charger;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  1 USB cable;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  1 chip extractor;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  1 User Manual and warranty.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Observations\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Avoid falls and impacts, even with reinforced Glass (Gorilla Glass Victus+);\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Do not use abrasive products to clean the device;\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Use a soft, dry cloth for regular cleaning.\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  \r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  Product Delivery:\r",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "  All instructions, manuals and parts necessary for use and initial configuration are provided with the product.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": null
+  }
+}

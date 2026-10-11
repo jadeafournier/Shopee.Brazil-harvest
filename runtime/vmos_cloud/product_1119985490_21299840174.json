@@ -1,0 +1,2010 @@
+{
+  "task_link": "https://shopee.com.br/product/1119985490/21299840174",
+  "token": "br_emulator",
+  "api_key": "br_emulator",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 21299840174,
+      "shop_id": 1119985490,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "Sacolinha Surpresa Lembrancinha Arca de Noé PEGUE E MONTE",
+      "image": "br-11134207-820m1-ms0mtnv1p24nf7",
+      "label_ids": [
+        844931064601283,
+        1400070013,
+        1400065082,
+        822062091122182,
+        835343123222554,
+        595473041,
+        1718388139,
+        1718388158,
+        595968044
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100636,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": "Anna Paim Papelaria Personalizada",
+      "brand_id": 5059598,
+      "show_discount": 74,
+      "ctime": 1754232070,
+      "item_rating": {
+        "rating_star": 4.863157894736842
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": false,
+      "shop_location": "Bahia",
+      "attributes": [
+        {
+          "name": "País de Origem",
+          "value": "Brasil",
+          "id": 100037,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 6737,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Formulação",
+          "value": "PAPEL",
+          "id": 100036,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Material",
+          "value": "PAPEL",
+          "id": 100134,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": null,
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "⚠️ ATENÇÃO: PRODUTO PRONTA ENTREGA ⚠️\n\nDeixe sua festa ainda mais especial com nossas Sacolinhas Personalizadas para Lembrancinhas! 🎉\nProduzidas em papel offset de alta gramatura, elas possuem ótima qualidade e são perfeitas para colocar doces, guloseimas, pequenos presentes e lembrancinhas para seus convidados.\n\n📌 IMPORTANTE: Neste anúncio, você receberá o tema mostrado nas fotos.\n\n📌 IMPORTANTE SOBRE O TEMA\nEste anúncio é referente EXCLUSIVAMENTE AO TEMA MOSTRADO NAS FOTOS.\nPor ser um produto PRONTA ENTREGA, não fazemos alterações na arte, não acrescentamos nome e não acrescentamos idade.\n👉 Caso queira OUTRO TEMA, fale conosco pelo chat ANTES DE REALIZAR A COMPRA. Não compre este anúncio esperando receber um tema diferente.\n\n📏 CARACTERÍSTICAS DO PRODUTO\n• Tamanho: 10 cm de largura × 15 cm de altura × 4 cm de profundidade\n• Material: Papel offset de alta gramatura\n• Frase: “Obrigado pela presença!”\n• Produto: Pronta entrega\n\n⚠️ NÃO TRABALHAMOS COM PERSONALIZAÇÃO DE NOME E IDADE.\n\n📦 COMO AS SACOLINHAS SÃO ENVIADAS?\nPara que cheguem até você em perfeito estado, sem amassar durante o transporte e baratear o frete, as sacolinhas são enviadas cortadas e vincadas, prontas para colar e montar.\nA montagem é simples, rápida e fácil. ✨\nAlém de ajudar a proteger o produto durante o transporte, o envio desmontado também permite uma embalagem mais compacta.\n\n🎨 SOBRE AS CORES\nAs cores podem apresentar pequenas variações de tonalidade de acordo com a configuração do monitor ou tela do celular, iluminação do ambiente e condições em que as fotos foram realizadas.\n\n🔎 NÃO ENCONTROU O TEMA QUE PROCURA?\nTemos opções para diversos temas e ocasiões, como aniversários, festas infantis, batizados, chá de bebê e muito mais.\nSe você procura outro tema, envie uma mensagem pelo chat antes da compra para verificarmos a disponibilidade e orientarmos você para o anúncio correto.\n\n💬 Ficou com alguma dúvida?\nEstamos à disposição para ajudar!\n\n✨ Deixe cada detalhe da sua comemoração ainda mais especial com nossas sacolinhas para lembrancinhas!",
+      "categories": [
+        {
+          "catid": 100636,
+          "display_name": "Casa e Decoração",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100722,
+          "display_name": "Artigos de Festa",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 101270,
+          "display_name": "Outros",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059983,
+          "display_name": "Casa e Construção",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060119,
+          "display_name": "Artigos de Festa",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11061786,
+          "display_name": "Outros",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 21299840174,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "50 unidades",
+          "promotion_id": 921853166535680,
+          "price": 5785000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 22250000,
+          "model_id": 238789571669,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": null,
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 21299840174,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "10 unidades",
+          "promotion_id": 921853166535680,
+          "price": 1755000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 6750000,
+          "model_id": 238789571670,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": null,
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 21299840174,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "20 unidades",
+          "promotion_id": 921853166535680,
+          "price": 2925000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 11250000,
+          "model_id": 238789571671,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": null,
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 21299840174,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "30 unidades",
+          "promotion_id": 921853166535680,
+          "price": 3822000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 14700000,
+          "model_id": 238789571672,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": null,
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 21299840174,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "40 unidades",
+          "promotion_id": 921853166535680,
+          "price": 5070000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 19500000,
+          "model_id": 238789571673,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": null,
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "QUANTIDADE",
+          "options": [
+            "10 unidades",
+            "20 unidades",
+            "30 unidades",
+            "40 unidades",
+            "50 unidades"
+          ],
+          "images": null,
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "name_tr": null,
+          "options_tr": null,
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": {
+        "installment_info": {
+          "installment_plans": [],
+          "max_installment_plan": {
+            "months": 12,
+            "pay_per_month": 230000,
+            "recommended": false,
+            "option_info": "",
+            "instalment_sub_title": null,
+            "sub_title_color_type": null,
+            "interest_rate_discounted_type": null,
+            "upfront_fee": null,
+            "should_display_upfront_fee_label": null,
+            "pcp_discount_label": null,
+            "free_interest_label": null
+          },
+          "panel_status": 0,
+          "recommended_installment_plan": {
+            "months": 12,
+            "pay_per_month": 230000,
+            "recommended": null,
+            "option_info": "",
+            "instalment_sub_title": null,
+            "sub_title_color_type": null,
+            "interest_rate_discounted_type": null,
+            "upfront_fee": null,
+            "should_display_upfront_fee_label": null,
+            "pcp_discount_label": null,
+            "free_interest_label": null
+          },
+          "interest_rate_discounted_type": 1
+        },
+        "user_credit_info": {
+          "user_status": 1,
+          "display_text": "Parcele em até 12x",
+          "display_color": "#ee4d2d",
+          "partners_link": "https://uc-h5.scrediario.com.br/next_h5/landing/spl?channel=pdp",
+          "tracking_info": "{\"activation_status\":\"activate_now\"}"
+        },
+        "channel_id": 10002601,
+        "show_spl": true,
+        "show_spl_lite": null,
+        "spl_xtra": null,
+        "spl_motorcycle_loan": null
+      },
+      "estimated_days": 2,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 1755000,
+      "raw_discount": 74,
+      "hidden_price_display": null,
+      "price_min": 1755000,
+      "price_max": 5785000,
+      "price_before_discount": 6750000,
+      "price_min_before_discount": 6750000,
+      "price_max_before_discount": 22250000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": false,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": null,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": null,
+      "description_tr": null,
+      "rich_text_description_tr": null,
+      "stock_display": null,
+      "max_quantity_display": null,
+      "disclaimer": null
+    },
+    "shop": {
+      "user_id": 1120280946,
+      "shop_id": 1119985490,
+      "vacation": false,
+      "last_active_time": 1790220318,
+      "is_shopee_verified": true,
+      "is_preferred_plus": false,
+      "is_official_shop": false,
+      "is_mart": false,
+      "username": "pink_e_blue_personalizados",
+      "seller_status": 1,
+      "is_high_end": false,
+      "is_shopee_choice": false,
+      "authorized_brand": null,
+      "is_scs": false
+    },
+    "account": {
+      "user_id": 1706801030,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": {
+        "video_id": "api/v4/11110105/mms/br-11110105-6v6x6-ms0mvowobh8n2f.16000081787015485.mp4",
+        "thumb_url": "br-11110105-6v6x6-ms0mvowobh8n2f_cover",
+        "duration": 42,
+        "version": 2,
+        "vid": "br-11110105-6v6x6-ms0mvowobh8n2f",
+        "formats": [
+          {
+            "format": 1600008,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/br-11110105-6v6x6-ms0mvowobh8n2f.16000081787015485.mp4",
+            "url": "https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-ms0mvowobh8n2f.16000081787015485.mp4",
+            "width": 478,
+            "height": 850
+          }
+        ],
+        "default_format": {
+          "format": 1600323,
+          "defn": "V540P",
+          "profile": "MP4",
+          "path": "",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-ms0mvowobh8n2f.default.mp4",
+          "width": 478,
+          "height": 850
+        },
+        "mms_data": "{\"vid\":\"br-11110105-6v6x6-ms0mvowobh8n2f\",\"biz\":107,\"duration\":41680,\"create_time\":1787015481,\"update_time\":1787015486,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v6x6-ms0mvowobh8n2f_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x6-ms0mvowobh8n2f.16000081787015485.mp4\",\"url\":\"https://down-aka-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-ms0mvowobh8n2f.16000081787015485.mp4\",\"width\":478,\"height\":850,\"bitrate\":532700,\"abitrate\":0,\"size\":2788766,\"fps\":25,\"duration\":41680,\"update_time\":1787015495,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-ms0mvowobh8n2f.default.mp4\",\"width\":478,\"height\":850,\"bitrate\":450115,\"abitrate\":0,\"size\":2358499,\"fps\":25,\"duration\":41680,\"update_time\":1787015503,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+        "item_cover": null
+      },
+      "images": [
+        "br-11134207-820m1-ms0mtnv1p24nf7",
+        "br-11134207-820lr-ms0mtnv1qgp35d",
+        "br-11134207-820l9-ms0mtnv1m8zrc5",
+        "br-11134207-820lx-ms0mtnv1nnk7c7"
+      ],
+      "first_tier_variations": null,
+      "sorted_variation_image_index_list": [],
+      "overlay": null,
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": null,
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": [
+        {
+          "pdp_top_video_info": {
+            "video": {
+              "video_id": "api/v4/11110105/mms/br-11110105-6v6x6-ms0mvowobh8n2f.16000081787015485.mp4",
+              "thumb_url": "br-11110105-6v6x6-ms0mvowobh8n2f_cover",
+              "duration": 41680,
+              "version": 2,
+              "vid": "br-11110105-6v6x6-ms0mvowobh8n2f",
+              "formats": [
+                {
+                  "format": 1600008,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/br-11110105-6v6x6-ms0mvowobh8n2f.16000081787015485.mp4",
+                  "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-ms0mvowobh8n2f.16000081787015485.mp4",
+                  "width": 478,
+                  "height": 850
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": "",
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-ms0mvowobh8n2f.default.mp4",
+                "width": 478,
+                "height": 850
+              },
+              "mms_data": "{\"vid\":\"br-11110105-6v6x6-ms0mvowobh8n2f\",\"biz\":125,\"duration\":41680,\"create_time\":1787015481,\"update_time\":1787015486,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6v6x6-ms0mvowobh8n2f_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v6x6-ms0mvowobh8n2f.16000081787015485.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-ms0mvowobh8n2f.16000081787015485.mp4\",\"width\":478,\"height\":850,\"bitrate\":532700,\"abitrate\":0,\"size\":2788766,\"fps\":25,\"duration\":41680,\"update_time\":1787015495,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v6x6-ms0mvowobh8n2f.default.mp4\",\"width\":478,\"height\":850,\"bitrate\":450115,\"abitrate\":0,\"size\":2358499,\"fps\":25,\"duration\":41680,\"update_time\":1787015503,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"feature_TXExtremeHD:0;feature_AIEnhance:0;feature_SPVNomal:1;codec:default;priority:default;feature_Nomal:1;\"}",
+              "item_cover": "br-11134207-820m1-ms0mtnv1p24nf7"
+            },
+            "shopee_video_info": null,
+            "rcmd_info": "",
+            "req_id": "",
+            "featured_video": null
+          },
+          "pdp_top_image_info": null,
+          "content_source": 1,
+          "content_type": 1,
+          "content_size": 1,
+          "landing_path": "@shopee-rn/lucky-video--pdp-video-module/PDP_TOP_LANDING_PAGE",
+          "landing_params": [
+            {
+              "key": "svSourceCardType",
+              "value": "22"
+            }
+          ]
+        },
+        {
+          "pdp_top_video_info": null,
+          "pdp_top_image_info": {
+            "url": "br-11134207-820m1-ms0mtnv1p24nf7",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "content_source": 1,
+          "content_type": 2,
+          "content_size": 1,
+          "landing_path": "@shopee-rn/lucky-video--pdp-video-module/PDP_TOP_LANDING_PAGE",
+          "landing_params": [
+            {
+              "key": "svSourceCardType",
+              "value": "22"
+            }
+          ]
+        },
+        {
+          "pdp_top_video_info": null,
+          "pdp_top_image_info": {
+            "url": "br-11134207-820lr-ms0mtnv1qgp35d",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "content_source": 1,
+          "content_type": 2,
+          "content_size": 1,
+          "landing_path": "@shopee-rn/lucky-video--pdp-video-module/PDP_TOP_LANDING_PAGE",
+          "landing_params": [
+            {
+              "key": "svSourceCardType",
+              "value": "22"
+            }
+          ]
+        },
+        {
+          "pdp_top_video_info": null,
+          "pdp_top_image_info": {
+            "url": "br-11134207-820l9-ms0mtnv1m8zrc5",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "content_source": 1,
+          "content_type": 2,
+          "content_size": 1,
+          "landing_path": "@shopee-rn/lucky-video--pdp-video-module/PDP_TOP_LANDING_PAGE",
+          "landing_params": [
+            {
+              "key": "svSourceCardType",
+              "value": "22"
+            }
+          ]
+        },
+        {
+          "pdp_top_video_info": null,
+          "pdp_top_image_info": {
+            "url": "br-11134207-820lx-ms0mtnv1nnk7c7",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "content_source": 1,
+          "content_type": 2,
+          "content_size": 1,
+          "landing_path": "@shopee-rn/lucky-video--pdp-video-module/PDP_TOP_LANDING_PAGE",
+          "landing_params": [
+            {
+              "key": "svSourceCardType",
+              "value": "22"
+            }
+          ]
+        }
+      ],
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": null,
+      "gallery_contents": null
+    },
+    "product_price": {
+      "discount": 74,
+      "installment_info": null,
+      "spl_installment_info": {
+        "recommended_plan": {
+          "months": 12,
+          "pay_per_month": 230000,
+          "recommended": null,
+          "option_info": "",
+          "instalment_sub_title": null,
+          "sub_title_color_type": null,
+          "interest_rate_discounted_type": null,
+          "upfront_fee": null,
+          "should_display_upfront_fee_label": null,
+          "pcp_discount_label": null,
+          "free_interest_label": null
+        },
+        "interest_rate_discount_type": 1,
+        "redirection_url": "https://uc-h5.scrediario.com.br/next_h5/landing/spl?channel=pdp",
+        "panel_status": 0,
+        "spl_xtra": null,
+        "repayment_type": 0
+      },
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": -1,
+        "range_min": 1755000,
+        "range_max": 5785000,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": -1,
+        "range_min": 6750000,
+        "range_max": 22250000,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": false,
+      "discount_text": null,
+      "show_final_price_indicator": null,
+      "final_price_vouchers": null,
+      "has_final_price": true,
+      "final_price_info": null,
+      "price_subtext": {
+        "template": "Ative SParcelado e pague em até {month}x de {amount}",
+        "format": null,
+        "attributes": [
+          {
+            "type": 2,
+            "key": "amount",
+            "value": {
+              "value_str": null,
+              "value_int": 230000
+            },
+            "format": null,
+            "text_color": null,
+            "text_hex_color": null,
+            "url": null
+          },
+          {
+            "type": 1,
+            "key": "month",
+            "value": {
+              "value_str": null,
+              "value_int": 12
+            },
+            "format": null,
+            "text_color": null,
+            "text_hex_color": null,
+            "url": null
+          }
+        ],
+        "text_color": null,
+        "text_hex_color": null
+      },
+      "price_model": {
+        "price_single_model_id": null,
+        "price_min_model_id": 238789571670,
+        "price_max_model_id": 238789571669
+      },
+      "price_promotion": {
+        "price_single_promotion_id": null,
+        "price_single_promotion_type": null,
+        "price_min_promotion_id": 921853166535680,
+        "price_min_promotion_type": 301,
+        "price_max_promotion_id": 921853166535680,
+        "price_max_promotion_type": 301
+      },
+      "instalment_cta_action": {
+        "type": 0,
+        "redirection_url": null
+      },
+      "spl_installment_banner": null
+    },
+    "flash_sale": null,
+    "flash_sale_booked": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "welcome_package": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": true,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.863157894736842,
+      "rating_count": [
+        95,
+        0,
+        2,
+        2,
+        3,
+        88
+      ],
+      "total_rating_count": 95,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 178,
+      "cmt_count": 95,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": null,
+      "historical_sold_display": "191",
+      "global_sold_display": "191",
+      "sold_count_display": "191"
+    },
+    "bottom_bar": {
+      "type": 0,
+      "status": null,
+      "buttons": null,
+      "voucher_label": null
+    },
+    "promotion_info": {
+      "spl": {
+        "text": "Parcele em até 12x",
+        "text_color": "#ee4d2d",
+        "redirection_url": "https://uc-h5.scrediario.com.br/next_h5/landing/spl?channel=pdp",
+        "panel_status": 0,
+        "tracking_info": "{\"activation_status\":\"activate_now\"}",
+        "type": 0
+      },
+      "spl_lite": null,
+      "installment": null,
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": null,
+      "installment_simulation_entry": null
+    },
+    "presale_guide": null,
+    "shipping_meta": null,
+    "product_preorder": null,
+    "shopee_guarantee": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "Bahia",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 0,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 91003,
+          "name": "Entrega Padrão",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 1493000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1790566435,
+            "estimated_delivery_date_to": 1790825635,
+            "estimated_delivery_time_min": 4,
+            "estimated_delivery_time_max": 7,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Receba entre 28/set e 1/out",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_range}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_range",
+                    "value": {
+                      "value_str": "Chega entre 28/set e 1/out",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 1493000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":4,\"edt_max\":7,\"edt_min_hours\":96,\"edt_max_hours\":168,\"edt_min_minutes\":5760,\"edt_max_minutes\":10080,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}",
+          "subscription_icon": 0,
+          "sdv_available": false
+        },
+        {
+          "channel_id": 91006,
+          "name": "Expresso Aéreo",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": null,
+          "channel_delivery_info": {
+            "has_edt": false,
+            "display_mode": "",
+            "estimated_delivery_date_from": 0,
+            "estimated_delivery_date_to": 0,
+            "estimated_delivery_time_min": 0,
+            "estimated_delivery_time_max": 0,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": false,
+            "edt_text": null,
+            "formatted_edt_text": null,
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "shipping_option_not_supported",
+            "warning_msg": "Opção de envio não suportada"
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": null,
+          "subscription_icon": 0,
+          "sdv_available": false
+        },
+        {
+          "channel_id": 90024,
+          "name": "Retire Perto de Você",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 1194000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1790566435,
+            "estimated_delivery_date_to": 1790825635,
+            "estimated_delivery_time_min": 4,
+            "estimated_delivery_time_max": 7,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Receba entre 28/set e 1/out",
+            "formatted_edt_text": [
+              {
+                "template": "{opc_label_receive_by_date_range_self_collect}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "opc_label_receive_by_date_range_self_collect",
+                    "value": {
+                      "value_str": "Retire a partir de 28/set e 1/out",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 1194000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":4,\"edt_max\":7,\"edt_min_hours\":96,\"edt_max_hours\":168,\"edt_min_minutes\":5760,\"edt_max_minutes\":10080,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}",
+          "subscription_icon": 0,
+          "sdv_available": false
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": "",
+      "pre_selected_shipping_channel": {
+        "channel_id": 91003,
+        "name": "Entrega Padrão",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 1493000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1790566435,
+          "estimated_delivery_date_to": 1790825635,
+          "estimated_delivery_time_min": 4,
+          "estimated_delivery_time_max": 7,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Receba entre 28/set e 1/out",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_range}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_range",
+                  "value": {
+                    "value_str": "Chega entre 28/set e 1/out",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 0,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 0,
+          "discount_value": 1493000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":4,\"edt_max\":7,\"edt_min_hours\":96,\"edt_max_hours\":168,\"edt_min_minutes\":5760,\"edt_max_minutes\":10080,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}",
+        "subscription_icon": 0,
+        "sdv_available": false
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": true,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false,
+          "scheduled_delivery_description": null
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": false,
+      "model_id": 238789571670,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      },
+      "disable_shipping_drawer": null
+    },
+    "shop_vouchers_meta": null,
+    "shop_vouchers": null,
+    "top_product": {
+      "rank": 33,
+      "cluster_name": "Sacolinhas Personalizadas",
+      "cluster_key": "19799866",
+      "tracking_info": "",
+      "cluster_knodeid": "19799866",
+      "text": "Um dos mais vendidos em Sacolinhas Personalizadas",
+      "text_tr": null,
+      "type": 2,
+      "page_url": "https://shopee.com.br/leaderboard/100107/19799866?utm_source=pdp&source_itemid=21299840174&source_itemid_ranking=33&limit=10"
+    },
+    "mart_key_selling_point": null,
+    "new_user_voucher": null,
+    "free_return": null,
+    "clip_info": null,
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "live_stream": null,
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "tax_disclaimer": null,
+    "price_with_variation_abtest_group": "Treatment4",
+    "final_price_indicator": null,
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": null,
+    "promotion_drawer": null,
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": {
+        "redirection_url": "https://uc-h5.scrediario.com.br/next_h5/landing/spl?channel=pdp",
+        "installments": null,
+        "downpayment_options": null,
+        "repayment_type": null,
+        "spl_button": null,
+        "installment_simulation": null,
+        "motorcycle_loan_user_status": null,
+        "type": 1
+      },
+      "bank": {
+        "channels": null
+      },
+      "credit_card": null
+    },
+    "alcohol_disclaimer": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "design_control": {
+      "use_new_revamp_first_screen": true,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": true,
+      "first_screen_revamp_abtest_group": "Treatment4",
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": "",
+      "enable_ksp_config": true,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": true,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": false,
+      "display_fashion_review_section": false,
+      "display_fashion_first_screen": false,
+      "enable_fashion_review_improvements": false,
+      "display_fbs_floating_counter": false,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": false,
+      "enable_fashion_featured_videos_improvements": false,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": false,
+      "hide_ftss_tpfs_section": false,
+      "merge_attributes_and_description": false,
+      "hide_review_view_all": false
+    },
+    "shopee_video_floating_window": null,
+    "shopee_free_return": null,
+    "lowest_price_indicator": null,
+    "review": {
+      "shop_review": {
+        "rating_star": null,
+        "rating_count": null,
+        "keywords": [],
+        "rcmd_algo": "BUNDLE:shop_comment_search,RECALLER:shop_comment_search_default,QUEUE:shop_comment_search_default,NEWABTEST:112423,QUEUES:shop_comment_search_default",
+        "user_reviews_from_other_items": null
+      },
+      "product_review": {
+        "rating_star": 4.863157894736842,
+        "rating_count": 95,
+        "keywords": [
+          {
+            "name": "Entrega Rápida",
+            "count": 8,
+            "type": 0,
+            "name_tr": ""
+          },
+          {
+            "name": "Tamanho Ideal",
+            "count": 6,
+            "type": 0,
+            "name_tr": ""
+          },
+          {
+            "name": "Design Bonito",
+            "count": 5,
+            "type": 0,
+            "name_tr": ""
+          },
+          {
+            "name": "Bem Embalado",
+            "count": 6,
+            "type": 0,
+            "name_tr": ""
+          },
+          {
+            "name": "Aparência Bonita",
+            "count": 2,
+            "type": 0,
+            "name_tr": ""
+          },
+          {
+            "name": "Boa Qualidade",
+            "count": 2,
+            "type": 0,
+            "name_tr": ""
+          },
+          {
+            "name": "Material de Ótima Qualidade",
+            "count": 2,
+            "type": 0,
+            "name_tr": ""
+          },
+          {
+            "name": "Ótimo Material",
+            "count": 2,
+            "type": 0,
+            "name_tr": ""
+          },
+          {
+            "name": "Aparência Fofa",
+            "count": 1,
+            "type": 0,
+            "name_tr": ""
+          }
+        ],
+        "use_simplified_helpful_button": false,
+        "user_reviews": [
+          {
+            "comment_id": 70370399213669,
+            "user_id": 1015998019,
+            "user_name": "leeila_",
+            "user_portrait": "br-11134233-7qukw-lhzoetnjs40ea7",
+            "user_shop_id": 0,
+            "rating_star": 5,
+            "comment": "Ele é bem pequenininha para quem quer coisa pega mesmo, como eu está ótimo 🥰 muito linda\nChegou antes do prazo ❤️",
+            "tagged_comments": null,
+            "variation_text": "30 unidades",
+            "medias": [
+              {
+                "image": {
+                  "image_id": "br-11134103-81z1k-mh01b27xfbb448"
+                },
+                "video": null
+              }
+            ],
+            "like_count": 10,
+            "is_liked": false,
+            "sip_origin_region": "br",
+            "modified_at": 1789044755,
+            "is_anonymous": false,
+            "is_review_inherited": false,
+            "inherited_review_item": null,
+            "item_id": 21299840174,
+            "comment_tr": "",
+            "tagged_comments_tr": null,
+            "variation_text_tr": "",
+            "highlighted_keywords": null,
+            "shop_id": 1119985490
+          },
+          {
+            "comment_id": 70370259830764,
+            "user_id": 868556960,
+            "user_name": "acafalmeida972901",
+            "user_portrait": "",
+            "user_shop_id": 0,
+            "rating_star": 5,
+            "comment": "Ótimas sacolinhas, amei a compra e comprarei novamente. Não tirei foto de como elas chegaram, mas vieram bem embaladas. Aqui eu já tinha montado todas. \nVamos entregar como lembrancinha no culto infantil no tema da Arca de Noé.",
+            "tagged_comments": null,
+            "variation_text": "50 unidades, 30 unidades",
+            "medias": [
+              {
+                "image": null,
+                "video": {
+                  "id": "br-11110103-6v5dl-mfgzp20f8pvrbc",
+                  "cover": "https://down-bs-br.img.susercontent.com/br-11110103-6v5dl-mfgzp20f8pvrbc_cover",
+                  "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110103/mms/br-11110103-6v5dl-mfgzp20f8pvrbc.16000051759675487.mp4",
+                  "duration": 22375,
+                  "upload_time": 0,
+                  "mms_ext": "{\"vid\":\"br-11110103-6v5dl-mfgzp20f8pvrbc\",\"biz\":103,\"duration\":22375,\"create_time\":1759675485,\"update_time\":1759675486,\"serviceID\":6,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110103-6v5dl-mfgzp20f8pvrbc_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/br-11110103-6v5dl-mfgzp20f8pvrbc.16000051759675487.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110103/mms/br-11110103-6v5dl-mfgzp20f8pvrbc.16000051759675487.mp4\",\"width\":540,\"height\":960,\"bitrate\":599482,\"abitrate\":96199,\"size\":1967600,\"fps\":25,\"duration\":22399,\"update_time\":1759675495,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110103/mms/br-11110103-6v5dl-mfgzp20f8pvrbc.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":477138,\"abitrate\":32066,\"size\":1445777,\"fps\":25,\"duration\":22399,\"update_time\":1759675501,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+                  "cover_image_id": "",
+                  "is_template_video": false
+                }
+              },
+              {
+                "image": {
+                  "image_id": "br-11134103-81z1k-mfgzm7biqa6f9d"
+                },
+                "video": null
+              },
+              {
+                "image": {
+                  "image_id": "br-11134103-81z1k-mfgzm7bsra4n9e"
+                },
+                "video": null
+              },
+              {
+                "image": {
+                  "image_id": "br-11134103-81z1k-mfgzm7bssop355"
+                },
+                "video": null
+              },
+              {
+                "image": {
+                  "image_id": "br-11134103-81z1k-mfgzm7bsyayv1a"
+                },
+                "video": null
+              }
+            ],
+            "like_count": 1,
+            "is_liked": false,
+            "sip_origin_region": "br",
+            "modified_at": 1775077688,
+            "is_anonymous": false,
+            "is_review_inherited": false,
+            "inherited_review_item": null,
+            "item_id": 21299840174,
+            "comment_tr": "",
+            "tagged_comments_tr": null,
+            "variation_text_tr": "",
+            "highlighted_keywords": null,
+            "shop_id": 1119985490
+          }
+        ],
+        "local_review_rating_count": 95,
+        "rcmd_algo": "BUNDLE:comment_search,RECALLER:comment_search_default,QUEUE:comment_search_default,NEWABTEST:112470,QUEUES:comment_search_default",
+        "is_sip_item": false,
+        "hide_reviews": false,
+        "hide_rating": false,
+        "show_inherit_review_tool_tip": false,
+        "review_insight": null,
+        "review_insight_tr": null,
+        "review_insight_attribute": null
+      },
+      "buyer_gallery": null,
+      "summary": null,
+      "size_fitting_stat_percentage": null,
+      "similar_product_review": null,
+      "display_search_bar": true,
+      "review_type": 3,
+      "search_bar_prompt": null
+    },
+    "featured_videos": null,
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Estoque",
+          "value": "Estoque disponível",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 7,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Marca",
+          "value": "Anna Paim Papelaria Personalizada",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": "/search?attrId=5059598&brands=5059598&brandName=Anna Paim Papelaria Personalizada",
+          "brand_id": 5059598,
+          "full_url": "https://shopee.com.br/search?attrId=5059598&brands=5059598&brandName=Anna Paim Papelaria Personalizada",
+          "type": 1,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "País de Origem",
+          "value": "Brasil",
+          "id": 100037,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Formulação",
+          "value": "PAPEL",
+          "id": 100036,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Material",
+          "value": "PAPEL",
+          "id": 100134,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": 1,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Envio de",
+          "value": "Bahia",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059983,
+          "display_name": "Casa e Construção",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060119,
+          "display_name": "Artigos de Festa",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11061786,
+          "display_name": "Outros",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": [],
+      "upfront_attrs": null,
+      "fresh_featured_attrs": null
+    },
+    "shop_detailed": {
+      "shopid": 1119985490,
+      "userid": 1120280946,
+      "last_active_time": 1790220318,
+      "vacation": false,
+      "place": "Camaçari, Bahia",
+      "account": {
+        "portrait": "br-11134216-7r98o-losqxe9bqzead7",
+        "username": "pink_e_blue_personalizados",
+        "status": 1
+      },
+      "is_shopee_verified": true,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": false,
+      "shop_location": "",
+      "item_count": 322,
+      "rating_star": 4.821589,
+      "response_rate": 63,
+      "session_info": null,
+      "name": "PINK E BLUE PERSONALIZADOS",
+      "ctime": 1700139171,
+      "response_time": 10475,
+      "follower_count": 5675,
+      "show_official_shop_label": false,
+      "rating_bad": 163,
+      "rating_good": 10432,
+      "rating_normal": 374,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": null,
+      "sold_total_display": "20mil+",
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": true,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false,
+      "is_pharmacy": false,
+      "is_instant_mart": false
+    },
+    "retry_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "similar_cheaper_product": null,
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "⚠️ ATENÇÃO: PRODUTO PRONTA ENTREGA ⚠️",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Deixe sua festa ainda mais especial com nossas Sacolinhas Personalizadas para Lembrancinhas! 🎉",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Produzidas em papel offset de alta gramatura, elas possuem ótima qualidade e são perfeitas para colocar doces, guloseimas, pequenos presentes e lembrancinhas para seus convidados.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "📌 IMPORTANTE: Neste anúncio, você receberá o tema mostrado nas fotos.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "📌 IMPORTANTE SOBRE O TEMA",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Este anúncio é referente EXCLUSIVAMENTE AO TEMA MOSTRADO NAS FOTOS.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Por ser um produto PRONTA ENTREGA, não fazemos alterações na arte, não acrescentamos nome e não acrescentamos idade.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "👉 Caso queira OUTRO TEMA, fale conosco pelo chat ANTES DE REALIZAR A COMPRA. Não compre este anúncio esperando receber um tema diferente.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "📏 CARACTERÍSTICAS DO PRODUTO",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "• Tamanho: 10 cm de largura × 15 cm de altura × 4 cm de profundidade",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "• Material: Papel offset de alta gramatura",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "• Frase: “Obrigado pela presença!”",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "• Produto: Pronta entrega",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "⚠️ NÃO TRABALHAMOS COM PERSONALIZAÇÃO DE NOME E IDADE.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "📦 COMO AS SACOLINHAS SÃO ENVIADAS?",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Para que cheguem até você em perfeito estado, sem amassar durante o transporte e baratear o frete, as sacolinhas são enviadas cortadas e vincadas, prontas para colar e montar.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "A montagem é simples, rápida e fácil. ✨",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Além de ajudar a proteger o produto durante o transporte, o envio desmontado também permite uma embalagem mais compacta.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "🎨 SOBRE AS CORES",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "As cores podem apresentar pequenas variações de tonalidade de acordo com a configuração do monitor ou tela do celular, iluminação do ambiente e condições em que as fotos foram realizadas.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "🔎 NÃO ENCONTROU O TEMA QUE PROCURA?",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Temos opções para diversos temas e ocasiões, como aniversários, festas infantis, batizados, chá de bebê e muito mais.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Se você procura outro tema, envie uma mensagem pelo chat antes da compra para verificarmos a disponibilidade e orientarmos você para o anúncio correto.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "💬 Ficou com alguma dúvida?",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Estamos à disposição para ajudar!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "✨ Deixe cada detalhe da sua comemoração ainda mais especial com nossas sacolinhas para lembrancinhas!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "size_info": null,
+    "size_recommendation": null,
+    "product_description_tr": null,
+    "translation_status": 0,
+    "selected_tiers": null,
+    "pdp_page_type": 0,
+    "floating_window_content": null,
+    "size_display_info": null,
+    "size_review_summary": null,
+    "size_banner": null,
+    "featured_voucher": null,
+    "bcrs_disclaimer": null,
+    "description_summary": null,
+    "top_banner": null,
+    "bottom_banner": null,
+    "pre_purchase_signals": null
+  },
+  "source": "emulator_pdp_get",
+  "captured_at": "2026-09-24T03:33:55.766869+00:00"
+}

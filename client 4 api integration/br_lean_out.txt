@@ -1,0 +1,14 @@
+04:53:24 LEAN start n=621/1000
+04:53:24 proxies rotated 40
+04:53:25 pending 45562
+04:53:25 SHIFT br_5196720216_hsRjFTxp_live.json SPC_U=5196720216 n=8 sub=...Federal-city-Brasília-sid-GpWscTdy-t-120
+04:53:25 launch chrome…
+04:53:26 warm home…
+04:53:31 home url=https://shopee.com.br/ title=
+04:53:32 goto[0] ttps://shopee.com.br/product/980944158/26142163515
+04:54:29 miss fail=1 url=https://shopee.com.br/product/980944158/26142163515 title=
+04:54:30 goto[1] tps://shopee.com.br/product/1808715181/58209420568
+04:55:27 miss fail=2 url=https://shopee.com.br/product/1808715181/58209420568 title=
+04:55:29 goto[2] ttps://shopee.com.br/product/395237078/23694444548
+04:56:28 miss fail=3 url=https://shopee.com.br/product/395237078/23694444548 title=
+04:56:29 goto[3] tps://shopee.com.br/product/1802639857/23995020340

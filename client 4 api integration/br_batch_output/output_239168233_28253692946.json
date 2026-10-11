@@ -1,0 +1,3002 @@
+{
+  "task_link": "https://shopee.com.br/product/239168233/28253692946",
+  "token": "br_batch_crawl",
+  "api_key": "br_batch_crawl",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 28253692946,
+      "shop_id": 239168233,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "QCY HT08 MeloBuds Pro ANC Bluetooth 5.3 Fones De Ouvido Sem Fio 46dB Híbrido Hi-Res LDAC",
+      "image": "cn-11134207-7r98o-lyowknf5ce5e3d",
+      "label_ids": [
+        298408357,
+        844931064601283,
+        822062091123206,
+        5325720222303768,
+        1718087960,
+        1428713,
+        2203725,
+        298788369,
+        2103651,
+        2143613,
+        1718397968,
+        998291046,
+        700960097,
+        1400850105,
+        1718428132,
+        700970273
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100535,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": "QCY",
+      "brand_id": 1146930,
+      "show_discount": 57,
+      "ctime": 1719305263,
+      "item_rating": {
+        "rating_star": 4.914431389935713
+      },
+      "cb_option": 1,
+      "has_model_with_available_shopee_stock": true,
+      "shop_location": "Internacional",
+      "attributes": [
+        {
+          "name": "Connection Type",
+          "value": "Wireless (Bluetooth or Wifi)",
+          "id": 100408,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2530,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "In Ear",
+          "id": 100519,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2909,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2538,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Mobile, PC & Laptop",
+          "id": 100516,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2867,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Duration",
+          "value": "3 Months",
+          "id": 100121,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 799,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Type",
+          "value": "Supplier Warranty",
+          "id": 100370,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2437,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Name",
+          "value": "BH24HT08A",
+          "id": 101040,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Registration ID",
+          "value": "22770-23-03372",
+          "id": 101197,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Manufacturer",
+          "value": " DongGuan Hele Eletronics Co.,Ltd.",
+          "id": 101237,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "type": 0,
+            "text": "Fones de ouvido Pro ANC Bluetooth 5.3 Sem fio 46dB Adaptive Hybrid ANC Hi-Res LDAC Earbuds 6 Fones de ouvido Bluetooth 5.3 Sem fio 46dB Adaptive Hybrid ANC Hi-Res LDAC Earbuds 6 Fones de ouvido Mic 34H detecção intra-auricular",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Cancelamento de ruído ativo híbrido adaptativo - o fone de ouvido de cancelamento de ruído QCY MeloBuds Pro vem equipado com cancelamento de ruído ativo adaptável (ANC) que se adapta inteligentemente ao seu ambiente, garantindo que o ruído ambiente seja eliminado de forma eficaz. Aventuras ao ar livre também incorpora 6 Microfones e resistência ao ruído do vento, tornando-os ideais para atividades ao ar livre e em movimento.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Áudio de alta resolução e código LDAC - Equipado com certificação Hi-Res, o padrão da indústria para áudio de alta qualidade, reproduz som teoriginal rico, proporcionando uma experiência ao vivo. Com o codec LDAC, a taxa de transferência pode ser tão alta quanto 990kbps e o conteúdo das informações de transferência 3 vezes mais do que outros codecs, como SBC.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "4 modos de cancelamento de ruído ANC - Existem 4 modos de acampamento de ruído para diferentes ambientes e três níveis ajustáveis para cada modo para sua escolha.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Modo de transparência - Modo de aprimoramento Vocal e modo de transparência de 6 níveis, no modo de transparência, permite uma comunicação simples mesmo com seus fones de ouvido ligados.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Detecção intra-auricular e conexão multiponto - pausando automaticamente a reprodução ao removê-las de seus ouvidos, preservando assim a vida útil da bateria. Além disso, o MeloBuds Pro pode conectar dois dispositivos simultaneamente, permitindo alternar entre eles de forma rápida e fácil.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "A mais recente tecnologia Bluetooth 5.3 e 34 horas de duração da bateria - A mais recente tecnologia Bluetooth 5.3 garante transmissão rápida e conexão estável para manter sua música indo. O driver embutido de 12 mm cria um campo de som aberto e oferece excelente análise. A MeloBuds Pro tem uma vida útil da bateria de 34 horas para aliviar a ansiedade de energia.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nltyz9e4e",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nlu0dtu03",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nlu1sea3c",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nln0y6d18",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nln2cqt6f",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nln3rb932",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nln55vp10",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-7r98o-ly06dbtl0eg35b",
+            "ratio": 1.391,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Nome do Produto: QCY MeloBuds Pro",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Nome da emparelhamento: QCY MeloBuds Pro",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Versão Bluetooth: Bluetooth 5.3",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Compatibilidade com o iOS / Android",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Faixa de Operação de Operação de Faixa: 10 metros",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Tempo de reprodução do tempo de reprodução com estojo de carregamento: Aprox. 30 horas com ANC ON, Aprox. 34 horas com ANC OFF",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Tempo de reprodução único: Aprox. Aprox. Desligamento ANC 8,5 horas com ANC OFF",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Perfis Bluetooth: HFP/A2DP/AVRCP",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Estojo de Carregamento Capa de Bateria Capacidade: 350mAh",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Capacidade da bateria do fone de ouvido: 35mAh",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Estojo de carregamento Ciclos de carregamento: Até 4 vezes para ambos os fones de ouvido",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Porta de carregamento: Tipo-C",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Impermeável à prova d'água: IPX5",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Dimensões do fone de ouvido: 20,7*33,6*23,4mm",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Dimensões da Caixa de Carregamento do Carregamento: 56,3*51,1*28mm",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "* Conectar os fones de ouvido a um computador pode impactar a experiência devido a problemas de compatibilidade do dispositivo e chip. Recomendamos o uso de dispositivos de smartphone compatíveis para um desempenho ideal. Recomendamos o uso de dispositivos de smartphone compatíveis para um desempenho ideal.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": true,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "Fones de ouvido Pro ANC Bluetooth 5.3 Sem fio 46dB Adaptive Hybrid ANC Hi-Res LDAC Earbuds 6 Fones de ouvido Bluetooth 5.3 Sem fio 46dB Adaptive Hybrid ANC Hi-Res LDAC Earbuds 6 Fones de ouvido Mic 34H detecção intra-auricular\n\nCancelamento de ruído ativo híbrido adaptativo - o fone de ouvido de cancelamento de ruído QCY MeloBuds Pro vem equipado com cancelamento de ruído ativo adaptável (ANC) que se adapta inteligentemente ao seu ambiente, garantindo que o ruído ambiente seja eliminado de forma eficaz. Aventuras ao ar livre também incorpora 6 Microfones e resistência ao ruído do vento, tornando-os ideais para atividades ao ar livre e em movimento.\n\nÁudio de alta resolução e código LDAC - Equipado com certificação Hi-Res, o padrão da indústria para áudio de alta qualidade, reproduz som teoriginal rico, proporcionando uma experiência ao vivo. Com o codec LDAC, a taxa de transferência pode ser tão alta quanto 990kbps e o conteúdo das informações de transferência 3 vezes mais do que outros codecs, como SBC.\n\n4 modos de cancelamento de ruído ANC - Existem 4 modos de acampamento de ruído para diferentes ambientes e três níveis ajustáveis para cada modo para sua escolha.\nModo de transparência - Modo de aprimoramento Vocal e modo de transparência de 6 níveis, no modo de transparência, permite uma comunicação simples mesmo com seus fones de ouvido ligados.\n\nDetecção intra-auricular e conexão multiponto - pausando automaticamente a reprodução ao removê-las de seus ouvidos, preservando assim a vida útil da bateria. Além disso, o MeloBuds Pro pode conectar dois dispositivos simultaneamente, permitindo alternar entre eles de forma rápida e fácil.\n\nA mais recente tecnologia Bluetooth 5.3 e 34 horas de duração da bateria - A mais recente tecnologia Bluetooth 5.3 garante transmissão rápida e conexão estável para manter sua música indo. O driver embutido de 12 mm cria um campo de som aberto e oferece excelente análise. A MeloBuds Pro tem uma vida útil da bateria de 34 horas para aliviar a ansiedade de energia.\n\n\n\n\nNome do Produto: QCY MeloBuds Pro\nNome da emparelhamento: QCY MeloBuds Pro\nVersão Bluetooth: Bluetooth 5.3\nCompatibilidade com o iOS / Android\nFaixa de Operação de Operação de Faixa: 10 metros\nTempo de reprodução do tempo de reprodução com estojo de carregamento: Aprox. 30 horas com ANC ON, Aprox. 34 horas com ANC OFF\nTempo de reprodução único: Aprox. Aprox. Desligamento ANC 8,5 horas com ANC OFF\nPerfis Bluetooth: HFP/A2DP/AVRCP\nEstojo de Carregamento Capa de Bateria Capacidade: 350mAh\nCapacidade da bateria do fone de ouvido: 35mAh\nEstojo de carregamento Ciclos de carregamento: Até 4 vezes para ambos os fones de ouvido\nPorta de carregamento: Tipo-C\nImpermeável à prova d'água: IPX5\nDimensões do fone de ouvido: 20,7*33,6*23,4mm\nDimensões da Caixa de Carregamento do Carregamento: 56,3*51,1*28mm\n* Conectar os fones de ouvido a um computador pode impactar a experiência devido a problemas de compatibilidade do dispositivo e chip. Recomendamos o uso de dispositivos de smartphone compatíveis para um desempenho ideal. Recomendamos o uso de dispositivos de smartphone compatíveis para um desempenho ideal.",
+      "categories": [
+        {
+          "catid": 100535,
+          "display_name": "Áudio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100578,
+          "display_name": "Fones de Ouvido, Headphones e Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 28253692946,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "HT08-GOLDEN",
+          "promotion_id": 479735817912601,
+          "price": 18899000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": true,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 43900000,
+          "model_id": 205197813491,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "HT08-GOLDEN",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 28253692946,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "HT08-BLACK",
+          "promotion_id": 473870016663584,
+          "price": 21900000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 43900000,
+          "model_id": 205197813489,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "HT08-BLACK",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 28253692946,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "HT08-WHITE",
+          "promotion_id": 479735817912601,
+          "price": 18899000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": true,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 1,
+            "sku_image": ""
+          },
+          "price_before_discount": 43900000,
+          "model_id": 205197813490,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "HT08-WHITE",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "Cor",
+          "options": [
+            "HT08-BLACK",
+            "HT08-WHITE",
+            "HT08-GOLDEN"
+          ],
+          "images": [
+            "cn-11134207-7r98o-lwy2uhlkpv6rf4",
+            "cn-11134207-7r98o-lwy2uhlkr9r7f3",
+            "cn-11134207-7r98o-lwy2uhlksobn92"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0,
+            0
+          ],
+          "name_tr": "Color",
+          "options_tr": [
+            "HT08-BLACK",
+            "HT08-WHITE",
+            "HT08-GOLDEN"
+          ],
+          "selling_points": [
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 1,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 18899000,
+      "raw_discount": 57,
+      "hidden_price_display": null,
+      "price_min": 18899000,
+      "price_max": 21900000,
+      "price_before_discount": 43900000,
+      "price_min_before_discount": 43900000,
+      "price_max_before_discount": 43900000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": true,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "QCY HT08 MeloBuds Pro ANC Bluetooth 5.3 Wireless Headphones 46dB Hybrid Hi-Res LDAC",
+      "description_tr": "Pro ANC Bluetooth 5.3 Wireless Headphones 46dB Adaptive Hybrid ANC Hi-Res LDAC Earbuds 6 Headphones Bluetooth 5.3 Wireless 46dB Adaptive Hybrid ANC Hi-Res LDAC Earbuds 6 Headphones Mic 34H Detection In-ear\n\nAdaptative Hybrid Active Noise Cancellation - The QCY MeloBuds Pro Noise Canceling Headset comes equipped with adaptive active noise cancellation (ANC) that intelligently adapts to your environment, ensuring ambient noise Be eliminated effectively. Outdoor adventures also incorporates 6 Microphones and wind noise resistance, making them ideal for outdoor and moving activities.\n\nHigh resolution audio and LDAC code - Equipped with Hi-Res certification, the industry standard for high-quality audio, plays rich teoriginal sound, bringing you a live experience. With LDAC codec, the transfer rate can be as high as 990kbps and the content of the transfer information 3 times more than other codecs such as SBC.\n\n4 ANC Noise Canceling Modes - There are 4 noise camping modes for different environments and three adjustable levels for each mode for your choice.\nTransparency Mode - Vocal enhancement mode and 6-level transparency mode, in transparency mode, allows simple communication even with your headphones on.\n\nIn-ear detection and multipoint connection - automatically pausing playback when removing them from your ears, thus preserving battery life. In addition, the MeloBuds Pro can connect two devices simultaneously, allowing you to switch between them quickly and easily.\n\nLatest Bluetooth 5.3 technology and 34 hours of battery life - Latest Bluetooth 5.3 technology ensures fast transmission and stable connection to keep your music going. Built-in 12mm driver creates an open sound field and offers excellent analysis. MeloBuds Pro has a battery life of 34 hours to relieve energy anxiety.\n\n\n\n\nProduct Name: QCY MeloBuds Pro\nPairing name: QCY MeloBuds Pro\nBluetooth Version: Bluetooth 5.3\nIOS/Android Compatibility\nOperating Range: 10 meters\nPlayback time playback time with charging case: Approx. 30 hours with ANC ON, Approx. 34 hours with ANC OFF\nSingle Playback Time: Approx. Approx. OFF ANC 8.5 hours with ANC OFF\nBluetooth Profiles: HFP/A2DP/AVRCP\nCharging Case Battery Cover Capacity: 350mAh\nHeadphone battery capacity: 35mAh\nCharging case Charging cycles: Up to 4 times for both headphones\nCharging port: Type-C\nWaterproof: IPX5\nHeadphone Dimensions: 20.7*33.6*23.4mm\nCharging Box Dimensions: 56.3*51.1*28mm\n* Connecting the headphones to a computer can impact the experience due to device and chip compatibility issues. We recommend using compatible smartphone devices for optimal performance. We recommend using compatible smartphone devices for optimal performance.",
+      "rich_text_description_tr": {
+        "paragraph_list": [
+          {
+            "type": 0,
+            "text": "Pro ANC Bluetooth 5.3 Wireless Headphones 46dB Adaptive Hybrid ANC Hi-Res LDAC Earbuds 6 Headphones Bluetooth 5.3 Wireless 46dB Adaptive Hybrid ANC Hi-Res LDAC Earbuds 6 Headphones Mic 34H Detection In-ear",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Adaptative Hybrid Active Noise Cancellation - The QCY MeloBuds Pro Noise Canceling Headset comes equipped with adaptive active noise cancellation (ANC) that intelligently adapts to your environment, ensuring ambient noise Be eliminated effectively. Outdoor adventures also incorporates 6 Microphones and wind noise resistance, making them ideal for outdoor and moving activities.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "High resolution audio and LDAC code - Equipped with Hi-Res certification, the industry standard for high-quality audio, plays rich teoriginal sound, bringing you a live experience. With LDAC codec, the transfer rate can be as high as 990kbps and the content of the transfer information 3 times more than other codecs such as SBC.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "4 ANC Noise Canceling Modes - There are 4 noise camping modes for different environments and three adjustable levels for each mode for your choice.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Transparency Mode - Vocal enhancement mode and 6-level transparency mode, in transparency mode, allows simple communication even with your headphones on.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "In-ear detection and multipoint connection - automatically pausing playback when removing them from your ears, thus preserving battery life. In addition, the MeloBuds Pro can connect two devices simultaneously, allowing you to switch between them quickly and easily.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "Latest Bluetooth 5.3 technology and 34 hours of battery life - Latest Bluetooth 5.3 technology ensures fast transmission and stable connection to keep your music going. Built-in 12mm driver creates an open sound field and offers excellent analysis. MeloBuds Pro has a battery life of 34 hours to relieve energy anxiety.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nltyz9e4e",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nlu0dtu03",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nlu1sea3c",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nln0y6d18",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nln2cqt6f",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nln3rb932",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-820l4-mhsq8nln55vp10",
+            "ratio": 1,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "cn-11134208-7r98o-ly06dbtl0eg35b",
+            "ratio": 1.391,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Product Name: QCY MeloBuds Pro",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Pairing name: QCY MeloBuds Pro",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Bluetooth Version: Bluetooth 5.3",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "IOS/Android Compatibility",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Operating Range: 10 meters",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Playback time playback time with charging case: Approx. 30 hours with ANC ON, Approx. 34 hours with ANC OFF",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Single Playback Time: Approx. Approx. OFF ANC 8.5 hours with ANC OFF",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Bluetooth Profiles: HFP/A2DP/AVRCP",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Charging Case Battery Cover Capacity: 350mAh",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Headphone battery capacity: 35mAh",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Charging case Charging cycles: Up to 4 times for both headphones",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Charging port: Type-C",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Waterproof: IPX5",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Headphone Dimensions: 20.7*33.6*23.4mm",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "Charging Box Dimensions: 56.3*51.1*28mm",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "* Connecting the headphones to a computer can impact the experience due to device and chip compatibility issues. We recommend using compatible smartphone devices for optimal performance. We recommend using compatible smartphone devices for optimal performance.",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": null
+      },
+      "stock_display": "IN STOCK",
+      "max_quantity_display": "IN STOCK",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": 1707139756,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": {
+        "video_id": "api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.16000081719304313.mp4",
+        "thumb_url": "sg-11110105-7rd4c-lwy2vaozztav88",
+        "duration": 54,
+        "version": 2,
+        "vid": "sg-11110105-6khyj-lwy2v561wz7see",
+        "formats": [
+          {
+            "format": 1600325,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.16003251742634181.mp4",
+            "url": "https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.16003251742634181.mp4",
+            "width": 1280,
+            "height": 720
+          }
+        ],
+        "default_format": {
+          "format": 1600323,
+          "defn": "V540P",
+          "profile": "MP4",
+          "path": "",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.default.mp4",
+          "width": 960,
+          "height": 540
+        },
+        "mms_data": "{\"vid\":\"sg-11110105-6khyj-lwy2v561wz7see\",\"biz\":107,\"duration\":54062,\"create_time\":1719304311,\"update_time\":1719304315,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/sg-11110105-7rd4c-lwy2vaozztav88\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.16003251742634181.mp4\",\"url\":\"https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.16003251742634181.mp4\",\"width\":1280,\"height\":720,\"bitrate\":1391790,\"abitrate\":48165,\"size\":9773844,\"fps\":30.00056,\"duration\":54009,\"update_time\":1742634230,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":399988,\"abitrate\":128126,\"size\":3605195,\"fps\":25.01853,\"duration\":54015,\"update_time\":1719304397,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.16003181742634181.mp4\",\"url\":\"https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.16003181742634181.mp4\",\"width\":1280,\"height\":720,\"bitrate\":951416,\"abitrate\":48165,\"size\":6805493,\"fps\":30.00056,\"duration\":54009,\"update_time\":1742634238,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "item_cover": null
+      },
+      "images": [
+        "cn-11134207-7r98o-lyowknf5ce5e3d",
+        "cn-11134207-820l4-mhsrf6uhl2bpbf",
+        "cn-11134207-820l4-mhsrf6uhthqbe1",
+        "cn-11134207-820l4-mhsrf6uhmgw554",
+        "cn-11134207-820l4-mhsrf6uefabq73",
+        "cn-11134207-820l4-mhsrf6uj591gf4",
+        "cn-11134207-820l4-mhsrf6uemb5s8d",
+        "cn-11134207-820l4-mhsrf6ubf4lk34"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "HT08-BLACK",
+          "image": "cn-11134207-7r98o-lwy2uhlkpv6rf4",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "HT08-BLACK",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "cn-11134207-7r98o-lwy2uhlkpv6rf4"
+        },
+        {
+          "name": "HT08-WHITE",
+          "image": "cn-11134207-7r98o-lwy2uhlkr9r7f3",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "HT08-WHITE",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "cn-11134207-7r98o-lwy2uhlkr9r7f3"
+        },
+        {
+          "name": "HT08-GOLDEN",
+          "image": "cn-11134207-7r98o-lwy2uhlksobn92",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "HT08-GOLDEN",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "cn-11134207-7r98o-lwy2uhlksobn92"
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2
+      ],
+      "overlay": {
+        "type": 0,
+        "image": "br-11134258-820m5-ml8a34rlu7t287",
+        "preview_end_time": null,
+        "is_pre_order": null,
+        "description": "Vendedor Internacional"
+      },
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "cn-11134207-7r98o-lwy2uhlksobn92"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "cn-11134207-7r98o-lwy2uhlkpv6rf4"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "cn-11134207-7r98o-lwy2uhlkr9r7f3"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": null,
+          "video": {
+            "video_id": "api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.16000081719304313.mp4",
+            "thumb_url": "sg-11110105-7rd4c-lwy2vaozztav88",
+            "duration": 54,
+            "version": 2,
+            "vid": "sg-11110105-6khyj-lwy2v561wz7see",
+            "formats": [
+              {
+                "format": 1600325,
+                "defn": "V720P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.16003251742634181.mp4",
+                "url": "https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.16003251742634181.mp4",
+                "width": 1280,
+                "height": 720
+              }
+            ],
+            "default_format": {
+              "format": 1600323,
+              "defn": "V540P",
+              "profile": "MP4",
+              "path": "",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.default.mp4",
+              "width": 960,
+              "height": 540
+            },
+            "mms_data": "{\"vid\":\"sg-11110105-6khyj-lwy2v561wz7see\",\"biz\":107,\"duration\":54062,\"create_time\":1719304311,\"update_time\":1719304315,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/sg-11110105-7rd4c-lwy2vaozztav88\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.16003251742634181.mp4\",\"url\":\"https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.16003251742634181.mp4\",\"width\":1280,\"height\":720,\"bitrate\":1391790,\"abitrate\":48165,\"size\":9773844,\"fps\":30.00056,\"duration\":54009,\"update_time\":1742634230,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":399988,\"abitrate\":128126,\"size\":3605195,\"fps\":25.01853,\"duration\":54015,\"update_time\":1719304397,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.16003181742634181.mp4\",\"url\":\"https://down-zl-br.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khyj-lwy2v561wz7see.16003181742634181.mp4\",\"width\":1280,\"height\":720,\"bitrate\":951416,\"abitrate\":48165,\"size\":6805493,\"fps\":30.00056,\"duration\":54009,\"update_time\":1742634238,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "item_cover": null
+          }
+        },
+        {
+          "image": {
+            "url": "cn-11134207-7r98o-lyowknf5ce5e3d",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mhsrf6uhl2bpbf",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mhsrf6uhthqbe1",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mhsrf6uhmgw554",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mhsrf6uefabq73",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mhsrf6uj591gf4",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mhsrf6uemb5s8d",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "cn-11134207-820l4-mhsrf6ubf4lk34",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 60,
+      "installment_info": {
+        "recommended_plan": {
+          "months": 12,
+          "pay_per_month": 1785316,
+          "has_buyer_transaction_fee": true
+        }
+      },
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": 17455000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 43900000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": true,
+      "discount_text": null,
+      "show_final_price_indicator": false,
+      "final_price_vouchers": [
+        {
+          "promotion_id": 1454793122525184,
+          "voucher_code": "QCYO5TS",
+          "is_auto_claimed_just_now": false,
+          "groups": null,
+          "voucher_type": 1
+        }
+      ],
+      "has_final_price": true,
+      "final_price_info": {
+        "model_id": 205197813491,
+        "hint_text": "with Pix after voucher",
+        "show_final_price_indicator": false,
+        "final_price_vouchers": {
+          "platform_voucher": null,
+          "shop_voucher": {
+            "promotion_id": 1454793122525184,
+            "voucher_code": "QCYO5TS",
+            "is_auto_claimed_just_now": false,
+            "groups": null,
+            "voucher_discount_type": 0,
+            "voucher_discount": 500000
+          },
+          "ads_voucher": null
+        },
+        "payment_channel_discount": {
+          "pix_discount": {
+            "discount_id": 470694215495879,
+            "snapshot_id": 328317811245058,
+            "discount_amount": 944000
+          }
+        },
+        "final_price_icon_type": 0
+      },
+      "price_subtext": {
+        "template": "or {price} without a voucher with other payment methods",
+        "format": null,
+        "attributes": [
+          {
+            "type": 2,
+            "key": "price",
+            "value": {
+              "value_str": null,
+              "value_int": 18899000
+            },
+            "format": null,
+            "text_color": null,
+            "text_hex_color": null,
+            "url": null
+          }
+        ],
+        "text_color": null,
+        "text_hex_color": null
+      },
+      "price_model": {
+        "price_single_model_id": 205197813491,
+        "price_min_model_id": null,
+        "price_max_model_id": null
+      },
+      "price_promotion": {
+        "price_single_promotion_id": 479735817912601,
+        "price_single_promotion_type": 202,
+        "price_min_promotion_id": null,
+        "price_min_promotion_type": null,
+        "price_max_promotion_id": null,
+        "price_max_promotion_type": null
+      },
+      "instalment_cta_action": null
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": true,
+      "show_shopee_verified_label": false,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.914431389935713,
+      "rating_count": [
+        4511,
+        34,
+        9,
+        43,
+        137,
+        4288
+      ],
+      "total_rating_count": 4511,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 17248,
+      "cmt_count": 4462,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": {
+        "type": 1
+      },
+      "historical_sold_display": "10mil+",
+      "global_sold_display": "10mil+",
+      "sold_count_display": "10mil+"
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": {
+        "month": 12,
+        "price_raw": 1785316,
+        "interest": 0,
+        "has_buyer_transaction_fee": true,
+        "display_text": "12x {{price}}"
+      },
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": true,
+        "is_non_cc_installment_payment_eligible": true
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "Internacional",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 1,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 90001,
+          "name": "Expresso padrão",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 1300000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1785321280,
+            "estimated_delivery_date_to": 1786512157,
+            "estimated_delivery_time_min": 10,
+            "estimated_delivery_time_max": 24,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 29/jul to 12/ago",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_range}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_range",
+                    "value": {
+                      "value_str": "Get by 29/jul to 12/ago",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 1,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 1300000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":10,\"edt_max\":24,\"edt_min_hours\":225,\"edt_max_hours\":556,\"edt_min_minutes\":13465,\"edt_max_minutes\":33313,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": null,
+      "pre_selected_shipping_channel": {
+        "channel_id": 90001,
+        "name": "Expresso padrão",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 1300000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1785321280,
+          "estimated_delivery_date_to": 1786512157,
+          "estimated_delivery_time_min": 10,
+          "estimated_delivery_time_max": 24,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Get by 29/jul to 12/ago",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_range}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_range",
+                  "value": {
+                    "value_str": "Get by 29/jul to 12/ago",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 1,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 0,
+          "discount_value": 1300000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":10,\"edt_max\":24,\"edt_min_hours\":225,\"edt_max_hours\":556,\"edt_min_minutes\":13465,\"edt_max_minutes\":33313,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": true,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 205197813491,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [
+      {
+        "promotionid": 1454793122525184,
+        "voucher_code": "QCYO5TS",
+        "signature": "a2d35c9adf45adeb45a714906e24241fc3f01bde226f5c5d527de35d52bc8dab",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 16000000,
+        "used_price": 500000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 27,
+        "start_time": 1782884580,
+        "end_time": 1790783940,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 500000,
+        "reward_cap": 0,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "5a7bd7936bead082be18d718f75fb075",
+        "icon_text": "QCY Official Store.br",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 239168233,
+        "shop_name": "QCY Official Store.br",
+        "is_shop_preferred": false,
+        "is_shop_official": true,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-3CCF38660D0822280000001104450400",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 500000,
+        "discount_percentage": 0,
+        "discount_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "5a7bd7936bead082be18d718f75fb075",
+        "error_code": 0,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      },
+      {
+        "promotionid": 1454792811622400,
+        "voucher_code": "QCYO1SW",
+        "signature": "8d09b91cf738d6d65dfea877dca745eb93e9aef74ca6812477d227de829d20ae",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 8000000,
+        "used_price": 200000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 20,
+        "start_time": 1782884580,
+        "end_time": 1790783940,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 200000,
+        "reward_cap": 0,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "5a7bd7936bead082be18d718f75fb075",
+        "icon_text": "QCY Official Store.br",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 239168233,
+        "shop_name": "QCY Official Store.br",
+        "is_shop_preferred": false,
+        "is_shop_official": true,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-91E278260D0822280000001104450400",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 200000,
+        "discount_percentage": 0,
+        "discount_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "5a7bd7936bead082be18d718f75fb075",
+        "error_code": 0,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      }
+    ],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [
+        {
+          "coin_earn": 188
+        },
+        {
+          "coin_earn": 219
+        },
+        {
+          "coin_earn": 188
+        }
+      ],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Discount stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 9,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Other Stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 10,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Brand",
+          "value": "QCY",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": "/search?brands=1146930",
+          "brand_id": 1146930,
+          "full_url": "https://shopee.com.br/search?brands=1146930",
+          "type": 1,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Connection Type",
+          "value": "Wireless (Bluetooth or Wifi)",
+          "id": 100408,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Connection Type",
+          "value_tr": "Wireless (Bluetooth or Wifi)"
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "In Ear",
+          "id": 100519,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Earphone, Headphone, & Headset Type",
+          "value_tr": "In Ear"
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Gaming Focused",
+          "value_tr": "Yes"
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Mobile, PC & Laptop",
+          "id": 100516,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Audio Compatibility",
+          "value_tr": "Mobile, PC & Laptop"
+        },
+        {
+          "name": "Warranty Duration",
+          "value": "3 Months",
+          "id": 100121,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Warranty Duration",
+          "value_tr": "3 Months"
+        },
+        {
+          "name": "Warranty Type",
+          "value": "Supplier Warranty",
+          "id": 100370,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Warranty Type",
+          "value_tr": "Supplier Warranty"
+        },
+        {
+          "name": "Model Name",
+          "value": "BH24HT08A",
+          "id": 101040,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Model Name",
+          "value_tr": "BH24HT08A"
+        },
+        {
+          "name": "Registration ID",
+          "value": "22770-23-03372",
+          "id": 101197,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Registration ID",
+          "value_tr": ""
+        },
+        {
+          "name": "Manufacturer",
+          "value": " DongGuan Hele Eletronics Co.,Ltd.",
+          "id": 101237,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Manufacturer",
+          "value_tr": "DongGuan Hele Eletronics Co., Ltd."
+        },
+        {
+          "name": "Ships From",
+          "value": "Internacional",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059971,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060002,
+          "display_name": "Earphones, Headphones & Headsets",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 239168233,
+      "userid": 239173601,
+      "last_active_time": 1784513069,
+      "vacation": false,
+      "place": null,
+      "account": {
+        "portrait": "5a7bd7936bead082be18d718f75fb075",
+        "username": "qcyofficialstore.br",
+        "status": 1
+      },
+      "is_shopee_verified": false,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": true,
+      "shop_location": null,
+      "item_count": 23,
+      "rating_star": 4.903647,
+      "response_rate": 83,
+      "session_info": null,
+      "name": "QCY Official Store.br",
+      "ctime": 1585213914,
+      "response_time": 16516,
+      "follower_count": 25735,
+      "show_official_shop_label": true,
+      "rating_bad": 173,
+      "rating_good": 21591,
+      "rating_normal": 315,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": null,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": {
+        "count": 219,
+        "text": "Buy and earn up to {{count}} Shopee Coin"
+      },
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": {},
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": {
+        "price": 17455000
+      },
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": null,
+      "bank": {
+        "channels": [
+          {
+            "channel_ic": "",
+            "channel_name": "label_cc_installment",
+            "is_cc": true,
+            "plans": [
+              {
+                "plan_name": "1x",
+                "duration": 1,
+                "interest_rate": 0,
+                "monthly_payment": 18399000,
+                "total_amount": 18399000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "2x",
+                "duration": 2,
+                "interest_rate": 0,
+                "monthly_payment": 9199500,
+                "total_amount": 18399000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "3x",
+                "duration": 3,
+                "interest_rate": 0,
+                "monthly_payment": 6133000,
+                "total_amount": 18399000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "4x",
+                "duration": 4,
+                "interest_rate": 0,
+                "monthly_payment": 5068464,
+                "total_amount": 20273858,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "5x",
+                "duration": 5,
+                "interest_rate": 0,
+                "monthly_payment": 4086417,
+                "total_amount": 20432089,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "6x",
+                "duration": 6,
+                "interest_rate": 0,
+                "monthly_payment": 3431413,
+                "total_amount": 20588481,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "7x",
+                "duration": 7,
+                "interest_rate": 0,
+                "monthly_payment": 2948571,
+                "total_amount": 20639998,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "8x",
+                "duration": 8,
+                "interest_rate": 0,
+                "monthly_payment": 2599548,
+                "total_amount": 20796389,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "9x",
+                "duration": 9,
+                "interest_rate": 0,
+                "monthly_payment": 2328086,
+                "total_amount": 20952781,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "10x",
+                "duration": 10,
+                "interest_rate": 0,
+                "monthly_payment": 2111101,
+                "total_amount": 21111012,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "11x",
+                "duration": 11,
+                "interest_rate": 0,
+                "monthly_payment": 1933400,
+                "total_amount": 21267404,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "12x",
+                "duration": 12,
+                "interest_rate": 0,
+                "monthly_payment": 1785316,
+                "total_amount": 21423795,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              }
+            ],
+            "banks": null,
+            "plan_groups": null
+          }
+        ]
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": {
+      "price": {
+        "single_value": 17455000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 43900000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "discount_breakdown": [
+        {
+          "type": 0,
+          "price_source": "Product Discount",
+          "discount_amount": 25001000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": null,
+          "icon_type": null
+        },
+        {
+          "type": 2,
+          "price_source": "Shop Voucher Discount",
+          "discount_amount": 500000,
+          "exclusive_price": null,
+          "shop_voucher": {
+            "min_spend": 16000000,
+            "discount_type": 0,
+            "discount_value": 500000,
+            "discount_percentage": null
+          },
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": {
+            "template": "Buy {min_spend} get {discount_value} off",
+            "format": null,
+            "attributes": [
+              {
+                "type": 2,
+                "key": "min_spend",
+                "value": {
+                  "value_str": null,
+                  "value_int": 16000000
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              },
+              {
+                "type": 2,
+                "key": "discount_value",
+                "value": {
+                  "value_str": null,
+                  "value_int": 500000
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              }
+            ],
+            "text_color": null,
+            "text_hex_color": null
+          },
+          "icon_type": null
+        },
+        {
+          "type": 4,
+          "price_source": "Pix Discount",
+          "discount_amount": 944000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": null,
+          "icon_type": null
+        }
+      ]
+    },
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "Fones de ouvido Pro ANC Bluetooth 5.3 Sem fio 46dB Adaptive Hybrid ANC Hi-Res LDAC Earbuds 6 Fones de ouvido Bluetooth 5.3 Sem fio 46dB Adaptive Hybrid ANC Hi-Res LDAC Earbuds 6 Fones de ouvido Mic 34H detecção intra-auricular",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Cancelamento de ruído ativo híbrido adaptativo - o fone de ouvido de cancelamento de ruído QCY MeloBuds Pro vem equipado com cancelamento de ruído ativo adaptável (ANC) que se adapta inteligentemente ao seu ambiente, garantindo que o ruído ambiente seja eliminado de forma eficaz. Aventuras ao ar livre também incorpora 6 Microfones e resistência ao ruído do vento, tornando-os ideais para atividades ao ar livre e em movimento.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Áudio de alta resolução e código LDAC - Equipado com certificação Hi-Res, o padrão da indústria para áudio de alta qualidade, reproduz som teoriginal rico, proporcionando uma experiência ao vivo. Com o codec LDAC, a taxa de transferência pode ser tão alta quanto 990kbps e o conteúdo das informações de transferência 3 vezes mais do que outros codecs, como SBC.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "4 modos de cancelamento de ruído ANC - Existem 4 modos de acampamento de ruído para diferentes ambientes e três níveis ajustáveis para cada modo para sua escolha.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Modo de transparência - Modo de aprimoramento Vocal e modo de transparência de 6 níveis, no modo de transparência, permite uma comunicação simples mesmo com seus fones de ouvido ligados.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Detecção intra-auricular e conexão multiponto - pausando automaticamente a reprodução ao removê-las de seus ouvidos, preservando assim a vida útil da bateria. Além disso, o MeloBuds Pro pode conectar dois dispositivos simultaneamente, permitindo alternar entre eles de forma rápida e fácil.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "A mais recente tecnologia Bluetooth 5.3 e 34 horas de duração da bateria - A mais recente tecnologia Bluetooth 5.3 garante transmissão rápida e conexão estável para manter sua música indo. O driver embutido de 12 mm cria um campo de som aberto e oferece excelente análise. A MeloBuds Pro tem uma vida útil da bateria de 34 horas para aliviar a ansiedade de energia.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nltyz9e4e",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nlu0dtu03",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nlu1sea3c",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nln0y6d18",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nln2cqt6f",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nln3rb932",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nln55vp10",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-7r98o-ly06dbtl0eg35b",
+          "ratio": 1.391,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Nome do Produto: QCY MeloBuds Pro",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Nome da emparelhamento: QCY MeloBuds Pro",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Versão Bluetooth: Bluetooth 5.3",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Compatibilidade com o iOS / Android",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Faixa de Operação de Operação de Faixa: 10 metros",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tempo de reprodução do tempo de reprodução com estojo de carregamento: Aprox. 30 horas com ANC ON, Aprox. 34 horas com ANC OFF",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tempo de reprodução único: Aprox. Aprox. Desligamento ANC 8,5 horas com ANC OFF",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Perfis Bluetooth: HFP/A2DP/AVRCP",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Estojo de Carregamento Capa de Bateria Capacidade: 350mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Capacidade da bateria do fone de ouvido: 35mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Estojo de carregamento Ciclos de carregamento: Até 4 vezes para ambos os fones de ouvido",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Porta de carregamento: Tipo-C",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Impermeável à prova d'água: IPX5",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Dimensões do fone de ouvido: 20,7*33,6*23,4mm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Dimensões da Caixa de Carregamento do Carregamento: 56,3*51,1*28mm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "* Conectar os fones de ouvido a um computador pode impactar a experiência devido a problemas de compatibilidade do dispositivo e chip. Recomendamos o uso de dispositivos de smartphone compatíveis para um desempenho ideal. Recomendamos o uso de dispositivos de smartphone compatíveis para um desempenho ideal.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "Pro ANC Bluetooth 5.3 Wireless Headphones 46dB Adaptive Hybrid ANC Hi-Res LDAC Earbuds 6 Headphones Bluetooth 5.3 Wireless 46dB Adaptive Hybrid ANC Hi-Res LDAC Earbuds 6 Headphones Mic 34H Detection In-ear",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Adaptative Hybrid Active Noise Cancellation - The QCY MeloBuds Pro Noise Canceling Headset comes equipped with adaptive active noise cancellation (ANC) that intelligently adapts to your environment, ensuring ambient noise Be eliminated effectively. Outdoor adventures also incorporates 6 Microphones and wind noise resistance, making them ideal for outdoor and moving activities.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "High resolution audio and LDAC code - Equipped with Hi-Res certification, the industry standard for high-quality audio, plays rich teoriginal sound, bringing you a live experience. With LDAC codec, the transfer rate can be as high as 990kbps and the content of the transfer information 3 times more than other codecs such as SBC.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "4 ANC Noise Canceling Modes - There are 4 noise camping modes for different environments and three adjustable levels for each mode for your choice.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Transparency Mode - Vocal enhancement mode and 6-level transparency mode, in transparency mode, allows simple communication even with your headphones on.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "In-ear detection and multipoint connection - automatically pausing playback when removing them from your ears, thus preserving battery life. In addition, the MeloBuds Pro can connect two devices simultaneously, allowing you to switch between them quickly and easily.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Latest Bluetooth 5.3 technology and 34 hours of battery life - Latest Bluetooth 5.3 technology ensures fast transmission and stable connection to keep your music going. Built-in 12mm driver creates an open sound field and offers excellent analysis. MeloBuds Pro has a battery life of 34 hours to relieve energy anxiety.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nltyz9e4e",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nlu0dtu03",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nlu1sea3c",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nln0y6d18",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nln2cqt6f",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nln3rb932",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-820l4-mhsq8nln55vp10",
+          "ratio": 1,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 1,
+          "text": null,
+          "img_id": "cn-11134208-7r98o-ly06dbtl0eg35b",
+          "ratio": 1.391,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Product Name: QCY MeloBuds Pro",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Pairing name: QCY MeloBuds Pro",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth Version: Bluetooth 5.3",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "IOS/Android Compatibility",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Operating Range: 10 meters",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Playback time playback time with charging case: Approx. 30 hours with ANC ON, Approx. 34 hours with ANC OFF",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Single Playback Time: Approx. Approx. OFF ANC 8.5 hours with ANC OFF",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Bluetooth Profiles: HFP/A2DP/AVRCP",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Charging Case Battery Cover Capacity: 350mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Headphone battery capacity: 35mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Charging case Charging cycles: Up to 4 times for both headphones",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Charging port: Type-C",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Waterproof: IPX5",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Headphone Dimensions: 20.7*33.6*23.4mm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Charging Box Dimensions: 56.3*51.1*28mm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "* Connecting the headphones to a computer can impact the experience due to device and chip compatibility issues. We recommend using compatible smartphone devices for optimal performance. We recommend using compatible smartphone devices for optimal performance.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": {
+      "flash_sale_preview": {
+        "promotion_id": 482932892586180,
+        "flash_sale_type": 2,
+        "start_time": 1784516400
+      },
+      "exclusive_price": null,
+      "live_stream": null,
+      "deep_discount": null,
+      "membership_exclusive": null,
+      "platform_exclusive_sku": null,
+      "shopee_vip": null
+    }
+  }
+}

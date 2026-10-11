@@ -1,0 +1,73 @@
+{
+  "saved": 4,
+  "total_urls": 4,
+  "method": "patchright_passive_spa_signed_getpc",
+  "meta": {
+    "urls": {
+      "1397458631_26420453879": {
+        "proxy": "us.1024proxy.io",
+        "shop_id": 1397458631,
+        "item_id": 26420453879,
+        "has_data": true,
+        "final_url": "https://shopee.com.br/product/1397458631/26420453879",
+        "getpc_attempts": [
+          {
+            "err": null,
+            "tz": -180,
+            "signed": true
+          }
+        ],
+        "ac_cert": true,
+        "status": "ok"
+      },
+      "1397458631_29943809506": {
+        "proxy": "us.1024proxy.io",
+        "shop_id": 1397458631,
+        "item_id": 29943809506,
+        "has_data": true,
+        "final_url": "https://shopee.com.br/product/1397458631/29943809506",
+        "getpc_attempts": [
+          {
+            "err": null,
+            "tz": -180,
+            "signed": true
+          }
+        ],
+        "ac_cert": true,
+        "status": "ok"
+      },
+      "1397458631_42556519762": {
+        "proxy": "us.1024proxy.io",
+        "shop_id": 1397458631,
+        "item_id": 42556519762,
+        "has_data": true,
+        "final_url": "https://shopee.com.br/product/1397458631/42556519762",
+        "getpc_attempts": [
+          {
+            "err": null,
+            "tz": -180,
+            "signed": true
+          }
+        ],
+        "ac_cert": true,
+        "status": "ok"
+      },
+      "1809553926_23394941480": {
+        "proxy": "us.1024proxy.io",
+        "shop_id": 1809553926,
+        "item_id": 23394941480,
+        "has_data": true,
+        "final_url": "https://shopee.com.br/product/1809553926/23394941480",
+        "getpc_attempts": [
+          {
+            "err": null,
+            "tz": -180,
+            "signed": true
+          }
+        ],
+        "ac_cert": true,
+        "status": "ok"
+      }
+    }
+  }
+}

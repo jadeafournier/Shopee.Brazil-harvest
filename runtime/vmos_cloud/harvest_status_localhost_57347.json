@@ -1,0 +1,33 @@
+{
+  "running": false,
+  "method": "기본방식 · 상류 프록시 없음 · mitm · 적응형 재기동(건강하면 VIEW 지속·연속 미저장 2건 또는 20건마다 재기동) · 미저장은 기본 재기동 없이 다음 상품 · 418은 캡차 대기(앱 재기동 없음) · 저장 300건마다 또는 막히면 다음 보관 세션 · 오래된 세션부터 하루 1회 순환, 오늘 분 모두 쓰면 새 로그인 · 페이지 사용 불가 화면이면 다른 보관 세션으로 전환, 없으면 새 로그인 · HTTP/2 끔 · 간격 0.4~0.4s · 40건마다 12s 휴식 · 계정 복원·새 로그인 직후 1회 세션 보관",
+  "note": "수집 종료",
+  "started_at": 1791543201.8802104,
+  "elapsed_s": 274.5,
+  "saved": 84,
+  "miss": 3,
+  "done": 87,
+  "pending_total": 87,
+  "pending_left": 0,
+  "per_min": 18.36,
+  "per_hour": 1101.4,
+  "target_per_hour": 500,
+  "last": {
+    "ok": true,
+    "shop_id": 651304190,
+    "item_id": 22193915626,
+    "url": "https://shopee.com.br/product/651304190/22193915626",
+    "sec": 0.67,
+    "source": "emulator_pdp_get",
+    "traffic_error": false,
+    "logged_out": false,
+    "saved": "D:\\Luxury\\Great Scraper2\\Great Scraper\\Shopee.Brazil\\Upload\\651304190_22193915626.json",
+    "how": "VIEW"
+  },
+  "serial": "localhost:57347",
+  "userid": "14408684504",
+  "upstream": "",
+  "egress": "폰 회선 직접",
+  "log_file": "D:\\Luxury\\Great Scraper2\\Great Scraper\\runtime\\vmos_cloud\\list_2.log",
+  "updated": 1791543476.4455657
+}

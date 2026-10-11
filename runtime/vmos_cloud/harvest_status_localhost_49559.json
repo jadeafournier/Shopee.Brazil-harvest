@@ -1,0 +1,32 @@
+{
+  "running": false,
+  "method": "기본방식 · 상류 프록시 없음 · mitm · 4건마다 재기동 · 미저장이면 재기동 · 418은 캡차 대기(앱 재기동 없음) · 저장 300건마다 또는 막히면 다음 보관 세션 · 페이지 사용 불가 화면이면 다른 보관 세션으로 전환, 없으면 새 로그인 · HTTP/2 끔 · 간격 0.4~0.4s · 40건마다 12s 휴식",
+  "note": "수집 종료",
+  "started_at": 1790662843.1867905,
+  "elapsed_s": 52.1,
+  "saved": 0,
+  "miss": 2,
+  "done": 2,
+  "pending_total": 2,
+  "pending_left": 0,
+  "per_min": 0.0,
+  "per_hour": 0.0,
+  "target_per_hour": 500,
+  "last": {
+    "ok": false,
+    "shop_id": 444450214,
+    "item_id": 58268191639,
+    "url": "https://shopee.com.br/product/444450214/58268191639",
+    "sec": 25.06,
+    "source": "emulator_pdp_get",
+    "traffic_error": false,
+    "error": "앱 pdp/get 미수신",
+    "how": "재기동"
+  },
+  "serial": "localhost:49559",
+  "userid": "17060216458",
+  "upstream": "",
+  "egress": "폰 회선 직접",
+  "log_file": "C:\\Users\\Administrator\\Music\\Great Scraper\\runtime\\vmos_cloud\\list_0.log",
+  "updated": 1790662895.610071
+}

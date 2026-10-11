@@ -1,0 +1,40 @@
+  현재 로그인/프록시 세션으로 즉시 수집
+VMOS 클라우드폰 APP69M8Z8I9XR6TW  Samsung Galaxy A53  Android 13
+ADB already connected to localhost:54639
+====================================================================
+【VMOS 앱 전용 캡처】 웹 없음 · 세션 유지
+  기기 localhost:54639  Android 13  Samsung Galaxy A53
+  대상 64706  미저장 63577
+====================================================================
+  시스템 CA c8750f0d.0 재사용
+  mitmdump pid=4916  port=8088
+  adb reverse tcp:8088 → 이 PC :8088
+  reverse 목록: host-14 tcp:8088 tcp:8088
+  http_proxy = 127.0.0.1:8088
+  매 상품 am start -S — 프로세스 중지 후 해당 URL로 기동
+✅ i.361833467.19598466440  3.77s
+  저장 경로 재기동
+✅ i.1265597786.18799545637  4.36s
+  저장 경로 재기동
+  인텐트 응답: Stopping: com.shopee.br
+Starting: Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://shopee.com.br/... cmp=com.shopee.br/com.shopee.app.ui.proxy.ProxyActivity 
+✅ i.1398327824.22893856516  3.61s
+  저장 경로 재기동
+  인텐트 응답: Stopping: com.shopee.br
+Starting: Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://shopee.com.br/... cmp=com.shopee.br/com.shopee.app.ui.proxy.ProxyActivity 
+✅ i.845996343.22893111141  3.61s
+  저장 경로 재기동
+✅ i.683952730.11086604605  3.76s
+  저장 경로 재기동
+  인텐트 응답: Stopping: com.shopee.br
+Starting: Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://shopee.com.br/... cmp=com.shopee.br/com.shopee.app.ui.proxy.ProxyActivity 
+✅ i.569114904.23424377802  3.76s
+  저장 경로 재기동
+  인텐트 응답: Stopping: com.shopee.br
+Starting: Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://shopee.com.br/... cmp=com.shopee.br/com.shopee.app.ui.proxy.ProxyActivity 
+✅ i.946161700.23091599945  3.77s
+  저장 경로 재기동
+  인텐트 응답: Stopping: com.shopee.br
+Starting: Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://shopee.com.br/... cmp=com.shopee.br/com.shopee.app.ui.proxy.ProxyActivity 
+✅ i.882785833.20154584414  3.49s
+  저장 경로 재기동

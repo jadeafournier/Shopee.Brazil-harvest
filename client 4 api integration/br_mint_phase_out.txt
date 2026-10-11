@@ -1,0 +1,6 @@
+=== mint br_1705283243_F3zrbhjv_live.json SPC_U= 1705283243 ===
+  [mint BR #1] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #2] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #3] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #4] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #5] host=us.1024proxy.io state=product reason=no_captcha_state:product 

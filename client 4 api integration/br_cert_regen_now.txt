@@ -1,0 +1,6 @@
+사용 백업 계정: br_1706801030_ydvUxsIK_live.json (SPC_U=1706801030)
+새 지문(UA=0 Safari/537.36) 홈 워밍업 + 트래픽 통과…
+홈 후 URL=https://shopee.com.br/  AC_CERT_D 발급? no
+상품 열기 → get_pc 확인…
+결과: get_pc.error=90309999 item_keys=0  AC_CERT_D(new)=''
+판정: ❌ 실패/차단

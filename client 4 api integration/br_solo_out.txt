@@ -1,0 +1,5 @@
+[04:42:07] === crawl_to_1k W0 boot ===
+[04:42:07] rotated 60 proxies across 10 cities
+[04:42:08] W0 start n=618/1000 jar_pref=br_1706801030_ydvUxsIK_live.json
+[04:42:09] W0 pending=45562 shards=1 using br_1706801030_ydvUxsIK_live.json
+[04:42:10] W0 shift jar=br_1706801030_ydvUxsIK_live.json SPC_U=1706801030 urls=20 sub=...aná-city-Curitiba-sid-HBjcV3FV-t-120

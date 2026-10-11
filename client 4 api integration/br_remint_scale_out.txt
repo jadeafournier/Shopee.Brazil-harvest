@@ -1,0 +1,125 @@
+22:33:24 REMINT_SCALE start n=717/1000 cap=Y
+22:33:24 pending=45466
+22:33:24 mint attempt…
+  [mint BR #1] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #2] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #3] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #4] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #5] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #6] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+22:35:03 mint ok=False reason=no_captcha_state:product cert=False getpc=None
+22:35:03 mint fail idle=1 — rotate & retry
+22:35:23 mint attempt…
+  [mint BR #1] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #2] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #3] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #4] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #5] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #6] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+22:37:33 mint ok=False reason=no_captcha_state:product cert=False getpc=None
+22:37:33 mint fail idle=2 — rotate & retry
+22:37:58 mint attempt…
+  [mint BR #1] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #2] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #3] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #4] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #5] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #6] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+22:39:46 mint ok=False reason=no_captcha_state:product cert=False getpc=None
+22:39:46 mint fail idle=3 — rotate & retry
+22:40:16 mint attempt…
+  [mint BR #1] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #2] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #3] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #4] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #5] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #6] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+22:41:59 mint ok=False reason=local_captcha:drag_failed+capsolver:ml service error: 504 cert=False getpc=None
+22:41:59 mint fail idle=4 — rotate & retry
+22:42:34 mint attempt…
+  [mint BR #1] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #2] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #3] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #4] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #5] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #6] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+22:43:37 mint ok=False reason=no_captcha_state:product cert=False getpc=None
+22:43:37 mint fail idle=5 — rotate & retry
+22:44:17 mint attempt…
+  [mint BR #1] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #2] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #3] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #4] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #5] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #6] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+22:46:16 mint ok=False reason=local_captcha:drag_failed+capsolver:ml service error: 504 cert=False getpc=None
+22:46:16 mint fail idle=6 — rotate & retry
+22:47:01 mint attempt…
+  [mint BR #1] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #2] host=us.1024proxy.io state=? reason=exc:Page.goto: net::ERR_CONNECTION_CLOSED at https://s 
+  [mint BR #3] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #4] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #5] host=us.1024proxy.io state=captcha_no_puzzle reason=no_puzzle 
+  [mint BR #6] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+22:49:32 mint ok=False reason=local_captcha:drag_failed+capsolver:ml service error: 504 cert=False getpc=None
+22:49:32 mint fail idle=7 — rotate & retry
+22:50:22 mint attempt…
+  [mint BR #1] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #2] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #3] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #4] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #5] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #6] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+22:52:09 mint ok=False reason=no_captcha_state:product cert=False getpc=None
+22:52:09 mint fail idle=8 — rotate & retry
+22:53:04 mint attempt…
+  [mint BR #1] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #2] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #3] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #4] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #5] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #6] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+22:56:01 mint ok=False reason=no_captcha_state:product cert=False getpc=None
+22:56:01 mint fail idle=9 — rotate & retry
+22:57:01 mint attempt…
+  [mint BR #1] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #2] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #3] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #4] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #5] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #6] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+22:59:15 mint ok=False reason=local_captcha:drag_failed+capsolver:ml service error: 504 cert=False getpc=None
+22:59:15 mint fail idle=10 — rotate & retry
+23:00:20 mint attempt…
+  [mint BR #1] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #2] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #3] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #4] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #5] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #6] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+23:03:51 mint ok=False reason=no_captcha_state:product cert=False getpc=None
+23:03:51 mint fail idle=11 — rotate & retry
+23:05:01 mint attempt…
+  [mint BR #1] host=us.1024proxy.io state=captcha_no_puzzle reason=no_puzzle 
+  [mint BR #2] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #3] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #4] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #5] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #6] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+23:08:26 mint ok=False reason=local_captcha:drag_failed+capsolver:ml service error: 504 cert=False getpc=None
+23:08:26 mint fail idle=12 — rotate & retry
+23:09:41 mint attempt…
+  [mint BR #1] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #2] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #3] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #4] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #5] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #6] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+23:12:07 mint ok=False reason=no_captcha_state:product cert=False getpc=None
+23:12:07 mint fail idle=13 — rotate & retry
+23:13:27 mint attempt…
+  [mint BR #1] host=us.1024proxy.io state=? reason=exc:Page.wait_for_timeout: Target page, context or bro 
+  [mint BR #2] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #3] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 504 
+  [mint BR #4] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #5] host=us.1024proxy.io state=captcha_puzzle reason=local_captcha:drag_failed+capsolver:ml service error: 503 

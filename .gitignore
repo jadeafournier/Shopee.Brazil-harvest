@@ -1,0 +1,100 @@
+# =====================================================================
+#  Shopee.Brazil harvest — 브라질 쇼피 관련 코드/설정만 백업
+#  (대용량 수집 데이터·캐시·바이너리·가상환경 제외)
+# =====================================================================
+
+# --- 기본: 최상위 항목 전부 무시 ---
+/*
+
+# --- 브라질 쇼피 관련 폴더/파일만 다시 추적 ---
+!/.gitignore
+!/runtime/
+!/client 4 api integration/
+!/Shopee.Brazil/
+
+# ---------------------------------------------------------------------
+#  runtime/ : vmos_cloud 와 브라질 member hub 코드만. 타 프로젝트 하위폴더 제외
+# ---------------------------------------------------------------------
+/runtime/client5_related/
+/runtime/zb9_sfu_pool_safe/
+/runtime/zb9_sfu_40k_probe/
+/runtime/zb9_sfu_cookie_safe/
+/runtime/tw_proxy_health/
+/runtime/full_getpc_req_explore_20260906/
+/runtime/anon_explore_20260905/
+/runtime/dual_lane/
+/runtime/tw_1m_hybrid_solution_20260906/
+/runtime/tw_single_cookie_sustain_20260906/
+
+# vmos_cloud 대용량 바이너리/덤프/세션 (코드 아님)
+/runtime/vmos_cloud/shopee_br_apk/
+/runtime/vmos_cloud/phone_egress/
+/runtime/vmos_cloud/sessions/
+
+# ---------------------------------------------------------------------
+#  client 4 api integration/ : 코드만. 대용량 결과/수신 데이터 폴더 제외
+# ---------------------------------------------------------------------
+/client 4 api integration/br_deliverable_*/
+/client 4 api integration/br_batch_output_*/
+/client 4 api integration/br_received_*/
+/client 4 api integration/br_human_raw_*/
+/client 4 api integration/tw_deliverable_*/
+
+# ---------------------------------------------------------------------
+#  Shopee.Brazil/ : 수집 데이터 폴더 제외 (루트 스크립트/설정만)
+# ---------------------------------------------------------------------
+/Shopee.Brazil/Upload/
+/Shopee.Brazil/Sessions/
+/Shopee.Brazil/Download/
+/Shopee.Brazil/New folder/
+/Shopee.Brazil/New folder (2)/
+
+# ---------------------------------------------------------------------
+#  전역: 캐시·바이너리·대용량·로그 제외
+# ---------------------------------------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.apk
+*.jar
+*.dex
+*.class
+*.log
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.zip
+*.7z
+*.rar
+*.db
+*.sqlite
+*.sqlite3
+*.har
+*.heapsnapshot
+.venv/
+.py312/
+.pydeps/
+
+# 토큰/비밀 (혹시라도)
+*.pem
+*.key
+.env
+secrets.*
+
+# ---------------------------------------------------------------------
+#  자격증명·세션·쿠키 데이터 (보안: 절대 커밋 금지)
+# ---------------------------------------------------------------------
+*credentials*.json
+*credentials*
+vmos_credentials.json
+smscode_credentials.json
+/runtime/vmos_cloud/session.json
+/runtime/vmos_cloud/_cookie_pref.xml
+/runtime/login_overlay_state.json
+/runtime/tw_ios_cookie_research.json
+/runtime/tw_sfu_cookie_attach.json
+/runtime/tw_sfu_cookie_diag.json
+/client 4 api integration/br_device_sessions/
+/client 4 api integration/br_cookie_max_probe/

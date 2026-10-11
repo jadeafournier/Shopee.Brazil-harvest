@@ -1,0 +1,3 @@
+[04:38:09] W2 start n=618/1000 jar_pref=br_1706784820_OUk7hm0A_live.json
+[04:38:09] W2 pending_shard=11423 using br_1706784820_OUk7hm0A_live.json
+[04:38:11] W2 shift jar=br_1706784820_OUk7hm0A_live.json SPC_U=1706784820 urls=40 sub=...city-Porto Alegre-sid-DQZZq5QP-t-120

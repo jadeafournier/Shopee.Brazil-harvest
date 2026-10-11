@@ -1,0 +1,2160 @@
+{
+  "price_rows": [
+    {
+      "shop": 413072701,
+      "item": 22898324413,
+      "title": "Smartphone Motorola Moto G15 256GB, 4G LTE, 12GB RAM Boost*,",
+      "app_brl": 999.0,
+      "web_brl": 1499.0,
+      "delta_brl": -500.0,
+      "pct": -33.4
+    },
+    {
+      "shop": 230709939,
+      "item": 50158153007,
+      "title": "Smartphone S24 Ultra 6.8 Polegadas Dual SIM Reconhecimento F",
+      "app_brl": 377.6,
+      "web_brl": 487.55,
+      "delta_brl": -109.95,
+      "pct": -22.6
+    },
+    {
+      "shop": 1006215031,
+      "item": 29384596438,
+      "title": "A6S Fones De Ouvido TWS Sem Fio Bluetooth Fone Com Cancelame",
+      "app_brl": 12.76,
+      "web_brl": 16.2,
+      "delta_brl": -3.44,
+      "pct": -21.2
+    },
+    {
+      "shop": 1006215031,
+      "item": 47963443632,
+      "title": "Fones de ouvido sem fio Senbenbao A11 PRO, fones de ouvido c",
+      "app_brl": 55.2,
+      "web_brl": 68.37,
+      "delta_brl": -13.17,
+      "pct": -19.3
+    },
+    {
+      "shop": 239168233,
+      "item": 27100694175,
+      "title": "QCY T13 ANC Fones De Ouvido Sem Fio Bluetooth 5.3 Cancelamen",
+      "app_brl": 135.0,
+      "web_brl": 114.99,
+      "delta_brl": 20.01,
+      "pct": 17.4
+    },
+    {
+      "shop": 1006215031,
+      "item": 48612660687,
+      "title": "K20 Fones De Ouvido Com Estrutura De Gancho De Memória Flexí",
+      "app_brl": 46.91,
+      "web_brl": 55.24,
+      "delta_brl": -8.33,
+      "pct": -15.1
+    },
+    {
+      "shop": 1006215031,
+      "item": 29379017291,
+      "title": "E6S Cor Preta Fones De Ouvido Sem Fio TWS Bluetooth Com Micr",
+      "app_brl": 13.84,
+      "web_brl": 16.26,
+      "delta_brl": -2.42,
+      "pct": -14.9
+    },
+    {
+      "shop": 1006215031,
+      "item": 27203381663,
+      "title": "SPRISE Premium Sem Fio Bluetooth Fone De Ouvido Colorido Dob",
+      "app_brl": 55.21,
+      "web_brl": 64.83,
+      "delta_brl": -9.62,
+      "pct": -14.8
+    },
+    {
+      "shop": 1006215031,
+      "item": 45513441124,
+      "title": "Senbenbao Q70 Mini Fones De Ouvido Com Clipe Aberto Bt 6.0 E",
+      "app_brl": 26.63,
+      "web_brl": 31.2,
+      "delta_brl": -4.57,
+      "pct": -14.6
+    },
+    {
+      "shop": 471920491,
+      "item": 44963578521,
+      "title": "Smartphone Samsung Galaxy A12 64GB Preto - 4GB RAM Tela 6.5\"",
+      "app_brl": 429.0,
+      "web_brl": 499.0,
+      "delta_brl": -70.0,
+      "pct": -14.0
+    },
+    {
+      "shop": 1006215031,
+      "item": 43932122538,
+      "title": "Fones De Ouvido K10 Abertos Com Design De Canal Não Ocluso R",
+      "app_brl": 48.49,
+      "web_brl": 55.77,
+      "delta_brl": -7.28,
+      "pct": -13.1
+    },
+    {
+      "shop": 407952755,
+      "item": 22093011524,
+      "title": "Fone de ouvido Bluetooth Sem Fio Headphone Bluetooth Recarre",
+      "app_brl": 22.99,
+      "web_brl": 25.99,
+      "delta_brl": -3.0,
+      "pct": -11.5
+    },
+    {
+      "shop": 239168233,
+      "item": 28253692946,
+      "title": "QCY HT08 MeloBuds Pro ANC Bluetooth 5.3 Fones De Ouvido Sem ",
+      "app_brl": 188.99,
+      "web_brl": 169.99,
+      "delta_brl": 19.0,
+      "pct": 11.2
+    },
+    {
+      "shop": 538962314,
+      "item": 58202886399,
+      "title": "Celular Smartphone Xiaomi Poco C71 128GB/4GB / 64GB/3GB Dual",
+      "app_brl": 759.0,
+      "web_brl": 839.0,
+      "delta_brl": -80.0,
+      "pct": -9.5
+    },
+    {
+      "shop": 760312197,
+      "item": 58213190548,
+      "title": "Smartphone Moto G7 Power 3GB RAM 32GB ROM Tela 6,2' Octa-cor",
+      "app_brl": 369.0,
+      "web_brl": 339.0,
+      "delta_brl": 30.0,
+      "pct": 8.8
+    },
+    {
+      "shop": 486926153,
+      "item": 23797412208,
+      "title": "Celular iPhone 17 Pro Max 1TB/ 512GB/ 256GB Lançamento Novo,",
+      "app_brl": 9455.0,
+      "web_brl": 8755.0,
+      "delta_brl": 700.0,
+      "pct": 8.0
+    },
+    {
+      "shop": 1006215031,
+      "item": 43305810478,
+      "title": "E6S Fones De Ouvido TWS Sem Fio Bluetooth 5.0 Display LED 9D",
+      "app_brl": 12.04,
+      "web_brl": 12.99,
+      "delta_brl": -0.95,
+      "pct": -7.3
+    },
+    {
+      "shop": 740107547,
+      "item": 23193636297,
+      "title": "Smartphone Xiaomi Poco X7 Pro 512GB / 256GB 5G Versão Global",
+      "app_brl": 2109.0,
+      "web_brl": 2259.0,
+      "delta_brl": -150.0,
+      "pct": -6.6
+    },
+    {
+      "shop": 792527667,
+      "item": 51662730357,
+      "title": "Celular 5.5Polegadas 8+128GB Smartphone",
+      "app_brl": 319.0,
+      "web_brl": 339.0,
+      "delta_brl": -20.0,
+      "pct": -5.9
+    },
+    {
+      "shop": 671363498,
+      "item": 22997427038,
+      "title": "Smartphone Realme Note 50 60 60X 256/4GB 128GB/4GB 64/3GB - ",
+      "app_brl": 749.0,
+      "web_brl": 789.0,
+      "delta_brl": -40.0,
+      "pct": -5.1
+    },
+    {
+      "shop": 471920491,
+      "item": 57313554367,
+      "title": "Samsung Galaxy A12 64gb Branco 4gb Ram (Recondicionado) Esta",
+      "app_brl": 429.0,
+      "web_brl": 449.0,
+      "delta_brl": -20.0,
+      "pct": -4.5
+    },
+    {
+      "shop": 295736938,
+      "item": 44130198976,
+      "title": "Smartphone Celular Hotwav A17 Pro Max Versão Global 256 + 12",
+      "app_brl": 879.0,
+      "web_brl": 849.0,
+      "delta_brl": 30.0,
+      "pct": 3.5
+    },
+    {
+      "shop": 1501374495,
+      "item": 22693895539,
+      "title": "Bolsa Térmica Portátil de Mão Lancheira Marmita Viagem Pique",
+      "app_brl": 8.59,
+      "web_brl": 8.89,
+      "delta_brl": -0.3,
+      "pct": -3.4
+    },
+    {
+      "shop": 1006215031,
+      "item": 49812506285,
+      "title": "Fones de ouvido K05 com detecção inteligente no ouvido, sens",
+      "app_brl": 40.59,
+      "web_brl": 41.51,
+      "delta_brl": -0.92,
+      "pct": -2.2
+    },
+    {
+      "shop": 1309426953,
+      "item": 22193436800,
+      "title": "Marmita Elétrica Veicular Tomada Bivolt 110V/220V E 12V/24V ",
+      "app_brl": 46.95,
+      "web_brl": 45.95,
+      "delta_brl": 1.0,
+      "pct": 2.2
+    },
+    {
+      "shop": 239168233,
+      "item": 27350696719,
+      "title": "QCY H3 ANC Fones De Ouvido Sem Fio Bluetooth 5.4 Sobre Fone ",
+      "app_brl": 197.99,
+      "web_brl": 201.99,
+      "delta_brl": -4.0,
+      "pct": -2.0
+    },
+    {
+      "shop": 273003762,
+      "item": 20798549989,
+      "title": "Celular Iphone 14/ 14 Pro/ 14 Pro Max 128gb/ 256gb 100% Orig",
+      "app_brl": 2490.0,
+      "web_brl": 2450.0,
+      "delta_brl": 40.0,
+      "pct": 1.6
+    },
+    {
+      "shop": 183962719,
+      "item": 53416574988,
+      "title": "EXPEN1 24 Folhas De Papel Decorativo , De Scrapbook Com Padr",
+      "app_brl": 33.39,
+      "web_brl": 32.98,
+      "delta_brl": 0.41,
+      "pct": 1.2
+    },
+    {
+      "shop": 299222557,
+      "item": 23936699206,
+      "title": "1/2/3 Forma De Silicone Air fryer Antiaderente Cesto Silicon",
+      "app_brl": 10.0,
+      "web_brl": 10.0,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 343246764,
+      "item": 23197345044,
+      "title": "Kit 100/200 Sacos De Confeitar Medio Confeitaria Bolo Doce C",
+      "app_brl": 10.9,
+      "web_brl": 10.9,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 343246764,
+      "item": 23592875532,
+      "title": "1/2/3 Formas de Silicone Quadrada 18x18cm Assadeira Air Frye",
+      "app_brl": 10.0,
+      "web_brl": 10.0,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 392545055,
+      "item": 21399888983,
+      "title": "Pote Hermético 2.5L Com Copo Medidor Bico Dosador Cozinha Ma",
+      "app_brl": 17.88,
+      "web_brl": 17.88,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 471920491,
+      "item": 57510575544,
+      "title": "iPhone 12 Pro Max Apple 256GB Dourado iOS + Nota Fiscal - Ou",
+      "app_brl": 1999.0,
+      "web_brl": 1999.0,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 486926153,
+      "item": 22192886389,
+      "title": "Novo iPhone 17 Pro Max e 17 PRO 1TB /512GB /256GB 5G Dual E-",
+      "app_brl": 9477.0,
+      "web_brl": 9477.0,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 523307638,
+      "item": 58264071491,
+      "title": "Fone de Ouvido Peining com Microfone | Som Hi-Fi | Graves Po",
+      "app_brl": 20.0,
+      "web_brl": 20.0,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 832031799,
+      "item": 22393689713,
+      "title": "1/2/3 Forro Antiderrapante Para Gaveta, Geladeira E Guarda R",
+      "app_brl": 23.99,
+      "web_brl": 23.99,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 883941882,
+      "item": 23093509247,
+      "title": "Fone de ouvido com fio com microfone cobre driver fone de ou",
+      "app_brl": 19.88,
+      "web_brl": 19.88,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 976285267,
+      "item": 23399043568,
+      "title": "Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento R",
+      "app_brl": 66.88,
+      "web_brl": 66.88,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 1006215031,
+      "item": 45851624872,
+      "title": " Lenovo GM2 PRO Fones de Ouvido Bluetooth à Prova d'Água Fon",
+      "app_brl": 46.63,
+      "web_brl": 46.63,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 1064487211,
+      "item": 22596768935,
+      "title": "1/2/3 Forma De Silicone Para Air Fryer Forno Microondas Frit",
+      "app_brl": 10.0,
+      "web_brl": 10.0,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 1072624004,
+      "item": 23497916254,
+      "title": "Bolsa Térmica Portátil Lancheira Térmica Marmita Viagem",
+      "app_brl": 9.59,
+      "web_brl": 9.59,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 1083951020,
+      "item": 23293825121,
+      "title": "Kit 100 Sacos De Confeitar Medio Confeitaria Bolo Doce Cupca",
+      "app_brl": 10.5,
+      "web_brl": 10.5,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 1294737459,
+      "item": 21099722220,
+      "title": "1/2/3 Forma De Silicone Para Air Fryer Forno Microondas Frit",
+      "app_brl": 10.0,
+      "web_brl": 10.0,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 1357069533,
+      "item": 22594205202,
+      "title": "Fatiador Profissional Multifuncional De Aço Inoxidável 16 Em",
+      "app_brl": 34.99,
+      "web_brl": 34.99,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 1526006060,
+      "item": 23794148281,
+      "title": "Conjunto 12/24/36 Peças Forma de Silicone Redonda para Cupca",
+      "app_brl": 11.99,
+      "web_brl": 11.99,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    },
+    {
+      "shop": 1731657310,
+      "item": 58204057552,
+      "title": "Kit 10 Marmitas com Travas 900ml BPAFREE Pote Plástico Freez",
+      "app_brl": 35.0,
+      "web_brl": 35.0,
+      "delta_brl": 0.0,
+      "pct": 0.0
+    }
+  ],
+  "review_rows": [
+    {
+      "shop": 183962719,
+      "item": 53416574988,
+      "rating_app": 0,
+      "rating_web": 0,
+      "cmt_app": 0,
+      "cmt_web": 0,
+      "liked_app": 0,
+      "liked_web": 0,
+      "sold_app": "0",
+      "sold_web": "0"
+    },
+    {
+      "shop": 230709939,
+      "item": 50158153007,
+      "rating_app": 5,
+      "rating_web": 4.159090909090909,
+      "cmt_app": 26,
+      "cmt_web": 44,
+      "liked_app": 246,
+      "liked_web": 1140,
+      "sold_app": "425",
+      "sold_web": "262"
+    },
+    {
+      "shop": 239168233,
+      "item": 27100694175,
+      "rating_app": 4.908330652943069,
+      "rating_web": 4.910439851616323,
+      "cmt_app": 3109,
+      "cmt_web": 3774,
+      "liked_app": 15219,
+      "liked_web": 16846,
+      "sold_app": "7mil+",
+      "sold_web": "9mil+"
+    },
+    {
+      "shop": 239168233,
+      "item": 27350696719,
+      "rating_app": 4.8962108731466225,
+      "rating_web": 4.89568345323741,
+      "cmt_app": 1214,
+      "cmt_web": 1390,
+      "liked_app": 14219,
+      "liked_web": 15344,
+      "sold_app": "2mil+",
+      "sold_web": "3mil+"
+    },
+    {
+      "shop": 239168233,
+      "item": 28253692946,
+      "rating_app": 4.914431389935713,
+      "rating_web": 4.9174615534358574,
+      "cmt_app": 4511,
+      "cmt_web": 5137,
+      "liked_app": 17248,
+      "liked_web": 18782,
+      "sold_app": "10mil+",
+      "sold_web": "10mil+"
+    },
+    {
+      "shop": 273003762,
+      "item": 20798549989,
+      "rating_app": 4.552083333333333,
+      "rating_web": 4.583333333333333,
+      "cmt_app": 192,
+      "cmt_web": 252,
+      "liked_app": 16941,
+      "liked_web": 19495,
+      "sold_app": "362",
+      "sold_web": "469"
+    },
+    {
+      "shop": 295736938,
+      "item": 44130198976,
+      "rating_app": 4.794871794871795,
+      "rating_web": 4.7681818181818185,
+      "cmt_app": 39,
+      "cmt_web": 220,
+      "liked_app": 816,
+      "liked_web": 2970,
+      "sold_app": "95",
+      "sold_web": "412"
+    },
+    {
+      "shop": 299222557,
+      "item": 23936699206,
+      "rating_app": 4.561223887062159,
+      "rating_web": 4.55982250907624,
+      "cmt_app": 50789,
+      "cmt_web": 49580,
+      "liked_app": 37214,
+      "liked_web": 36552,
+      "sold_app": "90mil+",
+      "sold_web": "90mil+"
+    },
+    {
+      "shop": 343246764,
+      "item": 23197345044,
+      "rating_app": 4.908125525357243,
+      "rating_web": 4.907791054184933,
+      "cmt_app": 35690,
+      "cmt_web": 34899,
+      "liked_app": 33045,
+      "liked_web": 32840,
+      "sold_app": "70mil+",
+      "sold_web": "70mil+"
+    },
+    {
+      "shop": 343246764,
+      "item": 23592875532,
+      "rating_app": 4.76976049612875,
+      "rating_web": 4.770117218691111,
+      "cmt_app": 157701,
+      "cmt_web": 156545,
+      "liked_app": 144944,
+      "liked_web": 144491,
+      "sold_app": "200mil+",
+      "sold_web": "200mil+"
+    },
+    {
+      "shop": 392545055,
+      "item": 21399888983,
+      "rating_app": 4.889523352875793,
+      "rating_web": 4.889755286398058,
+      "cmt_app": 45884,
+      "cmt_web": 44502,
+      "liked_app": 77783,
+      "liked_web": 75875,
+      "sold_app": "80mil+",
+      "sold_web": "80mil+"
+    },
+    {
+      "shop": 407952755,
+      "item": 22093011524,
+      "rating_app": 4.658996605054696,
+      "rating_web": 4.65783736647046,
+      "cmt_app": 7955,
+      "cmt_web": 9176,
+      "liked_app": 13921,
+      "liked_web": 14448,
+      "sold_app": "10mil+",
+      "sold_web": "10mil+"
+    },
+    {
+      "shop": 413072701,
+      "item": 22898324413,
+      "rating_app": 4.92864476386037,
+      "rating_web": 4.929461615154536,
+      "cmt_app": 3896,
+      "cmt_web": 4012,
+      "liked_app": 36171,
+      "liked_web": 36386,
+      "sold_app": "5mil+",
+      "sold_web": "6mil+"
+    },
+    {
+      "shop": 471920491,
+      "item": 44963578521,
+      "rating_app": 4.6,
+      "rating_web": 4.758241758241758,
+      "cmt_app": 10,
+      "cmt_web": 182,
+      "liked_app": 169,
+      "liked_web": 1009,
+      "sold_app": "38",
+      "sold_web": "294"
+    },
+    {
+      "shop": 471920491,
+      "item": 57313554367,
+      "rating_app": 5,
+      "rating_web": 4.875,
+      "cmt_app": 6,
+      "cmt_web": 64,
+      "liked_app": 174,
+      "liked_web": 321,
+      "sold_app": "27",
+      "sold_web": "126"
+    },
+    {
+      "shop": 471920491,
+      "item": 57510575544,
+      "rating_app": 5,
+      "rating_web": 5,
+      "cmt_app": 1,
+      "cmt_web": 1,
+      "liked_app": 78,
+      "liked_web": 81,
+      "sold_app": "2",
+      "sold_web": "3"
+    },
+    {
+      "shop": 486926153,
+      "item": 22192886389,
+      "rating_app": 5,
+      "rating_web": 5,
+      "cmt_app": 11,
+      "cmt_web": 12,
+      "liked_app": 5466,
+      "liked_web": 7654,
+      "sold_app": "19",
+      "sold_web": "19"
+    },
+    {
+      "shop": 486926153,
+      "item": 23797412208,
+      "rating_app": 5,
+      "rating_web": 5,
+      "cmt_app": 8,
+      "cmt_web": 9,
+      "liked_app": 3629,
+      "liked_web": 3799,
+      "sold_app": "12",
+      "sold_web": "13"
+    },
+    {
+      "shop": 523307638,
+      "item": 58264071491,
+      "rating_app": 0,
+      "rating_web": 0,
+      "cmt_app": 0,
+      "cmt_web": 0,
+      "liked_app": 0,
+      "liked_web": 0,
+      "sold_app": "0",
+      "sold_web": "0"
+    },
+    {
+      "shop": 538962314,
+      "item": 58202886399,
+      "rating_app": 4.921818181818182,
+      "rating_web": 4.925170068027211,
+      "cmt_app": 550,
+      "cmt_web": 735,
+      "liked_app": 2494,
+      "liked_web": 3447,
+      "sold_app": "896",
+      "sold_web": "1mil+"
+    },
+    {
+      "shop": 671363498,
+      "item": 22997427038,
+      "rating_app": 4.894550810014728,
+      "rating_web": 4.897461673787384,
+      "cmt_app": 3395,
+      "cmt_web": 3979,
+      "liked_app": 38750,
+      "liked_web": 42849,
+      "sold_app": "5mil+",
+      "sold_web": "6mil+"
+    },
+    {
+      "shop": 740107547,
+      "item": 23193636297,
+      "rating_app": 4.959846783780214,
+      "rating_web": 4.960151061336111,
+      "cmt_app": 7571,
+      "cmt_web": 7679,
+      "liked_app": 52713,
+      "liked_web": 54633,
+      "sold_app": "10mil+",
+      "sold_web": "10mil+"
+    },
+    {
+      "shop": 760312197,
+      "item": 58213190548,
+      "rating_app": 4.913043478260869,
+      "rating_web": 4.919354838709677,
+      "cmt_app": 23,
+      "cmt_web": 124,
+      "liked_app": 269,
+      "liked_web": 425,
+      "sold_app": "71",
+      "sold_web": "180"
+    },
+    {
+      "shop": 792527667,
+      "item": 51662730357,
+      "rating_app": 0,
+      "rating_web": 4.357142857142857,
+      "cmt_app": 0,
+      "cmt_web": 84,
+      "liked_app": 100,
+      "liked_web": 827,
+      "sold_app": "33",
+      "sold_web": "254"
+    },
+    {
+      "shop": 832031799,
+      "item": 22393689713,
+      "rating_app": 4.928081464169727,
+      "rating_web": 4.92787269114045,
+      "cmt_app": 65894,
+      "cmt_web": 64913,
+      "liked_app": 304371,
+      "liked_web": 302038,
+      "sold_app": "100mil+",
+      "sold_web": "100mil+"
+    },
+    {
+      "shop": 883941882,
+      "item": 23093509247,
+      "rating_app": 4.885023464599062,
+      "rating_web": 4.877542189528342,
+      "cmt_app": 29407,
+      "cmt_web": 36977,
+      "liked_app": 29067,
+      "liked_web": 33375,
+      "sold_app": "60mil+",
+      "sold_web": "80mil+"
+    },
+    {
+      "shop": 976285267,
+      "item": 23399043568,
+      "rating_app": 4.7708561775775715,
+      "rating_web": 4.746229136129368,
+      "cmt_app": 33743,
+      "cmt_web": 42298,
+      "liked_app": 74418,
+      "liked_web": 87571,
+      "sold_app": "100mil+",
+      "sold_web": "100mil+"
+    },
+    {
+      "shop": 1006215031,
+      "item": 27203381663,
+      "rating_app": 4.841634738186462,
+      "rating_web": 4.839578454332552,
+      "cmt_app": 783,
+      "cmt_web": 854,
+      "liked_app": 8946,
+      "liked_web": 9333,
+      "sold_app": "100mil+",
+      "sold_web": "100mil+"
+    },
+    {
+      "shop": 1006215031,
+      "item": 29379017291,
+      "rating_app": 4.819470538001708,
+      "rating_web": 4.817160341458398,
+      "cmt_app": 35130,
+      "cmt_web": 38892,
+      "liked_app": 30981,
+      "liked_web": 35208,
+      "sold_app": "300mil+",
+      "sold_web": "300mil+"
+    },
+    {
+      "shop": 1006215031,
+      "item": 29384596438,
+      "rating_app": 4.781235266383781,
+      "rating_web": 4.782543314808761,
+      "cmt_app": 2121,
+      "cmt_web": 15295,
+      "liked_app": 11243,
+      "liked_web": 12074,
+      "sold_app": "800mil+",
+      "sold_web": "800mil+"
+    },
+    {
+      "shop": 1006215031,
+      "item": 43305810478,
+      "rating_app": 4.791010592613799,
+      "rating_web": 4.787213816050067,
+      "cmt_app": 13972,
+      "cmt_web": 25246,
+      "liked_app": 12129,
+      "liked_web": 16505,
+      "sold_app": "300mil+",
+      "sold_web": "400mil+"
+    },
+    {
+      "shop": 1006215031,
+      "item": 43932122538,
+      "rating_app": 0,
+      "rating_web": 0,
+      "cmt_app": 0,
+      "cmt_web": 0,
+      "liked_app": 0,
+      "liked_web": 2,
+      "sold_app": "2mil+",
+      "sold_web": "2mil+"
+    },
+    {
+      "shop": 1006215031,
+      "item": 45513441124,
+      "rating_app": 0,
+      "rating_web": 5,
+      "cmt_app": 0,
+      "cmt_web": 9,
+      "liked_app": 2,
+      "liked_web": 50,
+      "sold_app": "0",
+      "sold_web": "38"
+    },
+    {
+      "shop": 1006215031,
+      "item": 45851624872,
+      "rating_app": 4.924384321886923,
+      "rating_web": 4.9258088056433955,
+      "cmt_app": 2883,
+      "cmt_web": 4111,
+      "liked_app": 5511,
+      "liked_web": 6402,
+      "sold_app": "100mil+",
+      "sold_web": "100mil+"
+    },
+    {
+      "shop": 1006215031,
+      "item": 47963443632,
+      "rating_app": 0,
+      "rating_web": 5,
+      "cmt_app": 0,
+      "cmt_web": 1,
+      "liked_app": 3,
+      "liked_web": 22,
+      "sold_app": "279",
+      "sold_web": "334"
+    },
+    {
+      "shop": 1006215031,
+      "item": 48612660687,
+      "rating_app": 0,
+      "rating_web": 0,
+      "cmt_app": 0,
+      "cmt_web": 0,
+      "liked_app": 1,
+      "liked_web": 2,
+      "sold_app": "160",
+      "sold_web": "162"
+    },
+    {
+      "shop": 1006215031,
+      "item": 49812506285,
+      "rating_app": 0,
+      "rating_web": 4.454545454545454,
+      "cmt_app": 0,
+      "cmt_web": 11,
+      "liked_app": 0,
+      "liked_web": 1,
+      "sold_app": "352",
+      "sold_web": "354"
+    },
+    {
+      "shop": 1064487211,
+      "item": 22596768935,
+      "rating_app": 4.797328220669182,
+      "rating_web": 4.797602227393617,
+      "cmt_app": 48507,
+      "cmt_web": 48128,
+      "liked_app": 25460,
+      "liked_web": 25397,
+      "sold_app": "80mil+",
+      "sold_web": "80mil+"
+    },
+    {
+      "shop": 1072624004,
+      "item": 23497916254,
+      "rating_app": 4.869973906755949,
+      "rating_web": 4.869612309260616,
+      "cmt_app": 31809,
+      "cmt_web": 31391,
+      "liked_app": 45068,
+      "liked_web": 44803,
+      "sold_app": "60mil+",
+      "sold_web": "60mil+"
+    },
+    {
+      "shop": 1083951020,
+      "item": 23293825121,
+      "rating_app": 4.918266900331854,
+      "rating_web": 4.919043238270469,
+      "cmt_app": 26819,
+      "cmt_web": 26088,
+      "liked_app": 20234,
+      "liked_web": 19870,
+      "sold_app": "50mil+",
+      "sold_web": "50mil+"
+    },
+    {
+      "shop": 1294737459,
+      "item": 21099722220,
+      "rating_app": 4.800691375739886,
+      "rating_web": 4.800515225576326,
+      "cmt_app": 61327,
+      "cmt_web": 60556,
+      "liked_app": 34223,
+      "liked_web": 34117,
+      "sold_app": "100mil+",
+      "sold_web": "100mil+"
+    },
+    {
+      "shop": 1309426953,
+      "item": 22193436800,
+      "rating_app": 4.862674094707521,
+      "rating_web": 4.863099448295374,
+      "cmt_app": 28720,
+      "cmt_web": 28276,
+      "liked_app": 42506,
+      "liked_web": 41964,
+      "sold_app": "50mil+",
+      "sold_web": "50mil+"
+    },
+    {
+      "shop": 1357069533,
+      "item": 22594205202,
+      "rating_app": 4.824438124942666,
+      "rating_web": 4.824912287284939,
+      "cmt_app": 54505,
+      "cmt_web": 53299,
+      "liked_app": 169228,
+      "liked_web": 164934,
+      "sold_app": "100mil+",
+      "sold_web": "100mil+"
+    },
+    {
+      "shop": 1501374495,
+      "item": 22693895539,
+      "rating_app": 4.895608039175678,
+      "rating_web": 4.89510316009402,
+      "cmt_app": 78421,
+      "cmt_web": 76585,
+      "liked_app": 36859,
+      "liked_web": 35737,
+      "sold_app": "100mil+",
+      "sold_web": "100mil+"
+    },
+    {
+      "shop": 1526006060,
+      "item": 23794148281,
+      "rating_app": 4.924735626138733,
+      "rating_web": 4.92437875713137,
+      "cmt_app": 53239,
+      "cmt_web": 52234,
+      "liked_app": 64426,
+      "liked_web": 63999,
+      "sold_app": "100mil+",
+      "sold_web": "100mil+"
+    },
+    {
+      "shop": 1731657310,
+      "item": 58204057552,
+      "rating_app": 4.889461446615974,
+      "rating_web": 4.889820359281437,
+      "cmt_app": 31826,
+      "cmt_web": 30895,
+      "liked_app": 104183,
+      "liked_web": 101587,
+      "sold_app": "60mil+",
+      "sold_web": "60mil+"
+    }
+  ],
+  "schema_rows": [
+    {
+      "shop": 183962719,
+      "item": 53416574988,
+      "app_only_data": [
+        "bottom_bar",
+        "clip_info",
+        "description_summary",
+        "featured_videos",
+        "featured_voucher",
+        "final_price_indicator",
+        "flash_sale_booked",
+        "floating_window_content",
+        "live_stream",
+        "lowest_price_indicator",
+        "mart_key_selling_point",
+        "new_user_voucher",
+        "pdp_page_type",
+        "pre_purchase_signals",
+        "presale_guide",
+        "price_with_variation_abtest_group",
+        "product_preorder",
+        "promotion_drawer",
+        "retry_info",
+        "review",
+        "shop",
+        "shop_vouchers_meta",
+        "shopee_guarantee",
+        "shopee_video_floating_window",
+        "similar_cheaper_product",
+        "size_banner",
+        "size_display_info",
+        "size_review_summary",
+        "top_product",
+        "welcome_package"
+      ],
+      "web_only_data": [
+        "button_group",
+        "coin_info",
+        "default_warnings",
+        "detail_level",
+        "display_sections",
+        "ineligible_ep",
+        "nea",
+        "removed_fields"
+      ],
+      "app_n": 78,
+      "web_n": 56
+    },
+    {
+      "shop": 230709939,
+      "item": 50158153007,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 239168233,
+      "item": 27100694175,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 239168233,
+      "item": 27350696719,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 239168233,
+      "item": 28253692946,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 273003762,
+      "item": 20798549989,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 295736938,
+      "item": 44130198976,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 299222557,
+      "item": 23936699206,
+      "app_only_data": [
+        "bottom_bar",
+        "clip_info",
+        "description_summary",
+        "featured_videos",
+        "featured_voucher",
+        "final_price_indicator",
+        "flash_sale_booked",
+        "floating_window_content",
+        "live_stream",
+        "lowest_price_indicator",
+        "mart_key_selling_point",
+        "new_user_voucher",
+        "pdp_page_type",
+        "pre_purchase_signals",
+        "presale_guide",
+        "price_with_variation_abtest_group",
+        "product_preorder",
+        "promotion_drawer",
+        "retry_info",
+        "review",
+        "shop",
+        "shop_vouchers_meta",
+        "shopee_guarantee",
+        "shopee_video_floating_window",
+        "similar_cheaper_product",
+        "size_banner",
+        "size_display_info",
+        "size_review_summary",
+        "top_product",
+        "welcome_package"
+      ],
+      "web_only_data": [
+        "button_group",
+        "coin_info",
+        "default_warnings",
+        "detail_level",
+        "display_sections",
+        "ineligible_ep",
+        "nea",
+        "removed_fields"
+      ],
+      "app_n": 78,
+      "web_n": 56
+    },
+    {
+      "shop": 343246764,
+      "item": 23197345044,
+      "app_only_data": [
+        "bottom_bar",
+        "clip_info",
+        "description_summary",
+        "featured_videos",
+        "featured_voucher",
+        "final_price_indicator",
+        "flash_sale_booked",
+        "floating_window_content",
+        "live_stream",
+        "lowest_price_indicator",
+        "mart_key_selling_point",
+        "new_user_voucher",
+        "pdp_page_type",
+        "pre_purchase_signals",
+        "presale_guide",
+        "price_with_variation_abtest_group",
+        "product_preorder",
+        "promotion_drawer",
+        "retry_info",
+        "review",
+        "shop",
+        "shop_vouchers_meta",
+        "shopee_guarantee",
+        "shopee_video_floating_window",
+        "similar_cheaper_product",
+        "size_banner",
+        "size_display_info",
+        "size_review_summary",
+        "top_product",
+        "welcome_package"
+      ],
+      "web_only_data": [
+        "button_group",
+        "coin_info",
+        "default_warnings",
+        "detail_level",
+        "display_sections",
+        "ineligible_ep",
+        "nea",
+        "removed_fields"
+      ],
+      "app_n": 78,
+      "web_n": 56
+    },
+    {
+      "shop": 343246764,
+      "item": 23592875532,
+      "app_only_data": [
+        "bottom_bar",
+        "clip_info",
+        "description_summary",
+        "featured_videos",
+        "featured_voucher",
+        "final_price_indicator",
+        "flash_sale_booked",
+        "floating_window_content",
+        "live_stream",
+        "lowest_price_indicator",
+        "mart_key_selling_point",
+        "new_user_voucher",
+        "pdp_page_type",
+        "pre_purchase_signals",
+        "presale_guide",
+        "price_with_variation_abtest_group",
+        "product_preorder",
+        "promotion_drawer",
+        "retry_info",
+        "review",
+        "shop",
+        "shop_vouchers_meta",
+        "shopee_guarantee",
+        "shopee_video_floating_window",
+        "similar_cheaper_product",
+        "size_banner",
+        "size_display_info",
+        "size_review_summary",
+        "top_product",
+        "welcome_package"
+      ],
+      "web_only_data": [
+        "button_group",
+        "coin_info",
+        "default_warnings",
+        "detail_level",
+        "display_sections",
+        "ineligible_ep",
+        "nea",
+        "removed_fields"
+      ],
+      "app_n": 78,
+      "web_n": 56
+    },
+    {
+      "shop": 392545055,
+      "item": 21399888983,
+      "app_only_data": [
+        "bottom_bar",
+        "clip_info",
+        "description_summary",
+        "featured_videos",
+        "featured_voucher",
+        "final_price_indicator",
+        "flash_sale_booked",
+        "floating_window_content",
+        "live_stream",
+        "lowest_price_indicator",
+        "mart_key_selling_point",
+        "new_user_voucher",
+        "pdp_page_type",
+        "pre_purchase_signals",
+        "presale_guide",
+        "price_with_variation_abtest_group",
+        "product_preorder",
+        "promotion_drawer",
+        "retry_info",
+        "review",
+        "shop",
+        "shop_vouchers_meta",
+        "shopee_guarantee",
+        "shopee_video_floating_window",
+        "similar_cheaper_product",
+        "size_banner",
+        "size_display_info",
+        "size_review_summary",
+        "top_product",
+        "welcome_package"
+      ],
+      "web_only_data": [
+        "button_group",
+        "coin_info",
+        "default_warnings",
+        "detail_level",
+        "display_sections",
+        "ineligible_ep",
+        "nea",
+        "removed_fields"
+      ],
+      "app_n": 78,
+      "web_n": 56
+    },
+    {
+      "shop": 407952755,
+      "item": 22093011524,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 413072701,
+      "item": 22898324413,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 471920491,
+      "item": 44963578521,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 471920491,
+      "item": 57313554367,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 471920491,
+      "item": 57510575544,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 486926153,
+      "item": 22192886389,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 486926153,
+      "item": 23797412208,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 523307638,
+      "item": 58264071491,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 538962314,
+      "item": 58202886399,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 671363498,
+      "item": 22997427038,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 740107547,
+      "item": 23193636297,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 760312197,
+      "item": 58213190548,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 792527667,
+      "item": 51662730357,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 832031799,
+      "item": 22393689713,
+      "app_only_data": [
+        "bottom_bar",
+        "clip_info",
+        "description_summary",
+        "featured_videos",
+        "featured_voucher",
+        "final_price_indicator",
+        "flash_sale_booked",
+        "floating_window_content",
+        "live_stream",
+        "lowest_price_indicator",
+        "mart_key_selling_point",
+        "new_user_voucher",
+        "pdp_page_type",
+        "pre_purchase_signals",
+        "presale_guide",
+        "price_with_variation_abtest_group",
+        "product_preorder",
+        "promotion_drawer",
+        "retry_info",
+        "review",
+        "shop",
+        "shop_vouchers_meta",
+        "shopee_guarantee",
+        "shopee_video_floating_window",
+        "similar_cheaper_product",
+        "size_banner",
+        "size_display_info",
+        "size_review_summary",
+        "top_product",
+        "welcome_package"
+      ],
+      "web_only_data": [
+        "button_group",
+        "coin_info",
+        "default_warnings",
+        "detail_level",
+        "display_sections",
+        "ineligible_ep",
+        "nea",
+        "removed_fields"
+      ],
+      "app_n": 78,
+      "web_n": 56
+    },
+    {
+      "shop": 883941882,
+      "item": 23093509247,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 976285267,
+      "item": 23399043568,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 1006215031,
+      "item": 27203381663,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 1006215031,
+      "item": 29379017291,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 1006215031,
+      "item": 29384596438,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 1006215031,
+      "item": 43305810478,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 1006215031,
+      "item": 43932122538,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 1006215031,
+      "item": 45513441124,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 1006215031,
+      "item": 45851624872,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 1006215031,
+      "item": 47963443632,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 1006215031,
+      "item": 48612660687,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 1006215031,
+      "item": 49812506285,
+      "app_only_data": [],
+      "web_only_data": [],
+      "app_n": 56,
+      "web_n": 56
+    },
+    {
+      "shop": 1064487211,
+      "item": 22596768935,
+      "app_only_data": [
+        "bottom_bar",
+        "clip_info",
+        "description_summary",
+        "featured_videos",
+        "featured_voucher",
+        "final_price_indicator",
+        "flash_sale_booked",
+        "floating_window_content",
+        "live_stream",
+        "lowest_price_indicator",
+        "mart_key_selling_point",
+        "new_user_voucher",
+        "pdp_page_type",
+        "pre_purchase_signals",
+        "presale_guide",
+        "price_with_variation_abtest_group",
+        "product_preorder",
+        "promotion_drawer",
+        "retry_info",
+        "review",
+        "shop",
+        "shop_vouchers_meta",
+        "shopee_guarantee",
+        "shopee_video_floating_window",
+        "similar_cheaper_product",
+        "size_banner",
+        "size_display_info",
+        "size_review_summary",
+        "top_product",
+        "welcome_package"
+      ],
+      "web_only_data": [
+        "button_group",
+        "coin_info",
+        "default_warnings",
+        "detail_level",
+        "display_sections",
+        "ineligible_ep",
+        "nea",
+        "removed_fields"
+      ],
+      "app_n": 78,
+      "web_n": 56
+    },
+    {
+      "shop": 1072624004,
+      "item": 23497916254,
+      "app_only_data": [
+        "bottom_bar",
+        "clip_info",
+        "description_summary",
+        "featured_videos",
+        "featured_voucher",
+        "final_price_indicator",
+        "flash_sale_booked",
+        "floating_window_content",
+        "live_stream",
+        "lowest_price_indicator",
+        "mart_key_selling_point",
+        "new_user_voucher",
+        "pdp_page_type",
+        "pre_purchase_signals",
+        "presale_guide",
+        "price_with_variation_abtest_group",
+        "product_preorder",
+        "promotion_drawer",
+        "retry_info",
+        "review",
+        "shop",
+        "shop_vouchers_meta",
+        "shopee_guarantee",
+        "shopee_video_floating_window",
+        "similar_cheaper_product",
+        "size_banner",
+        "size_display_info",
+        "size_review_summary",
+        "top_product",
+        "welcome_package"
+      ],
+      "web_only_data": [
+        "button_group",
+        "coin_info",
+        "default_warnings",
+        "detail_level",
+        "display_sections",
+        "ineligible_ep",
+        "nea",
+        "removed_fields"
+      ],
+      "app_n": 78,
+      "web_n": 56
+    },
+    {
+      "shop": 1083951020,
+      "item": 23293825121,
+      "app_only_data": [
+        "bottom_bar",
+        "clip_info",
+        "description_summary",
+        "featured_videos",
+        "featured_voucher",
+        "final_price_indicator",
+        "flash_sale_booked",
+        "floating_window_content",
+        "live_stream",
+        "lowest_price_indicator",
+        "mart_key_selling_point",
+        "new_user_voucher",
+        "pdp_page_type",
+        "pre_purchase_signals",
+        "presale_guide",
+        "price_with_variation_abtest_group",
+        "product_preorder",
+        "promotion_drawer",
+        "retry_info",
+        "review",
+        "shop",
+        "shop_vouchers_meta",
+        "shopee_guarantee",
+        "shopee_video_floating_window",
+        "similar_cheaper_product",
+        "size_banner",
+        "size_display_info",
+        "size_review_summary",
+        "top_product",
+        "welcome_package"
+      ],
+      "web_only_data": [
+        "button_group",
+        "coin_info",
+        "default_warnings",
+        "detail_level",
+        "display_sections",
+        "ineligible_ep",
+        "nea",
+        "removed_fields"
+      ],
+      "app_n": 78,
+      "web_n": 56
+    },
+    {
+      "shop": 1294737459,
+      "item": 21099722220,
+      "app_only_data": [
+        "bottom_bar",
+        "clip_info",
+        "description_summary",
+        "featured_videos",
+        "featured_voucher",
+        "final_price_indicator",
+        "flash_sale_booked",
+        "floating_window_content",
+        "live_stream",
+        "lowest_price_indicator",
+        "mart_key_selling_point",
+        "new_user_voucher",
+        "pdp_page_type",
+        "pre_purchase_signals",
+        "presale_guide",
+        "price_with_variation_abtest_group",
+        "product_preorder",
+        "promotion_drawer",
+        "retry_info",
+        "review",
+        "shop",
+        "shop_vouchers_meta",
+        "shopee_guarantee",
+        "shopee_video_floating_window",
+        "similar_cheaper_product",
+        "size_banner",
+        "size_display_info",
+        "size_review_summary",
+        "top_product",
+        "welcome_package"
+      ],
+      "web_only_data": [
+        "button_group",
+        "coin_info",
+        "default_warnings",
+        "detail_level",
+        "display_sections",
+        "ineligible_ep",
+        "nea",
+        "removed_fields"
+      ],
+      "app_n": 78,
+      "web_n": 56
+    },
+    {
+      "shop": 1309426953,
+      "item": 22193436800,
+      "app_only_data": [
+        "bottom_bar",
+        "clip_info",
+        "description_summary",
+        "featured_videos",
+        "featured_voucher",
+        "final_price_indicator",
+        "flash_sale_booked",
+        "floating_window_content",
+        "live_stream",
+        "lowest_price_indicator",
+        "mart_key_selling_point",
+        "new_user_voucher",
+        "pdp_page_type",
+        "pre_purchase_signals",
+        "presale_guide",
+        "price_with_variation_abtest_group",
+        "product_preorder",
+        "promotion_drawer",
+        "retry_info",
+        "review",
+        "shop",
+        "shop_vouchers_meta",
+        "shopee_guarantee",
+        "shopee_video_floating_window",
+        "similar_cheaper_product",
+        "size_banner",
+        "size_display_info",
+        "size_review_summary",
+        "top_product",
+        "welcome_package"
+      ],
+      "web_only_data": [
+        "button_group",
+        "coin_info",
+        "default_warnings",
+        "detail_level",
+        "display_sections",
+        "ineligible_ep",
+        "nea",
+        "removed_fields"
+      ],
+      "app_n": 78,
+      "web_n": 56
+    },
+    {
+      "shop": 1357069533,
+      "item": 22594205202,
+      "app_only_data": [
+        "bottom_bar",
+        "clip_info",
+        "description_summary",
+        "featured_videos",
+        "featured_voucher",
+        "final_price_indicator",
+        "flash_sale_booked",
+        "floating_window_content",
+        "live_stream",
+        "lowest_price_indicator",
+        "mart_key_selling_point",
+        "new_user_voucher",
+        "pdp_page_type",
+        "pre_purchase_signals",
+        "presale_guide",
+        "price_with_variation_abtest_group",
+        "product_preorder",
+        "promotion_drawer",
+        "retry_info",
+        "review",
+        "shop",
+        "shop_vouchers_meta",
+        "shopee_guarantee",
+        "shopee_video_floating_window",
+        "similar_cheaper_product",
+        "size_banner",
+        "size_display_info",
+        "size_review_summary",
+        "top_product",
+        "welcome_package"
+      ],
+      "web_only_data": [
+        "button_group",
+        "coin_info",
+        "default_warnings",
+        "detail_level",
+        "display_sections",
+        "ineligible_ep",
+        "nea",
+        "removed_fields"
+      ],
+      "app_n": 78,
+      "web_n": 56
+    },
+    {
+      "shop": 1501374495,
+      "item": 22693895539,
+      "app_only_data": [
+        "bottom_bar",
+        "clip_info",
+        "description_summary",
+        "featured_videos",
+        "featured_voucher",
+        "final_price_indicator",
+        "flash_sale_booked",
+        "floating_window_content",
+        "live_stream",
+        "lowest_price_indicator",
+        "mart_key_selling_point",
+        "new_user_voucher",
+        "pdp_page_type",
+        "pre_purchase_signals",
+        "presale_guide",
+        "price_with_variation_abtest_group",
+        "product_preorder",
+        "promotion_drawer",
+        "retry_info",
+        "review",
+        "shop",
+        "shop_vouchers_meta",
+        "shopee_guarantee",
+        "shopee_video_floating_window",
+        "similar_cheaper_product",
+        "size_banner",
+        "size_display_info",
+        "size_review_summary",
+        "top_product",
+        "welcome_package"
+      ],
+      "web_only_data": [
+        "button_group",
+        "coin_info",
+        "default_warnings",
+        "detail_level",
+        "display_sections",
+        "ineligible_ep",
+        "nea",
+        "removed_fields"
+      ],
+      "app_n": 78,
+      "web_n": 56
+    },
+    {
+      "shop": 1526006060,
+      "item": 23794148281,
+      "app_only_data": [
+        "bottom_bar",
+        "clip_info",
+        "description_summary",
+        "featured_videos",
+        "featured_voucher",
+        "final_price_indicator",
+        "flash_sale_booked",
+        "floating_window_content",
+        "live_stream",
+        "lowest_price_indicator",
+        "mart_key_selling_point",
+        "new_user_voucher",
+        "pdp_page_type",
+        "pre_purchase_signals",
+        "presale_guide",
+        "price_with_variation_abtest_group",
+        "product_preorder",
+        "promotion_drawer",
+        "retry_info",
+        "review",
+        "shop",
+        "shop_vouchers_meta",
+        "shopee_guarantee",
+        "shopee_video_floating_window",
+        "similar_cheaper_product",
+        "size_banner",
+        "size_display_info",
+        "size_review_summary",
+        "top_product",
+        "welcome_package"
+      ],
+      "web_only_data": [
+        "button_group",
+        "coin_info",
+        "default_warnings",
+        "detail_level",
+        "display_sections",
+        "ineligible_ep",
+        "nea",
+        "removed_fields"
+      ],
+      "app_n": 78,
+      "web_n": 56
+    },
+    {
+      "shop": 1731657310,
+      "item": 58204057552,
+      "app_only_data": [
+        "bottom_bar",
+        "clip_info",
+        "description_summary",
+        "featured_videos",
+        "featured_voucher",
+        "final_price_indicator",
+        "flash_sale_booked",
+        "floating_window_content",
+        "live_stream",
+        "lowest_price_indicator",
+        "mart_key_selling_point",
+        "new_user_voucher",
+        "pdp_page_type",
+        "pre_purchase_signals",
+        "presale_guide",
+        "price_with_variation_abtest_group",
+        "product_preorder",
+        "promotion_drawer",
+        "retry_info",
+        "review",
+        "shop",
+        "shop_vouchers_meta",
+        "shopee_guarantee",
+        "shopee_video_floating_window",
+        "similar_cheaper_product",
+        "size_banner",
+        "size_display_info",
+        "size_review_summary",
+        "top_product",
+        "welcome_package"
+      ],
+      "web_only_data": [
+        "button_group",
+        "coin_info",
+        "default_warnings",
+        "detail_level",
+        "display_sections",
+        "ineligible_ep",
+        "nea",
+        "removed_fields"
+      ],
+      "app_n": 78,
+      "web_n": 56
+    }
+  ],
+  "sold_display_same": 26,
+  "sold_display_diff": 20,
+  "has_shop": {
+    "app": 15,
+    "web": 0
+  },
+  "has_removed": {
+    "app": 31,
+    "web": 46
+  },
+  "desc_avg": {
+    "app": 5462.869565217391,
+    "web": 5459.369565217391
+  },
+  "acc_app": [
+    [
+      1707139756,
+      25
+    ],
+    [
+      1706784820,
+      14
+    ],
+    [
+      5196720216,
+      2
+    ],
+    [
+      1707407334,
+      2
+    ],
+    [
+      1707408898,
+      2
+    ],
+    [
+      1706801030,
+      1
+    ]
+  ],
+  "acc_web": [
+    [
+      5196720216,
+      32
+    ],
+    [
+      1707407334,
+      7
+    ],
+    [
+      15319284149,
+      5
+    ],
+    [
+      1706784820,
+      1
+    ],
+    [
+      1707139756,
+      1
+    ]
+  ],
+  "data_app_only": [
+    [
+      "bottom_bar",
+      15
+    ],
+    [
+      "clip_info",
+      15
+    ],
+    [
+      "description_summary",
+      15
+    ],
+    [
+      "featured_videos",
+      15
+    ],
+    [
+      "featured_voucher",
+      15
+    ],
+    [
+      "final_price_indicator",
+      15
+    ],
+    [
+      "flash_sale_booked",
+      15
+    ],
+    [
+      "floating_window_content",
+      15
+    ],
+    [
+      "live_stream",
+      15
+    ],
+    [
+      "lowest_price_indicator",
+      15
+    ],
+    [
+      "mart_key_selling_point",
+      15
+    ],
+    [
+      "new_user_voucher",
+      15
+    ],
+    [
+      "pdp_page_type",
+      15
+    ],
+    [
+      "pre_purchase_signals",
+      15
+    ],
+    [
+      "presale_guide",
+      15
+    ],
+    [
+      "price_with_variation_abtest_group",
+      15
+    ],
+    [
+      "product_preorder",
+      15
+    ],
+    [
+      "promotion_drawer",
+      15
+    ],
+    [
+      "retry_info",
+      15
+    ],
+    [
+      "review",
+      15
+    ],
+    [
+      "shop",
+      15
+    ],
+    [
+      "shop_vouchers_meta",
+      15
+    ],
+    [
+      "shopee_guarantee",
+      15
+    ],
+    [
+      "shopee_video_floating_window",
+      15
+    ],
+    [
+      "similar_cheaper_product",
+      15
+    ],
+    [
+      "size_banner",
+      15
+    ],
+    [
+      "size_display_info",
+      15
+    ],
+    [
+      "size_review_summary",
+      15
+    ],
+    [
+      "top_product",
+      15
+    ],
+    [
+      "welcome_package",
+      15
+    ]
+  ],
+  "data_web_only": [
+    [
+      "button_group",
+      15
+    ],
+    [
+      "coin_info",
+      15
+    ],
+    [
+      "default_warnings",
+      15
+    ],
+    [
+      "detail_level",
+      15
+    ],
+    [
+      "display_sections",
+      15
+    ],
+    [
+      "ineligible_ep",
+      15
+    ],
+    [
+      "nea",
+      15
+    ],
+    [
+      "removed_fields",
+      15
+    ]
+  ]
+}

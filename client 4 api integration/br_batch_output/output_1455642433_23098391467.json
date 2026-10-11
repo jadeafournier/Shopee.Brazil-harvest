@@ -1,0 +1,2814 @@
+{
+  "task_link": "https://shopee.com.br/product/1455642433/23098391467",
+  "token": "br_batch_crawl",
+  "api_key": "br_batch_crawl",
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 23098391467,
+      "shop_id": 1455642433,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "Xiaomi Poco X7 PRO 5G 512GB+12GB RAM,  256GB+12GB RAM Processador Dimensity 8400-Ultra,Câmera 50MP, Bateria 6000Mah Vers",
+      "image": "br-11134207-81z1k-mhng7psu5h4z69",
+      "label_ids": [
+        1000022,
+        844931064601283,
+        1823833,
+        1943678,
+        298643352,
+        1400620050,
+        997961055,
+        700065053,
+        700065054,
+        822062091122182,
+        835343123222554,
+        595473041,
+        2203725,
+        1823810,
+        298788369,
+        700605236,
+        1718387984,
+        1718397968,
+        298818315,
+        998291046,
+        647826546,
+        998331163,
+        1718388139,
+        1400835224
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 131072,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100013,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "BRL",
+      "brand": "Xiaomi",
+      "brand_id": 1147183,
+      "show_discount": 22,
+      "ctime": 1744384514,
+      "item_rating": {
+        "rating_star": 4.926147704590818
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": false,
+      "shop_location": "São Paulo",
+      "attributes": [
+        {
+          "name": "Warranty Type",
+          "value": "Manufacturer Warranty",
+          "id": 100370,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2419,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Duration",
+          "value": "3 Months",
+          "id": 100121,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 799,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Model Name",
+          "value": "23122PCD1G",
+          "id": 101040,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Registration ID",
+          "value": "175412314550",
+          "id": 101197,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Xiaomi Communications Co.",
+          "id": 101237,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": null,
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "\nA Edição especial Iron Man  conta com design e interface personalizada cabo USB estilizado ( apenas estava variação acompanha a Fonte e o Fone bluetooth de brinde) as demais cores não acompanham\n\nESPECIFICAÇÕES TÉCNICAS:\nProcessador\nDimensity 8400-UltraProcesso de fabricação de 4 nm\nCPU: CPU de oito núcleos de até 3,25 GHzGPU: Mali-G720\n\nArmazenamento: 512GB + 12GB RAM\n\nTela\nTela AMOLED CrystalRes de 6,67\"Resolução: 2712 x 1220 (resolução de 1,5K)Taxa de atualização: Até 120 HzTaxa de amostragem de toque: Taxa de amostragem de toque de 480 Hz, taxa de amostragem de toque instantâneo de 2560 Hz, super-resolução de toque de 16X\n*A taxa de amostragem de toque instantâneo de 2560 Hz é compatível apenas com o modo turbo de jogo ativado.\n\nCâmera traseira\nCâmera principal de 50 MP com OISOISf/1,5Compartimentação 4 em 1 para um super pixel de 1,6 μmTamanho do sensor de 1/1,95\"Lente 6PCâmera ultra-angular de 8 MPf/2,2Recursos de fotografia da câmera traseira\nCapturas dinâmicas | Foco do rastreamento de movimentos | Captura de movimento | Modo 50 MP | Câmera de filme | Modo retrato | Documentos | Modo noturno | Modo Pro | Panorama | HDRGravação de vídeo com a câmera traseira\nGravação de vídeo em 4K: 24 fps/30 fps/60 fps\nGravação de vídeo em 1080p: 30/60 fps\nGravação de vídeo em 720p: 30fpsCâmera lenta: 1080p a 120 fps/240 fps/960 fps\nCâmera lenta: 720p a 120 fps/240 fps/960 fps\nRecursos de vídeo da câmera traseira\nModo Diretor | Modo pro de vídeo | Formato de registro de vídeo | ShootSteady | Câmera lenta | Vídeo duplo | Lapso de tempo\n\nCâmera frontal\nCâmera frontal de 20 MPOV20B (tamanho do sensor de 1/4\")f/2,2Lente 4pAnel de luz suave | Embelezador com IA | Modo noturno | Modo retratoGravação de vídeo com a câmera frontal1080p a 30 fps720p a 30 fps\n\nBateria e carregamento\n6000mAh (típ.) Hyper Charge de 90 W\nCarregador de 90 W incluso na caixaUSB-C\nOBS: o formato do pino carregador pode variar dependendo do lote recebido,\nnão podendo realizar a troca do mesmo.\n\n\nSegurança\nSensor de impressão digital na telaDesbloqueio por reconhecimento facial com AI\n\nRede e conectividade\nDual SIM，dual standby（5G+5G，5G+4G）Compatível com 5G*/4G/3G/2G\n\nÁudio\nAlto-falantes duplosDolby Atmos®\n\nSensores\nSensor de proximidade | Sensor de luz ambiente 360° | Acelerômetro | Sensor de oscilação | Bússola eletrônica | IR Blaster | Giroscópio | Motor de vibração linear do eixo X\n\nSistema operacional\nXiaomi HyperOS 2",
+      "categories": [
+        {
+          "catid": 100013,
+          "display_name": "Celulares e Dispositivos",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100073,
+          "display_name": "Celulares",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11059988,
+          "display_name": "Mobile & Gadgets",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060166,
+          "display_name": "Mobile Phones",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 23098391467,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Poco X7 PRO 256/12 Preto",
+          "promotion_id": 482385699491905,
+          "price": 223331000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": true,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 280000000,
+          "model_id": 149785302783,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Poco X7 PRO 256/12 BLACK",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23098391467,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Poco X7 PRO 512/12 AMARELO",
+          "promotion_id": 863398342885376,
+          "price": 266100000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 323000000,
+          "model_id": 238783730717,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Poco X7 PRO 512/12 YELLOW",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23098391467,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Poco X7 PRO 512/12 VERDE",
+          "promotion_id": 863398342885376,
+          "price": 260100000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 323000000,
+          "model_id": 238783730714,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Poco X7 PRO 512/12 GREEN",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23098391467,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Poco X7 PRO 512/12 PRETO",
+          "promotion_id": 863398342885376,
+          "price": 256200000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 323000000,
+          "model_id": 238783730716,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Poco X7 PRO 512/12 BLACK",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23098391467,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Poco X7 PRO 512/12 IRON MAN",
+          "promotion_id": 863398342885376,
+          "price": 392900000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 501900000,
+          "model_id": 238783730715,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Poco X7 PRO 512/12 IRON MAN",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23098391467,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Poco X7 PRO 256/12 Verde",
+          "promotion_id": 482385699491905,
+          "price": 223331000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": true,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              6
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 280000000,
+          "model_id": 149785302785,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Poco X7 PRO 256/12 Green",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23098391467,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Poco X7 PRO 256/8 Preto",
+          "promotion_id": 482385699491905,
+          "price": 223331000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": true,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              7
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 260000000,
+          "model_id": 228787829158,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Poco X7 PRO 256/8 Black",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23098391467,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Poco X7 PRO 256/12 Amarelo",
+          "promotion_id": 482385699491905,
+          "price": 223331000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": true,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 280000000,
+          "model_id": 149785302784,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Poco X7 PRO 256/12 YELLOW",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23098391467,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Poco X7 PRO 256/8 Amarelo",
+          "promotion_id": 482385699491905,
+          "price": 223331000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": true,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              8
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 260000000,
+          "model_id": 228787829159,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Poco X7 PRO 256/8 Yellow",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        },
+        {
+          "item_id": 23098391467,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "Poco X7 PRO 256/8 Verde",
+          "promotion_id": 482385699491905,
+          "price": 223331000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 202
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": true,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              9
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 260000000,
+          "model_id": 228787829160,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": false,
+          "name_tr": "Poco X7 PRO 256/8 Green",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "Gigas-Cor",
+          "options": [
+            "Poco X7 PRO 512/12 PRETO",
+            "Poco X7 PRO 512/12 AMARELO",
+            "Poco X7 PRO 512/12 VERDE",
+            "Poco X7 PRO 512/12 IRON MAN",
+            "Poco X7 PRO 256/12 Preto",
+            "Poco X7 PRO 256/12 Amarelo",
+            "Poco X7 PRO 256/12 Verde",
+            "Poco X7 PRO 256/8 Preto",
+            "Poco X7 PRO 256/8 Amarelo",
+            "Poco X7 PRO 256/8 Verde"
+          ],
+          "images": [
+            "br-11134207-7r98o-m8gbf2mw2pld24",
+            "br-11134207-7r98o-m8gbf2mw445te7",
+            "br-11134207-7r98o-m8gbf2mw6xapa5",
+            "br-11134207-7r98o-m8gbf2mw8bv509",
+            "br-11134207-7r98o-mbtlzuhnpcnt83",
+            "br-11134207-7r98o-mbtlzuhnqr897d",
+            "br-11134207-7r98o-mbtlzuhns5sp6e",
+            "br-11134207-7r98o-mcas655cpxwrdf",
+            "br-11134207-7r98o-mcas655crch701",
+            "br-11134207-7r98o-mcas655csr1nb0"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "name_tr": "Gigas-Color",
+          "options_tr": [
+            "Poco X7 PRO 512/12 BLACK",
+            "Poco X7 PRO 512/12 YELLOW",
+            "Poco X7 PRO 512/12 GREEN",
+            "Poco X7 PRO 512/12 IRON MAN",
+            "Poco X7 PRO 256/12 BLACK",
+            "Poco X7 PRO 256/12 YELLOW",
+            "Poco X7 PRO 256/12 Green",
+            "Poco X7 PRO 256/8 Black",
+            "Poco X7 PRO 256/8 Yellow",
+            "Poco X7 PRO 256/8 Green"
+          ],
+          "selling_points": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "selling_points_tr": null
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 2,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 223331000,
+      "raw_discount": 22,
+      "hidden_price_display": null,
+      "price_min": 223331000,
+      "price_max": 392900000,
+      "price_before_discount": 260000000,
+      "price_min_before_discount": 260000000,
+      "price_max_before_discount": 501900000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": true,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "Xiaomi Poco X7 PRO 5G 512GB+12GB RAM, 256GB+12GB RAM Dimensity Processor 8400-Ultra, 50MP Camera, 6000Mah Battery Version",
+      "description_tr": "\nThe Special Edition Iron Man features a custom design and interface, a stylized USB cable (only this variation is included; the power adapter and bluetooth headphones are free gifts), and the other colors are not included.\n\nTechnical Specifications:\nPROCESSOR\nDimensity 8400-Ultra 4 nm manufacturing process\nCPU: Octa-core CPU up to 3.25 GHz GPU: Mali-G720\n\nStorage: 512GB + 12GB RAM\n\nScreen\n6.67\" AMOLED CrystalRes screen. Resolution: 2712 x 1220 (1.5K resolution) Refresh rate: Up to 120 Hz. Touch sampling rate: 480 Hz touch sampling rate, 2560 instant touch sampling rate. Hz, 16X super-resolution touch\n*The 2560 Hz instant touch sampling rate is only compatible with game turbo mode enabled.\n\nREAR CAMERA\n50MP main camera with OISOISf/1.5 aperture, 4-in-1 composition for a super pixel of 1.6μm, 1/1.95\" sensor size, 6PC lens, 8MP ultra-wide-angle camera with f/2.2 aperture, rear camera photography features.\nDynamic captures | Focus of motion tracking | Motion capture | 50 MP mode | Film camera | Portrait Mode | Documents | Night mode | Pro Mode | Panorama | HDR Video recording with the rear camera\n4K video recording: 24 fps/30 fps/60 fps\n1080p video recording: 30/60 fps\n720p video recording: 30fps. Slow motion camera: 1080p at 120fps/240fps/960fps.\nSlow motion: 720p at 120 fps/240 fps/960 fps\nRear camera video features\nDirector Mode | Pro video mode | Video recording format | ShootSteady | Slow motion camera | Dual video | Time lapse\n\nFront camera\n20 MPOV20B front camera (1/4\" sensor size) f/2.2, 4-element lens, soft light ring. | Beautifier with AI | Night mode | Portrait mode. Video recording with the front camera: 1080p at 30 fps, 720p at 30 fps.\n\nBATTERY AND CHARGING\n6000mAh (typ.) 90W Hyper Charge\n90W charger included in the box. USB-C.\nNote: The charger pin design may vary depending on the batch received.\nAnd therefore cannot exchange it.\n\n\nSECURITY\nIn-screen fingerprint Sensor. facial recognition unlock with AI.\n\nNetwork and Connectivity\nDual SIM, dual standby (5G+5G, 5G+4G) Compatible with 5G*/4G/3G/2G\n\nAudio\nDual Dolby Atmos speakers®\n\nSensors\nProximity Sensor | 360° ambient light Sensor° | Accelerometer | Oscillation Sensor | Electronic compass | IR Blaster | Gyroscope | X-axis linear vibration Motor\n\nOperating system\nXiaomi HyperOS 2",
+      "rich_text_description_tr": null,
+      "stock_display": "IN STOCK",
+      "max_quantity_display": "IN STOCK",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": 1707139756,
+      "is_new_user": true,
+      "default_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": "",
+        "town": "",
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": ""
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": {
+        "video_id": "api/v4/11110105/mms/br-11110105-6kfko-m8gdqdbz9cep08.16000081744383851.mp4",
+        "thumb_url": "br-11110105-6kfko-m8gdqdbz9cep08_cover",
+        "duration": 50,
+        "version": 2,
+        "vid": "br-11110105-6kfko-m8gdqdbz9cep08",
+        "formats": [
+          {
+            "format": 1600008,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/br-11110105-6kfko-m8gdqdbz9cep08.16000081744383851.mp4",
+            "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-m8gdqdbz9cep08.16000081744383851.mp4",
+            "width": 640,
+            "height": 360
+          }
+        ],
+        "default_format": {
+          "format": 1600323,
+          "defn": "V540P",
+          "profile": "MP4",
+          "path": "",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-m8gdqdbz9cep08.default.mp4",
+          "width": 640,
+          "height": 360
+        },
+        "mms_data": "{\"vid\":\"br-11110105-6kfko-m8gdqdbz9cep08\",\"biz\":107,\"duration\":49504,\"create_time\":1744383848,\"update_time\":1744383852,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6kfko-m8gdqdbz9cep08_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfko-m8gdqdbz9cep08.16000081744383851.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-m8gdqdbz9cep08.16000081744383851.mp4\",\"width\":640,\"height\":360,\"bitrate\":440885,\"abitrate\":48137,\"size\":3062718,\"fps\":25,\"duration\":49504,\"update_time\":1744383865,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-m8gdqdbz9cep08.default.mp4\",\"width\":640,\"height\":360,\"bitrate\":399676,\"abitrate\":32228,\"size\":2709820,\"fps\":25,\"duration\":49504,\"update_time\":1744384053,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+        "item_cover": null
+      },
+      "images": [
+        "br-11134207-81z1k-mhng7psu5h4z69",
+        "br-11134207-7r98o-m8gbf2mvyhw18c",
+        "br-11134207-7r98o-m8gbf2mvua6pf7",
+        "br-11134207-7r98o-m8gbf2mw1b0xdf",
+        "br-11134207-7r98o-m8gbf2mvonwx50",
+        "br-11134207-7r98o-m8gbf2mvzwghe5",
+        "br-11134207-7r98o-m8gbf2mvq2hd4b",
+        "br-11134207-7r98o-m8gbf2mvvor54a"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "Poco X7 PRO 512/12 PRETO",
+          "image": "br-11134207-7r98o-m8gbf2mw2pld24",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Poco X7 PRO 512/12 BLACK",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-m8gbf2mw2pld24"
+        },
+        {
+          "name": "Poco X7 PRO 512/12 AMARELO",
+          "image": "br-11134207-7r98o-m8gbf2mw445te7",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Poco X7 PRO 512/12 YELLOW",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-m8gbf2mw445te7"
+        },
+        {
+          "name": "Poco X7 PRO 512/12 VERDE",
+          "image": "br-11134207-7r98o-m8gbf2mw6xapa5",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Poco X7 PRO 512/12 GREEN",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-m8gbf2mw6xapa5"
+        },
+        {
+          "name": "Poco X7 PRO 512/12 IRON MAN",
+          "image": "br-11134207-7r98o-m8gbf2mw8bv509",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Poco X7 PRO 512/12 IRON MAN",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-m8gbf2mw8bv509"
+        },
+        {
+          "name": "Poco X7 PRO 256/12 Preto",
+          "image": "br-11134207-7r98o-mbtlzuhnpcnt83",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Poco X7 PRO 256/12 BLACK",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-mbtlzuhnpcnt83"
+        },
+        {
+          "name": "Poco X7 PRO 256/12 Amarelo",
+          "image": "br-11134207-7r98o-mbtlzuhnqr897d",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Poco X7 PRO 256/12 YELLOW",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-mbtlzuhnqr897d"
+        },
+        {
+          "name": "Poco X7 PRO 256/12 Verde",
+          "image": "br-11134207-7r98o-mbtlzuhns5sp6e",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Poco X7 PRO 256/12 Green",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-mbtlzuhns5sp6e"
+        },
+        {
+          "name": "Poco X7 PRO 256/8 Preto",
+          "image": "br-11134207-7r98o-mcas655cpxwrdf",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Poco X7 PRO 256/8 Black",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-mcas655cpxwrdf"
+        },
+        {
+          "name": "Poco X7 PRO 256/8 Amarelo",
+          "image": "br-11134207-7r98o-mcas655crch701",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Poco X7 PRO 256/8 Yellow",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-mcas655crch701"
+        },
+        {
+          "name": "Poco X7 PRO 256/8 Verde",
+          "image": "br-11134207-7r98o-mcas655csr1nb0",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Poco X7 PRO 256/8 Green",
+          "selling_point": "",
+          "selling_point_tr": null,
+          "gallery_image": "br-11134207-7r98o-mcas655csr1nb0"
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "overlay": null,
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            4
+          ],
+          "gallery_image": "br-11134207-7r98o-mbtlzuhnpcnt83"
+        },
+        {
+          "tier_index": [
+            1
+          ],
+          "gallery_image": "br-11134207-7r98o-m8gbf2mw445te7"
+        },
+        {
+          "tier_index": [
+            2
+          ],
+          "gallery_image": "br-11134207-7r98o-m8gbf2mw6xapa5"
+        },
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "br-11134207-7r98o-m8gbf2mw2pld24"
+        },
+        {
+          "tier_index": [
+            3
+          ],
+          "gallery_image": "br-11134207-7r98o-m8gbf2mw8bv509"
+        },
+        {
+          "tier_index": [
+            6
+          ],
+          "gallery_image": "br-11134207-7r98o-mbtlzuhns5sp6e"
+        },
+        {
+          "tier_index": [
+            7
+          ],
+          "gallery_image": "br-11134207-7r98o-mcas655cpxwrdf"
+        },
+        {
+          "tier_index": [
+            5
+          ],
+          "gallery_image": "br-11134207-7r98o-mbtlzuhnqr897d"
+        },
+        {
+          "tier_index": [
+            8
+          ],
+          "gallery_image": "br-11134207-7r98o-mcas655crch701"
+        },
+        {
+          "tier_index": [
+            9
+          ],
+          "gallery_image": "br-11134207-7r98o-mcas655csr1nb0"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": null,
+          "video": {
+            "video_id": "api/v4/11110105/mms/br-11110105-6kfko-m8gdqdbz9cep08.16000081744383851.mp4",
+            "thumb_url": "br-11110105-6kfko-m8gdqdbz9cep08_cover",
+            "duration": 50,
+            "version": 2,
+            "vid": "br-11110105-6kfko-m8gdqdbz9cep08",
+            "formats": [
+              {
+                "format": 1600008,
+                "defn": "V720P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/br-11110105-6kfko-m8gdqdbz9cep08.16000081744383851.mp4",
+                "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-m8gdqdbz9cep08.16000081744383851.mp4",
+                "width": 640,
+                "height": 360
+              }
+            ],
+            "default_format": {
+              "format": 1600323,
+              "defn": "V540P",
+              "profile": "MP4",
+              "path": "",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-m8gdqdbz9cep08.default.mp4",
+              "width": 640,
+              "height": 360
+            },
+            "mms_data": "{\"vid\":\"br-11110105-6kfko-m8gdqdbz9cep08\",\"biz\":107,\"duration\":49504,\"create_time\":1744383848,\"update_time\":1744383852,\"serviceID\":2,\"cover\":\"https://down-bs-br.img.susercontent.com/br-11110105-6kfko-m8gdqdbz9cep08_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfko-m8gdqdbz9cep08.16000081744383851.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-m8gdqdbz9cep08.16000081744383851.mp4\",\"width\":640,\"height\":360,\"bitrate\":440885,\"abitrate\":48137,\"size\":3062718,\"fps\":25,\"duration\":49504,\"update_time\":1744383865,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-m8gdqdbz9cep08.default.mp4\",\"width\":640,\"height\":360,\"bitrate\":399676,\"abitrate\":32228,\"size\":2709820,\"fps\":25,\"duration\":49504,\"update_time\":1744384053,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}",
+            "item_cover": null
+          }
+        },
+        {
+          "image": {
+            "url": "br-11134207-81z1k-mhng7psu5h4z69",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m8gbf2mvyhw18c",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m8gbf2mvua6pf7",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m8gbf2mw1b0xdf",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m8gbf2mvonwx50",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m8gbf2mvzwghe5",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m8gbf2mvq2hd4b",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        },
+        {
+          "image": {
+            "url": "br-11134207-7r98o-m8gbf2mvvor54a",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 28,
+      "installment_info": {
+        "recommended_plan": {
+          "months": 12,
+          "pay_per_month": 18402583,
+          "has_buyer_transaction_fee": true
+        }
+      },
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": 202965000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 280000000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": true,
+      "discount_text": null,
+      "show_final_price_indicator": false,
+      "final_price_vouchers": [
+        {
+          "promotion_id": 1454429786222596,
+          "voucher_code": "1383027839",
+          "is_auto_claimed_just_now": null,
+          "groups": [
+            "BR_FINAL_PRICE_WHITELIST",
+            "__SYSTEM_AUTO_DISPATCH__"
+          ],
+          "voucher_type": 2
+        }
+      ],
+      "has_final_price": true,
+      "final_price_info": {
+        "model_id": 149785302783,
+        "hint_text": "with Pix after voucher",
+        "show_final_price_indicator": false,
+        "final_price_vouchers": {
+          "platform_voucher": {
+            "promotion_id": 1454429786222596,
+            "voucher_code": "1383027839",
+            "is_auto_claimed_just_now": null,
+            "groups": [
+              "BR_FINAL_PRICE_WHITELIST",
+              "__SYSTEM_AUTO_DISPATCH__"
+            ],
+            "voucher_discount_type": 1,
+            "voucher_discount": 2500000
+          },
+          "shop_voucher": null,
+          "ads_voucher": null
+        },
+        "payment_channel_discount": {
+          "pix_discount": {
+            "discount_id": 470693858988179,
+            "snapshot_id": 325103934198074,
+            "discount_amount": 17866000
+          }
+        },
+        "final_price_icon_type": 0
+      },
+      "price_subtext": {
+        "template": "or {price} without a voucher with other payment methods",
+        "format": null,
+        "attributes": [
+          {
+            "type": 2,
+            "key": "price",
+            "value": {
+              "value_str": null,
+              "value_int": 223331000
+            },
+            "format": null,
+            "text_color": null,
+            "text_hex_color": null,
+            "url": null
+          }
+        ],
+        "text_color": null,
+        "text_hex_color": null
+      },
+      "price_model": {
+        "price_single_model_id": 149785302783,
+        "price_min_model_id": null,
+        "price_max_model_id": null
+      },
+      "price_promotion": {
+        "price_single_promotion_id": 482385699491905,
+        "price_single_promotion_type": 202,
+        "price_min_promotion_id": null,
+        "price_min_promotion_type": null,
+        "price_max_promotion_id": null,
+        "price_max_promotion_type": null
+      },
+      "instalment_cta_action": null
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": false,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.926147704590818,
+      "rating_count": [
+        1002,
+        5,
+        4,
+        8,
+        26,
+        959
+      ],
+      "total_rating_count": 1002,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 7279,
+      "cmt_count": 1002,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": null,
+      "historical_sold_display": "1mil+",
+      "global_sold_display": "1mil+",
+      "sold_count_display": "1mil+"
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": {
+        "month": 12,
+        "price_raw": 18402583,
+        "interest": 0,
+        "has_buyer_transaction_fee": true,
+        "display_text": "12x {{price}}"
+      },
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": true,
+        "is_non_cc_installment_payment_eligible": true
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "São Paulo",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 0,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 91003,
+          "name": "Entrega Padrão",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 718000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784947066,
+            "estimated_delivery_date_to": 1784947066,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{label_receive_by_date_exact}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_receive_by_date_exact",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 718000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        },
+        {
+          "channel_id": 90024,
+          "name": "Retire Perto de Você",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 574000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784947066,
+            "estimated_delivery_date_to": 1784947066,
+            "estimated_delivery_time_min": 5,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "",
+            "is_fastest_edt_channel": null,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Get by 24/jul",
+            "formatted_edt_text": [
+              {
+                "template": "{opc_label_receive_by_date_exact_self_collect}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "opc_label_receive_by_date_exact_self_collect",
+                    "value": {
+                      "value_str": "Get by 24/jul",
+                      "value_int": null
+                    },
+                    "format": [],
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": 0,
+          "lowest_bpsf_promotion_rule": {
+            "min_spend": 0,
+            "discount_value": 574000,
+            "is_free_shipping": true,
+            "is_item_eligible": true
+          },
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 0,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":32777,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": "",
+      "pre_selected_shipping_channel": {
+        "channel_id": 91003,
+        "name": "Entrega Padrão",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 718000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1784947066,
+          "estimated_delivery_date_to": 1784947066,
+          "estimated_delivery_time_min": 5,
+          "estimated_delivery_time_max": 5,
+          "delay_message": "",
+          "is_fastest_edt_channel": null,
+          "sla_message": "",
+          "show_edt": false,
+          "edt_text": "Get by 24/jul",
+          "formatted_edt_text": [
+            {
+              "template": "{label_receive_by_date_exact}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "label_receive_by_date_exact",
+                  "value": {
+                    "value_str": "Get by 24/jul",
+                    "value_int": null
+                  },
+                  "format": [],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": 0,
+        "lowest_bpsf_promotion_rule": {
+          "min_spend": 0,
+          "discount_value": 718000,
+          "is_free_shipping": true,
+          "is_item_eligible": true
+        },
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": null,
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": null,
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":5,\"edt_min_hours\":120,\"edt_max_hours\":120,\"edt_min_minutes\":7200,\"edt_max_minutes\":7200,\"edt_display_identifier\":0,\"buyer_address_hash\":\"bFpyLUF\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": true,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": null,
+          "shipping_fee": null,
+          "late_delivery_compensation": null,
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 149785302783,
+      "delivery_address": {
+        "state": "São Paulo",
+        "city": "São Paulo",
+        "district": null,
+        "town": null,
+        "zip_code": "01001-000",
+        "address": null,
+        "region": null,
+        "longitude": -46.6341887,
+        "latitude": -23.5502909,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Discount stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 9,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Other Stock",
+          "value": "IN STOCK",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 10,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Brand",
+          "value": "Xiaomi",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": "/search?brands=1147183",
+          "brand_id": 1147183,
+          "full_url": "https://shopee.com.br/search?brands=1147183",
+          "type": 1,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Type",
+          "value": "Manufacturer Warranty",
+          "id": 100370,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Warranty Type",
+          "value_tr": "Manufacturer Warranty"
+        },
+        {
+          "name": "Warranty Duration",
+          "value": "3 Months",
+          "id": 100121,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Warranty Duration",
+          "value_tr": "3 Months"
+        },
+        {
+          "name": "Model Name",
+          "value": "23122PCD1G",
+          "id": 101040,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Model Name",
+          "value_tr": "23122PCD1G"
+        },
+        {
+          "name": "Registration ID",
+          "value": "175412314550",
+          "id": 101197,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Registration ID",
+          "value_tr": "175412314550"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Xiaomi Communications Co.",
+          "id": 101237,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": "Manufacturer",
+          "value_tr": "Xiaomi Communications Co."
+        },
+        {
+          "name": "Ships From",
+          "value": "São Paulo",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11059988,
+          "display_name": "Mobile & Gadgets",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11060166,
+          "display_name": "Mobile Phones",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 1455642433,
+      "userid": 1456426826,
+      "last_active_time": 1784506370,
+      "vacation": false,
+      "place": "São Paulo, São Paulo",
+      "account": {
+        "portrait": "br-11134216-81z1k-meivqc36wem9ae",
+        "username": "vortexstore25",
+        "status": 1
+      },
+      "is_shopee_verified": false,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": false,
+      "shop_location": "",
+      "item_count": 176,
+      "rating_star": 4.921682,
+      "response_rate": 57,
+      "session_info": null,
+      "name": "Vortex Store,",
+      "ctime": 1737218951,
+      "response_time": 9697,
+      "follower_count": 25941,
+      "show_official_shop_label": false,
+      "rating_bad": 53,
+      "rating_good": 8805,
+      "rating_normal": 89,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": null,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": null,
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": null,
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": false,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": true,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": true,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": {
+      "status": 0
+    },
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": {
+        "price": 202965000
+      },
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        1,
+        0
+      ],
+      "spl": null,
+      "bank": {
+        "channels": [
+          {
+            "channel_ic": "",
+            "channel_name": "label_cc_installment",
+            "is_cc": true,
+            "plans": [
+              {
+                "plan_name": "1x",
+                "duration": 1,
+                "interest_rate": 0,
+                "monthly_payment": 220831000,
+                "total_amount": 220831000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "2x",
+                "duration": 2,
+                "interest_rate": 0,
+                "monthly_payment": 110415500,
+                "total_amount": 220831000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "3x",
+                "duration": 3,
+                "interest_rate": 0,
+                "monthly_payment": 73610333,
+                "total_amount": 220831000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "4x",
+                "duration": 4,
+                "interest_rate": 0,
+                "monthly_payment": 55207750,
+                "total_amount": 220831000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "5x",
+                "duration": 5,
+                "interest_rate": 0,
+                "monthly_payment": 44166200,
+                "total_amount": 220831000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "6x",
+                "duration": 6,
+                "interest_rate": 0,
+                "monthly_payment": 36805166,
+                "total_amount": 220831000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "7x",
+                "duration": 7,
+                "interest_rate": 0,
+                "monthly_payment": 31547285,
+                "total_amount": 220831000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "8x",
+                "duration": 8,
+                "interest_rate": 0,
+                "monthly_payment": 27603875,
+                "total_amount": 220831000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "9x",
+                "duration": 9,
+                "interest_rate": 0,
+                "monthly_payment": 24536777,
+                "total_amount": 220831000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "10x",
+                "duration": 10,
+                "interest_rate": 0,
+                "monthly_payment": 22083100,
+                "total_amount": 220831000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "11x",
+                "duration": 11,
+                "interest_rate": 0,
+                "monthly_payment": 20075545,
+                "total_amount": 220831000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              },
+              {
+                "plan_name": "12x",
+                "duration": 12,
+                "interest_rate": 0,
+                "monthly_payment": 18402583,
+                "total_amount": 220831000,
+                "has_buyer_transaction_fee": true,
+                "disabled_reason": null
+              }
+            ],
+            "banks": null,
+            "plan_groups": null
+          }
+        ]
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": {
+      "price": {
+        "single_value": 202965000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 280000000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "discount_breakdown": [
+        {
+          "type": 0,
+          "price_source": "Product Discount",
+          "discount_amount": 56669000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": null,
+          "icon_type": null
+        },
+        {
+          "type": 3,
+          "price_source": "Voucher Discount",
+          "discount_amount": 2500000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": {
+            "min_spend": 20000000,
+            "discount_type": 1,
+            "discount_value": null,
+            "discount_percentage": "5"
+          },
+          "ads_voucher": null,
+          "breakdown_text": {
+            "template": "Buy {min_spend} get {discount_percentage} off",
+            "format": null,
+            "attributes": [
+              {
+                "type": 2,
+                "key": "min_spend",
+                "value": {
+                  "value_str": null,
+                  "value_int": 20000000
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              },
+              {
+                "type": 1,
+                "key": "discount_percentage",
+                "value": {
+                  "value_str": "5%",
+                  "value_int": null
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              }
+            ],
+            "text_color": null,
+            "text_hex_color": null
+          },
+          "icon_type": 0
+        },
+        {
+          "type": 4,
+          "price_source": "Pix Discount",
+          "discount_amount": 17866000,
+          "exclusive_price": null,
+          "shop_voucher": null,
+          "platform_voucher": null,
+          "ads_voucher": null,
+          "breakdown_text": null,
+          "icon_type": null
+        }
+      ]
+    },
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "A Edição especial Iron Man  conta com design e interface personalizada cabo USB estilizado ( apenas estava variação acompanha a Fonte e o Fone bluetooth de brinde) as demais cores não acompanham",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "ESPECIFICAÇÕES TÉCNICAS:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Processador",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Dimensity 8400-UltraProcesso de fabricação de 4 nm",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "CPU: CPU de oito núcleos de até 3,25 GHzGPU: Mali-G720",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Armazenamento: 512GB + 12GB RAM",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Tela",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Tela AMOLED CrystalRes de 6,67\"Resolução: 2712 x 1220 (resolução de 1,5K)Taxa de atualização: Até 120 HzTaxa de amostragem de toque: Taxa de amostragem de toque de 480 Hz, taxa de amostragem de toque instantâneo de 2560 Hz, super-resolução de toque de 16X",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "*A taxa de amostragem de toque instantâneo de 2560 Hz é compatível apenas com o modo turbo de jogo ativado.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Câmera traseira",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Câmera principal de 50 MP com OISOISf/1,5Compartimentação 4 em 1 para um super pixel de 1,6 μmTamanho do sensor de 1/1,95\"Lente 6PCâmera ultra-angular de 8 MPf/2,2Recursos de fotografia da câmera traseira",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Capturas dinâmicas | Foco do rastreamento de movimentos | Captura de movimento | Modo 50 MP | Câmera de filme | Modo retrato | Documentos | Modo noturno | Modo Pro | Panorama | HDRGravação de vídeo com a câmera traseira",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Gravação de vídeo em 4K: 24 fps/30 fps/60 fps",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Gravação de vídeo em 1080p: 30/60 fps",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Gravação de vídeo em 720p: 30fpsCâmera lenta: 1080p a 120 fps/240 fps/960 fps",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Câmera lenta: 720p a 120 fps/240 fps/960 fps",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Recursos de vídeo da câmera traseira",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Modo Diretor | Modo pro de vídeo | Formato de registro de vídeo | ShootSteady | Câmera lenta | Vídeo duplo | Lapso de tempo",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Câmera frontal",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Câmera frontal de 20 MPOV20B (tamanho do sensor de 1/4\")f/2,2Lente 4pAnel de luz suave | Embelezador com IA | Modo noturno | Modo retratoGravação de vídeo com a câmera frontal1080p a 30 fps720p a 30 fps",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Bateria e carregamento",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "6000mAh (típ.) Hyper Charge de 90 W",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Carregador de 90 W incluso na caixaUSB-C",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "OBS: o formato do pino carregador pode variar dependendo do lote recebido,",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "não podendo realizar a troca do mesmo.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 2
+        },
+        {
+          "type": 0,
+          "text": "Segurança",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Sensor de impressão digital na telaDesbloqueio por reconhecimento facial com AI",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Rede e conectividade",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Dual SIM，dual standby（5G+5G，5G+4G）Compatível com 5G*/4G/3G/2G",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Áudio",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Alto-falantes duplosDolby Atmos®",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Sensores",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Sensor de proximidade | Sensor de luz ambiente 360° | Acelerômetro | Sensor de oscilação | Bússola eletrônica | IR Blaster | Giroscópio | Motor de vibração linear do eixo X",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Sistema operacional",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Xiaomi HyperOS 2",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": null,
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "The Special Edition Iron Man features a custom design and interface, a stylized USB cable (only this variation is included; the power adapter and bluetooth headphones are free gifts), and the other colors are not included.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Technical Specifications:",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "PROCESSOR",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Dimensity 8400-Ultra 4 nm manufacturing process",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "CPU: Octa-core CPU up to 3.25 GHz GPU: Mali-G720",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Storage: 512GB + 12GB RAM",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Screen",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "6.67\" AMOLED CrystalRes screen. Resolution: 2712 x 1220 (1.5K resolution) Refresh rate: Up to 120 Hz. Touch sampling rate: 480 Hz touch sampling rate, 2560 instant touch sampling rate. Hz, 16X super-resolution touch",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "*The 2560 Hz instant touch sampling rate is only compatible with game turbo mode enabled.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "REAR CAMERA",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "50MP main camera with OISOISf/1.5 aperture, 4-in-1 composition for a super pixel of 1.6μm, 1/1.95\" sensor size, 6PC lens, 8MP ultra-wide-angle camera with f/2.2 aperture, rear camera photography features.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Dynamic captures | Focus of motion tracking | Motion capture | 50 MP mode | Film camera | Portrait Mode | Documents | Night mode | Pro Mode | Panorama | HDR Video recording with the rear camera",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "4K video recording: 24 fps/30 fps/60 fps",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1080p video recording: 30/60 fps",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "720p video recording: 30fps. Slow motion camera: 1080p at 120fps/240fps/960fps.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Slow motion: 720p at 120 fps/240 fps/960 fps",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Rear camera video features",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Director Mode | Pro video mode | Video recording format | ShootSteady | Slow motion camera | Dual video | Time lapse",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Front camera",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "20 MPOV20B front camera (1/4\" sensor size) f/2.2, 4-element lens, soft light ring. | Beautifier with AI | Night mode | Portrait mode. Video recording with the front camera: 1080p at 30 fps, 720p at 30 fps.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "BATTERY AND CHARGING",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "6000mAh (typ.) 90W Hyper Charge",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "90W charger included in the box. USB-C.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Note: The charger pin design may vary depending on the batch received.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "And therefore cannot exchange it.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 2
+        },
+        {
+          "type": 0,
+          "text": "SECURITY",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "In-screen fingerprint Sensor. facial recognition unlock with AI.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Network and Connectivity",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Dual SIM, dual standby (5G+5G, 5G+4G) Compatible with 5G*/4G/3G/2G",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Audio",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Dual Dolby Atmos speakers®",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Sensors",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Proximity Sensor | 360° ambient light Sensor° | Accelerometer | Oscillation Sensor | Electronic compass | IR Blaster | Gyroscope | X-axis linear vibration Motor",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Operating system",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Xiaomi HyperOS 2",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": null
+  }
+}

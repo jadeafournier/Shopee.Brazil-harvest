@@ -1,0 +1,12 @@
+14:18:49 ANON guest start cap=Y
+14:18:49 proxy …ão Paulo-city-Barueri-sid-8pVnbdr6-t-120
+14:18:59 guest keys=[] SPC_U=N CERT=N
+14:18:59 goto[0] …ps://shopee.com.br/product/778397589/49711645046
+14:19:11 get_pc err=90309999 keys=0 guest
+14:19:12 traffic/error
+14:19:12 miss fail=2
+14:19:12 goto[1] …ps://shopee.com.br/product/778397589/44711640350
+14:19:23 get_pc err=90309999 keys=0 guest
+14:19:24 traffic/error
+14:19:24 miss fail=4
+14:19:24 ANON done ok=0 fail=4

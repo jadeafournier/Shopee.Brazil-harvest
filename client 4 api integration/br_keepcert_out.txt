@@ -1,0 +1,38 @@
+05:05:59 KEEP start n=621/1000
+05:05:59 jars=['br_1706801030_ydvUxsIK_live.json', 'br_5196720216_hsRjFTxp_live.json', 'br_1706784820_OUk7hm0A_live.json', 'br_1706785017_CoOHjjSQ_live.json', 'br_scale_live.json', 'br_mint_1784805623.json', 'br_mint_1784760114.json', 'br_1707408898_LAxNlL5a_live.json', 'br_1705283243_F3zrbhjv_live.json', 'br_1707407334_mRNUQARQ_live.json']
+05:05:59 pending=45562
+05:05:59 SHIFT br_1706801030_ydvUxsIK_live.json strip=False SPC_U=1706801030 cert=Y sub=...hia-city-Salvador-sid-eVx8OqDo-t-120
+05:06:08 goto[0] …ps://shopee.com.br/product/980944158/26142163515
+05:06:18 get_pc err=90309999 keys=0
+05:06:18 FATAL traffic/error
+05:06:18 miss fail=1
+05:06:20 done ok=0 fail=1 fatal=True total=621 cert=Y
+05:06:49 progress 621/1000 idle=1 cursor=8
+05:06:49 SHIFT br_5196720216_hsRjFTxp_live.json strip=False SPC_U=5196720216 cert=Y sub=...ulo-city-Campinas-sid-a6z71gRC-t-120
+05:07:00 goto[0] …s://shopee.com.br/product/1333653326/23098907996
+05:07:57 miss fail=1
+05:07:59 goto[1] …s://shopee.com.br/product/1797256139/58213415326
+05:08:04 parse Error
+05:08:48 get_pc err=90309999 keys=0
+05:09:03 miss fail=2
+05:09:06 goto[2] …s://shopee.com.br/product/1343318906/44060160263
+05:10:06 miss fail=3
+05:10:10 goto[3] …s://shopee.com.br/product/1082747237/23398022362
+05:10:32 get_pc err=90309999 keys=0
+05:10:47 get_pc err=90309999 keys=0
+05:11:08 miss fail=4
+05:11:08 done ok=0 fail=4 fatal=False total=621 cert=Y
+05:11:40 progress 621/1000 idle=2 cursor=16
+05:11:40 SHIFT br_1706784820_OUk7hm0A_live.json strip=True SPC_U=1706784820 cert=N sub=...aná-city-Curitiba-sid-sYblz5g1-t-120
+05:12:03 goto[0] …s://shopee.com.br/product/1761549153/58261222104
+05:12:24 get_pc err=90309999 keys=0
+05:12:24 FATAL traffic/error
+05:12:24 miss fail=1
+05:12:27 done ok=0 fail=1 fatal=True total=621 cert=N
+05:13:02 progress 621/1000 idle=3 cursor=24
+05:13:02 SHIFT br_1706785017_CoOHjjSQ_live.json strip=False SPC_U=1706785017 cert=Y sub=...lo-city-São Paulo-sid-ZCiRLvH3-t-120
+05:13:10 goto[0] …s://shopee.com.br/product/1748898465/58207066524
+05:13:33 get_pc err=90309999 keys=0
+05:13:33 FATAL traffic/error
+05:13:33 miss fail=1
+05:13:36 done ok=0 fail=1 fatal=True total=621 cert=Y

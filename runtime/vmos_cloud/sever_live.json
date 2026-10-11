@@ -1,0 +1,78 @@
+{
+  "running": true,
+  "updated_at": "2026-10-10T19:19:16Z",
+  "folder": "D:\\Luxury\\Great Scraper2\\Great Scraper\\Shopee.Brazil\\Upload",
+  "download": "D:\\Luxury\\Great Scraper2\\Great Scraper\\Shopee.Brazil\\Download",
+  "mode": "auto",
+  "tasks": 0,
+  "tasks_at": "2026-10-10T19:19:16Z",
+  "samples": [],
+  "local_products": 7918,
+  "sent": 8897,
+  "pending": 0,
+  "upload_fail": 0,
+  "recent": [
+    {
+      "at": "2026-10-09T11:49:50Z",
+      "file": "989859741_23591246543.json",
+      "result": "saved"
+    },
+    {
+      "at": "2026-10-09T11:49:50Z",
+      "file": "987528086_22893338588.json",
+      "result": "saved"
+    },
+    {
+      "at": "2026-10-09T11:49:50Z",
+      "file": "973600877_19797515201.json",
+      "result": "saved"
+    },
+    {
+      "at": "2026-10-09T11:49:50Z",
+      "file": "973441051_23497305663.json",
+      "result": "saved"
+    },
+    {
+      "at": "2026-10-09T11:49:50Z",
+      "file": "972515018_57412620197.json",
+      "result": "saved"
+    },
+    {
+      "at": "2026-10-09T11:49:50Z",
+      "file": "972840792_58217046220.json",
+      "result": "saved"
+    },
+    {
+      "at": "2026-10-09T11:49:50Z",
+      "file": "972515018_23798136056.json",
+      "result": "saved"
+    },
+    {
+      "at": "2026-10-09T11:49:50Z",
+      "file": "969401129_26738782022.json",
+      "result": "saved"
+    },
+    {
+      "at": "2026-10-09T11:49:50Z",
+      "file": "970471374_22996948415.json",
+      "result": "saved"
+    },
+    {
+      "at": "2026-10-09T11:49:50Z",
+      "file": "972476370_23598286152.json",
+      "result": "saved"
+    },
+    {
+      "at": "2026-10-09T11:49:50Z",
+      "file": "971007182_23793334537.json",
+      "result": "saved"
+    },
+    {
+      "at": "2026-10-09T11:49:45Z",
+      "file": "968911796_58263992463.json",
+      "result": "saved"
+    }
+  ],
+  "harvest": "waiting",
+  "note": "Waiting for the server list. New product files upload as they are saved."
+}

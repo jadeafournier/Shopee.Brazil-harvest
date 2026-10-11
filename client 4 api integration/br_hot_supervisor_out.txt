@@ -1,0 +1,58 @@
+14:02:37 supervisor n=627 spawn hot_burst
+14:02:37 HOT start n=627/1000
+14:02:37 accounts=['br_1705283243_F3zrbhjv_live.json', 'br_1705283243.json', 'br_1707407334_mRNUQARQ_live.json', 'br_5196720216_hsRjFTxp_live.json', 'br_1706801030_ydvUxsIK_live.json', 'br_1706785017_CoOHjjSQ_live.json', 'br_1706784820_OUk7hm0A_live.json', 'br_1707139756_0EAyNQaW_live.json']
+14:02:37 pending=45556
+14:02:37 BURST br_1705283243_F3zrbhjv_live.json SPC_U=1705283243 n=50 sub=...ty-Rio de Janeiro-sid-irRSm56P-t-120
+14:03:02 goto[0] …ps://shopee.com.br/product/778397589/49711645046
+14:04:12 miss fail=1
+14:04:13 goto[1] …ps://shopee.com.br/product/778397589/44711640350
+14:05:26 miss fail=2
+14:05:27 goto[2] …s://shopee.com.br/product/1333653326/23098907996
+14:05:37 n=627
+14:05:47 goto Error
+14:06:37 miss fail=3
+14:06:37 burst done ok=0 fail=3 fatal=True/cold_start total=627 cert=N
+14:06:38 cool br_1705283243_F3zrbhjv_live.json 45m (cold_start)
+14:07:05 progress 627/1000 idle=1 cursor=50
+14:07:05 BURST br_1705283243.json SPC_U=1705283243 n=50 sub=...aulo-city-Barueri-sid-sRgilAje-t-120
+14:07:27 goto[0] …ps://shopee.com.br/product/368301283/23694163982
+14:08:05 get_pc err=90309999 keys=0
+14:08:20 miss fail=1
+14:08:20 goto[1] …s://shopee.com.br/product/1006215031/41082069900
+14:08:33 get_pc err=90309999 keys=0
+14:08:58 get_pc err=90309999 keys=0
+14:09:11 miss fail=2
+14:09:12 goto[2] …s://shopee.com.br/product/1064228203/23298202027
+14:09:32 get_pc err=90309999 keys=0
+14:10:04 miss fail=3
+14:10:04 burst done ok=0 fail=3 fatal=True/cold_start total=627 cert=N
+14:10:04 cool br_1705283243.json 45m (cold_start)
+14:10:07 n=627
+14:10:33 progress 627/1000 idle=2 cursor=100
+14:10:33 BURST br_1707407334_mRNUQARQ_live.json SPC_U=1707407334 n=50 sub=...ty-Belo Horizonte-sid-db2cl2TV-t-120
+14:10:43 goto[0] …s://shopee.com.br/product/1383434437/58263989773
+14:11:05 get_pc err=90309999 keys=0
+14:11:21 get_pc err=90309999 keys=0
+14:11:34 miss fail=1
+14:11:35 goto[1] …s://shopee.com.br/product/1302683440/19597785304
+14:11:51 get_pc err=90309999 keys=0
+14:12:10 get_pc err=90309999 keys=0
+14:12:22 get_pc err=90309999 keys=0
+14:12:28 miss fail=2
+14:12:29 goto[2] …ps://shopee.com.br/product/352075372/23592796277
+14:12:36 get_pc err=90309999 keys=0
+14:12:49 get_pc err=90309999 keys=0
+14:13:05 get_pc err=90309999 keys=0
+14:13:20 miss fail=3
+14:13:20 burst done ok=0 fail=3 fatal=True/cold_start total=627 cert=N
+14:13:20 cool br_1707407334_mRNUQARQ_live.json 45m (cold_start)
+14:13:51 progress 627/1000 idle=3 cursor=150
+14:13:51 BURST br_5196720216_hsRjFTxp_live.json SPC_U=5196720216 n=50 sub=...ty-Rio de Janeiro-sid-AHdYG2z1-t-120
+14:14:04 goto[0] …s://shopee.com.br/product/1355212992/23093394247
+14:14:20 get_pc err=90309999 keys=0
+14:14:37 get_pc err=90309999 keys=0
+14:14:55 miss fail=1
+14:14:56 goto[1] …ps://shopee.com.br/product/873865538/22594542444
+14:15:07 get_pc err=90309999 keys=0
+14:15:19 get_pc err=90309999 keys=0
+14:15:22 n=627

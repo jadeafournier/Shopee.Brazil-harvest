@@ -1,0 +1,46 @@
+{
+  "fresh_at": 1791651839.0123317,
+  "phones": {
+    "3": {
+      "saved": 0,
+      "miss": 0,
+      "pos": 870,
+      "last": "",
+      "last_sec": null,
+      "fresh_at": 1791651839.0123806
+    },
+    "2": {
+      "saved": 0,
+      "miss": 0,
+      "pos": 3096686,
+      "last": "",
+      "last_sec": null,
+      "fresh_at": 1791651841.6318097
+    },
+    "1": {
+      "saved": 0,
+      "miss": 0,
+      "pos": 1226371,
+      "last": "",
+      "last_sec": null,
+      "fresh_at": 1791651841.6419768
+    },
+    "0": {
+      "saved": 0,
+      "miss": 0,
+      "pos": 3173245,
+      "last": "",
+      "last_sec": null,
+      "fresh_at": 1791651841.6504762
+    },
+    "4": {
+      "saved": 0,
+      "miss": 0,
+      "pos": 0,
+      "last": "",
+      "last_sec": null,
+      "fresh_at": 1791651841.6628394
+    }
+  },
+  "upload_sent_baseline": 8897
+}

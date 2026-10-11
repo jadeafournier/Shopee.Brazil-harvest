@@ -1,0 +1,4 @@
+[04:37:37] rotated 50 proxies across 10 cities
+[04:37:38] W0 start n=618/1000 jar_pref=None
+[04:37:38] W0 pending_shard=11364 using br_1706801030_ydvUxsIK_live.json
+[04:37:39] W0 shift jar=br_1706801030_ydvUxsIK_live.json SPC_U=1706801030 urls=40 sub=...aná-city-Curitiba-sid-EQt1d5VG-t-120

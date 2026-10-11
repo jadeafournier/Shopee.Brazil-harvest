@@ -1,0 +1,20 @@
+14:01:02 HOT start n=622/1000
+14:01:02 accounts=['br_1705283243_F3zrbhjv_live.json', 'br_1705283243.json', 'br_1707407334_mRNUQARQ_live.json', 'br_5196720216_hsRjFTxp_live.json', 'br_1706801030_ydvUxsIK_live.json', 'br_1706785017_CoOHjjSQ_live.json', 'br_1706784820_OUk7hm0A_live.json', 'br_1707139756_0EAyNQaW_live.json']
+14:01:02 pending=45561
+14:01:02 BURST br_1705283243_F3zrbhjv_live.json SPC_U=1705283243 n=50 sub=...ty-Belo Horizonte-sid-qzLnJWeZ-t-120
+14:01:12 goto[0] …s://shopee.com.br/product/1808715181/58209420568
+14:01:27 get_pc err=None keys=103
+14:01:28 OK +1 shift=1 total=623
+14:01:29 goto[1] …ps://shopee.com.br/product/395237078/23694444548
+14:01:45 get_pc err=None keys=103
+14:01:45 OK +1 shift=2 total=624
+14:01:46 goto[2] …s://shopee.com.br/product/1802639857/23995020340
+14:01:59 get_pc err=None keys=103
+14:01:59 OK +1 shift=3 total=625
+14:02:00 goto[3] …s://shopee.com.br/product/1263417865/23194354372
+14:02:09 get_pc err=None keys=103
+14:02:09 OK +1 shift=4 total=626
+14:02:10 goto[4] …ps://shopee.com.br/product/627813180/23395062364
+14:02:28 get_pc err=None keys=103
+14:02:28 OK +1 shift=5 total=627
+14:02:29 goto[5] …ps://shopee.com.br/product/778397589/49711645046

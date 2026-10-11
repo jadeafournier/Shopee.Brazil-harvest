@@ -1,0 +1,24 @@
+15:19:37 supervisor n=627 spawn anon_cert
+15:19:37 ANON_CERT start n=627/1000
+15:19:37 devices=1 ['br_test']
+15:19:37 pending=45556
+15:19:37 BURST br_test SPC_U=N remint_cert n=80 sub=...aulo-city-Barueri-sid-zt0iUVcw-t-120
+15:20:37 n=627
+15:21:01 no remint cert yet keys=['REC7iLP4Q', 'REC_T_ID', 'SPC_CDS_CHAT', 'SPC_CLIENTID', 'SPC_F', 'SPC_R_T_ID', 'SPC_R_T_IV', 'SPC_SEC_SI', 'SPC_SI', 'SPC_ST', 'SPC_T_ID', 'SPC_T_IV']
+15:21:01 goto[0] …ps://shopee.com.br/product/778397589/49711645046
+15:21:24 get_pc err=90309999 keys=0
+15:21:24 FATAL need_app_sign
+15:21:34 get_pc err=90309999 keys=0
+15:21:34 FATAL need_app_sign
+15:21:43 get_pc err=90309999 keys=0
+15:21:43 FATAL need_app_sign
+15:21:52 burst done ok=0 fail=0 fatal=True/need_app_sign total=627
+15:21:53 cool br_test 2400s (need_app_sign)
+15:21:53 minting fresh AC_CERT…
+  [mint BR #1] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #2] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #3] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #4] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #5] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+  [mint BR #6] host=us.1024proxy.io state=product reason=no_captcha_state:product 
+15:23:03 mint ok=False reason=no_captcha_state:product cert=True

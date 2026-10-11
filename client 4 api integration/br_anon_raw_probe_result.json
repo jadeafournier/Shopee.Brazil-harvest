@@ -1,0 +1,59 @@
+{
+  "mode": "anonymous_no_SPC_U",
+  "results": [
+    {
+      "url": "https://shopee.com.br/product/395237078/22498391636",
+      "hits": [
+        {
+          "err": 90309999,
+          "is_login": null,
+          "item_keys": 0,
+          "data_keys": 0,
+          "price": null,
+          "models": 0
+        }
+      ],
+      "page_url": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_in=false&next=https%3A%2F%2Fshopee.com.br%2Fproduct%2F395237078%2F22498391636&tracking_id=1056067de9f-aa7b-4e70-89d6-ed97d17f91d8&type=4"
+    },
+    {
+      "url": "https://shopee.com.br/product/1673405419/58257432419",
+      "hits": [
+        {
+          "err": 90309999,
+          "is_login": null,
+          "item_keys": 0,
+          "data_keys": 0,
+          "price": null,
+          "models": 0
+        }
+      ],
+      "page_url": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_in=false&next=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1673405419%2F58257432419&tracking_id=99629657a3-4e49-4305-874c-7b3da05f846b&type=4"
+    }
+  ],
+  "final_cookies": [
+    "REC7iLP4Q",
+    "REC_T_ID",
+    "SPC_CDS_CHAT",
+    "SPC_CLIENTID",
+    "SPC_F",
+    "SPC_R_T_ID",
+    "SPC_R_T_IV",
+    "SPC_SEC_SI",
+    "SPC_SI",
+    "SPC_T_ID",
+    "SPC_T_IV",
+    "_QPWSDCXHZQA",
+    "_fbp",
+    "_ga",
+    "_ga_T69DLR1QPG",
+    "_gcl_au",
+    "_med",
+    "_sapid",
+    "csrftoken",
+    "ds",
+    "language",
+    "sense_sa_r",
+    "shopee_webUnique_ccd",
+    "ssr-tz"
+  ]
+}

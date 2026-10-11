@@ -1,0 +1,10 @@
+virgin keys ['language', 'ssr-tz']
+proxy gdxc12191-region-BR-st-São Paulo-city-São Paulo-sid-WyoOq3FC-t-120
+warm…
+url https://shopee.com.br/
+after warm cert False nck 4
+goto 0 ttps://shopee.com.br/product/980944158/26142163515
+get_pc err=90309999 keys=0
+te
+VIRGIN_DONE saved 0 total 621
+persisted virgin jar

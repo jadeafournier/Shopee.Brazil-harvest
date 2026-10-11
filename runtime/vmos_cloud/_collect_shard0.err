@@ -1,0 +1,33 @@
+Traceback (most recent call last):
+  File "D:\Luxury\Great Scraper2\Great Scraper\client 4 api integration\br_emulator\vmos_app_capture.py", line 1981, in <module>
+    if __name__ == "__main__":
+                         ^^^^^
+  File "D:\Luxury\Great Scraper2\Great Scraper\client 4 api integration\br_emulator\vmos_app_capture.py", line 1961, in main
+        targets = targets[: args.limit]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        rotate_region=rotate_region,
+    
+  File "D:\Luxury\Great Scraper2\Great Scraper\client 4 api integration\br_emulator\vmos_app_capture.py", line 1854, in capture_many
+    _log(f"  {miss_run}건 연속 미저장 — 다음 보관 세션으로 전환")
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Luxury\Great Scraper2\Great Scraper\client 4 api integration\br_emulator\vmos_app_capture.py", line 1305, in switch_saved_session
+    continue
+  File "D:\Luxury\Great Scraper2\Great Scraper\client 4 api integration\br_emulator\vmos_app_capture.py", line 1240, in restore_session
+    _log(f"  세션 복원 시작 userid={userid}")
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Luxury\Great Scraper2\Great Scraper\client 4 api integration\br_emulator\vmos_app_capture.py", line 241, in _sh
+    p = _adb(serial, "shell", cmd, timeout=timeout)
+  File "D:\Luxury\Great Scraper2\Great Scraper\client 4 api integration\br_emulator\vmos_app_capture.py", line 234, in _adb
+    return subprocess.run(
+           ~~~~~~~~~~~~~~^
+        [vmos_cloud.adb_bin(), "-s", serial, *args],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        capture_output=True, text=True, timeout=timeout, encoding="utf-8", errors="replace",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "subprocess.py", line 557, in run
+  File "subprocess.py", line 1221, in communicate
+  File "subprocess.py", line 1664, in _communicate
+subprocess.TimeoutExpired: Command '['D:\\Luxury\\Great Scraper2\\Great Scraper\\emu_setup\\platform-tools\\adb.exe', '-s', 'localhost:64759', 'shell', 'am force-stop com.shopee.br']' timed out after 30 seconds

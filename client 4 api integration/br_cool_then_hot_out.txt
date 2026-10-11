@@ -1,0 +1,17 @@
+14:18:16 cooling 3120s…
+15:10:16 cool done — launch single hot supervisor
+15:10:16 supervisor boot n=627 settle 180s
+15:13:16 supervisor n=627 spawn hot_burst
+15:13:16 HOT start n=627/1000
+15:13:16 accounts=['br_1705283243_F3zrbhjv_live.json', 'br_1705283243.json', 'br_1707407334_mRNUQARQ_live.json', 'br_5196720216_hsRjFTxp_live.json', 'br_1706801030_ydvUxsIK_live.json', 'br_1706785017_CoOHjjSQ_live.json', 'br_1706784820_OUk7hm0A_live.json', 'br_1707139756_0EAyNQaW_live.json']
+15:13:16 pending=45556
+15:13:16 BURST br_1705283243_F3zrbhjv_live.json SPC_U=1705283243 n=80 quota=55 sub=...ty-Belo Horizonte-sid-KXZhxCna-t-120
+15:13:25 goto[0] …ps://shopee.com.br/product/778397589/49711645046
+15:13:44 get_pc err=90309999 keys=0
+15:13:44 FATAL need_app_sign 90309999
+15:14:08 get_pc err=90309999 keys=0
+15:14:08 FATAL need_app_sign 90309999
+15:14:16 miss fail=1
+15:14:16 burst done ok=0 fail=1 fatal=True/need_app_sign total=627 cert=N
+15:14:17 cool br_1705283243_F3zrbhjv_live.json (need_app_sign)
+15:14:17 fleet cool 3600s — stop thrashing

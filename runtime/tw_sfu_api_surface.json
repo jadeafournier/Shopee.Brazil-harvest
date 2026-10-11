@@ -1,0 +1,69 @@
+{
+  "keys": [
+    "adPost",
+    "antiFraudSubaccountCheck",
+    "fetch",
+    "fetchInfo",
+    "formPost",
+    "genericHttp",
+    "get",
+    "getLongToken",
+    "getWebDeviceFingerprint",
+    "http",
+    "initSecuritySdk",
+    "jsonPost",
+    "makeFullUrl",
+    "onFailHandler",
+    "post",
+    "postFetchHandler",
+    "postForm",
+    "remaskSfuError",
+    "simplePost",
+    "syncPost",
+    "utilFetch"
+  ],
+  "probes": {
+    "initSecuritySdk": {
+      "type": "function",
+      "len": 0
+    },
+    "getLongToken": {
+      "type": "function",
+      "len": 0
+    },
+    "getWebDeviceFingerprint": {
+      "type": "function",
+      "len": 0
+    },
+    "makeFullUrl": {
+      "type": "function",
+      "len": 1
+    },
+    "fetch": {
+      "type": "function",
+      "len": 1
+    },
+    "http": {
+      "type": "function",
+      "len": 0
+    }
+  },
+  "init": {
+    "sync": true,
+    "type": "undefined",
+    "val": "undefined"
+  },
+  "longToken": {
+    "async": true,
+    "type": "string",
+    "str": "JxcBAAAABAAAAIAAAC7NSFQRKQBNXLAw1zYUeoLt9twv8RCLn5DqvCBdcar8IUsi7igItOgT2RX9GIldEiOig9iRCl885vEVYsBf4dsPMK5OW72FdPy3ZZlJLKiP00reWPxwJx3uXagD5/yfCyWSLA+kVPHLP84c"
+  },
+  "fp": {
+    "type": "string",
+    "str": "JxcBAAAABAAAAIAAAAe9cNSOrABNXLBPtGzkMqRUaX7+M1P8pnPoq8GHkXAupj/8mf8YMr61CPxpdATK1UhblgaFrngJHfI9NSQ3rbgM1HJsUu4VeKhnSHVF"
+  },
+  "docHas": {
+    "SPC_U": true,
+    "SPC_ST": true
+  }
+}

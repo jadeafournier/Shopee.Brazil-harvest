@@ -1,0 +1,79 @@
+{
+  "sfu": {
+    "ok": true,
+    "mid": "95270",
+    "chunks": [
+      {
+        "k": "webpackChunkshopee_pc",
+        "n": 609,
+        "sample": [
+          "104",
+          "156",
+          "295",
+          "811",
+          "1004",
+          "1009",
+          "1284",
+          "1484"
+        ]
+      },
+      {
+        "k": "webpackChunk_shopee_pc_homepage",
+        "n": 130,
+        "sample": [
+          "6",
+          "146",
+          "244",
+          "276",
+          "322",
+          "329",
+          "375",
+          "574"
+        ]
+      },
+      {
+        "k": "webpackChunkwpJsonpPcmallBuyernotidesktopdefault",
+        "n": 53,
+        "sample": [
+          "28",
+          "174",
+          "211",
+          "696",
+          "1176",
+          "1213",
+          "1419",
+          "1518"
+        ]
+      }
+    ],
+    "tried": [
+      {
+        "mid": "95270",
+        "ok": true,
+        "type": "object",
+        "keys": [
+          "adPost",
+          "antiFraudSubaccountCheck",
+          "fetch",
+          "fetchInfo",
+          "formPost",
+          "genericHttp",
+          "get",
+          "getLongToken",
+          "getWebDeviceFingerprint",
+          "http",
+          "initSecuritySdk",
+          "jsonPost"
+        ]
+      }
+    ]
+  },
+  "getpc": {
+    "error": 90309999,
+    "hasItem": false,
+    "full": [],
+    "price_max": null,
+    "shipping": false,
+    "is_login": null
+  }
+}

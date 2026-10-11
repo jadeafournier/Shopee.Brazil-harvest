@@ -1,0 +1,187 @@
+04:53:44 parallel start n=621 workers=3
+04:53:45 pending 45562
+04:53:45 w0 shift i=12 n=621 acc=br_1706801030_ydvUxs
+04:53:45 w1 shift i=12 n=621 acc=br_1706785017_CoOHjj
+04:53:45 w2 shift i=12 n=621 acc=br_1706784820_OUk7hm
+04:54:42 w2 done saved=0 fails=3 n=621
+04:54:44 w1 done saved=0 fails=3 n=621
+04:54:47 w2 shift i=24 n=621 acc=br_1706784820_OUk7hm
+04:54:48 w1 shift i=24 n=621 acc=br_1706785017_CoOHjj
+04:55:22 w0 done saved=0 fails=3 n=621
+04:55:26 w0 shift i=24 n=621 acc=br_1706801030_ydvUxs
+04:56:04 w1 done saved=0 fails=3 n=621
+04:56:09 w1 shift i=36 n=621 acc=br_1706785017_CoOHjj
+04:56:41 w2 done saved=0 fails=3 n=621
+04:56:46 w2 shift i=36 n=621 acc=br_1706784820_OUk7hm
+04:56:53 w2 exc BrowserContext.cookies: Target page, context or browser has been closed
+04:56:54 w0 exc BrowserContext.cookies: Target page, context or browser has been closed
+04:56:56 w2 shift i=48 n=621 acc=br_1706784820_OUk7hm
+04:56:57 w0 shift i=36 n=621 acc=br_1706801030_ydvUxs
+04:57:08 w1 exc BrowserContext.cookies: Target page, context or browser has been closed
+04:57:12 w1 shift i=48 n=621 acc=br_1706785017_CoOHjj
+04:57:42 w2 done saved=0 fails=3 n=621
+04:57:46 w2 shift i=60 n=621 acc=br_1706784820_OUk7hm
+04:58:39 w0 done saved=0 fails=3 n=621
+04:58:44 w0 shift i=48 n=621 acc=br_1706801030_ydvUxs
+04:58:52 w1 done saved=0 fails=3 n=621
+04:58:55 w1 shift i=60 n=621 acc=br_1706785017_CoOHjj
+04:59:28 w2 done saved=0 fails=3 n=621
+04:59:32 w2 shift i=72 n=621 acc=br_1706784820_OUk7hm
+05:00:18 w0 done saved=0 fails=3 n=621
+05:00:21 w0 shift i=60 n=621 acc=br_1706801030_ydvUxs
+05:00:31 w1 done saved=0 fails=3 n=621
+05:00:33 w1 shift i=72 n=621 acc=br_1706785017_CoOHjj
+05:01:04 w2 done saved=0 fails=3 n=621
+05:01:07 w2 shift i=84 n=621 acc=br_1706784820_OUk7hm
+05:01:41 w0 done saved=0 fails=3 n=621
+05:01:44 w0 shift i=72 n=621 acc=br_1706801030_ydvUxs
+05:02:06 w1 done saved=0 fails=3 n=621
+05:02:10 w1 shift i=84 n=621 acc=br_1706785017_CoOHjj
+05:03:06 w0 done saved=0 fails=3 n=621
+05:03:07 w2 done saved=0 fails=3 n=621
+05:03:10 w2 shift i=96 n=621 acc=br_1706784820_OUk7hm
+05:03:11 w0 shift i=84 n=621 acc=br_1706801030_ydvUxs
+05:03:46 w1 done saved=0 fails=3 n=621
+05:03:50 w1 shift i=96 n=621 acc=br_1706785017_CoOHjj
+05:04:33 w2 done saved=0 fails=3 n=621
+05:04:36 w2 shift i=108 n=621 acc=br_1706784820_OUk7hm
+05:05:36 w0 done saved=0 fails=3 n=621
+05:05:40 w0 shift i=96 n=621 acc=br_1706801030_ydvUxs
+05:05:56 w2 exc BrowserContext.cookies: Target page, context or browser has been closed
+05:05:57 w1 exc BrowserContext.cookies: Target page, context or browser has been closed
+05:05:59 w2 shift i=120 n=621 acc=br_1706784820_OUk7hm
+05:06:01 w1 shift i=108 n=621 acc=br_1706785017_CoOHjj
+05:06:13 w0 exc BrowserContext.cookies: Target page, context or browser has been closed
+05:06:16 w0 shift i=108 n=621 acc=br_1706801030_ydvUxs
+05:07:28 w2 done saved=0 fails=3 n=621
+05:07:28 w1 done saved=0 fails=3 n=621
+05:07:30 w2 shift i=132 n=621 acc=br_1706784820_OUk7hm
+05:07:30 w1 shift i=120 n=621 acc=br_1706785017_CoOHjj
+05:07:48 w0 done saved=0 fails=3 n=621
+05:07:52 w0 shift i=120 n=621 acc=br_1706801030_ydvUxs
+05:08:53 w1 done saved=0 fails=3 n=621
+05:08:58 w2 done saved=0 fails=3 n=621
+05:08:59 w1 shift i=132 n=621 acc=br_1706785017_CoOHjj
+05:09:02 w2 shift i=144 n=621 acc=br_1706784820_OUk7hm
+05:09:41 w0 done saved=0 fails=3 n=621
+05:09:44 w0 shift i=132 n=621 acc=br_1706801030_ydvUxs
+05:10:25 w1 done saved=0 fails=3 n=621
+05:10:30 w1 shift i=144 n=621 acc=br_1706785017_CoOHjj
+05:10:31 w2 done saved=0 fails=3 n=621
+05:10:36 w2 shift i=156 n=621 acc=br_1706784820_OUk7hm
+05:11:35 w0 done saved=0 fails=3 n=621
+05:11:37 w0 shift i=144 n=621 acc=br_1706801030_ydvUxs
+05:12:13 w2 done saved=0 fails=3 n=621
+05:12:14 w1 done saved=0 fails=3 n=621
+05:12:18 w2 shift i=168 n=621 acc=br_1706784820_OUk7hm
+05:12:18 w1 shift i=156 n=621 acc=br_1706785017_CoOHjj
+05:13:10 w0 done saved=0 fails=3 n=621
+05:13:13 w0 shift i=156 n=621 acc=br_1706801030_ydvUxs
+05:13:55 w2 done saved=0 fails=3 n=621
+05:13:58 w2 shift i=180 n=621 acc=br_1706784820_OUk7hm
+05:14:02 w2 exc BrowserContext.cookies: Target page, context or browser has been closed
+Browser logs:
+
+<launching> C:\Program Files\Google\Chrome\Application\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-breakpad --no-default-browser-check --disable-dev-shm-usage --disable-edgeupdater --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --disable-hang-monitor --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --disable-blink-features=AutomationControlled --no-sandbox --proxy-server=http://us.1024proxy.io:3000 --proxy-bypass-list=<-loopback> --no-sandbox --disable-dev-shm-usage --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\ADMINI~1\AppData\Local\Temp\2\brw2_42hw9ddj --remote-debugging-pipe about:blank
+<launched> pid=26140
+[pid=26140][err] [26140:15324:0723/051402.161:ERROR:content\browser\network_service_instance_impl.cc:721] Network service crashed or was terminated, restarting service.
+05:14:02 w0 exc BrowserContext.cookies: Target page, context or browser has been closed
+05:14:06 w2 shift i=192 n=621 acc=br_1706784820_OUk7hm
+05:14:07 w0 shift i=168 n=621 acc=br_1706801030_ydvUxs
+05:14:13 w1 exc BrowserContext.cookies: Target page, context or browser has been closed
+05:14:17 w1 shift i=168 n=621 acc=br_1706785017_CoOHjj
+05:15:52 w2 done saved=0 fails=3 n=621
+05:15:55 w2 shift i=204 n=621 acc=br_1706784820_OUk7hm
+05:16:25 w1 done saved=0 fails=3 n=621
+05:16:30 w1 shift i=180 n=621 acc=br_1706785017_CoOHjj
+05:16:56 w0 done saved=0 fails=3 n=621
+05:17:01 w0 shift i=180 n=621 acc=br_1706801030_ydvUxs
+05:17:24 w2 done saved=0 fails=3 n=621
+05:17:28 w2 shift i=216 n=621 acc=br_1706784820_OUk7hm
+05:18:20 w0 done saved=0 fails=3 n=621
+05:18:25 w0 shift i=192 n=621 acc=br_1706801030_ydvUxs
+05:18:27 w1 done saved=0 fails=3 n=621
+05:18:32 w1 shift i=192 n=621 acc=br_1706785017_CoOHjj
+05:19:06 w2 done saved=0 fails=3 n=621
+05:19:10 w2 shift i=228 n=621 acc=br_1706784820_OUk7hm
+05:20:00 w0 done saved=0 fails=3 n=621
+05:20:03 w0 shift i=204 n=621 acc=br_1706801030_ydvUxs
+05:20:13 w1 done saved=0 fails=3 n=621
+05:20:16 w1 shift i=204 n=621 acc=br_1706785017_CoOHjj
+05:20:45 w2 done saved=0 fails=3 n=621
+05:20:49 w2 shift i=240 n=621 acc=br_1706784820_OUk7hm
+05:21:35 w0 done saved=0 fails=3 n=621
+05:21:39 w0 shift i=216 n=621 acc=br_1706801030_ydvUxs
+05:22:00 w1 done saved=0 fails=3 n=621
+05:22:04 w1 shift i=216 n=621 acc=br_1706785017_CoOHjj
+05:22:36 w2 done saved=0 fails=3 n=621
+05:22:38 w2 shift i=252 n=621 acc=br_1706784820_OUk7hm
+05:22:55 w0 done saved=0 fails=3 n=621
+05:23:00 w0 shift i=228 n=621 acc=br_1706801030_ydvUxs
+05:23:43 w1 done saved=0 fails=3 n=621
+05:23:48 w1 shift i=228 n=621 acc=br_1706785017_CoOHjj
+05:24:30 w2 done saved=0 fails=3 n=621
+05:24:34 w2 shift i=264 n=621 acc=br_1706784820_OUk7hm
+05:24:39 w0 done saved=0 fails=3 n=621
+05:24:44 w0 shift i=240 n=621 acc=br_1706801030_ydvUxs
+05:25:30 w1 done saved=0 fails=3 n=621
+05:25:33 w1 shift i=240 n=621 acc=br_1706785017_CoOHjj
+05:25:57 w2 done saved=0 fails=3 n=621
+05:26:02 w2 shift i=276 n=621 acc=br_1706784820_OUk7hm
+05:26:19 w0 done saved=0 fails=3 n=621
+05:26:23 w0 shift i=252 n=621 acc=br_1706801030_ydvUxs
+05:27:12 w1 done saved=0 fails=3 n=621
+05:27:16 w1 shift i=252 n=621 acc=br_1706785017_CoOHjj
+05:27:24 w2 done saved=0 fails=3 n=621
+05:27:28 w2 shift i=288 n=621 acc=br_1706784820_OUk7hm
+05:28:06 w0 done saved=0 fails=3 n=621
+05:28:08 w0 shift i=264 n=621 acc=br_1706801030_ydvUxs
+05:28:55 w1 done saved=0 fails=3 n=621
+05:28:59 w1 shift i=264 n=621 acc=br_1706785017_CoOHjj
+05:29:12 w2 done saved=0 fails=3 n=621
+05:29:16 w2 shift i=300 n=621 acc=br_1706784820_OUk7hm
+05:29:26 w0 done saved=0 fails=3 n=621
+05:29:31 w0 shift i=276 n=621 acc=br_1706801030_ydvUxs
+05:30:40 w1 done saved=0 fails=3 n=621
+05:30:45 w1 shift i=276 n=621 acc=br_1706785017_CoOHjj
+05:30:49 w2 done saved=0 fails=3 n=621
+05:30:54 w2 shift i=312 n=621 acc=br_1706784820_OUk7hm
+05:31:10 w0 done saved=0 fails=3 n=621
+05:31:13 w0 shift i=288 n=621 acc=br_1706801030_ydvUxs
+05:32:24 w1 done saved=0 fails=3 n=621
+05:32:29 w1 shift i=288 n=621 acc=br_1706785017_CoOHjj
+05:32:37 w0 done saved=0 fails=3 n=621
+05:32:40 w0 shift i=300 n=621 acc=br_1706801030_ydvUxs
+05:33:00 w2 done saved=0 fails=3 n=621
+05:33:04 w2 shift i=324 n=621 acc=br_1706784820_OUk7hm
+05:34:15 w1 done saved=0 fails=3 n=621
+05:34:17 w0 done saved=0 fails=3 n=621
+05:34:18 w1 shift i=300 n=621 acc=br_1706785017_CoOHjj
+05:34:22 w0 shift i=312 n=621 acc=br_1706801030_ydvUxs
+05:34:32 w2 done saved=0 fails=3 n=621
+05:34:35 w2 shift i=336 n=621 acc=br_1706784820_OUk7hm
+05:36:00 w1 done saved=0 fails=3 n=621
+05:36:03 w1 shift i=312 n=621 acc=br_1706785017_CoOHjj
+05:36:11 w0 done saved=0 fails=3 n=621
+05:36:14 w0 shift i=324 n=621 acc=br_1706801030_ydvUxs
+05:36:19 w2 done saved=0 fails=3 n=621
+05:36:24 w2 shift i=348 n=621 acc=br_1706784820_OUk7hm
+05:37:31 w1 done saved=0 fails=3 n=621
+05:37:34 w1 shift i=324 n=621 acc=br_1706785017_CoOHjj
+05:37:35 w0 done saved=0 fails=3 n=621
+05:37:38 w0 shift i=336 n=621 acc=br_1706801030_ydvUxs
+05:37:54 w2 done saved=0 fails=3 n=621
+05:37:57 w2 shift i=360 n=621 acc=br_1706784820_OUk7hm
+05:39:10 w1 done saved=0 fails=3 n=621
+05:39:14 w1 shift i=336 n=621 acc=br_1706785017_CoOHjj
+05:39:19 w0 done saved=0 fails=3 n=621
+05:39:22 w0 shift i=348 n=621 acc=br_1706801030_ydvUxs
+05:39:55 w2 done saved=0 fails=3 n=621
+05:39:59 w2 shift i=372 n=621 acc=br_1706784820_OUk7hm
+05:40:46 w1 done saved=0 fails=3 n=621
+05:40:50 w1 shift i=348 n=621 acc=br_1706785017_CoOHjj
+05:41:15 w0 done saved=0 fails=3 n=621
+05:41:18 w0 shift i=360 n=621 acc=br_1706801030_ydvUxs
+05:41:36 w2 done saved=0 fails=3 n=621
+05:41:40 w2 shift i=384 n=621 acc=br_1706784820_OUk7hm
+05:41:53 w0 exc BrowserContext.cookies: Target page, context or browser has been closed
